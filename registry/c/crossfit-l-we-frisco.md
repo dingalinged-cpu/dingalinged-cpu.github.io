@@ -13,7 +13,7 @@ CrossFit Löwe is a CrossFit gym in Frisco, TX at 6975 Main Street, Frisco, TX 7
 - Website: https://www.crossfitlowe.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 34% of CrossFit gyms in Dallas–Fort Worth, #1 of 1 CrossFit gyms in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 34% of CrossFit gyms in Dallas–Fort Worth, #1 of 1 CrossFit gyms in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 67. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

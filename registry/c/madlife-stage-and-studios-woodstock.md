@@ -13,7 +13,7 @@ MadLife Stage & Studios is an event venue in Woodstock, GA at 8722 Main Street, 
 - Website: https://madlifestageandstudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 17:00-21:00; Fr-Sa 17:00-22:00
-- Pulse Score: 63.6/100 — Good — top 13% of event venues in Atlanta, #1 of 4 event venues in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 13% of event venues in Atlanta, #1 of 4 event venues in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

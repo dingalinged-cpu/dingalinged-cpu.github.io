@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Houston, TX at 2732 Eldridge Parkway #D, Ho
 - Website: https://www.ulta.com/stores/houston-tx-1217
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 43.6/100 — Building — top 93% of skin care studios in Houston, #13 of 13 skin care studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 93% of skin care studios in Houston, #13 of 13 skin care studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Mount Pleasant, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.5/100 — Building — top 92% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.5/100 — Building — top 92% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

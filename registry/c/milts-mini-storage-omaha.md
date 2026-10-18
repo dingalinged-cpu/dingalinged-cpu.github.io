@@ -13,7 +13,7 @@ Milt's Mini Storage is a self-storage facility in Omaha, NE at 3320 South 60th S
 - Website: https://miltstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 08:30-12:30
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Omaha, NE, #1 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Omaha, NE, #1 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

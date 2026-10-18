@@ -6,7 +6,7 @@ Also answers: tailor in Mount Pleasant, WI; tailor near me (Mount Pleasant, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DuBois Formalwear | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | DuBois Formalwear is a tailor in Mount Pleasant, WI at 6220 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/dubois-formalwear-mount-pleasant/
+1. DuBois Formalwear | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | DuBois Formalwear is a tailor in Mount Pleasant, WI at 6220 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/dubois-formalwear-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor mount pleasant wi | category: Professional & financial services | industry benchmark: Finance & Insurance

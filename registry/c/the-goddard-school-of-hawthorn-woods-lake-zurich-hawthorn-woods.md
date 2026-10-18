@@ -13,7 +13,7 @@ The Goddard School of Hawthorn Woods (Lake Zurich) is a preschool in Hawthorn Wo
 - Website: https://www.goddardschool.com/Hawthorn-WoodsIL
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 74% of preschools in Chicago, #1 of 1 preschools in Hawthorn Woods (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 75% of preschools in Chicago, #1 of 1 preschools in Hawthorn Woods (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

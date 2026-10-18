@@ -13,12 +13,12 @@ Rent-A-Center is a furniture store in Leavenworth, KS at 2106 South 4th Street, 
 - Website: https://locations.rentacenter.com/kansas/leavenworth/2106-s-4th-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su off
-- Pulse Score: 49.2/100 — Building — top 72% of furniture stores in Kansas City, MO, #1 of 2 furniture stores in Leavenworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 69% of furniture stores in Kansas City, MO, #1 of 2 furniture stores in Leavenworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rent-a-center-leavenworth/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rent-a-center-leavenworth.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/680749518 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/680749518 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ UrgentVet is a veterinarian in Cobb County, GA at 777 Townpark Lane Northwest #1
 - Website: https://urgentvet.com/location/kennesaw-ga/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00
-- Pulse Score: 47.5/100 — Building — top 97% of veterinarians in Atlanta, #18 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 96% of veterinarians in Atlanta, #18 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

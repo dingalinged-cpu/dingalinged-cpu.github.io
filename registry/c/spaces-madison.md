@@ -13,7 +13,7 @@ Spaces is a coworking space in Madison, WI at 811 East Washington Avenue #300;40
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 100% of coworking spaces in Madison, #3 of 3 coworking spaces in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 100% of coworking spaces in Madison, #3 of 3 coworking spaces in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

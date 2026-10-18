@@ -13,7 +13,7 @@ Club Car Wash is a car wash in Denton, TX at 2480 East University Drive, Denton,
 - Website: https://clubcarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 73% of car washes in Dallas–Fort Worth, #12 of 15 car washes in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 71% of car washes in Dallas–Fort Worth, #12 of 15 car washes in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

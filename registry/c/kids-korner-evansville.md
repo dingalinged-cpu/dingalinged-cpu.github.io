@@ -13,7 +13,7 @@ Kids Korner is a daycare in Evansville, WI at 264 Lincoln Street, Evansville, WI
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 22% of daycares in Madison, #1 of 4 daycares in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of daycares in Madison, #1 of 4 daycares in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

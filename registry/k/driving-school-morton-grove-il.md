@@ -6,7 +6,7 @@ Also answers: driving school in Morton Grove, IL; driving school near me (Morton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adams School of Driving | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Adams School of Driving is a driving school in Morton Grove, IL at 6040 West Dempster Street, Morton Grove, IL 60053. | https://registry-edge.dingalinged.workers.dev/c/adams-school-of-driving-morton-grove/
+1. Adams School of Driving | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Adams School of Driving is a driving school in Morton Grove, IL at 6040 West Dempster Street, Morton Grove, IL 60053. | https://registry-edge.dingalinged.workers.dev/c/adams-school-of-driving-morton-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school morton grove il | category: Education & childcare | industry benchmark: Education & Instruction

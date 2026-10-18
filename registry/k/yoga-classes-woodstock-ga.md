@@ -7,7 +7,7 @@ Also answers: yoga classes in Woodstock, GA; yoga classes near me (Woodstock, GA
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ember Hot Yoga | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Ember Hot Yoga is a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/ember-hot-yoga-woodstock/
-2. Amber Celeste | Organic #2 | Pulse Score 60/100 (Good, #2 in city) | Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Woodstock, GA 30189. Phone: +17703655106. | https://registry-edge.dingalinged.workers.dev/c/amber-celeste-woodstock/
+2. Amber Celeste | Organic #2 | Pulse Score 60.1/100 (Good, #2 in city) | Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Woodstock, GA 30189. Phone: +17703655106. | https://registry-edge.dingalinged.workers.dev/c/amber-celeste-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes woodstock ga | category: Fitness | industry benchmark: Health & Fitness

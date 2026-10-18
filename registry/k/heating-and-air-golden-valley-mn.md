@@ -6,7 +6,7 @@ Also answers: heating and air in Golden Valley, MN; heating and air near me (Gol
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flare Heating and Air Conditioning | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Flare Heating and Air Conditioning is a HVAC contractor in Golden Valley, MN at 9303 Plymouth Avenue North #104, Golden Valley, MN 55427. Phone: +17635421166. Website: https://www.flareheating.com/. | https://registry-edge.dingalinged.workers.dev/c/flare-heating-and-air-conditioning-golden-valley/
+1. Flare Heating and Air Conditioning | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Flare Heating and Air Conditioning is a HVAC contractor in Golden Valley, MN at 9303 Plymouth Avenue North #104, Golden Valley, MN 55427. Phone: +17635421166. Website: https://www.flareheating.com/. | https://registry-edge.dingalinged.workers.dev/c/flare-heating-and-air-conditioning-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air golden valley mn | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Brow Art 23 is a skin care studio in Irving, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 40.9/100 — Building — top 100% of skin care studios in Dallas–Fort Worth, #1 of 1 skin care studios in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 40.9/100 — Building — top 100% of skin care studios in Dallas–Fort Worth, #1 of 1 skin care studios in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

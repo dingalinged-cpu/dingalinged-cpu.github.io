@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Barbershop Old Town | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Barbershop Old Town is a barber shop in Lewisville, TX. Phone: +14694644434. Website: https://www.oldtownbarber.shop/. | https://registry-edge.dingalinged.workers.dev/c/barbershop-old-town-lewisville/
 3. A Different Cut Barbershop | Organic #3 | Pulse Score 61.5/100 (Unrated, #3 in city) | A Different Cut Barbershop is a barber shop in Lewisville, TX at 705 South Mill Street #103, Lewisville, TX 75057. Phone: +12147724180. | https://registry-edge.dingalinged.workers.dev/c/a-different-cut-barbershop-lewisville/
 4. GirenDeguchi | Organic #4 | Pulse Score 61/100 (Unrated, #4 in city) | GirenDeguchi is a barber shop in Lewisville, TX. Phone: +12146357291. | https://registry-edge.dingalinged.workers.dev/c/girendeguchi-lewisville/
-5. The Barber Butler | Organic #5 | Pulse Score 59.5/100 (Unrated, #5 in city) | The Barber Butler is a barber shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-barber-butler-lewisville/
+5. The Barber Butler | Organic #5 | Pulse Score 59.4/100 (Unrated, #5 in city) | The Barber Butler is a barber shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/the-barber-butler-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

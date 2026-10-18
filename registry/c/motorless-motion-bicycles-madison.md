@@ -13,7 +13,7 @@ Motorless Motion Bicycles is a bike shop in Madison, WI at 640 West Washington A
 - Website: https://www.motorlessmotionbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa 10:00-18:00; Su 11:00-18:00
-- Pulse Score: 63.8/100 — Good — top 7% of bike shops in Madison, #2 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 7% of bike shops in Madison, #2 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

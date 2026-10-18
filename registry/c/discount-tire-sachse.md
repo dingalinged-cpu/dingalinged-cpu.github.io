@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Sachse, TX at 5440 State Highway 78, Sachse, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 91% of tire shops in Dallas–Fort Worth, #1 of 1 tire shops in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 90% of tire shops in Dallas–Fort Worth, #1 of 1 tire shops in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

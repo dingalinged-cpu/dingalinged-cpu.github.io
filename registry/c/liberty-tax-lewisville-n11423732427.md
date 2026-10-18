@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-22:00; PH closed; Su 11:00-17:00
-- Pulse Score: 46.1/100 — Building — top 61% of tax preparation services in Dallas–Fort Worth, #8 of 9 tax preparation services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 60% of tax preparation services in Dallas–Fort Worth, #8 of 9 tax preparation services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tao Spa is a spa in Alpharetta, GA at 2850 Holcomb Bridge Road #130, Alpharetta,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 100% of spas in Atlanta, #1 of 1 spas in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of spas in Atlanta, #1 of 1 spas in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

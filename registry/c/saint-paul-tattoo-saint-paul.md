@@ -13,7 +13,7 @@ Saint Paul Tattoo is a tattoo shop in Saint Paul, MN at 458 Robert Street South,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-21:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Minneapolis–St. Paul, #2 of 8 tattoo shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Minneapolis–St. Paul, #2 of 8 tattoo shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

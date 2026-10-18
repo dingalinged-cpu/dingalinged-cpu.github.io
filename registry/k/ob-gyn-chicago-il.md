@@ -7,7 +7,7 @@ Also answers: ob gyn in Chicago, IL; ob gyn near me (Chicago, IL); best ob gyn C
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Clark | Organic #1 | Pulse Score 55.7/100 (Unrated, #12 in city) | The Clark is a family medicine practice in Chicago, IL at 5346 North Clark Street, Chicago, IL 60640. Website: https://theclarkmed.com/. | https://registry-edge.dingalinged.workers.dev/c/the-clark-chicago/
-2. John Sengstacke Health Center | Organic #2 | Pulse Score 44.7/100 (Unrated, #16 in city) | John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/. | https://registry-edge.dingalinged.workers.dev/c/john-sengstacke-health-center-chicago/
+2. John Sengstacke Health Center | Organic #2 | Pulse Score 44.8/100 (Unrated, #16 in city) | John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/. | https://registry-edge.dingalinged.workers.dev/c/john-sengstacke-health-center-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons

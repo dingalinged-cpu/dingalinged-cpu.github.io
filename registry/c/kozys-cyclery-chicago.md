@@ -13,7 +13,7 @@ Kozy's Cyclery is a bike shop in Chicago, IL at 3255 North Milwaukee Avenue, Chi
 - Website: https://www.kozy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 50.8/100 — Fair — top 88% of bike shops in Chicago, #63 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.6, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 88% of bike shops in Chicago, #63 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.6, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

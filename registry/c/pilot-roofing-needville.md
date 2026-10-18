@@ -13,7 +13,7 @@ Pilot Roofing is a roofer in Needville, TX at 9006 Main Street, Needville, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 94% of roofers in Houston, #1 of 1 roofers in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 94% of roofers in Houston, #1 of 1 roofers in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

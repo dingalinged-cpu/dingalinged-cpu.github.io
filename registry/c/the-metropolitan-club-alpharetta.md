@@ -13,7 +13,7 @@ The Metropolitan Club is an event venue in Alpharetta, GA at 3895 Windward Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 80% of event venues in Atlanta, #1 of 1 event venues in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 80% of event venues in Atlanta, #1 of 1 event venues in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ PediPlace is a pediatrician in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:30,13:30-17:00; PH closed
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 33% of pediatricians in Dallas–Fort Worth, #2 of 2 pediatricians in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 33% of pediatricians in Dallas–Fort Worth, #2 of 2 pediatricians in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

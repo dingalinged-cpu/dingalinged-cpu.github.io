@@ -13,7 +13,7 @@ Lee Cleaners is a dry cleaner in Denton, TX at 1618 West University Drive, Dento
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 46% of dry cleaners in Dallas–Fort Worth, #6 of 9 dry cleaners in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 44% of dry cleaners in Dallas–Fort Worth, #6 of 9 dry cleaners in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

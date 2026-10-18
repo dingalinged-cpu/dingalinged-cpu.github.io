@@ -13,7 +13,7 @@ touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Al
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr-Sa 09:00-20:00; Su 12:00-18:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of tanning salons in Atlanta, #1 of 1 tanning salons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 29% of tanning salons in Atlanta, #1 of 1 tanning salons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Madison Verona Self Storage is a self-storage facility in Madison, WI at 4201 Ma
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 39% of self-storage facilitys in Madison, #3 of 6 self-storage facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 39% of self-storage facilitys in Madison, #3 of 6 self-storage facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

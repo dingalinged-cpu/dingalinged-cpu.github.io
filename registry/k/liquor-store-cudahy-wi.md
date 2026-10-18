@@ -6,7 +6,7 @@ Also answers: liquor store in Cudahy, WI; liquor store near me (Cudahy, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charlie's Liquor & Tobacco Mart | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Charlie's Liquor & Tobacco Mart is a liquor store in Cudahy, WI at 6143,6145 South Packard Avenue, Cudahy, WI 53110. Phone: +14147689249. Website: https://www.charliesliquor-tobacco.com/. | https://registry-edge.dingalinged.workers.dev/c/charlies-liquor-and-tobacco-mart-cudahy/
+1. Charlie's Liquor & Tobacco Mart | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Charlie's Liquor & Tobacco Mart is a liquor store in Cudahy, WI at 6143,6145 South Packard Avenue, Cudahy, WI 53110. Phone: +14147689249. Website: https://www.charliesliquor-tobacco.com/. | https://registry-edge.dingalinged.workers.dev/c/charlies-liquor-and-tobacco-mart-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store cudahy wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

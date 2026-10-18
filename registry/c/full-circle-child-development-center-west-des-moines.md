@@ -13,7 +13,7 @@ Full Circle Child Development Center is a preschool in West Des Moines, IA at 93
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 17% of preschools in Des Moines, IA, #2 of 14 preschools in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 17% of preschools in Des Moines, IA, #2 of 14 preschools in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

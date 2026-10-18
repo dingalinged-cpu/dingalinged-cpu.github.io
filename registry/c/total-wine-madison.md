@@ -13,7 +13,7 @@ Total Wine is a liquor store in Madison, WI at 400 West Towne Mall, Madison, WI 
 - Website: https://www.totalwine.com/store-info/1902
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-21:00; Su 09:00-19:00
-- Pulse Score: 51.4/100 — Fair — top 98% of liquor stores in Madison, #24 of 25 liquor stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 93% of liquor stores in Madison, #23 of 25 liquor stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

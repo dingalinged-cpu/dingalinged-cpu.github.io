@@ -13,7 +13,7 @@ Cashier's Office is an accountant in Houston, TX. Phone: +17133484946. Website: 
 - Website: https://cashier.rice.edu/
 - Email: cashier@rice.edu
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 56% of accountants in Houston, #6 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 56% of accountants in Houston, #6 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

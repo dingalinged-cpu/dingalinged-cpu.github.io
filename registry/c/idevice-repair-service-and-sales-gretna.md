@@ -13,7 +13,7 @@ iDevice Repair Service & Sales is a phone repair shop in Gretna, NE at 602 North
 - Website: https://www.iphonerepairnebraska.com/
 - Email: info@iphonerepairnebraska.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 100% of phone repair shops in Omaha, NE, #1 of 1 phone repair shops in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of phone repair shops in Omaha, NE, #1 of 1 phone repair shops in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

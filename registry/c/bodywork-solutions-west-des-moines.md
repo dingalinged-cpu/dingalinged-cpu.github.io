@@ -13,7 +13,7 @@ Bodywork Solutions is a massage studio in West Des Moines, IA at 1905 E P True P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 40% of massage studios in Des Moines, IA, #1 of 3 massage studios in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 40% of massage studios in Des Moines, IA, #1 of 3 massage studios in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

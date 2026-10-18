@@ -13,7 +13,7 @@ Kwik Trip Car Wash is a car wash in Blaine, MN. Website: https://www.kwiktrip.co
 - Website: https://www.kwiktrip.com/locator/store?id=896
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Building — top 42% of car washes in Minneapolis–St. Paul, #2 of 5 car washes in Blaine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 42% of car washes in Minneapolis–St. Paul, #2 of 5 car washes in Blaine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

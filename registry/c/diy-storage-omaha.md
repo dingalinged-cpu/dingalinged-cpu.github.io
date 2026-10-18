@@ -13,7 +13,7 @@ DIY Storage is a self-storage facility in Omaha, NE at 5303 North 180th Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 35% of self-storage facilitys in Omaha, NE, #8 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 35% of self-storage facilitys in Omaha, NE, #8 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

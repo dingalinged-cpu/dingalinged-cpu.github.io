@@ -6,7 +6,7 @@ Also answers: it support in Chamblee, GA; it support near me (Chamblee, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Relevant Data Technologies | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Relevant Data Technologies is an IT support company in Chamblee, GA at 3700 Longview Drive #150, Chamblee, GA 30341. Phone: +17706747557. Website: https://relevantdatatech.com/. | https://registry-edge.dingalinged.workers.dev/c/relevant-data-technologies-chamblee/
+1. Relevant Data Technologies | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Relevant Data Technologies is an IT support company in Chamblee, GA at 3700 Longview Drive #150, Chamblee, GA 30341. Phone: +17706747557. Website: https://relevantdatatech.com/. | https://registry-edge.dingalinged.workers.dev/c/relevant-data-technologies-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support chamblee ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

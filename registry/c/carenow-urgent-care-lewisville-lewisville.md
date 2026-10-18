@@ -13,7 +13,7 @@ CareNow Urgent Care - Lewisville is a family medicine practice in Lewisville, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su 08:00-17:00
-- Pulse Score: 58.9/100 — Fair — top 41% of family medicine practices in Dallas–Fort Worth, #6 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Fair — top 41% of family medicine practices in Dallas–Fort Worth, #6 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

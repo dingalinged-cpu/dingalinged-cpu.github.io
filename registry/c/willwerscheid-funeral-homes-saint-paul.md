@@ -13,7 +13,7 @@ Willwerscheid Funeral Homes is a funeral home in Saint Paul, MN at 1167 Grand Av
 - Website: https://willwerscheid.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of funeral homes in Minneapolis–St. Paul, #3 of 8 funeral homes in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of funeral homes in Minneapolis–St. Paul, #3 of 8 funeral homes in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

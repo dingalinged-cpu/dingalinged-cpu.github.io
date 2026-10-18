@@ -13,7 +13,7 @@ Champlin Tire is a tire shop in Omaha, NE at 3215 South 66th Avenue Circle, Omah
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 20% of tire shops in Omaha, NE, #2 of 8 tire shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of tire shops in Omaha, NE, #2 of 8 tire shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

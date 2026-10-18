@@ -13,7 +13,7 @@ Bittersweet Pastry Shop is a bakery in Chicago, IL at 2019 South Laflin Street, 
 - Website: https://bittersweetpastry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 52.7/100 — Fair — top 89% of bakerys in Chicago, #306 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.2, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.7/100 — Fair — top 89% of bakerys in Chicago, #305 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.2, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

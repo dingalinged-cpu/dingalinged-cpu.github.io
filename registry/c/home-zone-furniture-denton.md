@@ -13,7 +13,7 @@ Home Zone Furniture is a furniture store in Denton, TX at 600 North Loop 288, De
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 69% of furniture stores in Dallas–Fort Worth, #3 of 5 furniture stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 68% of furniture stores in Dallas–Fort Worth, #2 of 5 furniture stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

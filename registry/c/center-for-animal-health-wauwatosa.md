@@ -13,7 +13,7 @@ Center for Animal Health is a veterinarian in Wauwatosa, WI at 827 North 68th St
 - Website: https://centerforanimalhealth.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-16:00; Tu-Th 08:00-19:00; Fr 08:00-14:00; Sa 09:00-13:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of veterinarians in Milwaukee, #2 of 4 veterinarians in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of veterinarians in Milwaukee, #2 of 4 veterinarians in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

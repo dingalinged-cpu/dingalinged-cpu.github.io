@@ -13,7 +13,7 @@ Kupkakerie is a bakery in East Point, GA at 2781 Main Street, East Point, GA 303
 - Website: https://kupcakerie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 12:00-18:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 37% of bakerys in Atlanta, #1 of 2 bakerys in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 36% of bakerys in Atlanta, #1 of 2 bakerys in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

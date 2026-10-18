@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Hammond, IN at 6425 Columbia Avenue, Hammo
 - Website: https://locations.rentacenter.com/indiana/hammond/6425-columbia-avenue/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 68% of furniture stores in Chicago, #2 of 2 furniture stores in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 66% of furniture stores in Chicago, #2 of 2 furniture stores in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: assisted living in Roseville, MN; assisted living near me (Rosevil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Preserve of Roseville | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Preserve of Roseville is an assisted living facility in Roseville, MN. Phone: +18003852527. | https://registry-edge.dingalinged.workers.dev/c/preserve-of-roseville-roseville/
+1. Preserve of Roseville | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Preserve of Roseville is an assisted living facility in Roseville, MN. Phone: +18003852527. | https://registry-edge.dingalinged.workers.dev/c/preserve-of-roseville-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living roseville mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

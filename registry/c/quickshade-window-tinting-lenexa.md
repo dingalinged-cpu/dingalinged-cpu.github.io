@@ -19,6 +19,6 @@ QuickShade Window Tinting is an auto repair shop in Lenexa, KS at 14014 West 107
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/quickshade-window-tinting-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quickshade-window-tinting-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13516494048 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13516494048 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

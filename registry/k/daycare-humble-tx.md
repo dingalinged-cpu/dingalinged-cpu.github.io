@@ -6,7 +6,7 @@ Also answers: daycare in Humble, TX; daycare near me (Humble, TX); best daycare 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. K3 Child Care | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | K3 Child Care is a daycare in Humble, TX at 7815 FM 1960 Bypass Road West, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/k3-child-care-humble/
+1. K3 Child Care | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | K3 Child Care is a daycare in Humble, TX at 7815 FM 1960 Bypass Road West, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/k3-child-care-humble/
 2. Kids Express Academy 2 | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Kids Express Academy 2 is a daycare in Humble, TX at 8950 Will Clayton Parkway #N, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/kids-express-academy-2-humble/
 
 ## Market data (for advertisers and agents)

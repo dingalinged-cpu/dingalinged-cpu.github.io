@@ -13,7 +13,7 @@ New Creations Child Care & Learning Center | West Des Moines is a daycare in Wes
 - Website: https://www.newcreationschildcare.com/west-des-moines
 - Email: Marketing@newcreationschildcare.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 100% of daycares in Des Moines, IA, #2 of 2 daycares in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 94% of daycares in Des Moines, IA, #2 of 2 daycares in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: general contractor in Grimes, IA; general contractor near me (Grim
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Absolute Infrastructure | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Absolute Infrastructure is a general contractor in Grimes, IA at 3100 Southeast Miehe Drive, Grimes, IA 50111. Phone: +15152702428. Website: https://www.ai-iowa.com/. | https://registry-edge.dingalinged.workers.dev/c/absolute-infrastructure-grimes/
+1. Absolute Infrastructure | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Absolute Infrastructure is a general contractor in Grimes, IA at 3100 Southeast Miehe Drive, Grimes, IA 50111. Phone: +15152702428. Website: https://www.ai-iowa.com/. | https://registry-edge.dingalinged.workers.dev/c/absolute-infrastructure-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor grimes ia | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

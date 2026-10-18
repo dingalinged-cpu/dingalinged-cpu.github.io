@@ -13,7 +13,7 @@ Traditions Children's Center IV is a preschool in Clive, IA. Website: https://ww
 - Website: https://www.traditionschildrenscenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 60% of preschools in Des Moines, IA, #4 of 7 preschools in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 60% of preschools in Des Moines, IA, #4 of 7 preschools in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: shoe repair in Liberty, MO; shoe repair near me (Liberty, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mace Shoe Repair | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Mace Shoe Repair is a shoe repair in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/mace-shoe-repair-liberty/
+1. Mace Shoe Repair | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Mace Shoe Repair is a shoe repair in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/mace-shoe-repair-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair liberty mo | category: Professional & financial services | industry benchmark: Finance & Insurance

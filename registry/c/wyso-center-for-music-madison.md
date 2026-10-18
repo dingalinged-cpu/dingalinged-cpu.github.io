@@ -13,7 +13,7 @@ WYSO Center For Music is a music school in Madison, WI at 1118 E Washington Ave.
 - Website: https://wysomusic.org/
 - Email: wyso@wysomusic.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Good — top 34% of music schools in Madison, #1 of 3 music schools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 34% of music schools in Madison, #1 of 3 music schools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

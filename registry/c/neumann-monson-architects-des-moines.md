@@ -13,7 +13,7 @@ Neumann Monson Architects is an architect in Des Moines, IA at 111 East Grand Av
 - Website: https://neumannmonson.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 19% of architects in Des Moines, IA, #2 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 19% of architects in Des Moines, IA, #2 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ SEO Buzz Internet Marketing is a marketing agency in Katy, TX at 565 South Mason
 - Website: https://www.seobuzzinternetmarketing.com/
 - Email: info@seobuzzim.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.7/100 — Good — top 34% of marketing agencys in Houston, #1 of 1 marketing agencys in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 34% of marketing agencys in Houston, #1 of 1 marketing agencys in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

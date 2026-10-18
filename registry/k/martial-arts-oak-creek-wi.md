@@ -6,9 +6,9 @@ Also answers: martial arts in Oak Creek, WI; martial arts near me (Oak Creek, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ascension Martial Arts | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Ascension Martial Arts is a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/. | https://registry-edge.dingalinged.workers.dev/c/ascension-martial-arts-oak-creek/
+1. Ascension Martial Arts | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Ascension Martial Arts is a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/. | https://registry-edge.dingalinged.workers.dev/c/ascension-martial-arts-oak-creek/
 2. Nova Gyms Martial Arts & Fitness | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Nova Gyms Martial Arts & Fitness is a martial arts school in Oak Creek, WI at 6508 South 27th Street, Oak Creek, WI 53154. Phone: +14143014133. Website: https://www.novagyms.com/. | https://registry-edge.dingalinged.workers.dev/c/nova-gyms-martial-arts-and-fitness-oak-creek/
-3. Championship Martial Arts | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Championship Martial Arts is a martial arts school in Oak Creek, WI at 8641 South Howell Avenue, Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/championship-martial-arts-oak-creek/
+3. Championship Martial Arts | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Championship Martial Arts is a martial arts school in Oak Creek, WI at 8641 South Howell Avenue, Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/championship-martial-arts-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts oak creek wi | category: Fitness | industry benchmark: Health & Fitness

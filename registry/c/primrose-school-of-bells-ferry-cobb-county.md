@@ -13,7 +13,7 @@ Primrose School of Bells Ferry is a preschool in Cobb County, GA at 175 Hawkins 
 - Website: https://www.primroseschools.com/schools/bells-ferry
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 61.9/100 — Good — top 13% of preschools in Atlanta, #2 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 12% of preschools in Atlanta, #2 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

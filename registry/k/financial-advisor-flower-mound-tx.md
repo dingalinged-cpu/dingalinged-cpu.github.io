@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. GSD Wealth Management | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | GSD Wealth Management is a financial advisor in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/gsd-wealth-management-flower-mound/
 2. Edward Jones | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 2913 Corporate Circle #200, Flower Mound, TX. Phone: +19723550918. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-flower-mound/
 3. Edward Jones | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 2604 Long Prairie Road #200, Flower Mound, TX. Phone: +14699930344. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-flower-mound-n13836480299/
-4. Edward Jones | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 4491 Long Prairie Road #500, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-flower-mound-n13806510368/
+4. Edward Jones | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 4491 Long Prairie Road #500, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-flower-mound-n13806510368/
 5. Edward Jones | Organic #5 | Pulse Score 44.1/100 (Building, #5 in city) | Edward Jones is a financial advisor in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-flower-mound-n13462948144/
 
 ## Market data (for advertisers and agents)

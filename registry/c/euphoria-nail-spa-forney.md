@@ -13,7 +13,7 @@ Euphoria Nail Spa is a nail salon in Forney, TX at 724 East US Highway 80 #120, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 42% of nail salons in Dallas–Fort Worth, #2 of 3 nail salons in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 38% of nail salons in Dallas–Fort Worth, #2 of 3 nail salons in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

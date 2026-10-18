@@ -13,7 +13,7 @@ Choice Carwash is a car wash in Marietta, GA at 1813 Addison Road Northeast, Mar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 9% of car washes in Atlanta, #3 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 9% of car washes in Atlanta, #3 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

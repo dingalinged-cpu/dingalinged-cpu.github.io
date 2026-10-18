@@ -13,7 +13,7 @@ Ideal Dental is a dentist in Houston, TX at 2550 Citywest Boulevard #400, Housto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 90% of dentists in Houston, #155 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 89% of dentists in Houston, #154 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

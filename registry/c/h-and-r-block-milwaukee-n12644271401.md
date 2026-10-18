@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Milwaukee, WI at 6901 West Capitol Dri
 - Website: https://www.hrblock.com/local-tax-offices/wisconsin/milwaukee/6901-w-capitol-dr/46974/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 49.4/100 — Building — top 40% of tax preparation services in Milwaukee, #10 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 40% of tax preparation services in Milwaukee, #10 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

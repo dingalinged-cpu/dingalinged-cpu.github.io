@@ -13,7 +13,7 @@ Chuck & Don's is a pet store in Eden Prairie, MN at 8022 Den Road, Eden Prairie,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 88% of pet stores in Minneapolis–St. Paul, #3 of 3 pet stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 86% of pet stores in Minneapolis–St. Paul, #3 of 3 pet stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

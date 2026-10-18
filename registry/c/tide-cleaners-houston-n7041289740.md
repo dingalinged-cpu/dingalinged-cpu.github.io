@@ -13,7 +13,7 @@ Tide Cleaners is a dry cleaner in Houston, TX at 2432 West Holcombe Boulevard, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 81% of dry cleaners in Houston, #62 of 69 dry cleaners in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 80% of dry cleaners in Houston, #62 of 69 dry cleaners in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

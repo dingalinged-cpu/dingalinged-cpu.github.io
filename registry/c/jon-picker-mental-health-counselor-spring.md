@@ -13,7 +13,7 @@ Jon Picker Mental Health Counselor is a therapy practice in Spring, TX at 326 1/
 - Website: https://oldtownspringshopping.com/directories/jon-picker-lpc-mental-health-counselor
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 42% of therapy practices in Houston, #2 of 3 therapy practices in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 42% of therapy practices in Houston, #2 of 3 therapy practices in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

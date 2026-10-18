@@ -13,7 +13,7 @@ Lovisa is a jewelry store in Wauwatosa, WI. Phone: +14142695217. Website: https:
 - Website: https://www.lovisa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 11:00-18:00
-- Pulse Score: 47.6/100 — Building — top 88% of jewelry stores in Milwaukee, #6 of 8 jewelry stores in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 88% of jewelry stores in Milwaukee, #6 of 8 jewelry stores in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

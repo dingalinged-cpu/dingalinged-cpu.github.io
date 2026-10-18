@@ -13,7 +13,7 @@ Indy Enterprise Group Inc. is a window repair service in Gary, IN. Phone: +12198
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 40% of window repair services in Chicago, #1 of 2 window repair services in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of window repair services in Chicago, #1 of 2 window repair services in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

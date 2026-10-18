@@ -13,7 +13,7 @@ WASIO Photography is a photographer in Chicago, IL at 3318 West Wilson Avenue, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 59% of photographers in Chicago, #8 of 9 photographers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 59% of photographers in Chicago, #8 of 9 photographers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

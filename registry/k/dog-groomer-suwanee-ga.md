@@ -6,7 +6,7 @@ Also answers: dog groomer in Suwanee, GA; dog groomer near me (Suwanee, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woof Gang Bakery & Grooming | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Woof Gang Bakery & Grooming is a dog groomer in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/woof-gang-bakery-and-grooming-suwanee/
+1. Woof Gang Bakery & Grooming | Organic #1 | Pulse Score 41.3/100 (Unrated, #1 in city) | Woof Gang Bakery & Grooming is a dog groomer in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/woof-gang-bakery-and-grooming-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer suwanee ga | category: Pets | industry benchmark: Animals & Pets

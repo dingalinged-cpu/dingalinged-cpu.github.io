@@ -19,6 +19,6 @@ A Store Named Stuff is a gift shop in Kansas City, MO at 316 West 63rd Street, K
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-store-named-stuff-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-store-named-stuff-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9875689728 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9875689728 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

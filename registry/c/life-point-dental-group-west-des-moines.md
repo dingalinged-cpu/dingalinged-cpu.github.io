@@ -13,7 +13,7 @@ Life Point Dental Group is a dentist in West Des Moines, IA at 1903 E P True Par
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 38% of dentists in Des Moines, IA, #4 of 15 dentists in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 33% of dentists in Des Moines, IA, #4 of 15 dentists in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

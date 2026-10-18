@@ -13,7 +13,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Solana Nail Spa | Organic #5 | Pulse Score 56.2/100 (Unrated, #5 in city) | Solana Nail Spa is a nail salon in Eden Prairie, MN at 8258 Commonwealth Drive, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/solana-nail-spa-eden-prairie/
 6. Venice Nail Spa | Organic #6 | Pulse Score 56.2/100 (Unrated, #6 in city) | Venice Nail Spa is a nail salon in Eden Prairie, MN at 6211 Dell Road, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/venice-nail-spa-eden-prairie/
 7. Mitchell Nail & Spa | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Mitchell Nail & Spa is a nail salon in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/mitchell-nail-and-spa-eden-prairie/
-8. Daisy Nails | Organic #8 | Pulse Score 45.6/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-bloomington/
+8. Daisy Nails | Organic #8 | Pulse Score 44.5/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

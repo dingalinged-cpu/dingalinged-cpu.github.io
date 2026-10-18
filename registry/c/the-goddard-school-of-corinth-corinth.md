@@ -13,7 +13,7 @@ The Goddard School of Corinth is a preschool in Corinth, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 87% of preschools in Dallas–Fort Worth, #2 of 2 preschools in Corinth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 87% of preschools in Dallas–Fort Worth, #2 of 2 preschools in Corinth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

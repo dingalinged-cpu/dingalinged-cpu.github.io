@@ -8,14 +8,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Randie's Service Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Randie's Service Center is an auto repair shop in Norcross, GA at Chamblee Tucker Road, Norcross, GA. | https://registry-edge.dingalinged.workers.dev/c/randies-service-center-norcross/
 2. mad dog | Organic #2 | Pulse Score 57.3/100 (Unrated, #1 in city) | mad dog is an auto repair shop in Tucker, GA at 1608 Camelot Circle, Tucker, GA 30084. | https://registry-edge.dingalinged.workers.dev/c/mad-dog-tucker/
-3. Xpress Lube | Organic #3 | Pulse Score 57.3/100 (Unrated, #2 in city) | Xpress Lube is an auto repair shop in Tucker, GA at Hugh Howell Road, Tucker, GA 30084. | https://registry-edge.dingalinged.workers.dev/c/xpress-lube-tucker/
-4. TS1 | Organic #4 | Pulse Score 55.4/100 (Unrated, #3 in city) | TS1 is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/ts1-tucker/
-5. America Auto Body | Organic #5 | Pulse Score 54.9/100 (Unrated, #4 in city) | America Auto Body is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/america-auto-body-tucker/
-6. B&E Auto Service | Organic #6 | Pulse Score 54.9/100 (Unrated, #5 in city) | B&E Auto Service is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/b-and-e-auto-service-tucker/
-7. DeKalb Tire | Organic #7 | Pulse Score 54.9/100 (Unrated, #6 in city) | DeKalb Tire is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/dekalb-tire-tucker/
-8. T&C Collision Center | Organic #8 | Pulse Score 54.9/100 (Unrated, #7 in city) | T&C Collision Center is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/t-and-c-collision-center-tucker/
-9. Tucker Custom & Body | Organic #9 | Pulse Score 54.9/100 (Unrated, #8 in city) | Tucker Custom & Body is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/tucker-custom-and-body-tucker/
-10. Crash Champions | Organic #10 | Pulse Score 47/100 (Building, #9 in city) | Crash Champions is an auto repair shop in Tucker, GA. Phone: +17705808517. Website: https://crashchampions.com/locations/crash-champions-tucker. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-tucker/
+3. TS1 | Organic #3 | Pulse Score 55.4/100 (Unrated, #2 in city) | TS1 is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/ts1-tucker/
+4. America Auto Body | Organic #4 | Pulse Score 54.9/100 (Unrated, #3 in city) | America Auto Body is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/america-auto-body-tucker/
+5. B&E Auto Service | Organic #5 | Pulse Score 54.9/100 (Unrated, #4 in city) | B&E Auto Service is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/b-and-e-auto-service-tucker/
+6. DeKalb Tire | Organic #6 | Pulse Score 54.9/100 (Unrated, #5 in city) | DeKalb Tire is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/dekalb-tire-tucker/
+7. T&C Collision Center | Organic #7 | Pulse Score 54.9/100 (Unrated, #6 in city) | T&C Collision Center is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/t-and-c-collision-center-tucker/
+8. Tucker Custom & Body | Organic #8 | Pulse Score 54.9/100 (Unrated, #7 in city) | Tucker Custom & Body is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/tucker-custom-and-body-tucker/
+9. Crash Champions | Organic #9 | Pulse Score 47/100 (Building, #8 in city) | Crash Champions is an auto repair shop in Tucker, GA. Phone: +17705808517. Website: https://crashchampions.com/locations/crash-champions-tucker. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-tucker/
+10. Xpress Lube | Organic #10 | Pulse Score 44.6/100 (Unrated, #9 in city) | Xpress Lube is an auto repair shop in Tucker, GA at Hugh Howell Road, Tucker, GA 30084. | https://registry-edge.dingalinged.workers.dev/c/xpress-lube-tucker/
 11. Firestone | Organic #11 | Pulse Score 42.7/100 (Building, #10 in city) | Firestone is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/firestone-tucker/
 12. Jiffy Lube | Organic #12 | Pulse Score 42.4/100 (Building, #11 in city) | Jiffy Lube is an auto repair shop in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-tucker/
 

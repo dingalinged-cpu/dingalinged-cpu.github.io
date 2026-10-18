@@ -13,7 +13,7 @@ Mustard Seed Chicago is a therapy practice in Chicago, IL at 507 West North Aven
 - Website: https://mustardseedchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 49% of therapy practices in Chicago, #18 of 33 therapy practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 49% of therapy practices in Chicago, #18 of 33 therapy practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

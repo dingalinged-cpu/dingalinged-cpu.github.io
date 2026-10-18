@@ -13,7 +13,7 @@ AÉNL Agency is a marketing agency in Plano, TX at 5830 Granite Parkway #100-301
 - Website: https://aenlagency.co/
 - Email: contact@aenlagency.co
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 63.9/100 — Good — top 4% of marketing agencys in Dallas–Fort Worth, #1 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 4% of marketing agencys in Dallas–Fort Worth, #1 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

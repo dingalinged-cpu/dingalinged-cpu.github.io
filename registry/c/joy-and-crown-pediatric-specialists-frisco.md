@@ -13,7 +13,7 @@ Joy & Crown Pediatric Specialists is a pediatrician in Frisco, TX at 7002 Lebano
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 39% of pediatricians in Dallas–Fort Worth, #1 of 2 pediatricians in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 39% of pediatricians in Dallas–Fort Worth, #1 of 2 pediatricians in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

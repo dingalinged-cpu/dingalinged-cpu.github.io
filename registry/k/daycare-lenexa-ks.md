@@ -6,9 +6,9 @@ Also answers: daycare in Lenexa, KS; daycare near me (Lenexa, KS); best daycare 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddi Kollege | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Kiddi Kollege is a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/. | https://registry-edge.dingalinged.workers.dev/c/kiddi-kollege-lenexa/
-2. The Whole Child Development Center | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | The Whole Child Development Center is a daycare in Lenexa, KS at 9740 Rosehill Road, Lenexa, KS 66215. Website: https://www.wholechilddevelopmentcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/the-whole-child-development-center-lenexa/
-3. Country Kids Day Care of Lenexa | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Country Kids Day Care of Lenexa is a daycare in Lenexa, KS at 8745 Bourgade Avenue, Lenexa, KS 66219. | https://registry-edge.dingalinged.workers.dev/c/country-kids-day-care-of-lenexa-lenexa/
+1. Kiddi Kollege | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Kiddi Kollege is a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/. | https://registry-edge.dingalinged.workers.dev/c/kiddi-kollege-lenexa/
+2. Country Kids Day Care of Lenexa | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Country Kids Day Care of Lenexa is a daycare in Lenexa, KS at 8745 Bourgade Avenue, Lenexa, KS 66219. | https://registry-edge.dingalinged.workers.dev/c/country-kids-day-care-of-lenexa-lenexa/
+3. Rise Above Early Learning Center | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Rise Above Early Learning Center is a daycare in Lenexa, KS at 9740 Rosehill Road, Lenexa, KS 66215. | https://registry-edge.dingalinged.workers.dev/c/the-whole-child-development-center-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare lenexa ks | category: Education & childcare | industry benchmark: Education & Instruction

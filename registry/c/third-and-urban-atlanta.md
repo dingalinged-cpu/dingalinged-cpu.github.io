@@ -13,7 +13,7 @@ Third & Urban is an architect in Atlanta, GA at 1831 Peachtree Street Northeast 
 - Website: https://thirdandurban.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 70% of architects in Atlanta, #8 of 8 architects in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 70% of architects in Atlanta, #8 of 8 architects in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

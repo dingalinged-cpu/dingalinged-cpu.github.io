@@ -13,7 +13,7 @@ Sudz Express Car Wash is a car wash in Chicago, IL at 4607 West Fullerton Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 14% of car washes in Chicago, #16 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 13% of car washes in Chicago, #13 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

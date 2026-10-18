@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in The Colony, TX at 5601 State Highway 121 #6
 - Website: https://www.mattressfirm.com/en-us/stores/tx/the-colony/002141/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Fair — top 34% of mattress stores in Dallas–Fort Worth, #1 of 1 mattress stores in The Colony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 32% of mattress stores in Dallas–Fort Worth, #1 of 1 mattress stores in The Colony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

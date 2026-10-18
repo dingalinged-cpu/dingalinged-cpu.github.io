@@ -13,7 +13,7 @@ HairMasters is a hair salon in Omaha, NE at 3105 North 108th Street, Omaha, NE 6
 - Website: https://www.hairmasterssalon.com/salondetail/default.asp?salonid=60930
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00, Sa 09:00-17:00, Su 12:00-16:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Omaha, NE, #3 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Omaha, NE, #3 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

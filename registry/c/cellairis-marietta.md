@@ -13,7 +13,7 @@ Cellairis is a phone repair shop in Marietta, GA at 1255 Johnson Ferry Road Nort
 - Website: https://www.cellairis.com/stores/shux-marietta-iphone-repair
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 11:00-19:00
-- Pulse Score: 50.5/100 — Fair — top 46% of phone repair shops in Atlanta, #1 of 2 phone repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 46% of phone repair shops in Atlanta, #1 of 2 phone repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

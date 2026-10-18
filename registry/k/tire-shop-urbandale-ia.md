@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for Urbandale, IA is Wingfoot Tire Service (a tire shop in Urbandale, IA at 11957 Douglas Avenue, Urbandale, IA 50323). 3 tire shop businesses are listed for Urbandale, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Urbandale, IA is Discount Tire (a tire shop in Urbandale, IA at 4300 Merle Hay Road, Urbandale, IA 50322. Phone: +15156356085). 3 tire shop businesses are listed for Urbandale, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Urbandale, IA?
 
@@ -6,9 +6,9 @@ Also answers: tire shop in Urbandale, IA; tire shop near me (Urbandale, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wingfoot Tire Service | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Wingfoot Tire Service is a tire shop in Urbandale, IA at 11957 Douglas Avenue, Urbandale, IA 50323. | https://registry-edge.dingalinged.workers.dev/c/wingfoot-tire-service-urbandale/
-2. Discount Tire | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Discount Tire is a tire shop in Urbandale, IA at 4300 Merle Hay Road, Urbandale, IA 50322. Phone: +15156356085. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-urbandale/
-3. Big O Tires | Organic #3 | Pulse Score 43.7/100 (Building, #3 in city) | Big O Tires is a tire shop in Urbandale, IA at 3880 Northwest Urbandale Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-urbandale/
+1. Discount Tire | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Discount Tire is a tire shop in Urbandale, IA at 4300 Merle Hay Road, Urbandale, IA 50322. Phone: +15156356085. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-urbandale/
+2. Big O Tires | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Big O Tires is a tire shop in Urbandale, IA at 3880 Northwest Urbandale Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-urbandale/
+3. Wingfoot Tire Service | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Wingfoot Tire Service is a tire shop in Urbandale, IA at 11957 Douglas Avenue, Urbandale, IA 50323. | https://registry-edge.dingalinged.workers.dev/c/wingfoot-tire-service-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop urbandale ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

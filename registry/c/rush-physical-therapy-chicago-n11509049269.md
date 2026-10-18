@@ -13,7 +13,7 @@ RUSH Physical Therapy is a physical therapy clinic in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 79% of physical therapy clinics in Chicago, #46 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 79% of physical therapy clinics in Chicago, #46 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Niles, IL at 7311 North Melvina Avenue, Nil
 - Website: https://www.costco.com/warehouse-locations/niles-il-383.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 50% of tire shops in Chicago, #1 of 2 tire shops in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 48% of tire shops in Chicago, #1 of 2 tire shops in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

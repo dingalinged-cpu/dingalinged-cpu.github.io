@@ -13,7 +13,7 @@ Milan Laser Hair Removal is a dermatologist in Chicago, IL at 2659 North Elston 
 - Website: https://milanlaser.com/locations/il/chicago/2659-north-elston-ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 100% of dermatologists in Chicago, #5 of 5 dermatologists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 100% of dermatologists in Chicago, #5 of 5 dermatologists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

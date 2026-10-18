@@ -13,7 +13,7 @@ Mic Drop Comedy is an event venue in Plano, TX at 7301 Lone Star Drive #A-110, P
 - Website: https://www.micdropcomedyplano.com/
 - Email: infotx@micdropcomedy.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 8% of event venues in Dallas–Fort Worth, #1 of 4 event venues in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of event venues in Dallas–Fort Worth, #1 of 4 event venues in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

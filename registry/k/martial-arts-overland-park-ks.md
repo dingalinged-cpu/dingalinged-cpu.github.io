@@ -6,8 +6,8 @@ Also answers: martial arts in Overland Park, KS; martial arts near me (Overland 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ko's Black Belt Academy | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Ko's Black Belt Academy is a martial arts school in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/kos-black-belt-academy-overland-park/
-2. Tiger-Rock | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Tiger-Rock is a martial arts school in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/tiger-rock-overland-park/
+1. Ko's Black Belt Academy | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Ko's Black Belt Academy is a martial arts school in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/kos-black-belt-academy-overland-park/
+2. Tiger-Rock | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Tiger-Rock is a martial arts school in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/tiger-rock-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts overland park ks | category: Fitness | industry benchmark: Health & Fitness

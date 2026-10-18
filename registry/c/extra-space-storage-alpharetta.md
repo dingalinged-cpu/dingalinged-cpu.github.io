@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Alpharetta, GA at 2860 Holcomb
 - Website: https://www.extraspace.com/storage/facilities/us/georgia/alpharetta/500888/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00, Sa 09:00-17:30 open "Office and Gate"; Mo-Su 06:00-22:00 open "Storage Gate"
-- Pulse Score: 49.2/100 — Building — top 29% of self-storage facilitys in Atlanta, #1 of 4 self-storage facilitys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 27% of self-storage facilitys in Atlanta, #1 of 4 self-storage facilitys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

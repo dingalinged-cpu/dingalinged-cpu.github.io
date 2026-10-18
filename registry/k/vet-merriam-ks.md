@@ -6,7 +6,7 @@ Also answers: vet in Merriam, KS; vet near me (Merriam, KS); best vet Merriam, K
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Banfield Pet Hospital | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Banfield Pet Hospital is a veterinarian in Merriam, KS. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-merriam/
+1. Banfield Pet Hospital | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Banfield Pet Hospital is a veterinarian in Merriam, KS. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-merriam/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet merriam ks | category: Pets | industry benchmark: Animals & Pets

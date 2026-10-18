@@ -13,7 +13,7 @@ Baker Square Barber Shop is a hair salon in Omaha, NE at 2932 South 132nd Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 18% of hair salons in Omaha, NE, #11 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Omaha, NE, #11 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

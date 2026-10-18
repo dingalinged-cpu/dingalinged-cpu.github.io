@@ -6,8 +6,8 @@ Also answers: therapist in Overland Park, KS; therapist near me (Overland Park, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Responsive Centers | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Responsive Centers is a therapy practice in Overland Park, KS at 7501 College Boulevard #250, Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/responsive-centers-overland-park/
-2. Planned Parenthood | Organic #2 | Pulse Score 44.3/100 (Unrated, #2 in city) | Planned Parenthood is a therapy practice in Overland Park, KS at 4401 West 109th Street, Overland Park, KS 66211. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-overland-park/
+1. Responsive Centers | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Responsive Centers is a therapy practice in Overland Park, KS at 7501 College Boulevard #250, Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/responsive-centers-overland-park/
+2. Planned Parenthood | Organic #2 | Pulse Score 44.4/100 (Unrated, #2 in city) | Planned Parenthood is a therapy practice in Overland Park, KS at 4401 West 109th Street, Overland Park, KS 66211. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist overland park ks | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

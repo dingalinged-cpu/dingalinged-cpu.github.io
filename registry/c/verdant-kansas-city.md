@@ -19,6 +19,6 @@ Verdant is a gift shop in Kansas City, MO at 128 West 18th Street, Kansas City, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/verdant-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/verdant-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10220962758 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10220962758 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

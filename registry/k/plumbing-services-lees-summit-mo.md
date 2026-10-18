@@ -6,7 +6,7 @@ Also answers: plumbing services in Lee'S Summit, MO; plumbing services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bill Fry the Plumbing Guy | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Bill Fry the Plumbing Guy is a plumber in Lee's Summit, MO at 2603 Northeast Hagen Road, Lee's Summit, MO 64064. Phone: +18168282455. Website: https://billfrytheplumbingguy.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-fry-the-plumbing-guy-lees-summit/
+1. Bill Fry the Plumbing Guy | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Bill Fry the Plumbing Guy is a plumber in Lee's Summit, MO at 2603 Northeast Hagen Road, Lee's Summit, MO 64064. Phone: +18168282455. Website: https://billfrytheplumbingguy.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-fry-the-plumbing-guy-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services lee's summit mo | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

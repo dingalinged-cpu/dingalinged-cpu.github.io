@@ -9,10 +9,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Montessori Children's Center | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Montessori Children's Center is a preschool in Clive, IA. Phone: +15152025467. Website: https://montessorichildrenscenters.com/. | https://registry-edge.dingalinged.workers.dev/c/montessori-childrens-center-clive/
 2. Clive Children's Center | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Clive Children's Center is a preschool in Clive, IA at 8250 Harbach Boulevard, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/clive-childrens-center-clive/
 3. Constructive Learning Center | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Constructive Learning Center is a preschool in Clive, IA at 1306 Northwest 138th Street, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/constructive-learning-center-clive/
-4. Traditions Children's Center IV | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Traditions Children's Center IV is a preschool in Clive, IA. Website: https://www.traditionschildrenscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/traditions-childrens-center-iv-clive/
-5. Clive Children's Center II | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Clive Children's Center II is a preschool in Clive, IA. | https://registry-edge.dingalinged.workers.dev/c/clive-childrens-center-ii-clive/
+4. Traditions Children's Center IV | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Traditions Children's Center IV is a preschool in Clive, IA. Website: https://www.traditionschildrenscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/traditions-childrens-center-iv-clive/
+5. Clive Children's Center II | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Clive Children's Center II is a preschool in Clive, IA. | https://registry-edge.dingalinged.workers.dev/c/clive-childrens-center-ii-clive/
 6. Hickman KinderCare | Organic #6 | Pulse Score 44.9/100 (Building, #6 in city) | Hickman KinderCare is a preschool in Clive, IA. Website: https://www.kindercare.com/our-centers/clive/ia/301916. | https://registry-edge.dingalinged.workers.dev/c/hickman-kindercare-clive/
-7. Childtime | Organic #7 | Pulse Score 42.9/100 (Building, #7 in city) | Childtime is a preschool in Clive, IA. | https://registry-edge.dingalinged.workers.dev/c/childtime-clive/
+7. Childtime | Organic #7 | Pulse Score 43/100 (Building, #7 in city) | Childtime is a preschool in Clive, IA. | https://registry-edge.dingalinged.workers.dev/c/childtime-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool clive ia | category: Education & childcare | industry benchmark: Education & Instruction

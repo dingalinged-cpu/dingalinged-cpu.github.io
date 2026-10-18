@@ -13,7 +13,7 @@ ZLR IGNITION is a marketing agency in Des Moines, IA at 303 Watson Powell Junior
 - Website: https://www.zlrignition.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 75% of marketing agencys in Des Moines, IA, #3 of 3 marketing agencys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 75% of marketing agencys in Des Moines, IA, #3 of 3 marketing agencys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ White Rock Stables is a dog boarding facility in Dallas, TX at 8949 Lanshire Dri
 - Website: https://whiterockstables.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 18% of dog boarding facilitys in Dallas–Fort Worth, #2 of 7 dog boarding facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 18% of dog boarding facilitys in Dallas–Fort Worth, #2 of 7 dog boarding facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

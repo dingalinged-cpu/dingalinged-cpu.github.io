@@ -13,7 +13,7 @@ The Pretty Kitty is a waxing salon in Houston, TX at 5885 San Felipe Street, Hou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 28% of waxing salons in Houston, #5 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 28% of waxing salons in Houston, #5 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 41.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

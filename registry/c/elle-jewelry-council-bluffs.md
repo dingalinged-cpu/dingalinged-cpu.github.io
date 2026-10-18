@@ -13,7 +13,7 @@ Elle Jewelry is a jewelry store in Council Bluffs, IA at 1722 Madison Avenue, Co
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Omaha, NE, #1 of 2 jewelry stores in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Omaha, NE, #1 of 2 jewelry stores in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

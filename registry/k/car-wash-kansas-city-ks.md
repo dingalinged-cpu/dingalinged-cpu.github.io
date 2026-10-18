@@ -7,11 +7,11 @@ Also answers: car wash in Kansas City, KS; car wash near me (Kansas City, KS); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Christine's Sparkling Car Wash | Organic #1 | Pulse Score 60.8/100 (Unrated, #3 in city) | Christine's Sparkling Car Wash is a car wash in Kansas City, KS at 3020 North 59th Street, Kansas City, KS 66104. | https://registry-edge.dingalinged.workers.dev/c/christines-sparkling-car-wash-kansas-city/
-2. Speedway | Organic #2 | Pulse Score 55.5/100 (Unrated, #13 in city) | Speedway is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/speedway-kansas-city/
-3. Go Carwash | Organic #3 | Pulse Score 51.6/100 (Unrated, #18 in city) | Go Carwash is a car wash in Kansas City, KS at 923 North 78th Street, Kansas City, KS 66112. Phone: +19132338279. Website: https://gocarwash.com/location/78th-st-kck/. | https://registry-edge.dingalinged.workers.dev/c/go-carwash-kansas-city/
-4. GO Car Wash | Organic #4 | Pulse Score 50.8/100 (Unrated, #19 in city) | GO Car Wash is a car wash in Kansas City, KS at 9801 Troup Avenue, Kansas City, KS 66111. Phone: +19132338236. Website: https://gocarwash.com/location/legends. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-kansas-city/
-5. Tidal Wave Auto Spa | Organic #5 | Pulse Score 43.9/100 (Building, #21 in city) | Tidal Wave Auto Spa is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/tidal-wave-auto-spa-kansas-city/
-6. BP | Organic #6 | Pulse Score 43.3/100 (Building, #23 in city) | BP is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/bp-kansas-city/
+2. Go Carwash | Organic #2 | Pulse Score 51.6/100 (Unrated, #15 in city) | Go Carwash is a car wash in Kansas City, KS at 923 North 78th Street, Kansas City, KS 66112. Phone: +19132338279. Website: https://gocarwash.com/location/78th-st-kck/. | https://registry-edge.dingalinged.workers.dev/c/go-carwash-kansas-city/
+3. GO Car Wash | Organic #3 | Pulse Score 50.8/100 (Unrated, #16 in city) | GO Car Wash is a car wash in Kansas City, KS at 9801 Troup Avenue, Kansas City, KS 66111. Phone: +19132338236. Website: https://gocarwash.com/location/legends. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-kansas-city/
+4. Tidal Wave Auto Spa | Organic #4 | Pulse Score 43.9/100 (Building, #18 in city) | Tidal Wave Auto Spa is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/tidal-wave-auto-spa-kansas-city/
+5. BP | Organic #5 | Pulse Score 43.3/100 (Building, #20 in city) | BP is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/bp-kansas-city/
+6. Speedway | Organic #6 | Pulse Score 42.8/100 (Unrated, #21 in city) | Speedway is a car wash in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/speedway-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash kansas city ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

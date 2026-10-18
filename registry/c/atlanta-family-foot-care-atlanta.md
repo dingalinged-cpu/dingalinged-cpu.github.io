@@ -13,7 +13,7 @@ Atlanta Family Foot Care is a podiatrist in Atlanta, GA at 5835 Campbellton Road
 - Website: https://www.famfootcare.com/
 - Email: info@famfootcare.com
 - Opening hours (OSM syntax): Mo 08:00-14:30; Tu 09:00-15:00; We 08:30-14:30; Th 09:00-15:30; Fr 08:15-13:00
-- Pulse Score: 64.7/100 — Good — top 8% of podiatrists in Atlanta, #1 of 2 podiatrists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 8% of podiatrists in Atlanta, #1 of 2 podiatrists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

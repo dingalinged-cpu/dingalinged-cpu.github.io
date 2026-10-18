@@ -6,7 +6,7 @@ Also answers: plumbers in Niles, IL; plumbers near me (Niles, IL); best plumbers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plumbing Sewer and Restoration Inc | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Plumbing Sewer and Restoration Inc is a plumber in Niles, IL at 7831 North Nora Avenue, Niles, IL 60714. Phone: +18009713128. Website: https://restorationplumbing.net/. | https://registry-edge.dingalinged.workers.dev/c/plumbing-sewer-and-restoration-inc-niles/
+1. Plumbing Sewer and Restoration Inc | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Plumbing Sewer and Restoration Inc is a plumber in Niles, IL at 7831 North Nora Avenue, Niles, IL 60714. Phone: +18009713128. Website: https://restorationplumbing.net/. | https://registry-edge.dingalinged.workers.dev/c/plumbing-sewer-and-restoration-inc-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers niles il | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Kiddie Academy of Allen is a daycare in Allen, TX at 1504 West Exchange Parkway,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 73% of daycares in Dallas–Fort Worth, #2 of 2 daycares in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 73% of daycares in Dallas–Fort Worth, #2 of 2 daycares in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

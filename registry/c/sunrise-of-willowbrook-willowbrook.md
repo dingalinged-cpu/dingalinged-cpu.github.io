@@ -13,7 +13,7 @@ Sunrise of Willowbrook is an assisted living facility in Willowbrook, IL at 6300
 - Website: https://www.sunriseseniorliving.com/communities/il/sunrise-of-willowbrook
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 40% of assisted living facilitys in Chicago, #1 of 1 assisted living facilitys in Willowbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 40% of assisted living facilitys in Chicago, #1 of 1 assisted living facilitys in Willowbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

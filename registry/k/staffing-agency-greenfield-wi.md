@@ -6,7 +6,7 @@ Also answers: staffing agency in Greenfield, WI; staffing agency near me (Greenf
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adroit Talent | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Adroit Talent is a staffing agency in Greenfield, WI at 4453 South 110th Street, Greenfield, WI 53228. Phone: +14147120183. Website: https://adroittalent.com/. | https://registry-edge.dingalinged.workers.dev/c/adroit-talent-greenfield/
+1. Adroit Talent | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Adroit Talent is a staffing agency in Greenfield, WI at 4453 South 110th Street, Greenfield, WI 53228. Phone: +14147120183. Website: https://adroittalent.com/. | https://registry-edge.dingalinged.workers.dev/c/adroit-talent-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency greenfield wi | category: b2b_services | industry benchmark: Business Services

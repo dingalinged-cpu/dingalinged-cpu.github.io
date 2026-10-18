@@ -13,7 +13,7 @@ ZO Skin Centre is a dermatologist in Houston, TX at 810 Waugh Drive #101, Housto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Fr 09:45-17:00; We-Th 10:00-18:00; Sa 10:00-15:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 42% of dermatologists in Houston, #3 of 7 dermatologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 42% of dermatologists in Houston, #3 of 7 dermatologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

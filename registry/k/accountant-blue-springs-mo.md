@@ -6,7 +6,7 @@ Also answers: accountant in Blue Springs, MO; accountant near me (Blue Springs, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Income Tax | Organic #1 | Pulse Score 41.4/100 (Unrated, #1 in city) | Liberty Income Tax is an accountant in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/liberty-income-tax-blue-springs/
+1. Liberty Income Tax | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | Liberty Income Tax is an accountant in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/liberty-income-tax-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant blue springs mo | category: professional_accounting | industry benchmark: Business Services

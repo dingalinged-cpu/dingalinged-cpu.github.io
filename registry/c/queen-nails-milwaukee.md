@@ -13,7 +13,7 @@ Queen Nails is a nail salon in Milwaukee, WI at 7600 West Capitol Drive, Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 26% of nail salons in Milwaukee, #12 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 89% of nail salons in Milwaukee, #33 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

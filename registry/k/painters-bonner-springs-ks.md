@@ -6,7 +6,7 @@ Also answers: painters in Bonner Springs, KS; painters near me (Bonner Springs, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Neighborhood Painting & Restoration | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Neighborhood Painting & Restoration is a painting contractor in Bonner Springs, KS at 2520 Scheidt Lane, Bonner Springs, KS 66012. Phone: +19137096151. Website: https://kcneighborhoodpainting.com/. | https://registry-edge.dingalinged.workers.dev/c/neighborhood-painting-and-restoration-bonner-springs/
+1. Neighborhood Painting & Restoration | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Neighborhood Painting & Restoration is a painting contractor in Bonner Springs, KS at 2520 Scheidt Lane, Bonner Springs, KS 66012. Phone: +19137096151. Website: https://kcneighborhoodpainting.com/. | https://registry-edge.dingalinged.workers.dev/c/neighborhood-painting-and-restoration-bonner-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters bonner springs ks | category: Home services - Painting | industry benchmark: Home & Home Improvement

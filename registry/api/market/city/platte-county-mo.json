@@ -12,7 +12,7 @@
    {
     "keyword": "event venues platte county mo",
     "slug": "event-venues-platte-county-mo",
-    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-platte-county-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#event-venues-platte-county-mo",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -21,7 +21,7 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 830,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 1,
+    "registry_competitors": 0,
     "ranked_by": "by_cpc"
    }
   ],

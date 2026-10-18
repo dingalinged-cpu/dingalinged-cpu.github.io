@@ -13,7 +13,7 @@ west elm is a furniture store in Southlake, TX at 1001 East Southlake Boulevard 
 - Website: https://www.westelm.com/stores/us-tx-southlake-pk-vllg/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-20:00; Su 12:00-17:00
-- Pulse Score: 47.5/100 — Building — top 66% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 65% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

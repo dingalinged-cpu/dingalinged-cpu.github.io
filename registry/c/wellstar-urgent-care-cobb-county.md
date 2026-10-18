@@ -13,7 +13,7 @@ Wellstar Urgent Care is a family medicine practice in Cobb County, GA at 3609 Sa
 - Website: https://www.wellstar.org/locations/urgent-care/urgent-care-marietta-3600-sandy-plains-road
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-19:00
-- Pulse Score: 57.4/100 — Fair — top 34% of family medicine practices in Atlanta, #2 of 4 family medicine practices in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Fair — top 34% of family medicine practices in Atlanta, #2 of 4 family medicine practices in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

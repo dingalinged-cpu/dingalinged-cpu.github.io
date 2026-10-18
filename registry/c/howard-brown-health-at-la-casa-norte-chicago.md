@@ -13,7 +13,7 @@ Howard Brown Health at La Casa Norte is a family medicine practice in Chicago, I
 - Website: https://howardbrown.org/clinic_location/la-casa-norte/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00, Tu 10:00-17:00, We 09:00-17:00, Th 11:00-19:00, Fr 09:00-17:00
-- Pulse Score: 63/100 — Good — top 12% of family medicine practices in Chicago, #3 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 12% of family medicine practices in Chicago, #3 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

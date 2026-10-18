@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Sienna Cleaners | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Sienna Cleaners is a dry cleaner in Sugar Land, TX at 16525 Lexington Boulevard #190, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/sienna-cleaners-sugar-land/
 2. Upscale Cleaners | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Upscale Cleaners is a dry cleaner in Sugar Land, TX at 4734 LJ Parkway #305, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/upscale-cleaners-sugar-land/
-3. Holiday Cleaners | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Holiday Cleaners is a dry cleaner in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/holiday-cleaners-sugar-land/
-4. Tide Cleaners | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Tide Cleaners is a dry cleaner in Sugar Land, TX at 6506 US 90A #100, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-sugar-land/
-5. Tide Cleaners | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | Tide Cleaners is a dry cleaner in Sugar Land, TX at 4675 State Highway 6 South, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-sugar-land-n7041289741/
+3. Tide Cleaners | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Sugar Land, TX at 6506 US 90A #100, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-sugar-land/
+4. Tide Cleaners | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Tide Cleaners is a dry cleaner in Sugar Land, TX at 4675 State Highway 6 South, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-sugar-land-n7041289741/
+5. Holiday Cleaners | Organic #5 | Pulse Score 42.2/100 (Unrated, #5 in city) | Holiday Cleaners is a dry cleaner in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/holiday-cleaners-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance

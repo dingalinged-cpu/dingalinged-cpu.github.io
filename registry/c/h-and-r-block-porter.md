@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Porter, TX at 23741 Eastex Freeway #6,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-20:00; Sa 09:00-17:00; Su 12:00-16:00
-- Pulse Score: 47.6/100 — Building — top 58% of tax preparation services in Houston, #1 of 1 tax preparation services in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 58% of tax preparation services in Houston, #1 of 1 tax preparation services in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

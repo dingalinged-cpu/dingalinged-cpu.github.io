@@ -13,7 +13,7 @@ Amtex Auto Insurance is an insurance agent in Houston, TX at 536 East Tidwell Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-15:00
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 53% of insurance agents in Houston, #58 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 52% of insurance agents in Houston, #57 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

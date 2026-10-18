@@ -6,7 +6,7 @@ Also answers: it support in Doraville, GA; it support near me (Doraville, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Technology Group Associate | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Technology Group Associate is an IT support company in Atlanta, GA at 6675 Peachtree Industrial Boulevard #200, Atlanta, GA 30360. Phone: +18885567460. Website: https://technologygroupassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/technology-group-associate-atlanta/
+1. Technology Group Associate | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Technology Group Associate is an IT support company in Atlanta, GA at 6675 Peachtree Industrial Boulevard #200, Atlanta, GA 30360. Phone: +18885567460. Website: https://technologygroupassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/technology-group-associate-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support doraville ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

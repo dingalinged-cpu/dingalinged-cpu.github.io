@@ -13,7 +13,7 @@ Mobil is a car wash in Skokie, IL at 5015 West Touhy Avenue, Skokie, IL 60077. W
 - Website: https://www.exxon.com/en/find-station/mobil-skokie-il-lakhanioilcompany-200313614
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 39% of car washes in Chicago, #3 of 5 car washes in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 37% of car washes in Chicago, #2 of 5 car washes in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Elite HVACS Furnace, AC & Plumbing Repair is a HVAC contractor in Skokie, IL at 
 - Website: https://elitehvacs.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of HVAC contractors in Chicago, #1 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 7% of HVAC contractors in Chicago, #1 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

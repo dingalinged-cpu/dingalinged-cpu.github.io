@@ -13,7 +13,7 @@ Fleet Farm Wash is a car wash in Brooklyn Park, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 15% of car washes in Minneapolis–St. Paul, #1 of 4 car washes in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 14% of car washes in Minneapolis–St. Paul, #1 of 4 car washes in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

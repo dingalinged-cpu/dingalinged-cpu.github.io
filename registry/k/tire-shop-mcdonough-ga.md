@@ -7,8 +7,8 @@ Also answers: tire shop in Mcdonough, GA; tire shop near me (Mcdonough, GA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in McDonough, GA at 60 Willow Lane, McDonough, GA 30253. Phone: +17709577181. Website: https://www.expressoil.com/stores/mcdonough/ga/6021/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-mcdonough/
-2. Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Discount Tire is a tire shop in McDonough, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-mcdonough/
-3. Mavis Discount Tire | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Mavis Discount Tire is a tire shop in McDonough, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-mcdonough/
+2. Discount Tire | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Discount Tire is a tire shop in McDonough, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-mcdonough/
+3. Mavis Discount Tire | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Mavis Discount Tire is a tire shop in McDonough, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop mcdonough ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

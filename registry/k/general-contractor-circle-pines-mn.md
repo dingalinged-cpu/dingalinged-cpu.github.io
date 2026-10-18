@@ -6,7 +6,7 @@ Also answers: general contractor in Circle Pines, MN; general contractor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Remodelers | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Custom Remodelers is a general contractor in Circle Pines, MN at 474 Apollo Drive, Circle Pines, MN 55014. Phone: +18002403038. | https://registry-edge.dingalinged.workers.dev/c/custom-remodelers-circle-pines/
+1. Custom Remodelers | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Custom Remodelers is a general contractor in Circle Pines, MN at 474 Apollo Drive, Circle Pines, MN 55014. Phone: +18002403038. | https://registry-edge.dingalinged.workers.dev/c/custom-remodelers-circle-pines/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor circle pines mn | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 40% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Rogers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 40% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Rogers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

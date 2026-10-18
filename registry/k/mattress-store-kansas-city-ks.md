@@ -6,7 +6,7 @@ Also answers: mattress store in Kansas City, KS; mattress store near me (Kansas 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Good Sleep Mattress & Furniture | Organic #1 | Pulse Score 56/100 (Unrated, #2 in city) | Good Sleep Mattress & Furniture is a mattress store in Kansas City, KS at 1720 Central Avenue, Kansas City, KS 66102. | https://registry-edge.dingalinged.workers.dev/c/good-sleep-mattress-and-furniture-kansas-city/
+1. Good Sleep Mattress & Furniture | Organic #1 | Pulse Score 55.9/100 (Unrated, #2 in city) | Good Sleep Mattress & Furniture is a mattress store in Kansas City, KS at 1720 Central Avenue, Kansas City, KS 66102. | https://registry-edge.dingalinged.workers.dev/c/good-sleep-mattress-and-furniture-kansas-city/
 2. Mattress Firm | Organic #2 | Pulse Score 50.2/100 (Fair, #4 in city) | Mattress Firm is a mattress store in Kansas City, KS at 10800 Parallel Parkway, Kansas City, KS 66109. Phone: +19132998448. Website: https://www.mattressfirm.com/en-us/stores/ks/kansas-city/009027/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-kansas-city-w678990993/
 
 ## Market data (for advertisers and agents)

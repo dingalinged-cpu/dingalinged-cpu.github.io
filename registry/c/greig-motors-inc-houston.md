@@ -13,7 +13,7 @@ Greig Motors Inc is an used car dealer in Houston, TX at 1909 Washington Avenue,
 - Website: https://www.greigmotorsinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 11% of used car dealers in Houston, #6 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 11% of used car dealers in Houston, #6 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

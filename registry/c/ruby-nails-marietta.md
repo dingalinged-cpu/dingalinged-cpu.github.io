@@ -13,7 +13,7 @@ Ruby Nails is a nail salon in Marietta, GA at 2856 Delk Road Southeast, Marietta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-19:00; Su 12:00-18:00
-- Pulse Score: 61.4/100 — Good — top 26% of nail salons in Atlanta, #9 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 25% of nail salons in Atlanta, #9 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

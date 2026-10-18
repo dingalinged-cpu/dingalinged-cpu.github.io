@@ -13,7 +13,7 @@ Northline Nails & Spa is a nail salon in Houston, TX at 4400 North Freeway #F330
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 22% of nail salons in Houston, #33 of 106 nail salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 22% of nail salons in Houston, #33 of 106 nail salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

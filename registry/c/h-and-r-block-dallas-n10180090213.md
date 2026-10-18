@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Dallas, TX at 2307 Gus Thomasson Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 56% of tax preparation services in Dallas–Fort Worth, #14 of 18 tax preparation services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 55% of tax preparation services in Dallas–Fort Worth, #14 of 18 tax preparation services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

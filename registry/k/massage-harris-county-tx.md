@@ -22,10 +22,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 14. Rainbow Foot Relax | Organic #14 | Pulse Score 55.3/100 (Unrated, #14 in city) | Rainbow Foot Relax is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/rainbow-foot-relax-harris-county/
 15. Sabi Thai Massage and Spa | Organic #15 | Pulse Score 55.3/100 (Unrated, #15 in city) | Sabi Thai Massage and Spa is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sabi-thai-massage-and-spa-harris-county/
 16. SF Massage | Organic #16 | Pulse Score 55.3/100 (Unrated, #16 in city) | SF Massage is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sf-massage-harris-county/
-17. Super Massage | Organic #17 | Pulse Score 55.3/100 (Unrated, #17 in city) | Super Massage is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/super-massage-harris-county/
-18. Massage Envy | Organic #18 | Pulse Score 45.5/100 (Building, #18 in city) | Massage Envy is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-harris-county/
-19. Massage Envy | Organic #19 | Pulse Score 43.2/100 (Building, #19 in city) | Massage Envy is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-harris-county-n13815432794/
-20. Massage Heights | Organic #20 | Pulse Score 43.2/100 (Building, #20 in city) | Massage Heights is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-heights-harris-county/
+17. Massage Envy | Organic #17 | Pulse Score 45.5/100 (Building, #17 in city) | Massage Envy is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-harris-county/
+18. Massage Envy | Organic #18 | Pulse Score 43.2/100 (Building, #18 in city) | Massage Envy is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-harris-county-n13815432794/
+19. Massage Heights | Organic #19 | Pulse Score 43.2/100 (Building, #19 in city) | Massage Heights is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-heights-harris-county/
+20. Super Massage | Organic #20 | Pulse Score 42.5/100 (Unrated, #20 in city) | Super Massage is a massage studio in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/super-massage-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

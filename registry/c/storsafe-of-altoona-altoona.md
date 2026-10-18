@@ -13,7 +13,7 @@ StorSafe of Altoona is a self-storage facility in Altoona, IA at 1220 34th Avenu
 - Website: https://storsafe.com/locations/altoona-ia-50009
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of self-storage facilitys in Des Moines, IA, #1 of 1 self-storage facilitys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of self-storage facilitys in Des Moines, IA, #1 of 1 self-storage facilitys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

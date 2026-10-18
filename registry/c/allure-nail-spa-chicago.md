@@ -13,7 +13,7 @@ Allure Nail Spa is a nail salon in Chicago, IL at 915 West Washington Boulevard,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Chicago, #25 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 87% of nail salons in Chicago, #78 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

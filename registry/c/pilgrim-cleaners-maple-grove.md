@@ -13,7 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Maple Grove, MN at 13579 Grove Drive North,
 - Website: https://www.pilgrimdrycleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 09:00-17:00
-- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Minneapolis–St. Paul, #3 of 4 dry cleaners in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 53% of dry cleaners in Minneapolis–St. Paul, #3 of 4 dry cleaners in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

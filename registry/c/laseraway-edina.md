@@ -13,7 +13,7 @@ LaserAway is a skin care studio in Edina, MN. Website: https://www.laseraway.com
 - Website: https://www.laseraway.com/locations/mn/minneapolis/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-20:00; Tu,We 10:00-18:00; Th 10:00-20:00; Fr-Su 10:00-18:00
-- Pulse Score: 42.8/100 — Building — top 100% of skin care studios in Minneapolis–St. Paul, #3 of 3 skin care studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 100% of skin care studios in Minneapolis–St. Paul, #3 of 3 skin care studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

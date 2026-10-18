@@ -6,7 +6,7 @@ Also answers: dermatologist in Franklin, WI; dermatologist near me (Franklin, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forefront Dermatology | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Forefront Dermatology is a dermatologist in Franklin, WI at 10500 West Loomis Road, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/forefront-dermatology-franklin/
+1. Forefront Dermatology | Organic #1 | Pulse Score 43.8/100 (Unrated, #1 in city) | Forefront Dermatology is a dermatologist in Franklin, WI at 10500 West Loomis Road, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/forefront-dermatology-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist franklin wi | category: Health & medical | industry benchmark: Physicians & Surgeons

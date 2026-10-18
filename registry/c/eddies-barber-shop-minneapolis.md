@@ -13,7 +13,7 @@ Eddie's Barber Shop is a barber shop in Minneapolis, MN at 4301 4th Avenue South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 33% of barber shops in Minneapolis–St. Paul, #7 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 33% of barber shops in Minneapolis–St. Paul, #7 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

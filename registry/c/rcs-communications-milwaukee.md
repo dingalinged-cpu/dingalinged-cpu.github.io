@@ -13,7 +13,7 @@ RC's Communications is an auto repair shop in Milwaukee, WI at 5406 West Lisbon 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Milwaukee, #45 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 33% of auto repair shops in Milwaukee, #43 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

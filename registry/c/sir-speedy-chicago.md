@@ -13,7 +13,7 @@ Sir Speedy is a printing service in Chicago, IL at 1711 North Clybourn Avenue, C
 - Website: https://www.sirspeedy.com/ChicagoIL160
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 46% of printing services in Chicago, #38 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 45% of printing services in Chicago, #37 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

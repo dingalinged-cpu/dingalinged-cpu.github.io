@@ -13,7 +13,7 @@ Issy Dental is a dentist in Harris County, TX at 8420 North Highway 6, Harris Co
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 58% of dentists in Houston, #18 of 73 dentists in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 57% of dentists in Houston, #18 of 73 dentists in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

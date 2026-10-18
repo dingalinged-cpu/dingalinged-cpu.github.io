@@ -13,7 +13,7 @@ Paw Spa is a dog boarding facility in Richland VII Precinct, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 43% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Richland VII Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 43% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Richland VII Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

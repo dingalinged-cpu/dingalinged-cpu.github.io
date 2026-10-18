@@ -13,7 +13,7 @@ Pearland Bicycles is a bike shop in Pearland, TX at 2819 Cullen Boulevard #112, 
 - Website: https://www.pearlandbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00, Sa 10:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 9% of bike shops in Houston, #1 of 1 bike shops in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 9% of bike shops in Houston, #1 of 1 bike shops in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

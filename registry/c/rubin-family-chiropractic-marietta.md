@@ -13,7 +13,7 @@ Rubin Family Chiropractic is a chiropractor in Marietta, GA at 255 Village Parkw
 - Website: https://www.theadjustment.com/
 - Email: rubinchiropractic@gmail.com
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-12:30,15:00-18:00
-- Pulse Score: 64.6/100 — Good — top 3% of chiropractors in Atlanta, #1 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of chiropractors in Atlanta, #1 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

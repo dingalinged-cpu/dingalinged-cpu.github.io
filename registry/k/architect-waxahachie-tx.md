@@ -6,7 +6,7 @@ Also answers: architect in Waxahachie, TX; architect near me (Waxahachie, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Line Design Co | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Blue Line Design Co is an architect in Waxahachie, TX at 130 Chieftain Drive, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/blue-line-design-co-waxahachie/
+1. Blue Line Design Co | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Blue Line Design Co is an architect in Waxahachie, TX at 130 Chieftain Drive, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/blue-line-design-co-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect waxahachie tx | category: Home services - Design | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ All U Need Pest Control Houston is a pest control company in Cypress, TX at 1333
 - Website: https://alluneedpest.com/
 - Email: office@alluneedpest.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00, Sa 09:00-14:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 50% of pest control companys in Houston, #1 of 1 pest control companys in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 50% of pest control companys in Houston, #1 of 1 pest control companys in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

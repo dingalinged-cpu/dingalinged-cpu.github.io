@@ -13,7 +13,7 @@ Z-Ultimate Self Defense Studios is a martial arts school in Richfield, MN at 292
 - Website: https://zultimate.com/locations/edina/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-21:00; Sa 09:00-16:00
-- Pulse Score: 64.2/100 — Good — top 4% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 68.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 4% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 68.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

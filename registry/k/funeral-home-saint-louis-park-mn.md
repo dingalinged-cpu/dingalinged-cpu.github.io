@@ -6,8 +6,8 @@ Also answers: funeral home in Saint Louis Park, MN; funeral home near me (Saint 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gearty Delmore Funeral Chapels | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Gearty Delmore Funeral Chapels is a funeral home in Saint Louis Park, MN at 3960 Wooddale Avenue, Saint Louis Park, MN 55416. Phone: +19529261615. Website: https://www.gearty-delmore.com/. | https://registry-edge.dingalinged.workers.dev/c/gearty-delmore-funeral-chapels-saint-louis-park/
-2. Twin City Monuments | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Twin City Monuments is a funeral home in Saint Louis Park, MN at 4827 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529204738. Website: https://www.twincitymonumentsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/twin-city-monuments-saint-louis-park/
+1. Gearty Delmore Funeral Chapels | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Gearty Delmore Funeral Chapels is a funeral home in Saint Louis Park, MN at 3960 Wooddale Avenue, Saint Louis Park, MN 55416. Phone: +19529261615. Website: https://www.gearty-delmore.com/. | https://registry-edge.dingalinged.workers.dev/c/gearty-delmore-funeral-chapels-saint-louis-park/
+2. Twin City Monuments | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Twin City Monuments is a funeral home in Saint Louis Park, MN at 4827 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529204738. Website: https://www.twincitymonumentsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/twin-city-monuments-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home saint louis park mn | category: Professional & financial services | industry benchmark: Finance & Insurance

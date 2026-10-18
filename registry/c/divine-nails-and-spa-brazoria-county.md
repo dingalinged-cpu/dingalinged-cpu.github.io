@@ -13,7 +13,7 @@ Divine Nails & Spa is a nail salon in Brazoria County, TX at 11540 Magnolia Park
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 31% of nail salons in Houston, #1 of 1 nail salons in Brazoria County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of nail salons in Houston, #1 of 1 nail salons in Brazoria County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

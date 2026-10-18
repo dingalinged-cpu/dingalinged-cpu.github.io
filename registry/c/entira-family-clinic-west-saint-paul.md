@@ -13,7 +13,7 @@ Entira Family Clinic is a family medicine practice in West Saint Paul, MN at 234
 - Website: https://entirafamilyclinics.com/primary-care-clinics/west-st-paul/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Th 07:00-17:00, Tu, We, Fr 08:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of family medicine practices in Minneapolis–St. Paul, #1 of 1 family medicine practices in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 24% of family medicine practices in Minneapolis–St. Paul, #1 of 1 family medicine practices in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

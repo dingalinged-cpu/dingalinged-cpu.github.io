@@ -6,7 +6,7 @@ Also answers: movers in Plymouth, MN; movers near me (Plymouth, MN); best movers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U-Haul | Organic #1 | Pulse Score 41.3/100 (Building, #1 in city) | U-Haul is a moving company in Plymouth, MN. | https://registry-edge.dingalinged.workers.dev/c/u-haul-plymouth/
+1. U-Haul | Organic #1 | Pulse Score 41.4/100 (Building, #1 in city) | U-Haul is a moving company in Plymouth, MN. | https://registry-edge.dingalinged.workers.dev/c/u-haul-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers plymouth mn | category: Home services - Moving | industry benchmark: Home & Home Improvement

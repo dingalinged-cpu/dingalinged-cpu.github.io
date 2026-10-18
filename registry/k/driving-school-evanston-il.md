@@ -7,7 +7,7 @@ Also answers: driving school in Evanston, IL; driving school near me (Evanston, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. American Defensive Driving School | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | American Defensive Driving School is a driving school in Evanston, IL at 1640 Orrington Avenue, Evanston, IL 60201. Phone: +18474251640. | https://registry-edge.dingalinged.workers.dev/c/american-defensive-driving-school-evanston/
-2. Nova Driving School | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Nova Driving School is a driving school in Evanston, IL at 1910 Main Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/nova-driving-school-evanston/
+2. Nova Driving School | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Nova Driving School is a driving school in Evanston, IL at 1910 Main Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/nova-driving-school-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school evanston il | category: Education & childcare | industry benchmark: Education & Instruction

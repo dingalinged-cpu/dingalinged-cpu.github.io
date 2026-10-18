@@ -13,7 +13,7 @@ DeLoach Law Firm, P.C. is a lawyer in Atlanta, GA. Phone: +14705684473. Website:
 - Website: https://dwightdeloach.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su: 09:00-18:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 56% of lawyers in Atlanta, #35 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 56% of lawyers in Atlanta, #35 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

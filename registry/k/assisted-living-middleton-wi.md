@@ -6,7 +6,7 @@ Also answers: assisted living in Middleton, WI; assisted living near me (Middlet
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Restoring Hope Transplant House | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Restoring Hope Transplant House is an assisted living facility in Middleton, WI at 7457 Terrace Avenue, Middleton, WI. Website: https://www.restoringhope.org/. | https://registry-edge.dingalinged.workers.dev/c/restoring-hope-transplant-house-middleton/
+1. Restoring Hope Transplant House | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Restoring Hope Transplant House is an assisted living facility in Middleton, WI at 7457 Terrace Avenue, Middleton, WI. Website: https://www.restoringhope.org/. | https://registry-edge.dingalinged.workers.dev/c/restoring-hope-transplant-house-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living middleton wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Wine & Spirits is a liquor store in Oak Creek, WI at 2111 East Rawson Avenue, Oa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 48% of liquor stores in Milwaukee, #2 of 3 liquor stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Milwaukee, #3 of 3 liquor stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

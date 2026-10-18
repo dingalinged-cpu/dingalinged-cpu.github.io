@@ -6,9 +6,9 @@ Also answers: electrician in Madison, WI; electrician near me (Madison, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hill Electric | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Hill Electric is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/hill-electric-madison/
-2. SunPeak | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | SunPeak is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/sunpeak-madison/
-3. Graybar Electric Supply | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Graybar Electric Supply is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/graybar-electric-supply-madison/
+1. Hill Electric | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Hill Electric is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/hill-electric-madison/
+2. SunPeak | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | SunPeak is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/sunpeak-madison/
+3. Graybar Electric Supply | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Graybar Electric Supply is an electrician in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/graybar-electric-supply-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician madison wi | category: Home services - Electrical | industry benchmark: Home & Home Improvement

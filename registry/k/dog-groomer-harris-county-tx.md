@@ -6,10 +6,10 @@ Also answers: dog groomer in Harris County, TX; dog groomer near me (Harris Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dog Grooming | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Dog Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/dog-grooming-harris-county/
-2. Grooming | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/grooming-harris-county/
-3. Pierre’s Pet Grooming | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Pierre’s Pet Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pierre-s-pet-grooming-harris-county/
-4. POMCHI PAWS Grooming | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | POMCHI PAWS Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pomchi-paws-grooming-harris-county/
+1. Dog Grooming | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Dog Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/dog-grooming-harris-county/
+2. Grooming | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/grooming-harris-county/
+3. Pierre’s Pet Grooming | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Pierre’s Pet Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pierre-s-pet-grooming-harris-county/
+4. POMCHI PAWS Grooming | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | POMCHI PAWS Grooming is a dog groomer in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pomchi-paws-grooming-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer harris county tx | category: Pets | industry benchmark: Animals & Pets

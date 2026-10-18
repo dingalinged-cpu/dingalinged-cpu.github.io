@@ -13,7 +13,7 @@ Quick Weight Loss Centers is a gym in Marietta, GA at 1100 Johnson Ferry Road #2
 - Website: https://www.qwlc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 20% of gyms in Atlanta, #10 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 19% of gyms in Atlanta, #9 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

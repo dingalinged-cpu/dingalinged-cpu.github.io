@@ -13,7 +13,7 @@ FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 58% of printing services in Dallas–Fort Worth, #5 of 6 printing services in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 57% of printing services in Dallas–Fort Worth, #5 of 6 printing services in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

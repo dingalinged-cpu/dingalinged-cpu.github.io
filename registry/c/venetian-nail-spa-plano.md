@@ -13,7 +13,7 @@ Venetian Nail Spa is a nail salon in Plano, TX at 7700 Windrose Avenue #G165, Pl
 - Website: https://venetiansalon.com/legacy-west/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:30; Su 12:00-18:00
-- Pulse Score: 50.5/100 — Fair — top 87% of nail salons in Dallas–Fort Worth, #15 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 81% of nail salons in Dallas–Fort Worth, #15 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

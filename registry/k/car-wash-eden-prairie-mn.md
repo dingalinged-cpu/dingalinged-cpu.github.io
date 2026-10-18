@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Eden Prairie, MN is Crew Carwash (a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/). 5 car wash businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Eden Prairie, MN is Hot Shot Car Wash (a car wash in Eden Prairie, MN). 5 car wash businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Eden Prairie, MN?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Eden Prairie, MN; car wash near me (Eden Prairie, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crew Carwash | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/. | https://registry-edge.dingalinged.workers.dev/c/crew-carwash-eden-prairie/
-2. Hot Shot Car Wash | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Hot Shot Car Wash is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/hot-shot-car-wash-eden-prairie/
-3. Mister Express Car Wash | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Mister Express Car Wash is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/mister-express-car-wash-eden-prairie/
+1. Hot Shot Car Wash | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Hot Shot Car Wash is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/hot-shot-car-wash-eden-prairie/
+2. Mister Express Car Wash | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Mister Express Car Wash is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/mister-express-car-wash-eden-prairie/
+3. Crew Carwash | Organic #3 | Pulse Score 49.9/100 (Unrated, #3 in city) | Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/. | https://registry-edge.dingalinged.workers.dev/c/crew-carwash-eden-prairie/
 4. BP | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | BP is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/bp-eden-prairie/
 5. Speedy Wash | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Speedy Wash is a car wash in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-eden-prairie/
 

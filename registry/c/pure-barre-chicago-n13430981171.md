@@ -13,7 +13,7 @@ Pure Barre is a gym in Chicago, IL at 1336 South Michigan Avenue, Chicago, IL 60
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 72% of gyms in Chicago, #129 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 71% of gyms in Chicago, #128 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Stanton Optical is an eye care practice in Marietta, GA at 2157 Roswell Road, Ma
 - Website: https://www.stantonoptical.com/locations/marietta-ga/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off
-- Pulse Score: 63.2/100 — Good — top 10% of eye care practices in Atlanta, #1 of 3 eye care practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 10% of eye care practices in Atlanta, #1 of 3 eye care practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

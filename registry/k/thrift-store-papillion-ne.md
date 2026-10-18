@@ -6,9 +6,9 @@ Also answers: thrift store in Papillion, NE; thrift store near me (Papillion, NE
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abby's Corner | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Abby's Corner is a thrift store in Papillion, NE at 138 North Washington Street, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/abbys-corner-papillion/
-2. St Vincent de Paul Thrift Store | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | St Vincent de Paul Thrift Store is a thrift store in Papillion, NE at 807 Tara Plaza, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/st-vincent-de-paul-thrift-store-papillion/
-3. Big Wheels to Butterflies | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Big Wheels to Butterflies is a thrift store in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/big-wheels-to-butterflies-papillion/
+1. Abby's Corner | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Abby's Corner is a thrift store in Papillion, NE at 138 North Washington Street, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/abbys-corner-papillion/
+2. Big Wheels to Butterflies | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Big Wheels to Butterflies is a thrift store in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/big-wheels-to-butterflies-papillion/
+3. St Vincent de Paul Thrift Store | Organic #3 | Pulse Score 44.6/100 (Unrated, #3 in city) | St Vincent de Paul Thrift Store is a thrift store in Papillion, NE at 807 Tara Plaza, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/st-vincent-de-paul-thrift-store-papillion/
 4. Goodwill | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Goodwill is a thrift store in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/goodwill-papillion/
 
 ## Market data (for advertisers and agents)

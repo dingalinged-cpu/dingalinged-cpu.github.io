@@ -13,7 +13,7 @@ The Exercise Coach is a gym in Minneapolis, MN at 4956 Xerxes Avenue South #Suit
 - Website: https://exercisecoach.com/southwest-minneapolis/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 77% of gyms in Minneapolis–St. Paul, #39 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 76% of gyms in Minneapolis–St. Paul, #38 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

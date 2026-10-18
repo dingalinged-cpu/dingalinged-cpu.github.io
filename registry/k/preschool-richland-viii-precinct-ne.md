@@ -6,7 +6,7 @@ Also answers: preschool in Richland Viii Precinct, NE; preschool near me (Richla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garden Patch Creative Learning Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #2 in city) | Garden Patch Creative Learning Center is a preschool in Omaha, NE at 8675 South 167th Plaza, Omaha, NE 68136. Phone: +14029911517. Website: https://childcarecenter.us/provider_detail/garden_patch_creative_learning_center_owned_by_craig_and_laura_coyle_omaha_ne. | https://registry-edge.dingalinged.workers.dev/c/garden-patch-creative-learning-center-omaha/
+1. Garden Patch Creative Learning Center | Organic #1 | Pulse Score 60.6/100 (Unrated, #2 in city) | Garden Patch Creative Learning Center is a preschool in Omaha, NE at 8675 South 167th Plaza, Omaha, NE 68136. Phone: +14029911517. Website: https://childcarecenter.us/provider_detail/garden_patch_creative_learning_center_owned_by_craig_and_laura_coyle_omaha_ne. | https://registry-edge.dingalinged.workers.dev/c/garden-patch-creative-learning-center-omaha/
 2. The Curious Child Preschool | Organic #2 | Pulse Score 55.7/100 (Unrated, #1 in city) | The Curious Child Preschool is a preschool in Richland VIII Precinct, NE. Website: https://omahamontessori.com/preschools/the-curious-child-montessori-preschool-gretna/. | https://registry-edge.dingalinged.workers.dev/c/the-curious-child-preschool-richland-viii-precinct/
 
 ## Market data (for advertisers and agents)

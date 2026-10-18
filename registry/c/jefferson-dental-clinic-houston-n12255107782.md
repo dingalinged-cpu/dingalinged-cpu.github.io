@@ -13,7 +13,7 @@ Jefferson Dental Clinic is a dentist in Houston, TX at 5900 Lyons Avenue, Housto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 91% of dentists in Houston, #158 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 91% of dentists in Houston, #157 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

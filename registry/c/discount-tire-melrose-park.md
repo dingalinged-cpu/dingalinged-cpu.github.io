@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Melrose Park, IL at 550 North Avenue, Melrose Pa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 72% of tire shops in Chicago, #2 of 2 tire shops in Melrose Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 72% of tire shops in Chicago, #2 of 2 tire shops in Melrose Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: gym in Blair, NE; gym near me (Blair, NE); best gym Blair, NE; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Anytime Fitness is a gym in Blair, NE at 1844 Washington Street, Blair, NE 68008. Phone: +14025338200. Website: https://www.anytimefitness.com/gyms/1692/blair-ne-68008/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-blair/
+1. Anytime Fitness | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Blair, NE at 1844 Washington Street, Blair, NE 68008. Phone: +14025338200. Website: https://www.anytimefitness.com/gyms/1692/blair-ne-68008/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-blair/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym blair ne | category: Fitness | industry benchmark: Health & Fitness

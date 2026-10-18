@@ -6,7 +6,7 @@ Also answers: preschool in Bloomingdale, IL; preschool near me (Bloomingdale, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CCSD 93 Early Childhood Center | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | CCSD 93 Early Childhood Center is a preschool in Bloomingdale, IL. | https://registry-edge.dingalinged.workers.dev/c/ccsd-93-early-childhood-center-bloomingdale/
+1. CCSD 93 Early Childhood Center | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | CCSD 93 Early Childhood Center is a preschool in Bloomingdale, IL. | https://registry-edge.dingalinged.workers.dev/c/ccsd-93-early-childhood-center-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool bloomingdale il | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Bain & Company is a lawyer in Atlanta, GA at 1180 Peachtree Street Northeast #27
 - Website: https://www.bain.com/offices/atlanta/en_us/index.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Fair — top 46% of lawyers in Atlanta, #28 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Fair — top 49% of lawyers in Atlanta, #30 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

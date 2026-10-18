@@ -13,7 +13,7 @@ Conflict Sports is a gym in Milwaukee, WI at 3819 West Fond Du Lac Avenue, Milwa
 - Website: https://conflictsports.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 16:30-20:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 11% of gyms in Milwaukee, #8 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 10% of gyms in Milwaukee, #7 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

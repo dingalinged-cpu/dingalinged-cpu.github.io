@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Hurst, TX is Lucky Nails (a nail salon in Hurst, TX at 811A West Pipeline Road, Hurst, TX 76053. Phone: +18175951905). 2 nail salon businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Hurst, TX is Diva Nail-Spa (a nail salon in Hurst, TX). 2 nail salon businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Hurst, TX?
 
@@ -6,8 +6,8 @@ Also answers: nail salon in Hurst, TX; nail salon near me (Hurst, TX); best nail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucky Nails | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Lucky Nails is a nail salon in Hurst, TX at 811A West Pipeline Road, Hurst, TX 76053. Phone: +18175951905. | https://registry-edge.dingalinged.workers.dev/c/lucky-nails-hurst/
-2. Diva Nail-Spa | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Diva Nail-Spa is a nail salon in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/diva-nail-spa-hurst/
+1. Diva Nail-Spa | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Diva Nail-Spa is a nail salon in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/diva-nail-spa-hurst/
+2. Lucky Nails | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | Lucky Nails is a nail salon in Hurst, TX at 811A West Pipeline Road, Hurst, TX 76053. Phone: +18175951905. | https://registry-edge.dingalinged.workers.dev/c/lucky-nails-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon hurst tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

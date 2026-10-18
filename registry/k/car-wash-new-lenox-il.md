@@ -1,4 +1,4 @@
-The top unpaid car wash listing for New Lenox, IL is Speedway (a car wash in New Lenox, IL). 5 car wash businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for New Lenox, IL is Speedy Wash (a car wash in New Lenox, IL at 939 South Cedar Road, New Lenox, IL 60451). 5 car wash businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in New Lenox, IL?
 
@@ -6,11 +6,11 @@ Also answers: car wash in New Lenox, IL; car wash near me (New Lenox, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Speedway | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Speedway is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/speedway-new-lenox/
-2. Speedy Wash | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | Speedy Wash is a car wash in New Lenox, IL at 939 South Cedar Road, New Lenox, IL 60451. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-new-lenox/
-3. Fullers Car Wash | Organic #3 | Pulse Score 45.9/100 (Unrated, #3 in city) | Fullers Car Wash is a car wash in New Lenox, IL at 1725 East Lincoln Highway, New Lenox, IL 60451. | https://registry-edge.dingalinged.workers.dev/c/fullers-car-wash-new-lenox/
-4. Circle K | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Circle K is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/circle-k-new-lenox/
-5. Car Wash | Organic #5 | Pulse Score 42/100 (Unrated, #5 in city) | Car Wash is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/car-wash-new-lenox/
+1. Speedy Wash | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Speedy Wash is a car wash in New Lenox, IL at 939 South Cedar Road, New Lenox, IL 60451. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-new-lenox/
+2. Fullers Car Wash | Organic #2 | Pulse Score 45.9/100 (Unrated, #2 in city) | Fullers Car Wash is a car wash in New Lenox, IL at 1725 East Lincoln Highway, New Lenox, IL 60451. | https://registry-edge.dingalinged.workers.dev/c/fullers-car-wash-new-lenox/
+3. Circle K | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Circle K is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/circle-k-new-lenox/
+4. Car Wash | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Car Wash is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/car-wash-new-lenox/
+5. Speedway | Organic #5 | Pulse Score 41.6/100 (Unrated, #5 in city) | Speedway is a car wash in New Lenox, IL. | https://registry-edge.dingalinged.workers.dev/c/speedway-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash new lenox il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

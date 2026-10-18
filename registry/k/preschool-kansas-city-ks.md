@@ -6,7 +6,7 @@ Also answers: preschool in Kansas City, KS; preschool near me (Kansas City, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Our Lady of Unity Child Care Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #4 in city) | Our Lady of Unity Child Care Center is a preschool in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/our-lady-of-unity-child-care-center-kansas-city/
+1. Our Lady of Unity Child Care Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #5 in city) | Our Lady of Unity Child Care Center is a preschool in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/our-lady-of-unity-child-care-center-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool kansas city ks | category: Education & childcare | industry benchmark: Education & Instruction

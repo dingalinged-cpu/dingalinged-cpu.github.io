@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Fort Worth, TX at 6750 Mandy L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:00-17:30
-- Pulse Score: 48.7/100 — Building — top 44% of self-storage facilitys in Dallas–Fort Worth, #1 of 2 self-storage facilitys in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 42% of self-storage facilitys in Dallas–Fort Worth, #1 of 2 self-storage facilitys in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

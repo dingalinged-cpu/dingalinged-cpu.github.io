@@ -13,7 +13,7 @@ Clarus Center is a therapy practice in Warrenville, IL at 28379 Davis Parkway #8
 - Website: https://www.claruscenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 34% of therapy practices in Chicago, #1 of 1 therapy practices in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 34% of therapy practices in Chicago, #1 of 1 therapy practices in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

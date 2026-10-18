@@ -13,7 +13,7 @@ Lectric Beach Wellness & Sun Club is a tanning salon in Milwaukee, WI. Phone: +1
 - Website: https://www.lectricbeach.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 10:00-14:00
-- Pulse Score: 64/100 — Good — top 7% of tanning salons in Milwaukee, #1 of 2 tanning salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 7% of tanning salons in Milwaukee, #1 of 2 tanning salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

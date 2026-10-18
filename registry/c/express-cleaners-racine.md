@@ -13,7 +13,7 @@ Express Cleaners is a dry cleaner in Racine, WI at 4003 Durand Avenue #16, Racin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 76% of dry cleaners in Milwaukee, #2 of 4 dry cleaners in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 76% of dry cleaners in Milwaukee, #2 of 4 dry cleaners in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Makenzie House is an event venue in Missouri City, TX at 1430 Texas Parkway,
 - Website: https://themakenziehouse.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 38% of event venues in Houston, #2 of 3 event venues in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 38% of event venues in Houston, #2 of 3 event venues in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bike shop in Magnolia, TX; bike shop near me (Magnolia, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bicycle World | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Bicycle World is a bike shop in Magnolia, TX at 32623 FM 2978, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/bicycle-world-magnolia/
+1. Bicycle World | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Bicycle World is a bike shop in Magnolia, TX at 32623 FM 2978, Magnolia, TX 77354. | https://registry-edge.dingalinged.workers.dev/c/bicycle-world-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop magnolia tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

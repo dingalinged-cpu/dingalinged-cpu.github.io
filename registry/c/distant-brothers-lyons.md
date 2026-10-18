@@ -13,7 +13,7 @@ Distant Brothers is a motorcycle repair shop in Lyons, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 50% of motorcycle repair shops in Chicago, #1 of 1 motorcycle repair shops in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 50% of motorcycle repair shops in Chicago, #1 of 1 motorcycle repair shops in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

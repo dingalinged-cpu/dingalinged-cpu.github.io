@@ -13,7 +13,7 @@ Hop's Salon is a hair salon in Minneapolis, MN at 1316 Southeast 4th Street ##9,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 11:00-17:00; Th-Sa 11:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Minneapolis–St. Paul, #8 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Minneapolis–St. Paul, #7 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

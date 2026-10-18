@@ -6,7 +6,7 @@ Also answers: auto body shop in Shawnee, KS; auto body shop near me (Shawnee, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions Collision Repair | Organic #1 | Pulse Score 49.5/100 (Building, #11 in city) | Crash Champions Collision Repair is an auto repair shop in Shawnee, KS at 6502 Vista Drive #B, Shawnee, KS 66218. Phone: +19133205278. Website: https://crashchampions.com/locations/crash-champions-shawnee. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-collision-repair-shawnee/
+1. Crash Champions Collision Repair | Organic #1 | Pulse Score 49.3/100 (Building, #12 in city) | Crash Champions Collision Repair is an auto repair shop in Shawnee, KS at 6502 Vista Drive #B, Shawnee, KS 66218. Phone: +19133205278. Website: https://crashchampions.com/locations/crash-champions-shawnee. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-collision-repair-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop shawnee ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

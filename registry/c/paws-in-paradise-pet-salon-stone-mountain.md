@@ -13,7 +13,7 @@ Paws in Paradise Pet Salon is a veterinarian in Stone Mountain, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 88% of veterinarians in Atlanta, #2 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 87% of veterinarians in Atlanta, #2 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

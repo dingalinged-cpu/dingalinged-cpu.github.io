@@ -19,6 +19,6 @@ Headless Hands Custom Tattoos is a tattoo shop in Mission, KS at 6909 Johnson Dr
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/headless-hands-custom-tattoos-mission/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/headless-hands-custom-tattoos-mission.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11667615787 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11667615787 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

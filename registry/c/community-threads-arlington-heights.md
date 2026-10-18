@@ -13,7 +13,7 @@ Community Threads is a thrift store in Arlington Heights, IL at 250 West Rand Ro
 - Website: https://www.facebook.com/communitythreadsupscaleresale
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su closed
-- Pulse Score: 65.6/100 — Good — top 1% of thrift stores in Chicago, #1 of 7 thrift stores in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 1% of thrift stores in Chicago, #1 of 7 thrift stores in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

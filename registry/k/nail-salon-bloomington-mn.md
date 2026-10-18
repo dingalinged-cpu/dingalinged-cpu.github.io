@@ -7,9 +7,9 @@ Also answers: nail salon in Bloomington, MN; nail salon near me (Bloomington, MN
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Southtown Nails | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Southtown Nails is a nail salon in Bloomington, MN at 7991 Southtown Center, Bloomington, MN 55431. Phone: +19528846245. Website: https://southtownnailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/southtown-nails-bloomington/
-2. Fashion Nails | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Fashion Nails is a nail salon in Bloomington, MN at 10590.5 France Avenue South, Bloomington, MN 55431. | https://registry-edge.dingalinged.workers.dev/c/fashion-nails-bloomington/
-3. Exotic Nails | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Exotic Nails is a nail salon in Bloomington, MN at 9352 Ensign Avenue South, Bloomington, MN 55438. | https://registry-edge.dingalinged.workers.dev/c/exotic-nails-bloomington/
-4. Daisy Nails | Organic #4 | Pulse Score 45.6/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-bloomington/
+2. Exotic Nails | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Exotic Nails is a nail salon in Bloomington, MN at 9352 Ensign Avenue South, Bloomington, MN 55438. | https://registry-edge.dingalinged.workers.dev/c/exotic-nails-bloomington/
+3. Fashion Nails | Organic #3 | Pulse Score 46.5/100 (Unrated, #3 in city) | Fashion Nails is a nail salon in Bloomington, MN at 10590.5 France Avenue South, Bloomington, MN 55431. | https://registry-edge.dingalinged.workers.dev/c/fashion-nails-bloomington/
+4. Daisy Nails | Organic #4 | Pulse Score 44.5/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon bloomington mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Mugen Tattoo Studio is a tattoo shop in Houston, TX at 14520 Memorial Drive #50,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of tattoo shops in Houston, #6 of 22 tattoo shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of tattoo shops in Houston, #6 of 22 tattoo shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

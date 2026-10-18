@@ -6,8 +6,8 @@ Also answers: therapist in Crown Point, IN; therapist near me (Crown Point, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Main Street Counseling | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Main Street Counseling is a therapy practice in Crown Point, IN at 158 North Main Street, Crown Point, IN 46307. Phone: +12196630888. Website: https://www.counselingincrownpoint.com/. | https://registry-edge.dingalinged.workers.dev/c/main-street-counseling-crown-point/
-2. Vet Center | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | Vet Center is a therapy practice in Crown Point, IN at 107 East 93rd Avenue, Crown Point, IN 46307. | https://registry-edge.dingalinged.workers.dev/c/vet-center-crown-point/
+1. Main Street Counseling | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Main Street Counseling is a therapy practice in Crown Point, IN at 158 North Main Street, Crown Point, IN 46307. Phone: +12196630888. Website: https://www.counselingincrownpoint.com/. | https://registry-edge.dingalinged.workers.dev/c/main-street-counseling-crown-point/
+2. Vet Center | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Vet Center is a therapy practice in Crown Point, IN at 107 East 93rd Avenue, Crown Point, IN 46307. | https://registry-edge.dingalinged.workers.dev/c/vet-center-crown-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist crown point in | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

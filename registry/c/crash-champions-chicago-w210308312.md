@@ -13,7 +13,7 @@ Crash Champions is an auto repair shop in Chicago, IL at 870 West Division Stree
 - Website: https://crashchampions.com/locations/crash-champions-division
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 56% of auto repair shops in Chicago, #97 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 56% of auto repair shops in Chicago, #95 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: car inspection in Pearland, TX; car inspection near me (Pearland, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pearland Auto Inspection | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Pearland Auto Inspection is a vehicle inspection station in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/pearland-auto-inspection-pearland/
-2. State Inspections | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | State Inspections is a vehicle inspection station in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/state-inspections-pearland/
+1. Pearland Auto Inspection | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Pearland Auto Inspection is a vehicle inspection station in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/pearland-auto-inspection-pearland/
+2. State Inspections | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | State Inspections is a vehicle inspection station in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/state-inspections-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection pearland tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

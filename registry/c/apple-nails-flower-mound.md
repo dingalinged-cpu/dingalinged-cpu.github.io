@@ -13,7 +13,7 @@ Apple Nails is a nail salon in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Sa 09:30-19:00; Tu off; Su 11:30-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 22% of nail salons in Dallas–Fort Worth, #7 of 12 nail salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of nail salons in Dallas–Fort Worth, #6 of 12 nail salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

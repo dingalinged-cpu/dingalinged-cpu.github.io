@@ -6,7 +6,7 @@ Also answers: preschool in Pleasant Valley, MO; preschool near me (Pleasant Vall
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Early Childhood Education Center | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Early Childhood Education Center is a preschool in Pleasant Valley, MO at 6800 Sobbie Road, Pleasant Valley, MO 64068. Phone: +18163215250. Website: https://www.nkcschools.org/page.cfm?p=2325. | https://registry-edge.dingalinged.workers.dev/c/early-childhood-education-center-pleasant-valley/
+1. Early Childhood Education Center | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Early Childhood Education Center is a preschool in Pleasant Valley, MO at 6800 Sobbie Road, Pleasant Valley, MO 64068. Phone: +18163215250. Website: https://www.nkcschools.org/page.cfm?p=2325. | https://registry-edge.dingalinged.workers.dev/c/early-childhood-education-center-pleasant-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool pleasant valley mo | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Nebraskaland Wellness Center is a chiropractor in Gretna, NE at 428 Bryan Street
 - Website: https://www.nebraskalandwellness.com/
 - Email: frontdesk@nebraskalandwellness.com
 - Opening hours (OSM syntax): Mo 09:00-18:00, Tu 09:00-12:00, We 09:00-18:00, Th 15:00-18:00, Fr 09:00-12:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of chiropractors in Omaha, NE, #1 of 2 chiropractors in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of chiropractors in Omaha, NE, #1 of 2 chiropractors in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anthony Vince' Nail Spa is a nail salon in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Fair — top 27% of nail salons in Houston, #40 of 106 nail salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 91% of nail salons in Houston, #102 of 106 nail salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

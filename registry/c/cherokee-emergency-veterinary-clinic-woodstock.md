@@ -13,7 +13,7 @@ Cherokee Emergency Veterinary Clinic is a veterinarian in Woodstock, GA at 7800 
 - Website: https://www.cobbevc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 16:00-09:00; Fr 16:00-24:00; Sa-Su 00:00-24:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 31% of veterinarians in Atlanta, #2 of 6 veterinarians in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 31% of veterinarians in Atlanta, #2 of 6 veterinarians in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Good — top 6% of tax preparation services in Dallas–Fort Worth, #1 of 3 tax preparation services in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 6% of tax preparation services in Dallas–Fort Worth, #1 of 3 tax preparation services in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

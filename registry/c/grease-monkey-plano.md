@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Plano, TX at 3201 West Parker Road, Plan
 - Website: https://www.greasemonkeyauto.com/plano-texas-75023-center-1363/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 49.1/100 — Building — top 62% of auto repair shops in Dallas–Fort Worth, #28 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 61% of auto repair shops in Dallas–Fort Worth, #28 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

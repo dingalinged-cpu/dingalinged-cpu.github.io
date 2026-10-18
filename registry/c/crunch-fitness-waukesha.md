@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Waukesha, WI at 120 East Sunset Drive, Waukesha, WI 5
 - Website: https://www.crunch.com/locations/waukesha
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 75% of gyms in Milwaukee, #4 of 7 gyms in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 74% of gyms in Milwaukee, #4 of 7 gyms in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

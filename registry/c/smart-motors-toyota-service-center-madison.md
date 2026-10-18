@@ -13,7 +13,7 @@ Smart Motors Toyota Service Center is an auto repair shop in Madison, WI at 5901
 - Website: https://www.smarttoyota.com/Service-center.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 07:00-16:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Madison, #7 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Madison, #7 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

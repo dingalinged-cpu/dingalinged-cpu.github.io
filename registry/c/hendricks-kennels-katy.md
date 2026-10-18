@@ -13,7 +13,7 @@ Hendricks Kennels is a dog boarding facility in Katy, TX at 27008 Sharp Road, Ka
 - Website: https://hendrickskennels.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 09:00-18:00, We,Sa 09:00-14:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Houston, #1 of 1 dog boarding facilitys in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Houston, #1 of 1 dog boarding facilitys in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

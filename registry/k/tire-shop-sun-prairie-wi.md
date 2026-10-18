@@ -6,7 +6,7 @@ Also answers: tire shop in Sun Prairie, WI; tire shop near me (Sun Prairie, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Broadway Tire and Auto | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Broadway Tire and Auto is a tire shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/broadway-tire-and-auto-sun-prairie/
+1. Broadway Tire and Auto | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Broadway Tire and Auto is a tire shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/broadway-tire-and-auto-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ LA Fitness is a gym in Chicago, IL at 6107 North Broadway, Chicago, IL 60660. We
 - Website: https://www.lafitness.com/Pages/ClubHome.aspx?clubid=1050
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 60% of gyms in Chicago, #107 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 60% of gyms in Chicago, #105 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

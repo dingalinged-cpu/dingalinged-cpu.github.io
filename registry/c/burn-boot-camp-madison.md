@@ -13,7 +13,7 @@ Burn Boot Camp is a gym in Madison, WI at 4108 Monona Drive, Madison, WI 53716. 
 - Website: https://locations.burnbootcamp.com/locations/monona-wi/
 - Email: mononawi@burnbootcamp.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 67% of gyms in Madison, #21 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 66% of gyms in Madison, #21 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

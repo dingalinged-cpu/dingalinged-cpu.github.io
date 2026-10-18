@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Sutera Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://registry-edge.dingalinged.workers.dev/c/sutera-spa-flower-mound/
 2. Essenz | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/essenz-flower-mound/
-3. Arch Brow Threading & Spa | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://registry-edge.dingalinged.workers.dev/c/arch-brow-threading-and-spa-flower-mound/
-4. Ulta Beauty | Organic #4 | Pulse Score 46.6/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Flower Mound, TX at 5801 Long Prairie Road #120, Flower Mound, TX 75028. Phone: +19725393762. Website: https://www.ulta.com/stores/flower-mound-tx-275. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-flower-mound/
+3. Arch Brow Threading & Spa | Organic #3 | Pulse Score 60.2/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://registry-edge.dingalinged.workers.dev/c/arch-brow-threading-and-spa-flower-mound/
+4. Ulta Beauty | Organic #4 | Pulse Score 46.5/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Flower Mound, TX at 5801 Long Prairie Road #120, Flower Mound, TX 75028. Phone: +19725393762. Website: https://www.ulta.com/stores/flower-mound-tx-275. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

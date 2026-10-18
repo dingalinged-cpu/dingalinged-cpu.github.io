@@ -13,7 +13,7 @@ Denton Cleaners is a dry cleaner in Denton, TX at 717 South Interstate 35E #Suit
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 42% of dry cleaners in Dallas–Fort Worth, #4 of 9 dry cleaners in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 41% of dry cleaners in Dallas–Fort Worth, #4 of 9 dry cleaners in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

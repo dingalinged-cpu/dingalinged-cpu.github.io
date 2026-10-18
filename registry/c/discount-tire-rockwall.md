@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Rockwall, TX at 693 East Interstate 30, Rockwall
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 90% of tire shops in Dallas–Fort Worth, #2 of 2 tire shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 89% of tire shops in Dallas–Fort Worth, #2 of 2 tire shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

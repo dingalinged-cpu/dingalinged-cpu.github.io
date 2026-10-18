@@ -13,7 +13,7 @@ Apple Landscaping is a landscaping company in Wauconda, IL at 368 West Liberty S
 - Website: https://applelandscaping.com/
 - Email: info@applelandscaping.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Good — top 20% of landscaping companys in Chicago, #1 of 1 landscaping companys in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 20% of landscaping companys in Chicago, #1 of 1 landscaping companys in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

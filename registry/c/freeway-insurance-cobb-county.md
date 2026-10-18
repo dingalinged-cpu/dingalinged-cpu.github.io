@@ -13,7 +13,7 @@ Freeway Insurance is an insurance agent in Cobb County, GA at 425 Earnest W Barr
 - Website: https://locations.freeway.com/kennesaw-ga-30144/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-15:00; Su off
-- Pulse Score: 51/100 — Fair — top 41% of insurance agents in Atlanta, #10 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 40% of insurance agents in Atlanta, #10 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

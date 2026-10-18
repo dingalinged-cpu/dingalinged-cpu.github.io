@@ -6,7 +6,7 @@ Also answers: tax preparation in New Lenox, IL; tax preparation near me (New Len
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | H&R Block is a tax preparation service in New Lenox, IL at 1816 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154631208. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-new-lenox/
+1. H&R Block | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | H&R Block is a tax preparation service in New Lenox, IL at 1816 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154631208. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation new lenox il | category: Professional & financial services | industry benchmark: Finance & Insurance

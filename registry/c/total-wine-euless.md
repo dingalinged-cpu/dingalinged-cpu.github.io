@@ -13,7 +13,7 @@ Total Wine is a liquor store in Euless, TX at 2501 Rio Grande Boulevard #200, Eu
 - Website: https://www.totalwine.com/store-info/528
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Pulse Score: 50.8/100 — Fair — top 72% of liquor stores in Dallas–Fort Worth, #2 of 3 liquor stores in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 70% of liquor stores in Dallas–Fort Worth, #2 of 3 liquor stores in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

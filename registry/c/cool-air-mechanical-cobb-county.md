@@ -13,7 +13,7 @@ Cool Air Mechanical is a HVAC contractor in Cobb County, GA at 1950 Guffin Lane,
 - Website: https://www.770coolair.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.1/100 — Good — top 32% of HVAC contractors in Atlanta, #1 of 3 HVAC contractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 28% of HVAC contractors in Atlanta, #1 of 3 HVAC contractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

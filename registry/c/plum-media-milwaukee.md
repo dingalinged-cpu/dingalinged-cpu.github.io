@@ -13,7 +13,7 @@ Plum Media is a marketing agency in Milwaukee, WI. Phone: +14142716650. Website:
 - Website: https://www.plummedia.com/
 - Email: info@plummedia.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.9/100 — Good — top 14% of marketing agencys in Milwaukee, #2 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 14% of marketing agencys in Milwaukee, #2 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

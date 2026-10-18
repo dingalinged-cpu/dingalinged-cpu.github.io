@@ -13,7 +13,7 @@ WeWork is a coworking space in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 100% of coworking spaces in Dallas–Fort Worth, #13 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 100% of coworking spaces in Dallas–Fort Worth, #13 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

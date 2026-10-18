@@ -13,7 +13,7 @@ Many Hands Thrift Market is a thrift store in Des Moines, IA at 4353 Merle Hay R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 19:00-19:00; Sa 09:00-17:00; Su 13:00-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 15% of thrift stores in Des Moines, IA, #2 of 7 thrift stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 15% of thrift stores in Des Moines, IA, #2 of 7 thrift stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

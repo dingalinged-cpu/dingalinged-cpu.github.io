@@ -13,7 +13,7 @@ Bells Ferry Liquor Store is a liquor store in Kennesaw, GA at 4290 Bells Ferry R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Good — top 26% of liquor stores in Atlanta, #3 of 7 liquor stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 25% of liquor stores in Atlanta, #3 of 7 liquor stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

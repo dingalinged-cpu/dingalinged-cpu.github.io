@@ -13,7 +13,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 92% of martial arts schools in Houston, #12 of 13 martial arts schools in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 92% of martial arts schools in Houston, #12 of 13 martial arts schools in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

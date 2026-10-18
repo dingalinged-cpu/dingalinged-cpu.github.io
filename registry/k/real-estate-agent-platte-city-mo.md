@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Martin House Realty | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Martin House Realty is a real estate agency in Platte City, MO at 301 Marshall Road, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/martin-house-realty-platte-city/
 2. Stewart Title Company | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Stewart Title Company is a real estate agency in Platte City, MO at 2000 Kentucky Avenue #B, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/stewart-title-company-platte-city/
-3. Patty Farr, RE/MAX House of Dreams | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Patty Farr, RE/MAX House of Dreams is a real estate agency in Platte City, MO at 303 Marshall Road #Suite 6, Platte City, MO 64079. Phone: +18164057712. Website: https://www.pattyfarr.com/. | https://registry-edge.dingalinged.workers.dev/c/patty-farr-re-max-house-of-dreams-platte-city/
+3. Patty Farr, RE/MAX House of Dreams | Organic #3 | Pulse Score 47.8/100 (Building, #3 in city) | Patty Farr, RE/MAX House of Dreams is a real estate agency in Platte City, MO at 303 Marshall Road #Suite 6, Platte City, MO 64079. Phone: +18164057712. Website: https://www.pattyfarr.com/. | https://registry-edge.dingalinged.workers.dev/c/patty-farr-re-max-house-of-dreams-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent platte city mo | category: Professional & financial services | industry benchmark: Finance & Insurance

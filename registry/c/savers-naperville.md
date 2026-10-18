@@ -13,7 +13,7 @@ Savers is a thrift store in Naperville, IL at 1125 East Ogden Avenue, Naperville
 - Website: https://stores.savers.com/il/naperville/savers-thrift-store-1250.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 52% of thrift stores in Chicago, #2 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 50% of thrift stores in Chicago, #2 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

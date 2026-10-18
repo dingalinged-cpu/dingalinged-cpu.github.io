@@ -13,7 +13,7 @@
 - Website: https://www.facebook.com/24thsttattoo/
 - Email: n/a
 - Opening hours (OSM syntax): 12:00-22:00
-- Pulse Score: 61.9/100 — Good — top 19% of tattoo shops in Omaha, NE, #2 of 7 tattoo shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 19% of tattoo shops in Omaha, NE, #2 of 7 tattoo shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

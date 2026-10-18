@@ -13,7 +13,7 @@ Veterinary Medicine South is a veterinarian in Madison, WI at 2015 Linden Drive,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 45% of veterinarians in Madison, #12 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 45% of veterinarians in Madison, #12 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

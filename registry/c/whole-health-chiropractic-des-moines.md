@@ -13,7 +13,7 @@ Whole Health Chiropractic is a chiropractor in Des Moines, IA at 855 42nd Street
 - Website: https://wholehealthdesmoines.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:30-12:00,14:30-18:00; We 14:30-18:00; Th 08:30-12:00,14:30-18:00; Fr 08:30-12:00; Sa "on appointment"
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of chiropractors in Des Moines, IA, #1 of 4 chiropractors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 29% of chiropractors in Des Moines, IA, #2 of 4 chiropractors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

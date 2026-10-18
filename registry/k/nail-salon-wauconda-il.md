@@ -7,9 +7,9 @@ Also answers: nail salon in Wauconda, IL; nail salon near me (Wauconda, IL); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Polish'd Nail & Hair Studio | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Polish'd Nail & Hair Studio is a nail salon in Wauconda, IL. Phone: +18474698584. Website: https://polishdnailstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/polishd-nail-and-hair-studio-wauconda/
-2. Crystal Nails | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Crystal Nails is a nail salon in Wauconda, IL at 469 West Liberty Street #D, Wauconda, IL 60084. Phone: +18474879515. | https://registry-edge.dingalinged.workers.dev/c/crystal-nails-wauconda/
-3. The Nail Polish Girl | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | The Nail Polish Girl is a nail salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://registry-edge.dingalinged.workers.dev/c/the-nail-polish-girl-wauconda/
-4. Platinum Nails | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Platinum Nails is a nail salon in Wauconda, IL. | https://registry-edge.dingalinged.workers.dev/c/platinum-nails-wauconda/
+2. The Nail Polish Girl | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | The Nail Polish Girl is a nail salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://registry-edge.dingalinged.workers.dev/c/the-nail-polish-girl-wauconda/
+3. Platinum Nails | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Platinum Nails is a nail salon in Wauconda, IL. | https://registry-edge.dingalinged.workers.dev/c/platinum-nails-wauconda/
+4. Crystal Nails | Organic #4 | Pulse Score 47.6/100 (Unrated, #4 in city) | Crystal Nails is a nail salon in Wauconda, IL at 469 West Liberty Street #D, Wauconda, IL 60084. Phone: +18474879515. | https://registry-edge.dingalinged.workers.dev/c/crystal-nails-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon wauconda il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

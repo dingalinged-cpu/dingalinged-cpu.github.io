@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. PetSmart | Organic #1 | Pulse Score 49.8/100 (Building, #1 in city) | PetSmart is a pet store in Lewisville, TX at 4854 Highway 121, Lewisville, TX 75056. Phone: +14693622824. Website: https://www.petsmart.com/stores/us/tx/lewisville-store2128.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-lewisville/
 2. Petco | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Petco is a pet store in Lewisville, TX at 420 East Round Grove Road #680, Lewisville, TX 75067. Phone: +14693906993. Website: https://stores.petco.com/tx/lewisville/pet-supplies-lewisville-tx-2472.html. | https://registry-edge.dingalinged.workers.dev/c/petco-lewisville/
-3. PetSmart | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | PetSmart is a pet store in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-lewisville-w650139843/
+3. PetSmart | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | PetSmart is a pet store in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-lewisville-w650139843/
 4. Pet Supplies Plus | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-lewisville/
 
 ## Market data (for advertisers and agents)

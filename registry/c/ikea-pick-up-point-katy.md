@@ -13,7 +13,7 @@ IKEA Pick-up Point is a furniture store in Katy, TX at 23501 Cinco Ranch Bouleva
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 58% of furniture stores in Houston, #3 of 4 furniture stores in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 54% of furniture stores in Houston, #2 of 4 furniture stores in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

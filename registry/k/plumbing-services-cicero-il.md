@@ -6,7 +6,7 @@ Also answers: plumbing services in Cicero, IL; plumbing services near me (Cicero
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pumping Jetting & Rodding Co | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Pumping Jetting & Rodding Co is a plumber in Cicero, IL at 1901 South Laramie Avenue, Cicero, IL 60804. Phone: +17088437867. | https://registry-edge.dingalinged.workers.dev/c/pumping-jetting-and-rodding-co-cicero/
+1. Pumping Jetting & Rodding Co | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Pumping Jetting & Rodding Co is a plumber in Cicero, IL at 1901 South Laramie Avenue, Cicero, IL 60804. Phone: +17088437867. | https://registry-edge.dingalinged.workers.dev/c/pumping-jetting-and-rodding-co-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services cicero il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

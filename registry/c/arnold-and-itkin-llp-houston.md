@@ -13,7 +13,7 @@ Arnold & Itkin LLP is a lawyer in Houston, TX at 6009 Memorial Drive, Houston, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 75% of lawyers in Houston, #60 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 78% of lawyers in Houston, #62 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

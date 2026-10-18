@@ -13,7 +13,7 @@ Sweeney Todd's Hair Salon is a hair salon in Minneapolis, MN at 2429 Lyndale Ave
 - Website: https://sweeneytodds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Minneapolis–St. Paul, #21 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Minneapolis–St. Paul, #20 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

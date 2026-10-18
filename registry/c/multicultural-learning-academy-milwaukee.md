@@ -13,7 +13,7 @@ Multicultural Learning Academy is a daycare in Milwaukee, WI at 7027 West Capito
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 41% of daycares in Milwaukee, #32 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 41% of daycares in Milwaukee, #32 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

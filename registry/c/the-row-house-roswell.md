@@ -13,7 +13,7 @@ The Row House is a gym in Roswell, GA at 10800 Alpharetta Highway #Suite 300, Ro
 - Website: https://www.therowhouse.com/location/roswell
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 21% of gyms in Atlanta, #4 of 16 gyms in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 20% of gyms in Atlanta, #4 of 16 gyms in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

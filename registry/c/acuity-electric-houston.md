@@ -13,7 +13,7 @@ Acuity Electric is an electrician in Houston, TX at 7814 Fulton Street, Houston,
 - Website: https://acuityelectric.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 89% of electricians in Houston, #6 of 6 electricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 89% of electricians in Houston, #6 of 6 electricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

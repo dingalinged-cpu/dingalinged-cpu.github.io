@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Buffalo Grove, IL at 1537 Deerfield Par
 - Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 56% of waxing salons in Chicago, #1 of 1 waxing salons in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 56% of waxing salons in Chicago, #1 of 1 waxing salons in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

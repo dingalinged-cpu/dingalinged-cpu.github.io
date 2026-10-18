@@ -13,7 +13,7 @@ RE/MAX Legends is a real estate agency in Spring, TX at 5910 FM 2920, Spring, TX
 - Website: https://www.remax.com/real-estate-offices/remax-legends-spring-tx/100424055
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 91% of real estate agencys in Houston, #3 of 3 real estate agencys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 90% of real estate agencys in Houston, #3 of 3 real estate agencys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ WhiteWater Express Car Wash is a car wash in Garland, TX at 3331 Arapaho Road, G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 75% of car washes in Dallas–Fort Worth, #4 of 4 car washes in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 74% of car washes in Dallas–Fort Worth, #4 of 4 car washes in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

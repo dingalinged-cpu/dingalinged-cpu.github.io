@@ -13,7 +13,7 @@ The UPS Store is a printing service in Mount Prospect, IL at 1749 West Golf Road
 - Website: https://locations.theupsstore.com/il/mount-prospect/1749-w-golf-rd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 41% of printing services in Chicago, #1 of 3 printing services in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 40% of printing services in Chicago, #1 of 3 printing services in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

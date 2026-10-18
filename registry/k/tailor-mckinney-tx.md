@@ -6,7 +6,7 @@ Also answers: tailor in Mckinney, TX; tailor near me (Mckinney, TX); best tailor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tailor - All About Fashion | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Tailor - All About Fashion is a tailor in McKinney, TX at 8930 State Highway 121 #510, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/tailor-all-about-fashion-mckinney/
+1. Tailor - All About Fashion | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Tailor - All About Fashion is a tailor in McKinney, TX at 8930 State Highway 121 #510, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/tailor-all-about-fashion-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor mckinney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

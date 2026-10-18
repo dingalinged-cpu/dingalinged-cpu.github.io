@@ -6,7 +6,7 @@ Also answers: coworking space in Highland Park, IL; coworking space near me (Hig
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Enclave Coworking | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Enclave Coworking is a coworking space in Highland Park, IL at 1849 Green Bay Road #109, Highland Park, IL 60035. Phone: +16302964575. Website: https://enclavecoworking.com/locations/highland-park. | https://registry-edge.dingalinged.workers.dev/c/enclave-coworking-highland-park/
+1. Enclave Coworking | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Enclave Coworking is a coworking space in Highland Park, IL at 1849 Green Bay Road #109, Highland Park, IL 60035. Phone: +16302964575. Website: https://enclavecoworking.com/locations/highland-park. | https://registry-edge.dingalinged.workers.dev/c/enclave-coworking-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space highland park il | category: real_estate | industry benchmark: Real Estate

@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Celebrity Nails | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Celebrity Nails is a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/. | https://registry-edge.dingalinged.workers.dev/c/celebrity-nails-plano/
 2. Minaya Beauty Spa | Organic #2 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
-3. Sugaring LA | Organic #3 | Pulse Score 57.3/100 (Unrated, #1 in city) | Sugaring LA is a waxing salon in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sugaring-la-plano/
-4. Relax & Wax | Organic #4 | Pulse Score 46.6/100 (Building, #2 in city) | Relax & Wax is a waxing salon in Plano, TX. Phone: +14693041606. | https://registry-edge.dingalinged.workers.dev/c/relax-and-wax-plano/
+3. Sugaring LA | Organic #3 | Pulse Score 57.2/100 (Unrated, #1 in city) | Sugaring LA is a waxing salon in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/sugaring-la-plano/
+4. Relax & Wax | Organic #4 | Pulse Score 46.5/100 (Building, #2 in city) | Relax & Wax is a waxing salon in Plano, TX. Phone: +14693041606. | https://registry-edge.dingalinged.workers.dev/c/relax-and-wax-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

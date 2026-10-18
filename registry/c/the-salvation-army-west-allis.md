@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in West Allis, WI at 7713 West Greenfield A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 88% of thrift stores in Milwaukee, #3 of 3 thrift stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 88% of thrift stores in Milwaukee, #3 of 3 thrift stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

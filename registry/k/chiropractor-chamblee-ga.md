@@ -6,7 +6,7 @@ Also answers: chiropractor in Chamblee, GA; chiropractor near me (Chamblee, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peak Performance Chiropractic & Rehabilitation | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Peak Performance Chiropractic & Rehabilitation is a chiropractor in Chamblee, GA at 3700 Longview Drive #Ste 100, Chamblee, GA 30341. Phone: +17708818534. Website: https://peakperformanceatl.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-performance-chiropractic-and-rehabilitation-chamblee/
+1. Peak Performance Chiropractic & Rehabilitation | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Peak Performance Chiropractic & Rehabilitation is a chiropractor in Chamblee, GA at 3700 Longview Drive #Ste 100, Chamblee, GA 30341. Phone: +17708818534. Website: https://peakperformanceatl.com/. | https://registry-edge.dingalinged.workers.dev/c/peak-performance-chiropractic-and-rehabilitation-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor chamblee ga | category: Health & medical | industry benchmark: Physicians & Surgeons

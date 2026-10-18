@@ -13,7 +13,7 @@ SWAT Services is a pest control company in Cobb County, GA at 1990 Lower Roswell
 - Website: https://www.swatservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 28% of pest control companys in Atlanta, #1 of 5 pest control companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of pest control companys in Atlanta, #1 of 5 pest control companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoo
 - Website: https://www.hollywoodfeed.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 10:00-18:30; PH closed
-- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 74% of pet stores in Dallas–Fort Worth, #3 of 5 pet stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 73% of pet stores in Dallas–Fort Worth, #3 of 5 pet stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

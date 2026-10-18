@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Bibbentucker's | Organic #1 | Pulse Score 62.1/100 (Unrated, #5 in city) | Bibbentucker's is a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/. | https://registry-edge.dingalinged.workers.dev/c/bibbentuckers-dallas/
 2. Swiss The Greener | Organic #2 | Pulse Score 60.7/100 (Unrated, #1 in city) | Swiss The Greener is a dry cleaner in University Park, TX at 3030 Mockingbird Lane, University Park, TX. | https://registry-edge.dingalinged.workers.dev/c/swiss-the-greener-university-park/
-3. Nu-Care Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #19 in city) | Nu-Care Cleaners is a dry cleaner in Dallas, TX at 6927 Hillcrest Avenue, Dallas, TX 75205. | https://registry-edge.dingalinged.workers.dev/c/nu-care-cleaners-dallas/
+3. Nu-Care Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #18 in city) | Nu-Care Cleaners is a dry cleaner in Dallas, TX at 6927 Hillcrest Avenue, Dallas, TX 75205. | https://registry-edge.dingalinged.workers.dev/c/nu-care-cleaners-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners university park tx | category: Professional & financial services | industry benchmark: Finance & Insurance

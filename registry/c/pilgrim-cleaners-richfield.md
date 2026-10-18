@@ -13,7 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Ric
 - Website: https://mypilgrimcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 65% of dry cleaners in Minneapolis–St. Paul, #1 of 1 dry cleaners in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 58% of dry cleaners in Minneapolis–St. Paul, #1 of 1 dry cleaners in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

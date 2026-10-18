@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Houston, TX at 11911 North Freeway, Houston
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 52% of self-storage facilitys in Houston, #37 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 51% of self-storage facilitys in Houston, #37 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

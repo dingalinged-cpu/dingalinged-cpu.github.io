@@ -6,7 +6,7 @@ Also answers: dog groomer in Corinth, TX; dog groomer near me (Corinth, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy Dog Spa | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Happy Dog Spa is a dog groomer in Corinth, TX at 4451 Swisher Road #Suite 1oo, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/happy-dog-spa-corinth/
+1. Happy Dog Spa | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Happy Dog Spa is a dog groomer in Corinth, TX at 4451 Swisher Road #Suite 1oo, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/happy-dog-spa-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer corinth tx | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ PetSmart is a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden P
 - Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 50.3/100 — Fair — top 56% of pet stores in Minneapolis–St. Paul, #1 of 3 pet stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 52% of pet stores in Minneapolis–St. Paul, #1 of 3 pet stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

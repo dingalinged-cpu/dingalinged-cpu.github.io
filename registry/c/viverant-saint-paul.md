@@ -13,7 +13,7 @@ Viverant is a physical therapy clinic in Saint Paul, MN at 30 Fairview Avenue So
 - Website: https://www.viverant.com/locations/st._paul__mn/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 79% of physical therapy clinics in Minneapolis–St. Paul, #1 of 2 physical therapy clinics in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 79% of physical therapy clinics in Minneapolis–St. Paul, #1 of 2 physical therapy clinics in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kidz It Iz Child Care Center is a preschool in Milwaukee, WI at 2378 North Docto
 - Website: https://www.kidzitizccc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-24:00; Sa-Su 06:00-19:30
-- Pulse Score: 64.8/100 — Good — top 4% of preschools in Milwaukee, #1 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 4% of preschools in Milwaukee, #1 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

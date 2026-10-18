@@ -6,7 +6,7 @@ Also answers: dry cleaners in Olathe, KS; dry cleaners near me (Olathe, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pride Cleaners - Heritage Plaza | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Pride Cleaners - Heritage Plaza is a dry cleaner in Olathe, KS at 16955 West 151st Street #B, Olathe, KS 66062. Phone: +19137649491. Website: https://www.pridecleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-heritage-plaza-olathe/
+1. Pride Cleaners - Heritage Plaza | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Pride Cleaners - Heritage Plaza is a dry cleaner in Olathe, KS at 16955 West 151st Street #B, Olathe, KS 66062. Phone: +19137649491. Website: https://www.pridecleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-heritage-plaza-olathe/
 2. Green Cleaners | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Green Cleaners is a dry cleaner in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/green-cleaners-olathe/
 
 ## Market data (for advertisers and agents)

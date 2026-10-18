@@ -13,7 +13,7 @@ Uptown Ford is an used car dealer in Wauwatosa, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41/100 — Building — top 100% of used car dealers in Milwaukee, #2 of 2 used car dealers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41/100 — Building — top 100% of used car dealers in Milwaukee, #2 of 2 used car dealers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

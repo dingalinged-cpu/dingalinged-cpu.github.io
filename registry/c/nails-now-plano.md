@@ -13,7 +13,7 @@ Nails Now! is a nail salon in Plano, TX at 1501 Preston Road #350, Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 31% of nail salons in Dallas–Fort Worth, #8 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Dallas–Fort Worth, #8 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

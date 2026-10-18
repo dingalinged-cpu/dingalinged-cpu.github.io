@@ -13,7 +13,7 @@ Project Body ATL is a gym in Atlanta, GA at 1 Moreland Avenue Southeast #A, Atla
 - Website: https://projectbodyatl.com/
 - Email: projectbodyatl@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su off
-- Pulse Score: 64.5/100 — Good — top 3% of gyms in Atlanta, #1 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 3% of gyms in Atlanta, #1 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

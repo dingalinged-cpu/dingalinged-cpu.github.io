@@ -13,7 +13,7 @@ Retro Fitness is a gym in Carol Stream, IL at 608 East North Avenue, Carol Strea
 - Website: https://www.retrofitness.com/location/carolstreamil
 - Email: carolstreamil@retrofitness.net
 - Opening hours (OSM syntax): Mo-Fr 04:30-23:00;Sa 07:00-19:00;Su 07:00-18:00
-- Pulse Score: 49.7/100 — Building — top 47% of gyms in Chicago, #1 of 3 gyms in Carol Stream (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 46% of gyms in Chicago, #1 of 3 gyms in Carol Stream (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

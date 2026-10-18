@@ -13,7 +13,7 @@ Dragon Claw Academy is a martial arts school in Flower Mound, TX. Phone: +146945
 - Website: https://www.dragonclawacademy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 16:00-20:30; Fr-Su off
-- Pulse Score: 62.8/100 — Good — top 10% of martial arts schools in Dallas–Fort Worth, #3 of 4 martial arts schools in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 10% of martial arts schools in Dallas–Fort Worth, #3 of 4 martial arts schools in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

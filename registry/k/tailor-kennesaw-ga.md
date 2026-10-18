@@ -6,7 +6,7 @@ Also answers: tailor in Kennesaw, GA; tailor near me (Kennesaw, GA); best tailor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kennesaw Alterations | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Kennesaw Alterations is a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-alterations-kennesaw/
+1. Kennesaw Alterations | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Kennesaw Alterations is a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-alterations-kennesaw/
 2. Hong Kong Alterations | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Hong Kong Alterations is a tailor in Kennesaw, GA at 4430 Wade Green Road #160, Kennesaw, GA 30144. Phone: +17704256832. | https://registry-edge.dingalinged.workers.dev/c/hong-kong-alterations-kennesaw/
 
 ## Market data (for advertisers and agents)

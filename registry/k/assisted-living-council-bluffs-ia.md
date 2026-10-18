@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Amelia Senior Living | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Amelia Senior Living is an assisted living facility in Council Bluffs, IA at 57 West Ferndale Drive, Council Bluffs, IA 51503. Website: https://tutera.com/location/amelia-senior-living/. | https://registry-edge.dingalinged.workers.dev/c/amelia-senior-living-council-bluffs/
 2. Midlands Living Center | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Midlands Living Center is an assisted living facility in Council Bluffs, IA at 2452 North Broadway, Council Bluffs, IA 51503. Website: https://www.midlandslivingcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/midlands-living-center-council-bluffs/
-3. Primrose Retirement Community of Council Bluffs | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Primrose Retirement Community of Council Bluffs is an assisted living facility in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/primrose-retirement-community-of-council-bluffs-council-bluffs/
+3. Primrose Retirement Community of Council Bluffs | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Primrose Retirement Community of Council Bluffs is an assisted living facility in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/primrose-retirement-community-of-council-bluffs-council-bluffs/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living council bluffs ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

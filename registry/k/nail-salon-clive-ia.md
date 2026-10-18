@@ -7,7 +7,7 @@ Also answers: nail salon in Clive, IA; nail salon near me (Clive, IA); best nail
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. T & D Nails | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | T & D Nails is a nail salon in Clive, IA at 1800 Northwest 86th Street #Unit 3, Clive, IA 50325. Phone: +15153364651. Website: https://tanddnailsclive.com/. | https://registry-edge.dingalinged.workers.dev/c/t-and-d-nails-clive/
-2. Miya's Nails & Spa | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Miya's Nails & Spa is a nail salon in Clive, IA at 9753 University Avenue, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/miyas-nails-and-spa-clive/
+2. Miya's Nails & Spa | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Miya's Nails & Spa is a nail salon in Clive, IA at 9753 University Avenue, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/miyas-nails-and-spa-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon clive ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

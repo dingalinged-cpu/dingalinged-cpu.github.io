@@ -6,7 +6,7 @@ Also answers: tanning salon in Roswell, GA; tanning salon near me (Roswell, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Roswell, GA at 2570 Holcomb Bridge Road, Roswell, GA 30076. Website: https://palmbeachtan.com/locations/GA/Roswell-Holcomb-Bridge-Road. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-roswell/
+1. Palm Beach Tan | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Roswell, GA at 2570 Holcomb Bridge Road, Roswell, GA 30076. Website: https://palmbeachtan.com/locations/GA/Roswell-Holcomb-Bridge-Road. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon roswell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

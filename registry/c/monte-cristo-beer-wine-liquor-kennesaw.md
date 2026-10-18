@@ -13,7 +13,7 @@ Monte Cristo Beer - Wine - Liquor is a liquor store in Kennesaw, GA at 1635 Old 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-22:00; Su 12:30-19:00
-- Pulse Score: 61.2/100 — Good — top 28% of liquor stores in Atlanta, #4 of 7 liquor stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 27% of liquor stores in Atlanta, #4 of 7 liquor stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

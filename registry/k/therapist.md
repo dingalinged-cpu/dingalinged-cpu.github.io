@@ -1,4 +1,4 @@
-The top unpaid therapist listing for the United States is Women's Care Center (a therapy practice in Milwaukee, WI at 1441 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142232610. Website: https://www.womenscarecenter.org/locations/milwaukee/). 338 therapist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for the United States is Women's Care Center (a therapy practice in Milwaukee, WI at 1441 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142232610. Website: https://www.womenscarecenter.org/locations/milwaukee/). 517 therapist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in the United States?
 
@@ -9,83 +9,102 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Women's Care Center | Organic #1 | Pulse Score 66.8/100 (Good, #1 in city) | Women's Care Center is a therapy practice in Milwaukee, WI at 1441 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142232610. Website: https://www.womenscarecenter.org/locations/milwaukee/. | https://registry-edge.dingalinged.workers.dev/c/womens-care-center-milwaukee/
 2. DFW Diagnostics and Consulting | Organic #2 | Pulse Score 64.8/100 (Good, #1 in city) | DFW Diagnostics and Consulting is a therapy practice in Dallas, TX at 509 North Winnetka Avenue #102B-4, Dallas, TX 75208. Phone: +12144179538. Website: https://dfwdiag.com/. | https://registry-edge.dingalinged.workers.dev/c/dfw-diagnostics-and-consulting-dallas/
 3. RETRAC Enterprises | Organic #3 | Pulse Score 64.7/100 (Good, #2 in city) | RETRAC Enterprises is a therapy practice in Milwaukee, WI at 4117 North Green Bay Avenue, Milwaukee, WI 53209. Phone: +14144330780. Website: https://retracenterprisesinc.com/. | https://registry-edge.dingalinged.workers.dev/c/retrac-enterprises-milwaukee/
-4. Premier Psych Services | Organic #4 | Pulse Score 64.2/100 (Good, #1 in city) | Premier Psych Services is a therapy practice in Houston, TX at 3730 Kirby Drive #800, Houston, TX 77098. Phone: +17135217575. Website: https://premierpsychservices.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-psych-services-houston/
-5. William Schultz Counselling | Organic #5 | Pulse Score 64/100 (Unrated, #1 in city) | William Schultz Counselling is a therapy practice in Saint Paul, MN at 6 5th Street West, Saint Paul, MN 55102. Phone: +16128751890. Website: https://www.williamschultzcounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/william-schultz-counselling-saint-paul/
-6. Tides Mental Health | Organic #6 | Pulse Score 64/100 (Unrated, #1 in city) | Tides Mental Health is a therapy practice in Chicago, IL at 3000 North Halsted Street #803, Chicago, IL 60657. Phone: +13123761665. Website: https://tidesmentalhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/tides-mental-health-chicago/
-7. HIR Wellness Institute | Organic #7 | Pulse Score 63.9/100 (Good, #3 in city) | HIR Wellness Institute is a therapy practice in Milwaukee, WI at 3136 West Kilbourn Avenue, Milwaukee, WI 53208. Phone: +14147635815. Website: https://www.hirwellness.org/. | https://registry-edge.dingalinged.workers.dev/c/hir-wellness-institute-milwaukee/
-8. Action Behavior Centers | Organic #8 | Pulse Score 63.5/100 (Unrated, #1 in city) | Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Research Forest Drive #500, The Woodlands, TX 77381. Phone: +17133886410. Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-the-woodlands/
-9. Mental Health Resources | Organic #9 | Pulse Score 63.4/100 (Good, #2 in city) | Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/. | https://registry-edge.dingalinged.workers.dev/c/mental-health-resources-saint-paul/
-10. Pauline A Clansy Edd Psychologist | Organic #10 | Pulse Score 63.3/100 (Unrated, #2 in city) | Pauline A Clansy Edd Psychologist is a therapy practice in Houston, TX at 8303 Southwest Freeway, Houston, TX 77074. Phone: +17137778633. Website: https://paulineclansypsychology.com/. | https://registry-edge.dingalinged.workers.dev/c/pauline-a-clansy-edd-psychologist-houston/
-11. ICF Consultants | Organic #11 | Pulse Score 63.1/100 (Good, #4 in city) | ICF Consultants is a therapy practice in Milwaukee, WI at 1524 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142732220. Website: https://www.icfconsultants.com/. | https://registry-edge.dingalinged.workers.dev/c/icf-consultants-milwaukee/
-12. Mind Body Optimization | Organic #12 | Pulse Score 63.1/100 (Unrated, #1 in city) | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://registry-edge.dingalinged.workers.dev/c/mind-body-optimization-southlake/
-13. Healing Psychotherapy Practices Of Georgia | Organic #13 | Pulse Score 62.7/100 (Good, #1 in city) | Healing Psychotherapy Practices Of Georgia is a therapy practice in Cobb County, GA at 3750 Palladian Village Drive #320, Cobb County, GA. Phone: +17707920079. Website: https://healingpsychotherapyga.com/. | https://registry-edge.dingalinged.workers.dev/c/healing-psychotherapy-practices-of-georgia-cobb-county/
-14. Therapies East Associates | Organic #14 | Pulse Score 62.7/100 (Unrated, #5 in city) | Therapies East Associates is a therapy practice in Milwaukee, WI at 827 North Cass Street, Milwaukee, WI 53202. Phone: +14142787980. Website: https://therapieseast.com/. | https://registry-edge.dingalinged.workers.dev/c/therapies-east-associates-milwaukee/
-15. Precision Psychiatry | Organic #15 | Pulse Score 62.7/100 (Unrated, #1 in city) | Precision Psychiatry is a therapy practice in West Des Moines, IA at 1701 48th Street #Suite 110, West Des Moines, IA 50266. Phone: +15155141186. Website: https://www.precisionpsychiowa.com/. | https://registry-edge.dingalinged.workers.dev/c/precision-psychiatry-west-des-moines/
-16. Steadfast Psychiatry | Organic #16 | Pulse Score 62.6/100 (Good, #1 in city) | Steadfast Psychiatry is a therapy practice in Woodstock, GA at 8744 Main Street #404, Woodstock, GA. Phone: +16788001411. Website: https://www.steadfastpsych.com/. | https://registry-edge.dingalinged.workers.dev/c/steadfast-psychiatry-woodstock/
-17. Yahara Counseling Center LLC | Organic #17 | Pulse Score 62.6/100 (Unrated, #1 in city) | Yahara Counseling Center LLC is a therapy practice in Monona, WI at 6320 Monona Drive #201, Monona, WI 53716. Phone: +16088075991. Website: https://yaharacounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/yahara-counseling-center-llc-monona/
-18. Jennifer Sparks LPC, NCC, CSAT, SEP | Organic #18 | Pulse Score 62.4/100 (Good, #1 in city) | Jennifer Sparks LPC, NCC, CSAT, SEP is a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-sparks-lpc-ncc-csat-sep-rockwall/
-19. Elevate Counseling + Wellness | Organic #19 | Pulse Score 62.3/100 (Good, #1 in city) | Elevate Counseling + Wellness is a therapy practice in Westmont, IL at 305 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305808080. Website: https://www.elevatecounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/elevate-counseling-wellness-westmont/
-20. Paramount Counseling Services, PLLC | Organic #20 | Pulse Score 62.3/100 (Unrated, #1 in city) | Paramount Counseling Services, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Boulevard #408, Northbrook, IL 60062. Phone: +18473053555. Website: https://www.paramountil.com/. | https://registry-edge.dingalinged.workers.dev/c/paramount-counseling-services-pllc-northbrook/
-21. Medi Weightloss | Organic #21 | Pulse Score 62.2/100 (Good, #1 in city) | Medi Weightloss is a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/. | https://registry-edge.dingalinged.workers.dev/c/medi-weightloss-flower-mound/
-22. Elite Spectrum ABA | Organic #22 | Pulse Score 62.1/100 (Unrated, #1 in city) | Elite Spectrum ABA is a therapy practice in Baytown, TX at 3711 Garth Road, Baytown, TX 77521. Phone: +18322813997. Website: https://www.elitespectrumaba.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-spectrum-aba-baytown/
-23. Smelling the Difference, LLC | Organic #23 | Pulse Score 62.1/100 (Unrated, #2 in city) | Smelling the Difference, LLC is a therapy practice in Chicago, IL at 1325 South Wabash Avenue #302, Chicago, IL 60605. Phone: +13126071385. Website: https://www.mtdintl.com/. | https://registry-edge.dingalinged.workers.dev/c/smelling-the-difference-llc-chicago/
-24. SociAbility Therapy, PLLC | Organic #24 | Pulse Score 62.1/100 (Unrated, #2 in city) | SociAbility Therapy, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Blvd #408B, Northbrook, IL 60062. Phone: +18475593240. Website: https://www.sociabilitychicago.org/. | https://registry-edge.dingalinged.workers.dev/c/sociability-therapy-pllc-northbrook/
-25. Roots Wellness Center | Organic #25 | Pulse Score 62/100 (Good, #1 in city) | Roots Wellness Center is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/. | https://registry-edge.dingalinged.workers.dev/c/roots-wellness-center-kennesaw/
-26. Impact Infusions | Organic #26 | Pulse Score 62/100 (Unrated, #1 in city) | Impact Infusions is a therapy practice in Argyle, TX at 415 South US Highway 377 #115, Argyle, TX 76226. Phone: +19404658118. Website: https://impactinfusions.com/. | https://registry-edge.dingalinged.workers.dev/c/impact-infusions-argyle/
-27. Natalis Counseling & Psychology Solutions | Organic #27 | Pulse Score 61.9/100 (Unrated, #3 in city) | Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/. | https://registry-edge.dingalinged.workers.dev/c/natalis-counseling-and-psychology-solutions-saint-paul/
-28. A Better You Wellness | Organic #28 | Pulse Score 61.8/100 (Unrated, #1 in city) | A Better You Wellness is a therapy practice in Frisco, TX at 5300 Town and Country Boulevard #240-28, Frisco, TX 75034. Phone: +18328108034. Website: https://abetteryouwellnessus.com/. | https://registry-edge.dingalinged.workers.dev/c/a-better-you-wellness-frisco/
-29. Atlanta Sober Living | Organic #29 | Pulse Score 61.7/100 (Unrated, #1 in city) | Atlanta Sober Living is a therapy practice in Atlanta, GA at 828 Ralph McGill Boulevard ##308, Atlanta, GA 30306. Phone: +14049913355. Website: https://atlantasoberliving.org/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-sober-living-atlanta/
-30. Houston DBT Center | Organic #30 | Pulse Score 61.7/100 (Unrated, #3 in city) | Houston DBT Center is a therapy practice in Houston, TX at 1348 Heights Boulevard, Houston, TX 77008. Phone: +17139732800. Website: https://houstondbtcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-dbt-center-houston/
-31. Systemic Perspectives | Organic #31 | Pulse Score 61.7/100 (Unrated, #1 in city) | Systemic Perspectives is a therapy practice in Brookfield, WI at 2511 North 124th Street #106, Brookfield, WI 53005. Phone: +12626414347. Website: https://systemicperspectives.com/. | https://registry-edge.dingalinged.workers.dev/c/systemic-perspectives-brookfield/
-32. Totally Spaced Out | Organic #32 | Pulse Score 61.7/100 (Unrated, #1 in city) | Totally Spaced Out is a therapy practice in Edgerton, WI at 200 Interstate Boulevard, Edgerton, WI 53534. Phone: +18778078672. Website: https://totallyspacedout.com/. | https://registry-edge.dingalinged.workers.dev/c/totally-spaced-out-edgerton/
-33. Michael Haas Brophy, M.D. | Organic #33 | Pulse Score 61.6/100 (Unrated, #1 in city) | Michael Haas Brophy, M.D. is a therapy practice in Bedford, TX at 2700 Tibbets Drive #404, Bedford, TX 76022. Phone: +18172836300. Website: https://michaelhaasbrophymd.com/. | https://registry-edge.dingalinged.workers.dev/c/michael-haas-brophy-m-d-bedford/
-34. Minnesota Center for Psychology | Organic #34 | Pulse Score 61.6/100 (Unrated, #4 in city) | Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516444100. Website: https://www.minnesotacenterforpsychology.com/. | https://registry-edge.dingalinged.workers.dev/c/minnesota-center-for-psychology-saint-paul/
-35. The Institute for Rational Well-Being | Organic #35 | Pulse Score 61.6/100 (Unrated, #5 in city) | The Institute for Rational Well-Being is a therapy practice in Saint Paul, MN at 1919 University Avenue ##425, Saint Paul, MN 55104. Phone: +16512438200. Website: https://www.irwb.org/. | https://registry-edge.dingalinged.workers.dev/c/the-institute-for-rational-well-being-saint-paul/
-36. Sereneco Wellness Center | Organic #36 | Pulse Score 61.5/100 (Unrated, #2 in city) | Sereneco Wellness Center is a therapy practice in Frisco, TX at 400 Stonebrook Parkway #204, Frisco, TX 75036. Phone: +19722590109. Website: https://serenecowellnesscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/sereneco-wellness-center-frisco/
-37. Guided Path Psychological Services, LLC | Organic #37 | Pulse Score 61.5/100 (Unrated, #1 in city) | Guided Path Psychological Services, LLC is a therapy practice in Palatine, IL at 201 East Dundee Road, Palatine, IL 60074. Phone: +18478093031. Website: https://www.guidedpathpsychologicalservices.com/. | https://registry-edge.dingalinged.workers.dev/c/guided-path-psychological-services-llc-palatine/
-38. Philip J. Metres Jr., Ph.D., P.C. | Organic #38 | Pulse Score 61.4/100 (Unrated, #1 in city) | Philip J. Metres Jr., Ph.D., P.C. is a therapy practice in Lincolnshire, IL at 175 Olde Half Day Road #205, Lincolnshire, IL 60069. Phone: +18474983623. Website: https://veteranhealer.com/. | https://registry-edge.dingalinged.workers.dev/c/philip-j-metres-jr-ph-d-p-c-lincolnshire/
-39. Throveworks Counseling & Psychiatry | Organic #39 | Pulse Score 61.3/100 (Good, #2 in city) | Throveworks Counseling & Psychiatry is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #903, Kennesaw, GA. Phone: +17703434919. Website: https://thriveworks.com/kennesaw-counseling/. | https://registry-edge.dingalinged.workers.dev/c/throveworks-counseling-and-psychiatry-kennesaw/
-40. Essential Care Centers | Organic #40 | Pulse Score 61.2/100 (Unrated, #1 in city) | Essential Care Centers is a therapy practice in Minneapolis, MN at 3101 Irving Avenue South, Minneapolis, MN 55408. Phone: +16124412024. Website: https://essentialcarecenters.com/. | https://registry-edge.dingalinged.workers.dev/c/essential-care-centers-minneapolis/
-41. Howard Brown Health Counseling Center | Organic #41 | Pulse Score 61.1/100 (Good, #3 in city) | Howard Brown Health Counseling Center is a therapy practice in Chicago, IL at 3948 North Sheridan Road, Chicago, IL 60613. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/counseling-center/. | https://registry-edge.dingalinged.workers.dev/c/howard-brown-health-counseling-center-chicago/
-42. Rockwall Counseling & Wellness | Organic #42 | Pulse Score 61.1/100 (Unrated, #2 in city) | Rockwall Counseling & Wellness is a therapy practice in Rockwall, TX at 307 North Fannin Street, Rockwall, TX 75087. Phone: +19727427038. Website: https://www.downtownrockwallcounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-counseling-and-wellness-rockwall/
-43. LifeStance Health | Organic #43 | Pulse Score 61.1/100 (Unrated, #1 in city) | LifeStance Health is a therapy practice in Greenfield, WI at 4811 South 76th Street #Suite 208, Greenfield, WI 53220. Phone: +12627891191. Website: https://lifestance.com/location/greenfield-wi-4811-s-76th-st/. | https://registry-edge.dingalinged.workers.dev/c/lifestance-health-greenfield/
-44. Bar Talk with Jay | Organic #44 | Pulse Score 61/100 (Unrated, #1 in city) | Bar Talk with Jay is a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/. | https://registry-edge.dingalinged.workers.dev/c/bar-talk-with-jay-powder-springs/
-45. Lanier Family Psychiatry | Organic #45 | Pulse Score 61/100 (Unrated, #1 in city) | Lanier Family Psychiatry is a therapy practice in Cumming, GA at 3820 Windermere Parkway #603, Cumming, GA 30041. Phone: +16786078334. Website: https://lanierfamilypsychiatry.com/. | https://registry-edge.dingalinged.workers.dev/c/lanier-family-psychiatry-cumming/
-46. Above & Beyond ABA Therapy | Organic #46 | Pulse Score 60.9/100 (Unrated, #1 in city) | Above & Beyond ABA Therapy is a therapy practice in Omaha, NE at 10830 Old Mill Road #101, Omaha, NE 68154. Phone: +14022521363. Website: https://www.abtaba.com/. | https://registry-edge.dingalinged.workers.dev/c/above-and-beyond-aba-therapy-omaha/
-47. Ambitions ABA | Organic #47 | Pulse Score 60.8/100 (Unrated, #1 in city) | Ambitions ABA is a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/. | https://registry-edge.dingalinged.workers.dev/c/ambitions-aba-lincolnwood/
-48. Frisco Behavioral Health Group, LLC | Organic #48 | Pulse Score 60.8/100 (Unrated, #3 in city) | Frisco Behavioral Health Group, LLC is a therapy practice in Frisco, TX at 4500 Hillcrest Road #115, Frisco, TX 75035. Phone: +14692136400. Website: https://www.friscobehavioralhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/frisco-behavioral-health-group-llc-frisco/
-49. Therapeutic Enhancements | Organic #49 | Pulse Score 60.7/100 (Unrated, #4 in city) | Therapeutic Enhancements is a therapy practice in Houston, TX at 21902 State Hwy 249, Houston, TX 77070. Phone: +18322832758. Website: https://therapeuticenhancements.net/. | https://registry-edge.dingalinged.workers.dev/c/therapeutic-enhancements-houston/
-50. Rogers Behavioral Health | Organic #50 | Pulse Score 60.6/100 (Unrated, #1 in city) | Rogers Behavioral Health is a therapy practice in West Allis, WI at 2424 South 102nd Street, West Allis, WI 53227. Phone: +18007674411. Website: https://rogersbh.org/locations/west-allis/west-allis-child-and-adolescent-center. | https://registry-edge.dingalinged.workers.dev/c/rogers-behavioral-health-west-allis/
+4. IN Focus First | Organic #4 | Pulse Score 64.6/100 (Good, #1 in city) | IN Focus First is a therapy practice in Carmel, IN at 550 Congressional Boulevard #350, Carmel, IN 46032. Phone: +13178868118. Website: https://infocusfirst.com/locations/in-focus-first-carmel/. | https://registry-edge.dingalinged.workers.dev/c/in-focus-first-carmel/
+5. Premier Psych Services | Organic #5 | Pulse Score 64.2/100 (Good, #1 in city) | Premier Psych Services is a therapy practice in Houston, TX at 3730 Kirby Drive #800, Houston, TX 77098. Phone: +17135217575. Website: https://premierpsychservices.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-psych-services-houston/
+6. William Schultz Counselling | Organic #6 | Pulse Score 64/100 (Unrated, #1 in city) | William Schultz Counselling is a therapy practice in Saint Paul, MN at 6 5th Street West, Saint Paul, MN 55102. Phone: +16128751890. Website: https://www.williamschultzcounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/william-schultz-counselling-saint-paul/
+7. Tides Mental Health | Organic #7 | Pulse Score 64/100 (Unrated, #1 in city) | Tides Mental Health is a therapy practice in Chicago, IL at 3000 North Halsted Street #803, Chicago, IL 60657. Phone: +13123761665. Website: https://tidesmentalhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/tides-mental-health-chicago/
+8. HIR Wellness Institute | Organic #8 | Pulse Score 63.9/100 (Good, #3 in city) | HIR Wellness Institute is a therapy practice in Milwaukee, WI at 3136 West Kilbourn Avenue, Milwaukee, WI 53208. Phone: +14147635815. Website: https://www.hirwellness.org/. | https://registry-edge.dingalinged.workers.dev/c/hir-wellness-institute-milwaukee/
+9. Hugh Lane Wellness Foundation | Organic #9 | Pulse Score 63.8/100 (Unrated, #2 in city) | Hugh Lane Wellness Foundation is a lawyer in Pittsburgh, PA at 925 Brighton Road, Pittsburgh, PA 15233. Phone: +14126263812. Website: https://hughlane.org/. | https://registry-edge.dingalinged.workers.dev/c/hugh-lane-wellness-foundation-pittsburgh/
+10. Deerfield Twp Family Counseling Center | Organic #10 | Pulse Score 63.7/100 (Unrated, #1 in city) | Deerfield Twp Family Counseling Center is a therapy practice in Mason, OH at 7567 Central Parke Boulevard #Suite E, Mason, OH 45040. Phone: +15137703231. Website: https://www.deerfieldtwpfamilycounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/deerfield-twp-family-counseling-center-mason/
+11. Zalfi | Organic #11 | Pulse Score 63.7/100 (Unrated, #1 in city) | Zalfi is a therapy practice in Greenwood, IN at 821 N State Road 135, Greenwood, IN 46142. Phone: +13172967707. Website: https://zalfi.org/. | https://registry-edge.dingalinged.workers.dev/c/zalfi-greenwood/
+12. NutritionWorks Integrative Health and Nutrition | Organic #12 | Pulse Score 63.6/100 (Unrated, #1 in city) | NutritionWorks Integrative Health and Nutrition is a therapy practice in Denver, CO at 4155 East Jewell Avenue #714, Denver, CO 80222. Phone: +17205563113. Website: https://www.nutritionworksofcolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/nutritionworks-integrative-health-and-nutrition-denver/
+13. Fox Chapel Psychiatry | Organic #13 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fox Chapel Psychiatry is a therapy practice in Pittsburgh, PA at 1386 Old Freeport Road #1AF, Pittsburgh, PA 15238. Phone: +14124077876. Website: https://foxchapelpsych.com/. | https://registry-edge.dingalinged.workers.dev/c/fox-chapel-psychiatry-pittsburgh/
+14. Action Behavior Centers | Organic #14 | Pulse Score 63.5/100 (Unrated, #1 in city) | Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Research Forest Drive #500, The Woodlands, TX 77381. Phone: +17133886410. Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-the-woodlands/
+15. Colorado In-Home Counseling | Organic #15 | Pulse Score 63.5/100 (Unrated, #2 in city) | Colorado In-Home Counseling is a therapy practice in Denver, CO at 2000 South Colorado Boulevard #2000, Denver, CO 80222. Phone: +13035783549. Website: https://coloradocounselinginhome.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-in-home-counseling-denver/
+16. Mental Health Resources | Organic #16 | Pulse Score 63.4/100 (Good, #2 in city) | Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/. | https://registry-edge.dingalinged.workers.dev/c/mental-health-resources-saint-paul/
+17. Pauline A Clansy Edd Psychologist | Organic #17 | Pulse Score 63.3/100 (Unrated, #2 in city) | Pauline A Clansy Edd Psychologist is a therapy practice in Houston, TX at 8303 Southwest Freeway, Houston, TX 77074. Phone: +17137778633. Website: https://paulineclansypsychology.com/. | https://registry-edge.dingalinged.workers.dev/c/pauline-a-clansy-edd-psychologist-houston/
+18. Freedom Recovery | Organic #18 | Pulse Score 63.3/100 (Unrated, #1 in city) | Freedom Recovery is a therapy practice in London, OH at 26 East High Street, London, OH 43140. Phone: +17409561302. Website: https://www.freedomrecovery.us/. | https://registry-edge.dingalinged.workers.dev/c/freedom-recovery-london/
+19. ICF Consultants | Organic #19 | Pulse Score 63.2/100 (Good, #4 in city) | ICF Consultants is a therapy practice in Milwaukee, WI at 1524 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142732220. Website: https://www.icfconsultants.com/. | https://registry-edge.dingalinged.workers.dev/c/icf-consultants-milwaukee/
+20. Macomb Family Services | Organic #20 | Pulse Score 63.1/100 (Unrated, #1 in city) | Macomb Family Services is a therapy practice in Clinton Township, MI at 36975 Utica Road #Suite 104, Clinton Township, MI 48036. Phone: +15862263440. Website: https://macombfamily.org/contact/. | https://registry-edge.dingalinged.workers.dev/c/macomb-family-services-clinton-township/
+21. Mind Body Optimization | Organic #21 | Pulse Score 63.1/100 (Unrated, #1 in city) | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://registry-edge.dingalinged.workers.dev/c/mind-body-optimization-southlake/
+22. Healing Psychotherapy Practices Of Georgia | Organic #22 | Pulse Score 62.7/100 (Good, #1 in city) | Healing Psychotherapy Practices Of Georgia is a therapy practice in Cobb County, GA at 3750 Palladian Village Drive #320, Cobb County, GA. Phone: +17707920079. Website: https://healingpsychotherapyga.com/. | https://registry-edge.dingalinged.workers.dev/c/healing-psychotherapy-practices-of-georgia-cobb-county/
+23. Steadfast Psychiatry | Organic #23 | Pulse Score 62.7/100 (Good, #1 in city) | Steadfast Psychiatry is a therapy practice in Woodstock, GA at 8744 Main Street #404, Woodstock, GA. Phone: +16788001411. Website: https://www.steadfastpsych.com/. | https://registry-edge.dingalinged.workers.dev/c/steadfast-psychiatry-woodstock/
+24. Therapies East Associates | Organic #24 | Pulse Score 62.7/100 (Unrated, #5 in city) | Therapies East Associates is a therapy practice in Milwaukee, WI at 827 North Cass Street, Milwaukee, WI 53202. Phone: +14142787980. Website: https://therapieseast.com/. | https://registry-edge.dingalinged.workers.dev/c/therapies-east-associates-milwaukee/
+25. Action Behavior Centers | Organic #25 | Pulse Score 62.7/100 (Unrated, #1 in city) | Action Behavior Centers is a therapy practice in Arvada, CO at 8330 West 80th Avenue #4, Arvada, CO 80005. Phone: +17207156333. Website: https://www.actionbehavior.com/location/colorado/arvada-west-80th-ave. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-arvada/
+26. Precision Psychiatry | Organic #26 | Pulse Score 62.7/100 (Unrated, #1 in city) | Precision Psychiatry is a therapy practice in West Des Moines, IA at 1701 48th Street #Suite 110, West Des Moines, IA 50266. Phone: +15155141186. Website: https://www.precisionpsychiowa.com/. | https://registry-edge.dingalinged.workers.dev/c/precision-psychiatry-west-des-moines/
+27. Yahara Counseling Center LLC | Organic #27 | Pulse Score 62.6/100 (Unrated, #1 in city) | Yahara Counseling Center LLC is a therapy practice in Monona, WI at 6320 Monona Drive #201, Monona, WI 53716. Phone: +16088075991. Website: https://yaharacounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/yahara-counseling-center-llc-monona/
+28. Mandava Psychiatry | Organic #28 | Pulse Score 62.5/100 (Unrated, #1 in city) | Mandava Psychiatry is a therapy practice in Chesterfield, MO at 16091 Swingley Ridge Rd, #100, Chesterfield, MO 63017. Phone: +16367781195. Website: https://mandavapsych.com/. | https://registry-edge.dingalinged.workers.dev/c/mandava-psychiatry-chesterfield/
+29. Mind, Body, Soulmates Individual and Couples Counseling | Organic #29 | Pulse Score 62.4/100 (Good, #1 in city) | Mind, Body, Soulmates Individual and Couples Counseling is a therapy practice in Wheat Ridge, CO at 4251 Kipling Street ##560, Wheat Ridge, CO 80033. Phone: +19703719404. Website: https://www.mindbodysoulmates.com/. | https://registry-edge.dingalinged.workers.dev/c/mind-body-soulmates-individual-and-couples-counseling-wheat-ridge/
+30. Jennifer Sparks LPC, NCC, CSAT, SEP | Organic #30 | Pulse Score 62.4/100 (Good, #1 in city) | Jennifer Sparks LPC, NCC, CSAT, SEP is a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-sparks-lpc-ncc-csat-sep-rockwall/
+31. Elevate Counseling + Wellness | Organic #31 | Pulse Score 62.3/100 (Good, #1 in city) | Elevate Counseling + Wellness is a therapy practice in Westmont, IL at 305 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305808080. Website: https://www.elevatecounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/elevate-counseling-wellness-westmont/
+32. Community Health Pavilion Speedway | Organic #32 | Pulse Score 62.3/100 (Unrated, #1 in city) | Community Health Pavilion Speedway is an orthopedic surgeon in Speedway, IN at 1011 Main Street, Speedway, IN 46224. Phone: +13176212727. Website: https://www.ecommunity.com/about. | https://registry-edge.dingalinged.workers.dev/c/community-health-pavilion-speedway-speedway/
+33. Conscious Dying Collective | Organic #33 | Pulse Score 62.3/100 (Unrated, #1 in city) | Conscious Dying Collective is a therapy practice in Golden, CO at 915 Homestake Drive, Golden, CO 80401. Phone: +13034408018. Website: https://consciousdyingcollective.com/. | https://registry-edge.dingalinged.workers.dev/c/conscious-dying-collective-golden/
+34. Paramount Counseling Services, PLLC | Organic #34 | Pulse Score 62.3/100 (Unrated, #1 in city) | Paramount Counseling Services, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Boulevard #408, Northbrook, IL 60062. Phone: +18473053555. Website: https://www.paramountil.com/. | https://registry-edge.dingalinged.workers.dev/c/paramount-counseling-services-pllc-northbrook/
+35. Medi Weightloss | Organic #35 | Pulse Score 62.2/100 (Good, #1 in city) | Medi Weightloss is a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/. | https://registry-edge.dingalinged.workers.dev/c/medi-weightloss-flower-mound/
+36. Elite Spectrum ABA | Organic #36 | Pulse Score 62.1/100 (Unrated, #1 in city) | Elite Spectrum ABA is a therapy practice in Baytown, TX at 3711 Garth Road, Baytown, TX 77521. Phone: +18322813997. Website: https://www.elitespectrumaba.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-spectrum-aba-baytown/
+37. Smelling the Difference, LLC | Organic #37 | Pulse Score 62.1/100 (Unrated, #2 in city) | Smelling the Difference, LLC is a therapy practice in Chicago, IL at 1325 South Wabash Avenue #302, Chicago, IL 60605. Phone: +13126071385. Website: https://www.mtdintl.com/. | https://registry-edge.dingalinged.workers.dev/c/smelling-the-difference-llc-chicago/
+38. SociAbility Therapy, PLLC | Organic #38 | Pulse Score 62.1/100 (Unrated, #2 in city) | SociAbility Therapy, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Blvd #408B, Northbrook, IL 60062. Phone: +18475593240. Website: https://www.sociabilitychicago.org/. | https://registry-edge.dingalinged.workers.dev/c/sociability-therapy-pllc-northbrook/
+39. Roots Wellness Center | Organic #39 | Pulse Score 62/100 (Good, #1 in city) | Roots Wellness Center is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/. | https://registry-edge.dingalinged.workers.dev/c/roots-wellness-center-kennesaw/
+40. Natalis Counseling & Psychology Solutions | Organic #40 | Pulse Score 62/100 (Unrated, #3 in city) | Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/. | https://registry-edge.dingalinged.workers.dev/c/natalis-counseling-and-psychology-solutions-saint-paul/
+41. Impact Infusions | Organic #41 | Pulse Score 62/100 (Unrated, #1 in city) | Impact Infusions is a therapy practice in Argyle, TX at 415 South US Highway 377 #115, Argyle, TX 76226. Phone: +19404658118. Website: https://impactinfusions.com/. | https://registry-edge.dingalinged.workers.dev/c/impact-infusions-argyle/
+42. Saribalas Clinic | Organic #42 | Pulse Score 62/100 (Unrated, #1 in city) | Saribalas Clinic is a therapy practice in Columbus, OH at 4030 Easton Station #Suite 240, Columbus, OH 43219. Phone: +16145325232. Website: https://www.sleeplessincolumbus.com/. | https://registry-edge.dingalinged.workers.dev/c/saribalas-clinic-columbus/
+43. WOW Ministries LLC | Organic #43 | Pulse Score 62/100 (Unrated, #1 in city) | WOW Ministries LLC is a therapy practice in Detroit, MI at 18500 Grandville Avenue, Detroit, MI 48219. Phone: +13147208266. Website: https://www.wowministriesllc.com/. | https://registry-edge.dingalinged.workers.dev/c/wow-ministries-llc-detroit/
+44. Mustard Seed Family Counseling | Organic #44 | Pulse Score 61.9/100 (Unrated, #1 in city) | Mustard Seed Family Counseling is a therapy practice in Sterling Heights, MI at 33200 Dequindre Road #100, Sterling Heights, MI 48310. Phone: +15863541489. Website: https://mustardseedfamilycounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/mustard-seed-family-counseling-sterling-heights/
+45. Polanski, Quinn & Associates | Organic #45 | Pulse Score 61.9/100 (Unrated, #1 in city) | Polanski, Quinn & Associates is a therapy practice in Utica, MI at 8344 Hall Road #209, Utica, MI 48317. Phone: +15862865870. Website: https://www.polanskiquinn.com/. | https://registry-edge.dingalinged.workers.dev/c/polanski-quinn-and-associates-utica/
+46. A Better You Wellness | Organic #46 | Pulse Score 61.8/100 (Unrated, #1 in city) | A Better You Wellness is a therapy practice in Frisco, TX at 5300 Town and Country Boulevard #240-28, Frisco, TX 75034. Phone: +18328108034. Website: https://abetteryouwellnessus.com/. | https://registry-edge.dingalinged.workers.dev/c/a-better-you-wellness-frisco/
+47. Hope Counseling N Coaching Services | Organic #47 | Pulse Score 61.8/100 (Unrated, #1 in city) | Hope Counseling N Coaching Services is a therapy practice in Canton Township, MI at 47329 Ashley Court, Canton Township, MI 48187. Phone: +17345762220. Website: https://hopecounselingncoachingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/hope-counseling-n-coaching-services-canton-township/
+48. Atlanta Sober Living | Organic #48 | Pulse Score 61.7/100 (Unrated, #1 in city) | Atlanta Sober Living is a therapy practice in Atlanta, GA at 828 Ralph McGill Boulevard ##308, Atlanta, GA 30306. Phone: +14049913355. Website: https://atlantasoberliving.org/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-sober-living-atlanta/
+49. Houston DBT Center | Organic #49 | Pulse Score 61.7/100 (Unrated, #3 in city) | Houston DBT Center is a therapy practice in Houston, TX at 1348 Heights Boulevard, Houston, TX 77008. Phone: +17139732800. Website: https://houstondbtcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-dbt-center-houston/
+50. Systemic Perspectives | Organic #50 | Pulse Score 61.7/100 (Unrated, #1 in city) | Systemic Perspectives is a therapy practice in Brookfield, WI at 2511 North 124th Street #106, Brookfield, WI 53005. Phone: +12626414347. Website: https://systemicperspectives.com/. | https://registry-edge.dingalinged.workers.dev/c/systemic-perspectives-brookfield/
 
-## More therapist listings (338 total; top 50 unpaid shown)
+## More therapist listings (517 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/therapist.jsonl
 - Chicago, IL: 34 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-chicago-il/
 - Milwaukee, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-milwaukee-wi/
 - Houston, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-houston-tx/
 - Minneapolis, MN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-minneapolis-mn/
+- Indianapolis, IN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-indianapolis-in/
 - Saint Paul, MN: 13 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-paul-mn/
+- Columbus, OH: 11 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-columbus-oh/
 - Madison, WI: 11 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-madison-wi/
 - Dallas, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-dallas-tx/
 - Naperville, IL: 10 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-naperville-il/
 - Frisco, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-frisco-tx/
 - Flower Mound, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-flower-mound-tx/
 - Greenfield, WI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-greenfield-wi/
+- Lancaster, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lancaster-oh/
+- Boulder, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-boulder-co/
+- Springfield, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-springfield-mo/
 - Plano, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-plano-tx/
+- Aurora, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-aurora-co/
+- Parker, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-parker-co/
 - Chanhassen, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-chanhassen-mn/
 - Kansas City, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-kansas-city-mo/
 - Des Moines, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-des-moines-ia/
+- Detroit, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-detroit-mi/
+- Cincinnati, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-cincinnati-oh/
 - Lewisville, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lewisville-tx/
 - Rockwall, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-rockwall-tx/
 - Omaha, NE: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-omaha-ne/
+- Centennial, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-centennial-co/
 - Brookfield, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-brookfield-wi/
+- Wyandotte, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wyandotte-mi/
+- Lawrence, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lawrence-ks/
+- Pittsburgh, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-pittsburgh-pa/
 - Addison, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-addison-tx/
 - Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-southlake-tx/
 - Marietta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-marietta-ga/
 - Atlanta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-atlanta-ga/
 - Gwinnett County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-gwinnett-county-ga/
+- Maryville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-maryville-il/
+- Edwardsville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-edwardsville-il/
+- Arvada, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-arvada-co/
+- Lakewood, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lakewood-co/
 - Merrillville, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-merrillville-in/
 - Wauwatosa, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wauwatosa-wi/
 - West Allis, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-west-allis-wi/
+- Clinton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-clinton-township-mi/
+- Symmes Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-symmes-township-oh/
 - Argyle, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-argyle-tx/
 - Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-conroe-tx/
 - Humble, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-humble-tx/
@@ -101,12 +120,37 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Northbrook, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-northbrook-il/
 - Orland Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-orland-park-il/
 - La Grange, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-la-grange-il/
+- Castle Rock, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-castle-rock-co/
+- Littleton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-littleton-co/
+- Carmel, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-carmel-in/
 - Crown Point, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-crown-point-in/
+- Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-greenwood-in/
 - Saint Louis Park, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-louis-park-mn/
 - Eagan, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-eagan-mn/
 - Racine, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-racine-wi/
+- Saint Peters, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-peters-mo/
+- Trenton, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-trenton-mi/
+- Southgate, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-southgate-mi/
+- Utica, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-utica-mi/
+- Lincoln Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lincoln-park-mi/
+- Manhattan, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-manhattan-ks/
+- Topeka, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-topeka-ks/
 - Olathe, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-olathe-ks/
+- Wichita, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wichita-ks/
 - Overland Park, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-overland-park-ks/
+- Scott Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-scott-township-pa/
+- Liberty Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-liberty-township-oh/
+- Milford, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-milford-oh/
+- Westerville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-westerville-oh/
+- Mason, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-mason-oh/
+- London, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-london-oh/
+- Loveland, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-loveland-oh/
+- Springdale, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-springdale-oh/
+- Greenfield Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-greenfield-township-oh/
+- Montgomery, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-montgomery-oh/
+- Blue Ash, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-blue-ash-oh/
+- Colerain Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-colerain-township-oh/
+- Pickerington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-pickerington-oh/
 - Harris County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-harris-county-tx/
 - Tomball, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-tomball-tx/
 - Forney, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-forney-tx/
@@ -158,9 +202,20 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Buffalo Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-buffalo-grove-il/
 - Lombard, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lombard-il/
 - New Lenox, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-new-lenox-il/
+- Jefferson County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-jefferson-county-co/
+- Greenwood Village, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-greenwood-village-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-golden-co/
+- Lafayette, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lafayette-co/
+- Wheat Ridge, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wheat-ridge-co/
+- Fort Lupton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-fort-lupton-co/
+- Superior, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-superior-co/
+- Speedway, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-speedway-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-plainfield-in/
 - Hammond, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-hammond-in/
 - East Chicago, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-east-chicago-in/
+- Westfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-westfield-in/
 - Munster, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-munster-in/
+- Noblesville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-noblesville-in/
 - Plymouth, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-plymouth-mn/
 - Coon Rapids, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-coon-rapids-mn/
 - Saint Paul Park, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-paul-park-mn/
@@ -179,12 +234,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Greendale, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-greendale-wi/
 - Mount Pleasant, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-mount-pleasant-wi/
 - Monona, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-monona-wi/
+- Saint Charles County, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-charles-county-mo/
+- Chesterfield, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-chesterfield-mo/
+- Saint Joseph, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-saint-joseph-mo/
+- Columbia, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-columbia-mo/
+- Wentzville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wentzville-mo/
 - Independence, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-independence-mo/
 - Lee'S Summit, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-lees-summit-mo/
+- O’Fallon, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-o-fallon-mo/
 - Ankeny, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-ankeny-ia/
 - Johnston, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-johnston-ia/
 - West Des Moines, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-west-des-moines-ia/
 - Urbandale, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-urbandale-ia/
+- Pleasant Ridge, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-pleasant-ridge-mi/
+- Dearborn, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-dearborn-mi/
+- Fraser, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-fraser-mi/
+- Canton Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-canton-township-mi/
+- Farmington Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-farmington-hills-mi/
+- Sterling Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-sterling-heights-mi/
+- Mount Clemens, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-mount-clemens-mi/
+- Livonia, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-livonia-mi/
+- Warren, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-warren-mi/
+- Rochester Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-rochester-hills-mi/
+- Tecumseh, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-tecumseh-mi/
+- Wellington, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-wellington-ks/
+- Washington, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-washington-pa/
+- O'Hara Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-ohara-township-pa/
+- Upper St. Clair, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-upper-st-clair-pa/
+- Mckeesport, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-mckeesport-pa/
+- Mccandless, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-mccandless-pa/
+- Rostraver Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-rostraver-township-pa/
+- Bellevue, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-bellevue-ky/
+- Covington, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-covington-ky/
+- Erlanger, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-erlanger-ky/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -192,7 +274,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 338
+- Registry businesses competing: 517
 - Equivalent Google Ads cost per month: ~$70,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

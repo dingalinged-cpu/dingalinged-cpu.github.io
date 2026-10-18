@@ -13,7 +13,7 @@ Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet H
 - Website: https://tpdcdance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dance studios in Chicago, #1 of 1 dance studios in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of dance studios in Chicago, #1 of 1 dance studios in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

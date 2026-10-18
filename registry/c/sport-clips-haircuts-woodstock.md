@@ -13,7 +13,7 @@ Sport Clips Haircuts is a hair salon in Woodstock, GA at 1428 Towne Lake Parkway
 - Website: https://sportclips.com/us-ga-woodstock-ga105
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 50.4/100 — Fair — top 84% of hair salons in Atlanta, #12 of 14 hair salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 83% of hair salons in Atlanta, #12 of 14 hair salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

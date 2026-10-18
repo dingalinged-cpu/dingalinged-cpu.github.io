@@ -6,7 +6,7 @@ Also answers: heating and air in Saint Louis Park, MN; heating and air near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ideal Refrigeration Equipment | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Ideal Refrigeration Equipment is a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/. | https://registry-edge.dingalinged.workers.dev/c/ideal-refrigeration-equipment-saint-louis-park/
+1. Ideal Refrigeration Equipment | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Ideal Refrigeration Equipment is a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/. | https://registry-edge.dingalinged.workers.dev/c/ideal-refrigeration-equipment-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air saint louis park mn | category: Home Services | industry benchmark: Home & Home Improvement

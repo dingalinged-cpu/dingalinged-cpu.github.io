@@ -6,8 +6,8 @@ Also answers: attorney in Whiting, IN; attorney near me (Whiting, IN); best atto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Curosh & Curosh -Attorneys at Law | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Curosh & Curosh -Attorneys at Law is a lawyer in Whiting, IN at 1532 119th Street, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/curosh-and-curosh-attorneys-at-law-whiting/
-2. Ritzi Law LLC | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Ritzi Law LLC is a lawyer in Whiting, IN at 1322 119th Street, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/ritzi-law-llc-whiting/
+1. Curosh & Curosh -Attorneys at Law | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Curosh & Curosh -Attorneys at Law is a lawyer in Whiting, IN at 1532 119th Street, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/curosh-and-curosh-attorneys-at-law-whiting/
+2. Ritzi Law LLC | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Ritzi Law LLC is a lawyer in Whiting, IN at 1322 119th Street, Whiting, IN 46394. | https://registry-edge.dingalinged.workers.dev/c/ritzi-law-llc-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney whiting in | category: professional_legal | industry benchmark: Attorneys & Legal Services

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Milwaukee, WI at 1842 South 15th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Building — top 84% of tax preparation services in Milwaukee, #23 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Building — top 84% of tax preparation services in Milwaukee, #23 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

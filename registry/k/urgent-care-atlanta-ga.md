@@ -6,9 +6,9 @@ Also answers: urgent care in Atlanta, GA; urgent care near me (Atlanta, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Urgent Care | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-urgent-care-atlanta/
-2. Atlanta Urgent Care | Organic #2 | Pulse Score 59.8/100 (Fair, #2 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2140 Peachtree Road Northeast #232, Atlanta, GA 30309. | https://registry-edge.dingalinged.workers.dev/c/atlanta-urgent-care-atlanta-w269196175/
-3. Peachtree Immediate Care | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Peachtree Immediate Care is an urgent care clinic in Atlanta, GA at 1220 Caroline Street Northeast #A-230, Atlanta, GA 30307. | https://registry-edge.dingalinged.workers.dev/c/peachtree-immediate-care-atlanta/
+1. Atlanta Urgent Care | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-urgent-care-atlanta/
+2. Atlanta Urgent Care | Organic #2 | Pulse Score 60.1/100 (Good, #2 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2140 Peachtree Road Northeast #232, Atlanta, GA 30309. | https://registry-edge.dingalinged.workers.dev/c/atlanta-urgent-care-atlanta-w269196175/
+3. Peachtree Immediate Care | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Peachtree Immediate Care is an urgent care clinic in Atlanta, GA at 1220 Caroline Street Northeast #A-230, Atlanta, GA 30307. | https://registry-edge.dingalinged.workers.dev/c/peachtree-immediate-care-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

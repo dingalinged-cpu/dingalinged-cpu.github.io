@@ -13,7 +13,7 @@ Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street,
 - Website: https://hilltop.bike/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fi 11:00-18:00; Sa 11:00-17:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

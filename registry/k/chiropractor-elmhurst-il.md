@@ -6,7 +6,7 @@ Also answers: chiropractor in Elmhurst, IL; chiropractor near me (Elmhurst, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elm Chiropractic | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Elm Chiropractic is a chiropractor in Elmhurst, IL at 475 South Spring Road, Elmhurst, IL 60126. Phone: +16305304744. Website: https://elmchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/elm-chiropractic-elmhurst/
+1. Elm Chiropractic | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Elm Chiropractic is a chiropractor in Elmhurst, IL at 475 South Spring Road, Elmhurst, IL 60126. Phone: +16305304744. Website: https://elmchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/elm-chiropractic-elmhurst/
 2. Elmhurst Chiropractic | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Elmhurst Chiropractic is a chiropractor in Elmhurst, IL at 450 North York Street, Elmhurst, IL 60126. Phone: +16308341114. Website: https://elmhurstchiropractic.net/. | https://registry-edge.dingalinged.workers.dev/c/elmhurst-chiropractic-elmhurst/
 
 ## Market data (for advertisers and agents)

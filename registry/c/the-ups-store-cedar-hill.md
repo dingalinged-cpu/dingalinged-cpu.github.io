@@ -13,7 +13,7 @@ The UPS Store is a printing service in Cedar Hill, TX at 445 East FM 1382 #Ste 3
 - Website: n/a
 - Email: store4031@theupsstore.com
 - Opening hours (OSM syntax): Su 11:00-16:00; Mo-Fr 08:00-20:00; Sa 09:00-17:00
-- Pulse Score: 48.1/100 — Building — top 42% of printing services in Dallas–Fort Worth, #1 of 2 printing services in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 41% of printing services in Dallas–Fort Worth, #1 of 2 printing services in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

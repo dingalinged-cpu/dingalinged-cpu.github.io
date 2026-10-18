@@ -13,9 +13,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. 5150 Tattoo Studio | Organic #5 | Pulse Score 56.6/100 (Unrated, #5 in city) | 5150 Tattoo Studio is a tattoo shop in Des Moines, IA at 2907 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/5150-tattoo-studio-des-moines/
 6. Bad Brains Tattoo | Organic #6 | Pulse Score 56.6/100 (Unrated, #6 in city) | Bad Brains Tattoo is a tattoo shop in Des Moines, IA at 2615 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/bad-brains-tattoo-des-moines/
 7. DSM Tattoo Collective | Organic #7 | Pulse Score 56.6/100 (Unrated, #7 in city) | DSM Tattoo Collective is a tattoo shop in Des Moines, IA at 118 Southeast 4th Street #106, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/dsm-tattoo-collective-des-moines/
-8. Hooligan Tattoo | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | Hooligan Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/hooligan-tattoo-des-moines/
-9. Lucky Gal Tattoo | Organic #9 | Pulse Score 54.5/100 (Unrated, #9 in city) | Lucky Gal Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/lucky-gal-tattoo-des-moines/
-10. Yankee Doodle Dandy Tattoo | Organic #10 | Pulse Score 54.5/100 (Unrated, #10 in city) | Yankee Doodle Dandy Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/yankee-doodle-dandy-tattoo-des-moines/
+8. Hooligan Tattoo | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Hooligan Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/hooligan-tattoo-des-moines/
+9. Lucky Gal Tattoo | Organic #9 | Pulse Score 54.6/100 (Unrated, #9 in city) | Lucky Gal Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/lucky-gal-tattoo-des-moines/
+10. Yankee Doodle Dandy Tattoo | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | Yankee Doodle Dandy Tattoo is a tattoo shop in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/yankee-doodle-dandy-tattoo-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop des moines ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

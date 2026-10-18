@@ -13,7 +13,7 @@
 - Website: https://faceoflelas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr,Sa 09:00-17:00
-- Pulse Score: 59.4/100 — Fair — top 58% of spas in Minneapolis–St. Paul, #3 of 4 spas in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 58% of spas in Minneapolis–St. Paul, #3 of 4 spas in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

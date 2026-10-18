@@ -13,7 +13,7 @@ Carlos Machado Jiu Jitsu is a martial arts school in Dallas, TX at 10675 East No
 - Website: https://www.marciosantosjiujitsu.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of martial arts schools in Dallas–Fort Worth, #1 of 7 martial arts schools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of martial arts schools in Dallas–Fort Worth, #1 of 7 martial arts schools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

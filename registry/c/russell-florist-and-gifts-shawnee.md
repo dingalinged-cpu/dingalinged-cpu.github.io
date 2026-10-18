@@ -19,6 +19,6 @@ Russell Florist & Gifts is a florist in Shawnee, KS.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/russell-florist-and-gifts-shawnee/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/russell-florist-and-gifts-shawnee.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/618342819 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/618342819 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

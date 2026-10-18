@@ -13,7 +13,7 @@ Teal Shores is an assisted living facility in Mequon, WI. Website: https://www.v
 - Website: https://www.volanteseniorliving.com/tealshores
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of assisted living facilitys in Milwaukee, #2 of 2 assisted living facilitys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of assisted living facilitys in Milwaukee, #2 of 2 assisted living facilitys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

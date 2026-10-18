@@ -6,7 +6,7 @@ Also answers: haircut in Edina, MN; haircut near me (Edina, MN); best haircut Ed
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Interlachen Barber Shop | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | Interlachen Barber Shop is a barber shop in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/interlachen-barber-shop-edina/
+1. Interlachen Barber Shop | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Interlachen Barber Shop is a barber shop in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/interlachen-barber-shop-edina/
 2. B Sharp Hair | Organic #2 | Pulse Score 61.8/100 (Good, #1 in city) | B Sharp Hair is a hair salon in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/b-sharp-hair-edina/
 3. Shoppe 5101 Salon & Spa | Organic #3 | Pulse Score 61.8/100 (Good, #2 in city) | Shoppe 5101 Salon & Spa is a hair salon in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/shoppe-5101-salon-and-spa-edina/
 4. Dick's Sports Barbers | Organic #4 | Pulse Score 61.8/100 (Unrated, #2 in city) | Dick's Sports Barbers is a barber shop in Edina, MN at 4404 France Avenue South, Edina, MN 55410. Phone: +19529266924. Website: https://www.dicksbarbers.com/. | https://registry-edge.dingalinged.workers.dev/c/dicks-sports-barbers-edina/

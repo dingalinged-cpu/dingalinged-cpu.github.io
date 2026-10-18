@@ -19,6 +19,6 @@ Blessings Abound Thrift Store & Donation Center is a thrift store in Overland Pa
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/blessings-abound-thrift-store-and-donation-center-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blessings-abound-thrift-store-and-donation-center-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13464231301 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13464231301 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

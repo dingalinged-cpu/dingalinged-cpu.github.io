@@ -13,7 +13,7 @@ Keller Williams Realty is a real estate agency in Ankeny, IA at 1610 Southwest M
 - Website: https://ankenymetro.yourkwoffice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 50% of real estate agencys in Des Moines, IA, #4 of 7 real estate agencys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 47% of real estate agencys in Des Moines, IA, #3 of 7 real estate agencys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

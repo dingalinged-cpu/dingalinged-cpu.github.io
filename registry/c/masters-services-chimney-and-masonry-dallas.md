@@ -13,7 +13,7 @@ Masters Services Chimney & Masonry is a chimney sweep in Dallas, TX at 11245 Goo
 - Website: https://mastersservices.com/
 - Email: marketing@mastersservicesinc.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 08:00-17:00; Su off
-- Pulse Score: 62.3/100 — Good — top 100% of chimney sweeps in Dallas–Fort Worth, #1 of 1 chimney sweeps in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 100% of chimney sweeps in Dallas–Fort Worth, #1 of 1 chimney sweeps in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

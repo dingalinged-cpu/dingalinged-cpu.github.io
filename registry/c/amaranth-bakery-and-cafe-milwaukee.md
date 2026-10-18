@@ -13,7 +13,7 @@ Amaranth Bakery & Cafe is a bakery in Milwaukee, WI at 3329 West Lisbon Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 07:00-14:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Milwaukee, #8 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Milwaukee, #8 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

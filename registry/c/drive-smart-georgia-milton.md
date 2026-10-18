@@ -13,7 +13,7 @@ Drive Smart Georgia is a driving school in Milton, GA at 13695 Alpharetta Highwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-16:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 75% of driving schools in Atlanta, #1 of 1 driving schools in Milton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 75% of driving schools in Atlanta, #1 of 1 driving schools in Milton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

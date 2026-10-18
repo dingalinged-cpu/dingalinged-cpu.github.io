@@ -7,10 +7,10 @@ Also answers: marketing agency in Plano, TX; marketing agency near me (Plano, TX
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. AÉNL Agency | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | AÉNL Agency is a marketing agency in Plano, TX at 5830 Granite Parkway #100-301, Plano, TX 75024. Phone: +14243549774. Website: https://aenlagency.co/. | https://registry-edge.dingalinged.workers.dev/c/a-nl-agency-plano/
-2. Austin Bryant Consulting | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Austin Bryant Consulting is a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/. | https://registry-edge.dingalinged.workers.dev/c/austin-bryant-consulting-plano/
-3. MoreThanSEO | Organic #3 | Pulse Score 59.6/100 (Fair, #3 in city) | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://registry-edge.dingalinged.workers.dev/c/morethanseo-plano/
-4. UMI | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | UMI is a marketing agency in Plano, TX at 1081 Ohio Drive, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/umi-plano/
-5. Alpha Graphics | Organic #5 | Pulse Score 40.7/100 (Unrated, #5 in city) | Alpha Graphics is a marketing agency in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/alpha-graphics-plano/
+2. Austin Bryant Consulting | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Austin Bryant Consulting is a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/. | https://registry-edge.dingalinged.workers.dev/c/austin-bryant-consulting-plano/
+3. MoreThanSEO | Organic #3 | Pulse Score 59.7/100 (Fair, #3 in city) | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://registry-edge.dingalinged.workers.dev/c/morethanseo-plano/
+4. UMI | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | UMI is a marketing agency in Plano, TX at 1081 Ohio Drive, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/umi-plano/
+5. Alpha Graphics | Organic #5 | Pulse Score 40.8/100 (Unrated, #5 in city) | Alpha Graphics is a marketing agency in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/alpha-graphics-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

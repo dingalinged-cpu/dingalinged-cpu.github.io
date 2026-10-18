@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Johns Creek, GA is Classic Cleaners (a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005). 5 dry cleaners businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Johns Creek, GA is Perfect Cleaners (a dry cleaner in Johns Creek, GA). 5 dry cleaners businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Johns Creek, GA?
 
@@ -6,10 +6,10 @@ Also answers: dry cleaners in Johns Creek, GA; dry cleaners near me (Johns Creek
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Classic Cleaners | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-alpharetta/
-2. Perfect Cleaners | Organic #2 | Pulse Score 55.6/100 (Unrated, #1 in city) | Perfect Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/perfect-cleaners-johns-creek/
-3. K&B Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | K&B Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/k-and-b-cleaners-johns-creek/
-4. Tide Cleaners | Organic #4 | Pulse Score 42.5/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-johns-creek/
+1. Perfect Cleaners | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Perfect Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/perfect-cleaners-johns-creek/
+2. K&B Cleaners | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | K&B Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/k-and-b-cleaners-johns-creek/
+3. Classic Cleaners | Organic #3 | Pulse Score 48.2/100 (Building, #2 in city) | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-alpharetta/
+4. Tide Cleaners | Organic #4 | Pulse Score 42.6/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-johns-creek/
 5. Pride Cleaners | Organic #5 | Pulse Score 42/100 (Unrated, #4 in city) | Pride Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-johns-creek/
 
 ## Market data (for advertisers and agents)

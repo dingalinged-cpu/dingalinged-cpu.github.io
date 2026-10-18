@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Des Moines, IA at 1901 East University A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 84% of self-storage facilitys in Des Moines, IA, #3 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 78% of self-storage facilitys in Des Moines, IA, #3 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

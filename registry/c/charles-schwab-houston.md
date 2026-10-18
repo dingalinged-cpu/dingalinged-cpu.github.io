@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Houston, TX at 5346 Westheimer Road, Ho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 57% of financial advisors in Houston, #6 of 10 financial advisors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.7, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 57% of financial advisors in Houston, #6 of 10 financial advisors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.8, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

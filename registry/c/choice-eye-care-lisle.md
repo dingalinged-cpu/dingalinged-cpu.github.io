@@ -13,7 +13,7 @@ Choice Eye Care is an eye care practice in Lisle, IL at 4760 Main Street, Lisle,
 - Website: https://www.rosineyecare.com/choice-eye-care/eye-doctor-isle-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Chicago, #2 of 2 eye care practices in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of eye care practices in Chicago, #2 of 2 eye care practices in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

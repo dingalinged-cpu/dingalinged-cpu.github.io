@@ -13,7 +13,7 @@ Bicycle World is a bike shop in Magnolia, TX at 32623 FM 2978, Magnolia, TX 7735
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 59% of bike shops in Houston, #1 of 1 bike shops in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Houston, #1 of 1 bike shops in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

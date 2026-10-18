@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Cudahy, WI at 5879 South Packard Avenue, Cudahy, WI 
 - Website: https://www.anytimefitness.com/gyms/864/cudahy-wi-53110/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 61% of gyms in Milwaukee, #1 of 1 gyms in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 60% of gyms in Milwaukee, #1 of 1 gyms in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

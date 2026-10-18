@@ -13,7 +13,7 @@ La Petite Academy is a preschool in Verona, WI at 220 Cross Country Road, Verona
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 65% of preschools in Madison, #2 of 2 preschools in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 65% of preschools in Madison, #2 of 2 preschools in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

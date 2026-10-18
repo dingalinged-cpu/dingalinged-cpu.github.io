@@ -6,7 +6,7 @@ Also answers: yoga classes in Tomball, TX; yoga classes near me (Tomball, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saha Yoga and Wellness House | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Saha Yoga and Wellness House is a yoga studio in Tomball, TX at 104 Houston Street, Tomball, TX 77375. Phone: +12815468003. Website: https://sahayogahouse.com/. | https://registry-edge.dingalinged.workers.dev/c/saha-yoga-and-wellness-house-tomball/
+1. Saha Yoga and Wellness House | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Saha Yoga and Wellness House is a yoga studio in Tomball, TX at 104 Houston Street, Tomball, TX 77375. Phone: +12815468003. Website: https://sahayogahouse.com/. | https://registry-edge.dingalinged.workers.dev/c/saha-yoga-and-wellness-house-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes tomball tx | category: Fitness | industry benchmark: Health & Fitness

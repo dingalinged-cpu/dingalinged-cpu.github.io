@@ -6,7 +6,7 @@ Also answers: attorney in Chamblee, GA; attorney near me (Chamblee, GA); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pines Federal Employment Attorneys | Organic #1 | Pulse Score 61.2/100 (Unrated, #7 in city) | Pines Federal Employment Attorneys is a lawyer in Atlanta, GA at 3190 Northeast Expressway #Suite 410-F, Atlanta, GA 30341. Phone: +18325333242. Website: https://www.pinesfederal.com/. | https://registry-edge.dingalinged.workers.dev/c/pines-federal-employment-attorneys-atlanta/
+1. Pines Federal Employment Attorneys | Organic #1 | Pulse Score 61.3/100 (Unrated, #7 in city) | Pines Federal Employment Attorneys is a lawyer in Atlanta, GA at 3190 Northeast Expressway #Suite 410-F, Atlanta, GA 30341. Phone: +18325333242. Website: https://www.pinesfederal.com/. | https://registry-edge.dingalinged.workers.dev/c/pines-federal-employment-attorneys-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney chamblee ga | category: professional_legal | industry benchmark: Attorneys & Legal Services

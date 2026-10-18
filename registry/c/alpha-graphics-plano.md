@@ -13,7 +13,7 @@ Alpha Graphics is a marketing agency in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 40.7/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Dallas–Fort Worth, #5 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 37.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 40.8/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Dallas–Fort Worth, #5 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 37.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

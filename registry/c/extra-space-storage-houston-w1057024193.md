@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Houston, TX at 10615 South Ges
 - Website: https://www.extraspace.com/storage/facilities/us/texas/houston/6501
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 45% of self-storage facilitys in Houston, #27 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 44% of self-storage facilitys in Houston, #27 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

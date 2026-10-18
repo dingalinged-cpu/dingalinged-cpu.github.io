@@ -6,9 +6,9 @@ Also answers: spa in Town Of Brookfield, WI; spa near me (Town Of Brookfield, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Skin Deep Spa | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Skin Deep Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/skin-deep-spa-town-of-brookfield/
-2. Tony & Frinds Salon & Spa | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Tony & Frinds Salon & Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/tony-and-frinds-salon-and-spa-town-of-brookfield/
-3. Ultimos Salon & Spa | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Ultimos Salon & Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/ultimos-salon-and-spa-town-of-brookfield/
+1. Skin Deep Spa | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Skin Deep Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/skin-deep-spa-town-of-brookfield/
+2. Tony & Frinds Salon & Spa | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Tony & Frinds Salon & Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/tony-and-frinds-salon-and-spa-town-of-brookfield/
+3. Ultimos Salon & Spa | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Ultimos Salon & Spa is a spa in Town of Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/ultimos-salon-and-spa-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa town of brookfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

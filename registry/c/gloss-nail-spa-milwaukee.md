@@ -13,7 +13,7 @@ Gloss Nail Spa is a nail salon in Milwaukee, WI at 1545 North Water Street, Milw
 - Website: https://www.glossnailspa.net/
 - Email: GlossNailSpa@att.net
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-18:00; Su 11:00-16:00 "Sunday open summer only"
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 12% of nail salons in Milwaukee, #7 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of nail salons in Milwaukee, #6 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

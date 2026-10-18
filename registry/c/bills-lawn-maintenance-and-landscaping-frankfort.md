@@ -13,7 +13,7 @@ Bill's Lawn Maintenance and Landscaping is a landscaping company in Frankfort, I
 - Website: https://www.billslawn.com/
 - Email: contact@billslawn.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 14% of landscaping companys in Chicago, #1 of 1 landscaping companys in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 14% of landscaping companys in Chicago, #1 of 1 landscaping companys in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

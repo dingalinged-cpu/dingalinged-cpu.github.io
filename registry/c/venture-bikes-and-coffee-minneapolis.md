@@ -13,7 +13,7 @@ Venture Bikes and Coffee is a bike shop in Minneapolis, MN at 1000 Midtown Green
 - Website: https://venturebikesmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 09:00-17:30; Sa 10:00-17:30
-- Pulse Score: 61.1/100 — Good — top 9% of bike shops in Minneapolis–St. Paul, #4 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 9% of bike shops in Minneapolis–St. Paul, #4 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

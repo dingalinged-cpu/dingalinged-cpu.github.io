@@ -13,7 +13,7 @@ Scenthound is a dog groomer in Euless, TX at 2720 State Hwy 121 #200, Euless, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Unrated (not enough evidence yet) — top 99% of dog groomers in Dallas–Fort Worth, #2 of 2 dog groomers in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Unrated (not enough evidence yet) — top 99% of dog groomers in Dallas–Fort Worth, #2 of 2 dog groomers in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

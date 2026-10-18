@@ -13,7 +13,7 @@ Klecar is a funeral home in Eagan, MN at 1580 Century Point, Eagan, MN 55121. We
 - Website: https://www.klecatskys.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 46% of funeral homes in Minneapolis–St. Paul, #1 of 1 funeral homes in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 46% of funeral homes in Minneapolis–St. Paul, #1 of 1 funeral homes in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

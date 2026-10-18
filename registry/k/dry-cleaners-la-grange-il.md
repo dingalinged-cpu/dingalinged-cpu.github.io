@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Breen’s Cleaners | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Breen’s Cleaners is a dry cleaner in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/breen-s-cleaners-la-grange/
 2. Monica's Cleaners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Monica's Cleaners is a dry cleaner in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/monicas-cleaners-la-grange/
-3. Ruby's Cleaners | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Ruby's Cleaners is a dry cleaner in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/rubys-cleaners-la-grange/
+3. Ruby's Cleaners | Organic #3 | Pulse Score 42.1/100 (Unrated, #3 in city) | Ruby's Cleaners is a dry cleaner in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/rubys-cleaners-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners la grange il | category: Professional & financial services | industry benchmark: Finance & Insurance

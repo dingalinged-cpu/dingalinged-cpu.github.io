@@ -13,7 +13,7 @@ Turtle's 1890 Social Centre is an event venue in Shakopee, MN at 112 Lewis Stree
 - Website: https://www.tsc1890.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 52% of event venues in Minneapolis–St. Paul, #1 of 2 event venues in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 52% of event venues in Minneapolis–St. Paul, #1 of 2 event venues in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

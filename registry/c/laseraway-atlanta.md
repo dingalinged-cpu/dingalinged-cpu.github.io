@@ -13,7 +13,7 @@ LaserAway is a dermatologist in Atlanta, GA at 931 Monroe Drive Northeast #113D,
 - Website: https://www.laseraway.com/locations/ga/atlanta-midtown/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-20:00; Tu-We 10:00-18:00; Th 10:00-20:00; Fr-Su 10:00-18:00
-- Pulse Score: 49.9/100 — Building — top 89% of dermatologists in Atlanta, #3 of 3 dermatologists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 89% of dermatologists in Atlanta, #3 of 3 dermatologists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

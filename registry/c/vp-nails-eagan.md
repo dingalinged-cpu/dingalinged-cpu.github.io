@@ -13,7 +13,7 @@ VP Nails is a nail salon in Eagan, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 79% of nail salons in Minneapolis–St. Paul, #5 of 10 nail salons in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 75% of nail salons in Minneapolis–St. Paul, #5 of 10 nail salons in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

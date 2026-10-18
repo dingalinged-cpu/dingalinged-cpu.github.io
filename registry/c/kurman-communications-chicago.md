@@ -13,7 +13,7 @@ Kurman Communications is a marketing agency in Chicago, IL at 2751 West Windsor 
 - Website: https://kurman.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of marketing agencys in Chicago, #1 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of marketing agencys in Chicago, #1 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: orthopedic surgeon in Dallas, TX; orthopedic surgeon near me (Dall
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Greater Dallas Orthopaedics PLLC | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Greater Dallas Orthopaedics PLLC is an orthopedic surgeon in Dallas, TX at 12330 Coit Road #Suite 100, Dallas, TX 75251. Phone: +12142527020. Website: https://www.gdortho.com/. | https://registry-edge.dingalinged.workers.dev/c/greater-dallas-orthopaedics-pllc-dallas/
-2. Texas Orthopaedic Surgical Associates | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Texas Orthopaedic Surgical Associates is an orthopedic surgeon in Dallas, TX at 12330 Coit Road #Suite 130, Dallas, TX 75251. Phone: +19725662663. Website: https://www.thebonedocs.com/north-dallas-office.html. | https://registry-edge.dingalinged.workers.dev/c/texas-orthopaedic-surgical-associates-dallas/
+2. Texas Orthopaedic Surgical Associates | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Texas Orthopaedic Surgical Associates is an orthopedic surgeon in Dallas, TX at 12330 Coit Road #Suite 130, Dallas, TX 75251. Phone: +19725662663. Website: https://www.thebonedocs.com/north-dallas-office.html. | https://registry-edge.dingalinged.workers.dev/c/texas-orthopaedic-surgical-associates-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

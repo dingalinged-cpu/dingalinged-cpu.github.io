@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Four Seasons Dry Cleaners and Laundry | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-dry-cleaners-and-laundry-carrollton/
 2. VIP Cleaners | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | VIP Cleaners is a dry cleaner in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/vip-cleaners-carrollton/
-3. Hebron Cleaners | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Hebron Cleaners is a dry cleaner in Carrollton, TX at 1621 Hebron Pkwy, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/hebron-cleaners-carrollton/
-4. Russell's Cleaners | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Russell's Cleaners is a dry cleaner in Carrollton, TX at 1020 Elm Street, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/russells-cleaners-carrollton/
+3. Hebron Cleaners | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Hebron Cleaners is a dry cleaner in Carrollton, TX at 1621 Hebron Pkwy, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/hebron-cleaners-carrollton/
+4. Russell's Cleaners | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Russell's Cleaners is a dry cleaner in Carrollton, TX at 1020 Elm Street, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/russells-cleaners-carrollton/
 5. Dry Clean Super Center | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Dry Clean Super Center is a dry cleaner in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-carrollton/
 
 ## Market data (for advertisers and agents)

@@ -6,14 +6,14 @@ Also answers: boutique in Houston, TX; boutique near me (Houston, TX); best bout
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy's Boutique & Gifts | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://registry-edge.dingalinged.workers.dev/c/lucys-boutique-and-gifts-houston/
-2. Enstyle Boutique | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/enstyle-boutique-houston/
-3. Nena's Boutique | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/nenas-boutique-houston/
-4. Paulina's Fashion Boutique | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/paulinas-fashion-boutique-houston/
-5. Adelaide's Boutique | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Adelaide's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/adelaides-boutique-houston/
-6. Elegant Affairs by Mary | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Elegant Affairs by Mary is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-affairs-by-mary-houston/
-7. Phylicia's Boutique | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Phylicia's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/phylicias-boutique-houston/
-8. Urban Layce Boutique | Organic #8 | Pulse Score 55.2/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/urban-layce-boutique-houston/
+1. Lucy's Boutique & Gifts | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://registry-edge.dingalinged.workers.dev/c/lucys-boutique-and-gifts-houston/
+2. Enstyle Boutique | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/enstyle-boutique-houston/
+3. Nena's Boutique | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/nenas-boutique-houston/
+4. Paulina's Fashion Boutique | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/paulinas-fashion-boutique-houston/
+5. Adelaide's Boutique | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | Adelaide's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/adelaides-boutique-houston/
+6. Elegant Affairs by Mary | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Elegant Affairs by Mary is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-affairs-by-mary-houston/
+7. Phylicia's Boutique | Organic #7 | Pulse Score 55.4/100 (Unrated, #7 in city) | Phylicia's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/phylicias-boutique-houston/
+8. Urban Layce Boutique | Organic #8 | Pulse Score 55.4/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/urban-layce-boutique-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique houston tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

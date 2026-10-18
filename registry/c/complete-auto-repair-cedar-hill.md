@@ -13,7 +13,7 @@ Complete Auto Repair is an auto repair shop in Cedar Hill, TX at 1188 North High
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Dallas–Fort Worth, #6 of 8 auto repair shops in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 84% of auto repair shops in Dallas–Fort Worth, #6 of 8 auto repair shops in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

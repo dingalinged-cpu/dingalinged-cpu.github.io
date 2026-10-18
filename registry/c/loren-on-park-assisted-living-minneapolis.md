@@ -13,7 +13,7 @@ Loren on Park Assisted Living is an assisted living facility in Minneapolis, MN 
 - Website: https://www.ebenezercares.org/affordable-housing-loren-on-park
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of assisted living facilitys in Minneapolis–St. Paul, #2 of 12 assisted living facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of assisted living facilitys in Minneapolis–St. Paul, #2 of 12 assisted living facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

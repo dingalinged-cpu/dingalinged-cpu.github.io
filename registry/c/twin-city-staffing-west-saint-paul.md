@@ -13,7 +13,7 @@ Twin City Staffing is a staffing agency in West Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

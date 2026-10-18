@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Houston, TX at 2954 Fulton Street, Houston
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 66% of furniture stores in Houston, #54 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 62% of furniture stores in Houston, #51 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

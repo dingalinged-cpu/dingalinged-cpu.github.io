@@ -6,8 +6,8 @@ Also answers: mechanic in Excelsior Springs, MO; mechanic near me (Excelsior Spr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riteway | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Riteway is an auto repair shop in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/riteway-excelsior-springs/
-2. Rob's Guaranteed Used Tires | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Rob's Guaranteed Used Tires is an auto repair shop in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/robs-guaranteed-used-tires-excelsior-springs/
+1. Riteway | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Riteway is an auto repair shop in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/riteway-excelsior-springs/
+2. Rob's Guaranteed Used Tires | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Rob's Guaranteed Used Tires is an auto repair shop in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/robs-guaranteed-used-tires-excelsior-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic excelsior springs mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

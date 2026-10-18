@@ -13,7 +13,7 @@ Valentinos Hair Salon is a hair salon in Milwaukee, WI at 616 West Historic Mitc
 - Website: n/a
 - Email: Marcelalechuga@live.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of hair salons in Milwaukee, #74 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of hair salons in Milwaukee, #73 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

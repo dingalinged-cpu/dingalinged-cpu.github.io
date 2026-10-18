@@ -13,7 +13,7 @@ Ellis Air Conditioning & Heating is a HVAC contractor in Dallas, TX at 1717 McKi
 - Website: https://www.ellisac.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Dallas–Fort Worth, #2 of 9 HVAC contractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Dallas–Fort Worth, #2 of 9 HVAC contractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

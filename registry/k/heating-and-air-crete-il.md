@@ -6,7 +6,7 @@ Also answers: heating and air in Crete, IL; heating and air near me (Crete, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Addit Heating & Air Conditioning | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Addit Heating & Air Conditioning is a HVAC contractor in Crete, IL at 3581 Huntley Terrace, Crete, IL 60417. Phone: +17086728089. Website: https://additheating.com/. | https://registry-edge.dingalinged.workers.dev/c/addit-heating-and-air-conditioning-crete/
+1. Addit Heating & Air Conditioning | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Addit Heating & Air Conditioning is a HVAC contractor in Crete, IL at 3581 Huntley Terrace, Crete, IL 60417. Phone: +17086728089. Website: https://additheating.com/. | https://registry-edge.dingalinged.workers.dev/c/addit-heating-and-air-conditioning-crete/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air crete il | category: Home Services | industry benchmark: Home & Home Improvement

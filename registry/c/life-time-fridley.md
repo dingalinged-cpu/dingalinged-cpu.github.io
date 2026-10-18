@@ -13,7 +13,7 @@ Life Time is a gym in Fridley, MN at 1200 East Moore Lake Drive, Fridley, MN 554
 - Website: https://www.lifetime.life/life-time-locations/mn-fridley.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 58% of gyms in Minneapolis–St. Paul, #1 of 1 gyms in Fridley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 57% of gyms in Minneapolis–St. Paul, #1 of 1 gyms in Fridley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

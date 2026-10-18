@@ -13,7 +13,7 @@ park terrace salon is a hair salon in Minneapolis, MN at 4358 Zenith Avenue Sout
 - Website: https://thinhairsolved.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Minneapolis–St. Paul, #33 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Minneapolis–St. Paul, #32 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

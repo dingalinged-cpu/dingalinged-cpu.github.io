@@ -13,7 +13,7 @@ Armitage Bike Shop is a bike shop in Chicago, IL at 3601 West Armitage Avenue, C
 - Website: https://www.bike4lifechicago.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 34% of bike shops in Chicago, #24 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 33% of bike shops in Chicago, #23 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

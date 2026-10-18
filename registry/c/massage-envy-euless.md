@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Euless, TX at 2901 Rio Grande Boulevard #100
 - Website: https://locations.massageenvy.com/texas/euless/2901-rio-grande-blvd-.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-18:00
-- Pulse Score: 47.9/100 — Building — top 76% of massage studios in Dallas–Fort Worth, #5 of 6 massage studios in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 73% of massage studios in Dallas–Fort Worth, #5 of 6 massage studios in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

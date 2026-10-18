@@ -13,7 +13,7 @@ Cuick Trac is an IT support company in Dallas, TX at 5910 North Central Expressw
 - Website: https://www.cuicktrac.com/
 - Email: info@cuicktrac.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 27% of IT support companys in Dallas–Fort Worth, #5 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 27% of IT support companys in Dallas–Fort Worth, #5 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

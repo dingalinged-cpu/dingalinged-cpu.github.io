@@ -6,7 +6,7 @@ Also answers: bakery in Independence, MO; bakery near me (Independence, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eclairs De La Lune | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Eclairs De La Lune is a bakery in Independence, MO at 205 North Main Street, Independence, MO 64050. Website: https://eclairsdelalune.com/. | https://registry-edge.dingalinged.workers.dev/c/eclairs-de-la-lune-independence/
+1. Eclairs De La Lune | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Eclairs De La Lune is a bakery in Independence, MO at 205 North Main Street, Independence, MO 64050. Website: https://eclairsdelalune.com/. | https://registry-edge.dingalinged.workers.dev/c/eclairs-de-la-lune-independence/
 2. Dave's Bakery, Deli & Grill | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Dave's Bakery, Deli & Grill is a bakery in Independence, MO at 214 West Maple Avenue, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/daves-bakery-deli-and-grill-independence/
 3. Home Sweet Home Bakery & Coffehouse | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Home Sweet Home Bakery & Coffehouse is a bakery in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/home-sweet-home-bakery-and-coffehouse-independence/
 

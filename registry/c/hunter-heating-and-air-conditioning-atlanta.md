@@ -13,7 +13,7 @@ Hunter Heating And Air Conditioning is a HVAC contractor in Atlanta, GA at 2021 
 - Website: https://www.hunterhvac.net/
 - Email: Service@hunterheating.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa-Su off
-- Pulse Score: 61.8/100 — Good — top 16% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Good — top 16% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

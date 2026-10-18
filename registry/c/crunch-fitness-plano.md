@@ -13,7 +13,7 @@ Crunch Fitness is a gym in Plano, TX at 1701 Preston Rd, Plano, TX 75093. Phone:
 - Website: https://www.crunch.com/locations/plano
 - Email: n/a
 - Opening hours (OSM syntax): Mo 05:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-19:00; Su 07:00-19:00
-- Pulse Score: 49.1/100 — Building — top 49% of gyms in Dallas–Fort Worth, #14 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 48% of gyms in Dallas–Fort Worth, #14 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

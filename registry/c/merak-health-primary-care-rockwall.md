@@ -13,7 +13,7 @@ Merak Health Primary Care is a family medicine practice in Rockwall, TX at 2504 
 - Website: https://merakhealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00, Sa-Su closed
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

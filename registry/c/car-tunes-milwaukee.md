@@ -13,7 +13,7 @@ Car Tunes is an auto repair shop in Milwaukee, WI at 5814 West Center Street, Mi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of auto repair shops in Milwaukee, #19 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 79% of auto repair shops in Milwaukee, #92 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

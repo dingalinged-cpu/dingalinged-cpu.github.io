@@ -13,7 +13,7 @@ Superior Dental of East Cobb is a dentist in Cobb County, GA at 2745 Sandy Plain
 - Website: https://www.superiordentaleastcobb.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Pulse Score: 61/100 — Good — top 28% of dentists in Atlanta, #12 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 28% of dentists in Atlanta, #12 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

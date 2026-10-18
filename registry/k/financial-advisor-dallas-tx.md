@@ -6,7 +6,7 @@ Also answers: financial advisor in Dallas, TX; financial advisor near me (Dallas
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brighton Jones | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Brighton Jones is a financial advisor in Dallas, TX at 5956 Sherry Lane #20th Floor, Dallas, TX 75225. Phone: +14697221526. Website: https://www.brightonjones.com/locations/dallas/. | https://registry-edge.dingalinged.workers.dev/c/brighton-jones-dallas/
+1. Brighton Jones | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Brighton Jones is a financial advisor in Dallas, TX at 5956 Sherry Lane #20th Floor, Dallas, TX 75225. Phone: +14697221526. Website: https://www.brightonjones.com/locations/dallas/. | https://registry-edge.dingalinged.workers.dev/c/brighton-jones-dallas/
 2. Edward Jones | Organic #2 | Pulse Score 49.9/100 (Building, #2 in city) | Edward Jones is a financial advisor in Dallas, TX at 6333 East Mockingbird Lane #233, Dallas, TX. Phone: +12148267800. Website: https://www.edwardjones.com/us-en/financial-advisor/mark-hawk. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-dallas/
 3. Charles Schwab | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Dallas, TX at 5100 Belt Line Road #852, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/charles-schwab-dallas/
 

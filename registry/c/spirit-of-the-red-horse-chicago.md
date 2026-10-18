@@ -13,7 +13,7 @@ Spirit of the Red Horse is a jewelry store in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 21% of jewelry stores in Chicago, #15 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Good — top 20% of jewelry stores in Chicago, #14 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

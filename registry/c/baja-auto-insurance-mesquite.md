@@ -13,7 +13,7 @@ Baja Auto Insurance is an insurance agent in Mesquite, TX at 3600 Gus Thomasson 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 63% of insurance agents in Dallas–Fort Worth, #4 of 12 insurance agents in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 62% of insurance agents in Dallas–Fort Worth, #4 of 12 insurance agents in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

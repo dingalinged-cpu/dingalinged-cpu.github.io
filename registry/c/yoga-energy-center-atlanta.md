@@ -13,7 +13,7 @@ Yoga Energy Center is a yoga studio in Atlanta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 80% of yoga studios in Atlanta, #7 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 80% of yoga studios in Atlanta, #7 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

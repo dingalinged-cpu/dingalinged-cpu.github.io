@@ -13,7 +13,7 @@ Fred Astaire Dance Studio is a dance studio in Milwaukee, WI. Phone: +1414291999
 - Website: https://www.fredastaire.com/milwaukee/
 - Email: milwaukee@fredastaire.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 83% of dance studios in Milwaukee, #12 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 83% of dance studios in Milwaukee, #12 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

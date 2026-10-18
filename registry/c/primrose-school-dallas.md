@@ -13,7 +13,7 @@ Primrose School is a preschool in Dallas, TX. Website: https://www.primroseschoo
 - Website: https://www.primroseschools.com/schools/white-rock
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 71% of preschools in Dallas–Fort Worth, #2 of 4 preschools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 72% of preschools in Dallas–Fort Worth, #2 of 4 preschools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

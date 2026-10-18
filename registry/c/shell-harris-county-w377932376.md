@@ -13,7 +13,7 @@ Shell is a car wash in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Building — top 86% of car washes in Houston, #38 of 49 car washes in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Building — top 83% of car washes in Houston, #37 of 49 car washes in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

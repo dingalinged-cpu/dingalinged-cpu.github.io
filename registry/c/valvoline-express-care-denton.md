@@ -13,7 +13,7 @@ Valvoline Express Care is an auto repair shop in Denton, TX at 2001 Denison Stre
 - Website: https://locations.expresscare.com/tx/denton/0000339535/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 71% of auto repair shops in Dallas–Fort Worth, #32 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 70% of auto repair shops in Dallas–Fort Worth, #32 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

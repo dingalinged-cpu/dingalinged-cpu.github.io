@@ -13,7 +13,7 @@ Tonka Cycle & Ski is a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkin
 - Website: https://www.tonkacycleandski.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 34% of bike shops in Minneapolis–St. Paul, #1 of 2 bike shops in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 36% of bike shops in Minneapolis–St. Paul, #1 of 2 bike shops in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

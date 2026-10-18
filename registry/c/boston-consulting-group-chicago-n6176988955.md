@@ -13,7 +13,7 @@ Boston Consulting Group is a business consultant in Chicago, IL at 225 West Wack
 - Website: https://www.bcg.com/offices/chicago-knowledge-analytics.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 92% of business consultants in Chicago, #12 of 13 business consultants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 92% of business consultants in Chicago, #12 of 13 business consultants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

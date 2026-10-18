@@ -6,7 +6,7 @@ Also answers: tax preparer in Belton, MO; tax preparer near me (Belton, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert D. McCoy CPA | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Robert D. McCoy CPA is a tax preparation service in Belton, MO at 519 Main Street, Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/robert-d-mccoy-cpa-belton/
+1. Robert D. McCoy CPA | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Robert D. McCoy CPA is a tax preparation service in Belton, MO at 519 Main Street, Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/robert-d-mccoy-cpa-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer belton mo | category: professional_accounting | industry benchmark: Business Services

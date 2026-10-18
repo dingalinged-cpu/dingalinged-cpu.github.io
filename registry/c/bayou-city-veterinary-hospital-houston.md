@@ -13,7 +13,7 @@ Bayou City Veterinary Hospital is a veterinarian in Houston, TX at 4720 Washingt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 36% of veterinarians in Houston, #17 of 44 veterinarians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 36% of veterinarians in Houston, #17 of 44 veterinarians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

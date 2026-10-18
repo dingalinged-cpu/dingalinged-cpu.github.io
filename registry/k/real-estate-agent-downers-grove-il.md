@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Oakly Home Builders | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Oakly Home Builders is a real estate agency in Downers Grove, IL. | https://registry-edge.dingalinged.workers.dev/c/oakly-home-builders-downers-grove/
 2. Realty Executives | Organic #2 | Pulse Score 48.2/100 (Building, #2 in city) | Realty Executives is a real estate agency in Downers Grove, IL at 943 Maple Avenue, Downers Grove, IL 60515. Phone: +16307699050. Website: https://realtyexecutivesgrove.com/. | https://registry-edge.dingalinged.workers.dev/c/realty-executives-downers-grove/
-3. @properties | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | @properties is a real estate agency in Downers Grove, IL. Phone: +16302410800. | https://registry-edge.dingalinged.workers.dev/c/properties-downers-grove/
-4. Baird & Warner | Organic #4 | Pulse Score 47.4/100 (Unrated, #4 in city) | Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515. | https://registry-edge.dingalinged.workers.dev/c/baird-and-warner-downers-grove/
+3. Baird & Warner | Organic #3 | Pulse Score 47.4/100 (Unrated, #3 in city) | Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515. | https://registry-edge.dingalinged.workers.dev/c/baird-and-warner-downers-grove/
+4. @properties | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | @properties is a real estate agency in Downers Grove, IL. Phone: +16302410800. | https://registry-edge.dingalinged.workers.dev/c/properties-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent downers grove il | category: Professional & financial services | industry benchmark: Finance & Insurance

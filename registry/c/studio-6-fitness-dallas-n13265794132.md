@@ -13,7 +13,7 @@ Studio 6 Fitness is a pilates studio in Dallas, TX at 11909 Preston Road #1412, 
 - Website: https://studio6fitness.com/location/preston-hollow/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 48% of pilates studios in Dallas–Fort Worth, #3 of 5 pilates studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 48% of pilates studios in Dallas–Fort Worth, #3 of 5 pilates studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Rocket Wash | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Rocket Wash is a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/rocket-wash-racine/
 2. Rocket Wash | Organic #2 | Pulse Score 59.2/100 (Unrated, #1 in city) | Rocket Wash is a car wash in Mount Pleasant, WI at 6840 Washington Avenue, Mount Pleasant, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/rocket-wash-mount-pleasant/
-3. Regency Car Wash | Organic #3 | Pulse Score 55.3/100 (Unrated, #2 in city) | Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/regency-car-wash-racine/
-4. Kwik Trip | Organic #4 | Pulse Score 49.6/100 (Building, #2 in city) | Kwik Trip is a car wash in Mount Pleasant, WI at 7155 Durand Avenue, Mount Pleasant, WI 53177. Website: https://www.kwiktrip.com/locator/store?id=395. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-mount-pleasant/
-5. Kwik Trip Car Wash | Organic #5 | Pulse Score 48/100 (Building, #3 in city) | Kwik Trip Car Wash is a car wash in Mount Pleasant, WI. Website: https://www.kwiktrip.com/locator/store?id=686. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-car-wash-mount-pleasant/
+3. Regency Car Wash | Organic #3 | Pulse Score 55.4/100 (Unrated, #2 in city) | Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/regency-car-wash-racine/
+4. Kwik Trip | Organic #4 | Pulse Score 49.5/100 (Building, #2 in city) | Kwik Trip is a car wash in Mount Pleasant, WI at 7155 Durand Avenue, Mount Pleasant, WI 53177. Website: https://www.kwiktrip.com/locator/store?id=395. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-mount-pleasant/
+5. Kwik Trip Car Wash | Organic #5 | Pulse Score 47.9/100 (Building, #3 in city) | Kwik Trip Car Wash is a car wash in Mount Pleasant, WI. Website: https://www.kwiktrip.com/locator/store?id=686. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-car-wash-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash mount pleasant wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

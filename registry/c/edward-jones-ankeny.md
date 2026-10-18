@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Ankeny, IA at 1610 Southwest Main Street 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/brandt-hockman
 - Email: brandt.hockman@edwardjones.com
 - Opening hours (OSM syntax): Mo-Th 08:30-16:30; Fr 08:30-16:00
-- Pulse Score: 52.2/100 — Fair — top 54% of financial advisors in Des Moines, IA, #2 of 2 financial advisors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 47% of financial advisors in Des Moines, IA, #1 of 2 financial advisors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

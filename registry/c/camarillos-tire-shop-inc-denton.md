@@ -13,7 +13,7 @@ Camarillos Tire Shop Inc is a tire shop in Denton, TX at 1019 Dallas Drive, Dent
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 10% of tire shops in Dallas–Fort Worth, #3 of 11 tire shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 10% of tire shops in Dallas–Fort Worth, #3 of 11 tire shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

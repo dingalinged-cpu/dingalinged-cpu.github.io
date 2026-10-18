@@ -6,7 +6,7 @@ Also answers: shoe repair in Marietta, GA; shoe repair near me (Marietta, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Terrell Mill Shoe Repair | Organic #1 | Pulse Score 57.1/100 (Unrated, #7 in city) | Terrell Mill Shoe Repair is a tailor in Marietta, GA at 1475 Terrell Mill Road Southeast, Marietta, GA 30067. | https://registry-edge.dingalinged.workers.dev/c/terrell-mill-shoe-repair-marietta/
+1. Terrell Mill Shoe Repair | Organic #1 | Pulse Score 57/100 (Unrated, #7 in city) | Terrell Mill Shoe Repair is a tailor in Marietta, GA at 1475 Terrell Mill Road Southeast, Marietta, GA 30067. | https://registry-edge.dingalinged.workers.dev/c/terrell-mill-shoe-repair-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair marietta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

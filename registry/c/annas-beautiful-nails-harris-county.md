@@ -13,7 +13,7 @@ Anna's Beautiful Nails is a nail salon in Harris County, TX at 21020 Highland Kn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 46% of nail salons in Houston, #11 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 44% of nail salons in Houston, #11 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

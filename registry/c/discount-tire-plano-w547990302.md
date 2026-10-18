@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Plano, TX at 2260 State Highway 121, Plano, TX 7
 - Website: https://discounttire.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
-- Pulse Score: 52.1/100 — Fair — top 47% of tire shops in Dallas–Fort Worth, #1 of 9 tire shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 71.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 46% of tire shops in Dallas–Fort Worth, #1 of 9 tire shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 71.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

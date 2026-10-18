@@ -6,8 +6,8 @@ Also answers: it support in Minnetonka, MN; it support near me (Minnetonka, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Veracity Technologies‎ - Minneapolis IT Services | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Veracity Technologies‎ - Minneapolis IT Services is an IT support company in Minnetonka, MN at 5929 Baker Road #Suite 420, Minnetonka, MN 55345. Phone: +19525928076. Website: https://www.veracitytech.com/. | https://registry-edge.dingalinged.workers.dev/c/veracity-technologies-minneapolis-it-services-minnetonka/
-2. MEDITECH | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | MEDITECH is an IT support company in Minnetonka, MN at 5130 County Road 101, Minnetonka, MN 55345. Phone: +17818213000. Website: https://ehr.meditech.com/. | https://registry-edge.dingalinged.workers.dev/c/meditech-minnetonka/
+1. Veracity Technologies‎ - Minneapolis IT Services | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Veracity Technologies‎ - Minneapolis IT Services is an IT support company in Minnetonka, MN at 5929 Baker Road #Suite 420, Minnetonka, MN 55345. Phone: +19525928076. Website: https://www.veracitytech.com/. | https://registry-edge.dingalinged.workers.dev/c/veracity-technologies-minneapolis-it-services-minnetonka/
+2. MEDITECH | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | MEDITECH is an IT support company in Minnetonka, MN at 5130 County Road 101, Minnetonka, MN 55345. Phone: +17818213000. Website: https://ehr.meditech.com/. | https://registry-edge.dingalinged.workers.dev/c/meditech-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support minnetonka mn | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Neighbor Self Storage is a self-storage facility in Frisco, TX at 8455 Grace Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 38% of self-storage facilitys in Dallas–Fort Worth, #2 of 6 self-storage facilitys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 39% of self-storage facilitys in Dallas–Fort Worth, #2 of 6 self-storage facilitys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

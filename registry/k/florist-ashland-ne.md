@@ -6,7 +6,7 @@ Also answers: florist in Ashland, NE; florist near me (Ashland, NE); best floris
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blooms Floral & Gifts | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Blooms Floral & Gifts is a florist in Ashland, NE at 1402 Silver Street, Ashland, NE 68003. Phone: +14029449498. Website: https://bloomsfloralandgifts.com/. | https://registry-edge.dingalinged.workers.dev/c/blooms-floral-and-gifts-ashland/
+1. Blooms Floral & Gifts | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Blooms Floral & Gifts is a florist in Ashland, NE at 1402 Silver Street, Ashland, NE 68003. Phone: +14029449498. Website: https://bloomsfloralandgifts.com/. | https://registry-edge.dingalinged.workers.dev/c/blooms-floral-and-gifts-ashland/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist ashland ne | category: Events & weddings | industry benchmark: Personal Services

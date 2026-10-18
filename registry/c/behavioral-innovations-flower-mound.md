@@ -13,7 +13,7 @@ Behavioral Innovations is a therapy practice in Flower Mound, TX. Phone: +197289
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa-Su off
-- Pulse Score: 47.5/100 — Building — top 87% of therapy practices in Dallas–Fort Worth, #7 of 7 therapy practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 87% of therapy practices in Dallas–Fort Worth, #7 of 7 therapy practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

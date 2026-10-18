@@ -13,7 +13,7 @@ TITLE Boxing Club is a gym in Chicago, IL at 313 South Peoria Street, Chicago, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 57% of gyms in Chicago, #100 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 56% of gyms in Chicago, #98 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ New & Used Tires On Broadway is a tire shop in Gary, IN at 1976 Broadway, Gary, 
 - Website: https://newandusedtiresgary.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 9% of tire shops in Chicago, #1 of 5 tire shops in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 9% of tire shops in Chicago, #1 of 5 tire shops in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

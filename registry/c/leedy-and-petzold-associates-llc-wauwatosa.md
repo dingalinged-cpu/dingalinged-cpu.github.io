@@ -13,7 +13,7 @@ Leedy & Petzold Associates, LLC is a business consultant in Wauwatosa, WI at 110
 - Website: https://leedypetzold.weebly.com/
 - Email: clb@leedypetzold.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Good — top 25% of business consultants in Milwaukee, #1 of 2 business consultants in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 25% of business consultants in Milwaukee, #1 of 2 business consultants in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

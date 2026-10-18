@@ -13,7 +13,7 @@ RE/MAX Real Estate Group is a real estate agency in Windsor Heights, IA at 6600 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 91% of real estate agencys in Des Moines, IA, #2 of 2 real estate agencys in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 88% of real estate agencys in Des Moines, IA, #2 of 2 real estate agencys in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

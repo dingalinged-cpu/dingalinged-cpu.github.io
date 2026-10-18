@@ -13,7 +13,7 @@ Rose Nails is a nail salon in Lewisville, TX. Phone: +19724367274.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; PH closed
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 13% of nail salons in Dallas–Fort Worth, #9 of 14 nail salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 82% of nail salons in Dallas–Fort Worth, #14 of 14 nail salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

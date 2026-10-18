@@ -6,7 +6,7 @@ Also answers: liquor store in Edgerton, KS; liquor store near me (Edgerton, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D's Liquors | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056. | https://registry-edge.dingalinged.workers.dev/c/ds-liquors-edgerton/
+1. D's Liquors | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056. | https://registry-edge.dingalinged.workers.dev/c/ds-liquors-edgerton/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store edgerton ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

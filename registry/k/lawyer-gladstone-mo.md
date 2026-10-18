@@ -6,7 +6,7 @@ Also answers: lawyer in Gladstone, MO; lawyer near me (Gladstone, MO); best lawy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Broussard & Ruhlman, PC | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Broussard & Ruhlman, PC is a lawyer in Gladstone, MO at 2601 Northeast Kendallwood Parkway;NE Kendallwood Pkwy #Suite 210, Gladstone, MO 64119. Phone: +18168001370. Website: https://www.bblawkc.com/. | https://registry-edge.dingalinged.workers.dev/c/broussard-and-ruhlman-pc-gladstone/
+1. Broussard & Ruhlman, PC | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Broussard & Ruhlman, PC is a lawyer in Gladstone, MO at 2601 Northeast Kendallwood Parkway;NE Kendallwood Pkwy #Suite 210, Gladstone, MO 64119. Phone: +18168001370. Website: https://www.bblawkc.com/. | https://registry-edge.dingalinged.workers.dev/c/broussard-and-ruhlman-pc-gladstone/
 2. Redman Law Office | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Redman Law Office is a lawyer in Gladstone, MO at 104 Northeast 72nd Street #H, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/redman-law-office-gladstone/
 3. Traffic Law Pros | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Traffic Law Pros is a lawyer in Gladstone, MO at 104 Northeast 72nd Street #A, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/traffic-law-pros-gladstone/
 

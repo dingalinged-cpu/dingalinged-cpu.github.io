@@ -6,7 +6,7 @@ Also answers: pediatrician in Trophy Club, TX; pediatrician near me (Trophy Club
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cook Children’s Pediatrics | Organic #1 | Pulse Score 51.5/100 (Unrated, #1 in city) | Cook Children’s Pediatrics is a pediatrician in Trophy Club, TX at 2550 Bobcat Boulevard #100, Trophy Club, TX 76262. Phone: +18173478100. Website: https://locations.cookchildrens.org/tx/trophy-club/2550-bobcat-boulevard. | https://registry-edge.dingalinged.workers.dev/c/cook-children-s-pediatrics-trophy-club/
+1. Cook Children’s Pediatrics | Organic #1 | Pulse Score 51.6/100 (Unrated, #1 in city) | Cook Children’s Pediatrics is a pediatrician in Trophy Club, TX at 2550 Bobcat Boulevard #100, Trophy Club, TX 76262. Phone: +18173478100. Website: https://locations.cookchildrens.org/tx/trophy-club/2550-bobcat-boulevard. | https://registry-edge.dingalinged.workers.dev/c/cook-children-s-pediatrics-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician trophy club tx | category: Health & medical | industry benchmark: Physicians & Surgeons

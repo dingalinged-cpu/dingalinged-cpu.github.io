@@ -13,7 +13,7 @@ Lyly Nails & Spa is a nail salon in Milwaukee, WI at 116 East Greenfield Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:00-17:00; Su off
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 28% of nail salons in Milwaukee, #13 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of nail salons in Milwaukee, #10 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

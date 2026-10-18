@@ -13,7 +13,7 @@ All-Pro Pest Services is a pest control company in Marietta, GA at 1259 Cobb Ind
 - Website: https://www.allpropestservices.com/
 - Email: info@770GETAPRO.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 46% of pest control companys in Atlanta, #4 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 46% of pest control companys in Atlanta, #4 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

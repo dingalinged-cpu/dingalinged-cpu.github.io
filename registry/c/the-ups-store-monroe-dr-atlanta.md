@@ -13,7 +13,7 @@ The UPS Store - Monroe Dr is a printing service in Atlanta, GA at 931 Monroe Dri
 - Website: https://locations.theupsstore.com/ga/atlanta/931-monroe-dr
 - Email: store2121@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 10:00-15:00
-- Pulse Score: 49.8/100 — Building — top 33% of printing services in Atlanta, #8 of 12 printing services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 33% of printing services in Atlanta, #8 of 12 printing services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

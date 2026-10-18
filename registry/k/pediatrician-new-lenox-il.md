@@ -6,7 +6,7 @@ Also answers: pediatrician in New Lenox, IL; pediatrician near me (New Lenox, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Physicians Immediate Care | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Physicians Immediate Care is a pediatrician in New Lenox, IL at 621 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159075955. Website: https://physiciansimmediatecare.com/clinic/new-lenox/. | https://registry-edge.dingalinged.workers.dev/c/physicians-immediate-care-new-lenox/
+1. Physicians Immediate Care | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Physicians Immediate Care is a pediatrician in New Lenox, IL at 621 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159075955. Website: https://physiciansimmediatecare.com/clinic/new-lenox/. | https://registry-edge.dingalinged.workers.dev/c/physicians-immediate-care-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician new lenox il | category: Health & medical | industry benchmark: Physicians & Surgeons

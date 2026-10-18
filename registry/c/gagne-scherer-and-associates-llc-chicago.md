@@ -13,7 +13,7 @@ Gagne, Scherer & Associates, LLC is a lawyer in Chicago, IL at 6585 North Avonda
 - Website: https://militarytriallawyers.com/
 - Email: contact@militarytriallawyers.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Chicago, #34 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Chicago, #34 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

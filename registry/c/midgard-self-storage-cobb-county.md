@@ -13,7 +13,7 @@ Midgard Self Storage is a self-storage facility in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 59% of self-storage facilitys in Atlanta, #25 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 99% of self-storage facilitys in Atlanta, #29 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. All About Tires | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | All About Tires is a tire shop in Waxahachie, TX at 302 Howard Road, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/all-about-tires-waxahachie/
 2. Texas Tires | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Texas Tires is a tire shop in Waxahachie, TX at 110 Dallas Highway, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/texas-tires-waxahachie/
 3. Tire Town | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Tire Town is a tire shop in Waxahachie, TX at 300 Water Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/tire-town-waxahachie/
-4. Discount Tire | Organic #4 | Pulse Score 45.7/100 (Building, #4 in city) | Discount Tire is a tire shop in Waxahachie, TX at 1230 West US Highway 287 Bypass, Waxahachie, TX 75165. Phone: +19729371857. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-waxahachie/
+4. Discount Tire | Organic #4 | Pulse Score 45.8/100 (Building, #4 in city) | Discount Tire is a tire shop in Waxahachie, TX at 1230 West US Highway 287 Bypass, Waxahachie, TX 75165. Phone: +19729371857. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop waxahachie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

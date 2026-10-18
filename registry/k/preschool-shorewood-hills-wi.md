@@ -6,7 +6,7 @@ Also answers: preschool in Shorewood Hills, WI; preschool near me (Shorewood Hil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VA Kids Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | VA Kids Center is a preschool in Shorewood Hills, WI at 2500 Overlook Terrace, Shorewood Hills, WI. Phone: +16082807224. Website: https://www.vakidscenter.org/. | https://registry-edge.dingalinged.workers.dev/c/va-kids-center-shorewood-hills/
+1. VA Kids Center | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | VA Kids Center is a preschool in Shorewood Hills, WI at 2500 Overlook Terrace, Shorewood Hills, WI. Phone: +16082807224. Website: https://www.vakidscenter.org/. | https://registry-edge.dingalinged.workers.dev/c/va-kids-center-shorewood-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool shorewood hills wi | category: Education & childcare | industry benchmark: Education & Instruction

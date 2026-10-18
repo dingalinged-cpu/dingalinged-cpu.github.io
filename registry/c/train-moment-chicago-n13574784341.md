@@ -13,7 +13,7 @@ TRAIN Moment is a gym in Chicago, IL at 1841 North Clybourn Avenue, Chicago, IL.
 - Website: https://www.trainmoment.com/lincoln-park
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 20% of gyms in Chicago, #47 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 19% of gyms in Chicago, #45 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

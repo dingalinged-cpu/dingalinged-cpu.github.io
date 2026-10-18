@@ -13,7 +13,7 @@ Northwestern Medicine is a family medicine practice in Deerfield, IL at Waukegan
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 100% of family medicine practices in Chicago, #1 of 1 family medicine practices in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 100% of family medicine practices in Chicago, #1 of 1 family medicine practices in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

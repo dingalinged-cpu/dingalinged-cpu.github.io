@@ -13,7 +13,7 @@ Jared Galleria of Jewelry is a jewelry store in Kennesaw, GA at 605 Ernest W. Ba
 - Website: https://stores.jared.com/ga/kennesaw/459
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-20:00; Tu 09:00-18:00; We off; Fr-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 50/100 — Fair — top 68% of jewelry stores in Atlanta, #4 of 4 jewelry stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 67% of jewelry stores in Atlanta, #4 of 4 jewelry stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

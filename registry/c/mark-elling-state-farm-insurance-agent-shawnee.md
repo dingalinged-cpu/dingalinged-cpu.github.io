@@ -8,7 +8,7 @@ Mark Elling - State Farm Insurance Agent is an insurance agent in Shawnee, KS.
 - City: Shawnee
 - State: KS
 - ZIP: n/a
-- Coordinates: 39.0195592, -94.7141454
+- Coordinates: 39.0195591, -94.7141454
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Mark Elling - State Farm Insurance Agent is an insurance agent in Shawnee, KS.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mark-elling-state-farm-insurance-agent-shawnee/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mark-elling-state-farm-insurance-agent-shawnee.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/615381217 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/615381217 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

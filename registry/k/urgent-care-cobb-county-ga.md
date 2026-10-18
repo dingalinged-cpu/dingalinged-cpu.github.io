@@ -6,7 +6,7 @@ Also answers: urgent care in Cobb County, GA; urgent care near me (Cobb County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's at Town Center Urgent Care | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Children's at Town Center Urgent Care is a pediatrician in Cobb County, GA at 625 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-urgent-care-at-town-center. | https://registry-edge.dingalinged.workers.dev/c/childrens-at-town-center-urgent-care-cobb-county/
+1. Children's at Town Center Urgent Care | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Children's at Town Center Urgent Care is a pediatrician in Cobb County, GA at 625 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-urgent-care-at-town-center. | https://registry-edge.dingalinged.workers.dev/c/childrens-at-town-center-urgent-care-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care cobb county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

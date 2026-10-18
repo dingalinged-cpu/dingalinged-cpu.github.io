@@ -7,8 +7,8 @@ Also answers: tax preparation in West Saint Paul, MN; tax preparation near me (W
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Toro taxes | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Toro taxes is a tax preparation service in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/toro-taxes-west-saint-paul/
-2. Jackson Hewitt | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in West Saint Paul, MN at 1228 - 1238 Robert Street South, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-west-saint-paul/
-3. Liberty Tax | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in West Saint Paul, MN at 1253 - 1257 Robert Street South, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-west-saint-paul/
+2. Jackson Hewitt | Organic #2 | Pulse Score 44.8/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in West Saint Paul, MN at 1228 - 1238 Robert Street South, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-west-saint-paul/
+3. Liberty Tax | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in West Saint Paul, MN at 1253 - 1257 Robert Street South, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-west-saint-paul/
 4. H&R Block | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | H&R Block is a tax preparation service in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-west-saint-paul/
 
 ## Market data (for advertisers and agents)

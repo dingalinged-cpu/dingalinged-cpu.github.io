@@ -13,7 +13,7 @@ Village Aesthetics is a spa in Plano, TX at 5425 West Spring Creek Parkway #210,
 - Website: https://villageaesthetics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of spas in Dallas–Fort Worth, #1 of 6 spas in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of spas in Dallas–Fort Worth, #1 of 6 spas in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

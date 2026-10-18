@@ -6,7 +6,7 @@ Also answers: physical therapy in Chanhassen, MN; physical therapy near me (Chan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Viverant | Organic #1 | Pulse Score 44.2/100 (Unrated, #1 in city) | Viverant is a physical therapy clinic in Chanhassen, MN at West 78th Street, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/viverant-chanhassen/
+1. Viverant | Organic #1 | Pulse Score 44.3/100 (Unrated, #1 in city) | Viverant is a physical therapy clinic in Chanhassen, MN at West 78th Street, Chanhassen, MN 55317. | https://registry-edge.dingalinged.workers.dev/c/viverant-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy chanhassen mn | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Aqua Cleaners is a dry cleaner in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 64% of dry cleaners in Atlanta, #18 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Atlanta, #16 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

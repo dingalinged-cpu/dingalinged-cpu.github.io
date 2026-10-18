@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Mesquite, TX at 1350 North Bel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 68% of self-storage facilitys in Dallas–Fort Worth, #9 of 12 self-storage facilitys in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 66% of self-storage facilitys in Dallas–Fort Worth, #9 of 12 self-storage facilitys in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

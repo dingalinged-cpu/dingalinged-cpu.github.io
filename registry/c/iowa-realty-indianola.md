@@ -13,7 +13,7 @@ Iowa Realty is a real estate agency in Indianola, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 94% of real estate agencys in Des Moines, IA, #1 of 1 real estate agencys in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 91% of real estate agencys in Des Moines, IA, #1 of 1 real estate agencys in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: daycare in Blue Springs, MO; daycare near me (Blue Springs, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BLS Education Center | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | BLS Education Center is a daycare in Blue Springs, MO at 2300 MO Hwy 7, Blue Springs, MO 64014. Website: https://www.blsecc.com/blue-springs-location/. | https://registry-edge.dingalinged.workers.dev/c/bls-education-center-blue-springs/
-2. Kidding Around Child Development Center | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Kidding Around Child Development Center is a daycare in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/kidding-around-child-development-center-blue-springs/
+1. BLS Education Center | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | BLS Education Center is a daycare in Blue Springs, MO at 2300 MO Hwy 7, Blue Springs, MO 64014. Website: https://www.blsecc.com/blue-springs-location/. | https://registry-edge.dingalinged.workers.dev/c/bls-education-center-blue-springs/
+2. Kidding Around Child Development Center | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Kidding Around Child Development Center is a daycare in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/kidding-around-child-development-center-blue-springs/
 3. The Learning Experience | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | The Learning Experience is a daycare in Blue Springs, MO at 2750 MO Hwy 7, Blue Springs, MO 64014. Phone: +18169888803. Website: https://thelearningexperience.com/centers/blue-springs-mo/. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-blue-springs/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Re-CYCLE Bike Shop is a bike shop in Omaha, NE at 4701 Center Street, Omaha, NE 
 - Website: https://recyclebikeshop.net/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Omaha, NE, #3 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Omaha, NE, #3 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

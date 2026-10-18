@@ -6,7 +6,7 @@ Also answers: painters in Racine, WI; painters near me (Racine, WI); best painte
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shurpac Inc | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Shurpac Inc is a painting contractor in Racine, WI at 1700 Phillips Avenue, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/shurpac-inc-racine/
+1. Shurpac Inc | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Shurpac Inc is a painting contractor in Racine, WI at 1700 Phillips Avenue, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/shurpac-inc-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters racine wi | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Spec's is a liquor store in Plano, TX at 5930 West Park Boulevard, Plano, TX 750
 - Website: https://specsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Pulse Score: 52/100 — Fair — top 67% of liquor stores in Dallas–Fort Worth, #9 of 16 liquor stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52/100 — Fair — top 66% of liquor stores in Dallas–Fort Worth, #9 of 16 liquor stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

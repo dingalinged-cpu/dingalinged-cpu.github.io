@@ -13,7 +13,7 @@ Nutrition 1st is a therapy practice in Allen, TX at 1105 Central Expressway Nort
 - Website: https://nutrition1st.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 25% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Waukesha, WI at 2144 East Moreland Boulevard, Waukes
 - Website: https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50/100 — Fair — top 52% of gyms in Milwaukee, #3 of 7 gyms in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 50% of gyms in Milwaukee, #3 of 7 gyms in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

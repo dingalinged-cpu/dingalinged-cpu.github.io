@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Dallas, TX at 3737 Frankford R
 - Website: https://www.extraspace.com/storage/facilities/us/texas/dallas/1954/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00
-- Pulse Score: 49.5/100 — Building — top 40% of self-storage facilitys in Dallas–Fort Worth, #14 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 35% of self-storage facilitys in Dallas–Fort Worth, #11 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

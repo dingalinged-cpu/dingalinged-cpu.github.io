@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Chicago, IL at 3760 North Broadway, Chicago,
 - Website: https://locations.myeyedr.com/il/chicago/3760-north-broadway-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 10:00-19:00; Th 10:00-19:00; Fr 09:00-18:00; Sa 09:00-15:00; Su off
-- Pulse Score: 49.6/100 — Building — top 90% of eye care practices in Chicago, #23 of 29 eye care practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 90% of eye care practices in Chicago, #23 of 29 eye care practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: preschool in Olathe, KS; preschool near me (Olathe, KS); best pres
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Goddard School | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | The Goddard School is a preschool in Olathe, KS at 21820 W 115th Street, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-olathe/
+1. The Goddard School | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | The Goddard School is a preschool in Olathe, KS at 21820 W 115th Street, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool olathe ks | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ DriveTime is an used car dealer in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 100% of used car dealers in Houston, #46 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 37.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.3/100 — Building — top 100% of used car dealers in Houston, #46 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 37.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

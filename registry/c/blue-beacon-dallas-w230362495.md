@@ -13,7 +13,7 @@ Blue Beacon is a car wash in Dallas, TX. Website: https://bluebeacon.com/locatio
 - Website: https://bluebeacon.com/locations/listing/dallas-east-tx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 74% of car washes in Dallas–Fort Worth, #16 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 72% of car washes in Dallas–Fort Worth, #14 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

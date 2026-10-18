@@ -13,7 +13,7 @@ U.S. Dermatology Partners is a dermatologist in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Fair — top 74% of dermatologists in Dallas–Fort Worth, #5 of 5 dermatologists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 36.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Fair — top 74% of dermatologists in Dallas–Fort Worth, #5 of 5 dermatologists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 36.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

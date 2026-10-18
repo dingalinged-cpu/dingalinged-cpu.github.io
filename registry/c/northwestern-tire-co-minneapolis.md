@@ -13,7 +13,7 @@ Northwestern Tire Co is a tire shop in Minneapolis, MN at 301 Fremont Avenue Nor
 - Website: https://www.northwesterntire.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 11% of tire shops in Minneapolis–St. Paul, #1 of 3 tire shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 11% of tire shops in Minneapolis–St. Paul, #1 of 3 tire shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

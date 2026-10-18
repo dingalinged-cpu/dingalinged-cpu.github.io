@@ -6,7 +6,7 @@ Also answers: storage units in Town Of Burke, WI; storage units near me (Town Of
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakestone Storage | Organic #1 | Pulse Score 60.6/100 (Unrated, #2 in city) | Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Road, DeForest, WI 53532. Phone: +16087655253. Website: https://www.lakestonestorage.com/. | https://registry-edge.dingalinged.workers.dev/c/lakestone-storage-deforest/
+1. Lakestone Storage | Organic #1 | Pulse Score 60.7/100 (Unrated, #2 in city) | Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Road, DeForest, WI 53532. Phone: +16087655253. Website: https://www.lakestonestorage.com/. | https://registry-edge.dingalinged.workers.dev/c/lakestone-storage-deforest/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units town of burke wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

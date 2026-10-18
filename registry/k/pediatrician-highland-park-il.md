@@ -6,7 +6,7 @@ Also answers: pediatrician in Highland Park, IL; pediatrician near me (Highland 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pedia Trust | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Pedia Trust is a pediatrician in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/pedia-trust-highland-park/
+1. Pedia Trust | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Pedia Trust is a pediatrician in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/pedia-trust-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician highland park il | category: Health & medical | industry benchmark: Physicians & Surgeons

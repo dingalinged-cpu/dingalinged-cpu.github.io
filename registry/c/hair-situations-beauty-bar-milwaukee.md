@@ -13,7 +13,7 @@ Hair Situations Beauty Bar is a hair salon in Milwaukee, WI at 6109 West Fond du
 - Website: https://hair-situations-beauty-bar.chrone.work/
 - Email: hairsituationz1@gmail.com
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr 10:00-19:00; Sa 10:00-19:30; Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Milwaukee, #39 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Milwaukee, #38 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

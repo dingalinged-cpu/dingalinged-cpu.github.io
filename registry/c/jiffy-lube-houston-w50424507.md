@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Houston, TX at 9666 Westheimer Road, Housto
 - Website: https://www.jiffylube.com/locations/tx/houston/1682
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 08:00-18:00, Su 10:00-16:00
-- Pulse Score: 48.9/100 — Building — top 65% of auto repair shops in Houston, #161 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 64% of auto repair shops in Houston, #160 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

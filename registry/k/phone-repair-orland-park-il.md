@@ -6,7 +6,7 @@ Also answers: phone repair in Orland Park, IL; phone repair near me (Orland Park
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Orland Park, IL at 15864 South La Grange Road #D1A, Orland Park, IL 60462. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-orland-park/
+1. Cell Phone Repair | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Orland Park, IL at 15864 South La Grange Road #D1A, Orland Park, IL 60462. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair orland park il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

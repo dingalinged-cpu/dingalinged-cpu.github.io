@@ -6,7 +6,7 @@ Also answers: landscaping in Hopkins, MN; landscaping near me (Hopkins, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrett Lawn Care | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Barrett Lawn Care is a landscaping company in Hopkins, MN at 1415 5th Street South #E, Hopkins, MN 55343. Phone: +16128667522. Website: https://www.barrettlawncare.com/. | https://registry-edge.dingalinged.workers.dev/c/barrett-lawn-care-hopkins/
+1. Barrett Lawn Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Barrett Lawn Care is a landscaping company in Hopkins, MN at 1415 5th Street South #E, Hopkins, MN 55343. Phone: +16128667522. Website: https://www.barrettlawncare.com/. | https://registry-edge.dingalinged.workers.dev/c/barrett-lawn-care-hopkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping hopkins mn | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

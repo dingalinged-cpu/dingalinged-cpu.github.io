@@ -13,7 +13,7 @@ Christian Brothers Automotive Clive is an auto repair shop in Clive, IA at 15250
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 54% of auto repair shops in Des Moines, IA, #6 of 16 auto repair shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 52% of auto repair shops in Des Moines, IA, #5 of 16 auto repair shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

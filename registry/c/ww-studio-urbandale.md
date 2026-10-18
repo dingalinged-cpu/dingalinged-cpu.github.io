@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Urbandale, IA at 2809 100th Street, Urbandale
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 78% of therapy practices in Des Moines, IA, #1 of 1 therapy practices in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 78% of therapy practices in Des Moines, IA, #1 of 1 therapy practices in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

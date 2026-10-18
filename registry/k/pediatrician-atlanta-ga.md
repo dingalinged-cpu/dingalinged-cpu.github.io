@@ -6,7 +6,7 @@ Also answers: pediatrician in Atlanta, GA; pediatrician near me (Atlanta, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Intown Pediatrics | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Intown Pediatrics is a pediatrician in Atlanta, GA at 490 Bill Kennedy Way, Atlanta, GA 30316. Phone: +14044464726. Website: https://intownpediatrics.com/. | https://registry-edge.dingalinged.workers.dev/c/intown-pediatrics-atlanta/
+1. Intown Pediatrics | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Intown Pediatrics is a pediatrician in Atlanta, GA at 490 Bill Kennedy Way, Atlanta, GA 30316. Phone: +14044464726. Website: https://intownpediatrics.com/. | https://registry-edge.dingalinged.workers.dev/c/intown-pediatrics-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

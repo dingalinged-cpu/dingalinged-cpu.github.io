@@ -13,7 +13,7 @@ Squeeze Massage is a massage studio in Atlanta, GA at 145 15th Street Northeast,
 - Website: https://www.squeezemassage.com/appointment/location/13/more-info/midtownatl
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 10:00-20:00
-- Pulse Score: 62.4/100 — Good — top 16% of massage studios in Atlanta, #4 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 14% of massage studios in Atlanta, #3 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

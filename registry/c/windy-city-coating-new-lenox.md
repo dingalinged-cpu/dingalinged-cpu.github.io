@@ -13,7 +13,7 @@ Windy City Coating is a flooring company in New Lenox, IL at 1030 South Cedar Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-12:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of flooring companys in Chicago, #1 of 1 flooring companys in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of flooring companys in Chicago, #1 of 1 flooring companys in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

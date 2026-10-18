@@ -13,7 +13,7 @@ Barks N' Rec is a pet store in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 34% of pet stores in Chicago, #27 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 32% of pet stores in Chicago, #25 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

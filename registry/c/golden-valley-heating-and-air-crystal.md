@@ -13,7 +13,7 @@ Golden Valley Heating & Air is a HVAC contractor in Crystal, MN at 5182 West Bro
 - Website: https://www.goldenvalleyhtg.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 32% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Crystal (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 32% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Crystal (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

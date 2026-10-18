@@ -13,7 +13,7 @@ Little Words Project is a jewelry store in Madison, WI. Website: https://littlew
 - Website: https://littlewordsproject.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Madison, #5 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of jewelry stores in Madison, #3 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

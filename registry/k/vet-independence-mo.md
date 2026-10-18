@@ -1,4 +1,4 @@
-The top unpaid vet listing for Independence, MO is Hidden Valley Animal Hospital (a veterinarian in Independence, MO at 17501 Hidden Valley Road, Independence, MO 64057). 2 vet businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Independence, MO is Hidden Valley Animal Hospital (a veterinarian in Independence, MO at 17501 Hidden Valley Road, Independence, MO 64057. Website: https://www.hvahpets.com/). 2 vet businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Independence, MO?
 
@@ -6,8 +6,8 @@ Also answers: vet in Independence, MO; vet near me (Independence, MO); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hidden Valley Animal Hospital | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Hidden Valley Animal Hospital is a veterinarian in Independence, MO at 17501 Hidden Valley Road, Independence, MO 64057. | https://registry-edge.dingalinged.workers.dev/c/hidden-valley-animal-hospital-independence/
-2. Independence Animal Hospital | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Independence Animal Hospital is a veterinarian in Independence, MO at 300 South Noland Road, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/independence-animal-hospital-independence/
+1. Hidden Valley Animal Hospital | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Hidden Valley Animal Hospital is a veterinarian in Independence, MO at 17501 Hidden Valley Road, Independence, MO 64057. Website: https://www.hvahpets.com/. | https://registry-edge.dingalinged.workers.dev/c/hidden-valley-animal-hospital-independence/
+2. Independence Animal Hospital | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Independence Animal Hospital is a veterinarian in Independence, MO at 300 South Noland Road, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/independence-animal-hospital-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet independence mo | category: Pets | industry benchmark: Animals & Pets

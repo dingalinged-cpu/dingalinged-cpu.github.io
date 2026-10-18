@@ -6,9 +6,9 @@ Also answers: plumbers in Saint Paul, MN; plumbers near me (Saint Paul, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Norblom Plumbing | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/norblom-plumbing-saint-paul/
-2. Kelly Plumbing & Heating | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/kelly-plumbing-and-heating-saint-paul/
-3. McDonough's | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/. | https://registry-edge.dingalinged.workers.dev/c/mcdonoughs-saint-paul/
+1. Norblom Plumbing | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/norblom-plumbing-saint-paul/
+2. Kelly Plumbing & Heating | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/kelly-plumbing-and-heating-saint-paul/
+3. McDonough's | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/. | https://registry-edge.dingalinged.workers.dev/c/mcdonoughs-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers saint paul mn | category: Home Services | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: daycare in Crest Hill, IL; daycare near me (Crest Hill, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Once Upon A Child | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Once Upon A Child is a daycare in Crest Hill, IL. | https://registry-edge.dingalinged.workers.dev/c/once-upon-a-child-crest-hill/
+1. Once Upon A Child | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | Once Upon A Child is a daycare in Crest Hill, IL. | https://registry-edge.dingalinged.workers.dev/c/once-upon-a-child-crest-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare crest hill il | category: Education & childcare | industry benchmark: Education & Instruction

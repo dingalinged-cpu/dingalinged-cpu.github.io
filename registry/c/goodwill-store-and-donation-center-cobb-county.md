@@ -13,7 +13,7 @@ Goodwill Store & Donation Center is a thrift store in Cobb County, GA at 2401 Sh
 - Website: https://goodwillng.org/gw-locations/shallowford-road-store-donation-center-30066/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00
-- Pulse Score: 49.7/100 — Building — top 51% of thrift stores in Atlanta, #6 of 9 thrift stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 50% of thrift stores in Atlanta, #6 of 9 thrift stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

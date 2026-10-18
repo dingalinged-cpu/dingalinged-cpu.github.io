@@ -13,7 +13,7 @@ Nail Luxury is a waxing salon in Lewisville, TX. Phone: +12144883303.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 12:00-17:00
-- Pulse Score: 58.2/100 — Fair — top 25% of waxing salons in Dallas–Fort Worth, #5 of 7 waxing salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Fair — top 25% of waxing salons in Dallas–Fort Worth, #5 of 7 waxing salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

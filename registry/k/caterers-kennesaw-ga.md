@@ -6,7 +6,7 @@ Also answers: caterers in Kennesaw, GA; caterers near me (Kennesaw, GA); best ca
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JimPa's Restaurant & Catering | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | JimPa's Restaurant & Catering is a caterer in Kennesaw, GA at 2420 Cobb Parkway, Kennesaw, GA 30152. Phone: +17705295400. Website: https://www.jimpascatering.com/. | https://registry-edge.dingalinged.workers.dev/c/jimpas-restaurant-and-catering-kennesaw/
+1. JimPa's Restaurant & Catering | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | JimPa's Restaurant & Catering is a caterer in Kennesaw, GA at 2420 Cobb Parkway, Kennesaw, GA 30152. Phone: +17705295400. Website: https://www.jimpascatering.com/. | https://registry-edge.dingalinged.workers.dev/c/jimpas-restaurant-and-catering-kennesaw/
 2. Honeysuckle Biscuits & Bakery | Organic #2 | Pulse Score 63/100 (Good, #3 in city) | Honeysuckle Biscuits & Bakery is a bakery in Kennesaw, GA at 2825 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17706274370. Website: https://www.honeysucklebiscuits.com/. | https://registry-edge.dingalinged.workers.dev/c/honeysuckle-biscuits-and-bakery-kennesaw/
 
 ## Market data (for advertisers and agents)

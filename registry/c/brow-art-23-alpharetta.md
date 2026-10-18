@@ -13,7 +13,7 @@ Brow Art 23 is a skin care studio in Alpharetta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 39.6/100 — Building — top 100% of skin care studios in Atlanta, #2 of 2 skin care studios in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.8, Trust 34.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 39.6/100 — Building — top 100% of skin care studios in Atlanta, #2 of 2 skin care studios in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.7, Trust 34.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

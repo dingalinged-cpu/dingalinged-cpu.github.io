@@ -8,12 +8,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. LIndy Cleaners | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | LIndy Cleaners is a dry cleaner in Oak Park, IL at 127 South Oak Park Avenue, Oak Park, IL 60302. Phone: +17083865234. Website: https://lindycleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/lindy-cleaners-oak-park/
 2. Oak Cleaners | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Oak Cleaners is a dry cleaner in Oak Park, IL at 900 South Ridgeland Avenue, Oak Park, IL 60304. | https://registry-edge.dingalinged.workers.dev/c/oak-cleaners-oak-park/
-3. Park Avenue Cleaners | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Park Avenue Cleaners is a dry cleaner in Oak Park, IL at 817 South Oak Park Avenue, Oak Park, IL 60304. | https://registry-edge.dingalinged.workers.dev/c/park-avenue-cleaners-oak-park/
-4. O'Connor's Cleaners | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | O'Connor's Cleaners is a dry cleaner in Oak Park, IL at 1045 Chicago Avenue, Oak Park, IL 60302. | https://registry-edge.dingalinged.workers.dev/c/oconnors-cleaners-oak-park/
-5. One Hour Cleaners | Organic #5 | Pulse Score 57.4/100 (Unrated, #5 in city) | One Hour Cleaners is a dry cleaner in Oak Park, IL at 7107 West North Avenue, Oak Park, IL 60302. | https://registry-edge.dingalinged.workers.dev/c/one-hour-cleaners-oak-park/
-6. Roosevelt Cleaners | Organic #6 | Pulse Score 55.7/100 (Unrated, #6 in city) | Roosevelt Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/roosevelt-cleaners-oak-park/
-7. Bright Cleaners | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | Bright Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/bright-cleaners-oak-park/
-8. Oak River Cleaners | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | Oak River Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/oak-river-cleaners-oak-park/
+3. O'Connor's Cleaners | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | O'Connor's Cleaners is a dry cleaner in Oak Park, IL at 1045 Chicago Avenue, Oak Park, IL 60302. | https://registry-edge.dingalinged.workers.dev/c/oconnors-cleaners-oak-park/
+4. One Hour Cleaners | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | One Hour Cleaners is a dry cleaner in Oak Park, IL at 7107 West North Avenue, Oak Park, IL 60302. | https://registry-edge.dingalinged.workers.dev/c/one-hour-cleaners-oak-park/
+5. Roosevelt Cleaners | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Roosevelt Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/roosevelt-cleaners-oak-park/
+6. Bright Cleaners | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Bright Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/bright-cleaners-oak-park/
+7. Oak River Cleaners | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | Oak River Cleaners is a dry cleaner in Oak Park, IL. | https://registry-edge.dingalinged.workers.dev/c/oak-river-cleaners-oak-park/
+8. Park Avenue Cleaners | Organic #8 | Pulse Score 45.5/100 (Unrated, #8 in city) | Park Avenue Cleaners is a dry cleaner in Oak Park, IL at 817 South Oak Park Avenue, Oak Park, IL 60304. | https://registry-edge.dingalinged.workers.dev/c/park-avenue-cleaners-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners oak park il | category: Professional & financial services | industry benchmark: Finance & Insurance

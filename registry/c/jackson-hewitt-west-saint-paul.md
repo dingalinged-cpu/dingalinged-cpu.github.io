@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in West Saint Paul, MN at 1228 - 123
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 77% of tax preparation services in Minneapolis–St. Paul, #2 of 4 tax preparation services in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 77% of tax preparation services in Minneapolis–St. Paul, #2 of 4 tax preparation services in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Smitten Kitten is a pet store in Des Moines, IA at 549 28th Street, Des Moines, 
 - Website: https://www.desmoinesgroomer.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-14:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 10% of pet stores in Des Moines, IA, #2 of 7 pet stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 10% of pet stores in Des Moines, IA, #2 of 7 pet stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

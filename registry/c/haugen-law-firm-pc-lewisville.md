@@ -13,7 +13,7 @@ Haugen Law Firm, PC is a lawyer in Lewisville, TX. Phone: +19724368750.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 58.5/100 — Fair — top 43% of lawyers in Dallas–Fort Worth, #3 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Fair — top 43% of lawyers in Dallas–Fort Worth, #3 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

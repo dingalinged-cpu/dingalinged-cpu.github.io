@@ -7,7 +7,7 @@ Also answers: preschool in Bellevue Second I Precinct, NE; preschool near me (Be
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Child Development Center I | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Child Development Center I is a preschool in Bellevue Second I Precinct, NE at 2500 Kennedy, Bellevue Second I Precinct, NE. Phone: +14022942014. Website: https://www.offutt55fss.com/child-development-centers. | https://registry-edge.dingalinged.workers.dev/c/child-development-center-i-bellevue-second-i-precinct/
-2. Peter Sarpy Kids' Time | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Peter Sarpy Kids' Time is a preschool in Bellevue Second I Precinct, NE at 2908 Vandenberg Avenue, Bellevue Second I Precinct, NE. | https://registry-edge.dingalinged.workers.dev/c/peter-sarpy-kids-time-bellevue-second-i-precinct/
+2. Peter Sarpy Kids' Time | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Peter Sarpy Kids' Time is a preschool in Bellevue Second I Precinct, NE at 2908 Vandenberg Avenue, Bellevue Second I Precinct, NE. | https://registry-edge.dingalinged.workers.dev/c/peter-sarpy-kids-time-bellevue-second-i-precinct/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool bellevue second i precinct ne | category: Education & childcare | industry benchmark: Education & Instruction

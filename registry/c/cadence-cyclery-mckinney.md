@@ -13,7 +13,7 @@ Cadence Cyclery is a bike shop in McKinney, TX at 119 South Tennessee Street, Mc
 - Website: https://www.cadencecyclery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 12:00-06:00, Tu-Fr 10:00-07:00, Sa 10:00-03:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 26% of bike shops in Dallas–Fort Worth, #1 of 2 bike shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 26% of bike shops in Dallas–Fort Worth, #1 of 2 bike shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

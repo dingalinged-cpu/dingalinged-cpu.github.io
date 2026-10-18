@@ -8,10 +8,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hatfield Realty Group of Keller Williams Professionals | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Hatfield Realty Group of Keller Williams Professionals is a real estate agency in Harris County, TX. Phone: +13463010011. | https://registry-edge.dingalinged.workers.dev/c/hatfield-realty-group-of-keller-williams-professionals-harris-county/
 2. Black Label Commercial Group | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Black Label Commercial Group is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/black-label-commercial-group-harris-county/
-3. EXP Realty | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | EXP Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/exp-realty-harris-county/
-4. Houston Prime Realty | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Houston Prime Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/houston-prime-realty-harris-county/
-5. JLA Realty | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | JLA Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/jla-realty-harris-county/
-6. Newmark Homes Houston | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Newmark Homes Houston is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/newmark-homes-houston-harris-county/
+3. Houston Prime Realty | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Houston Prime Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/houston-prime-realty-harris-county/
+4. JLA Realty | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | JLA Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/jla-realty-harris-county/
+5. Newmark Homes Houston | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Newmark Homes Houston is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/newmark-homes-houston-harris-county/
+6. EXP Realty | Organic #6 | Pulse Score 42.1/100 (Unrated, #6 in city) | EXP Realty is a real estate agency in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/exp-realty-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent harris county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Henricksen is a furniture store in Madison, WI. Phone: +16082441400.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 4% of furniture stores in Madison, #1 of 17 furniture stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 4% of furniture stores in Madison, #1 of 17 furniture stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

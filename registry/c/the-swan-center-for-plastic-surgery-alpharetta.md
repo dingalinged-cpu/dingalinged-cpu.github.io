@@ -13,7 +13,7 @@ The Swan Center for Plastic Surgery is a plastic surgeon in Alpharetta, GA at 41
 - Website: https://www.swancenteratlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.4/100 — Good — top 15% of plastic surgeons in Atlanta, #1 of 1 plastic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 15% of plastic surgeons in Atlanta, #1 of 1 plastic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

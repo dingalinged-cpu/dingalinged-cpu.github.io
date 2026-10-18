@@ -6,8 +6,8 @@ Also answers: vet in Leawood, KS; vet near me (Leawood, KS); best vet Leawood, K
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leawood Plaza Animal Hospital | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Leawood Plaza Animal Hospital is a veterinarian in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/leawood-plaza-animal-hospital-leawood/
-2. Camelot Court Animal Clinic | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Camelot Court Animal Clinic is a veterinarian in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/camelot-court-animal-clinic-leawood/
+1. Leawood Plaza Animal Hospital | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Leawood Plaza Animal Hospital is a veterinarian in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/leawood-plaza-animal-hospital-leawood/
+2. Camelot Court Animal Clinic | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Camelot Court Animal Clinic is a veterinarian in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/camelot-court-animal-clinic-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet leawood ks | category: Pets | industry benchmark: Animals & Pets

@@ -7,10 +7,10 @@ Also answers: bakery in Richardson, TX; bakery near me (Richardson, TX); best ba
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ramallah Bakery | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Ramallah Bakery is a bakery in Richardson, TX at 705 Sherman Street, Richardson, TX 75081. Phone: +14696106243. | https://registry-edge.dingalinged.workers.dev/c/ramallah-bakery-richardson/
-2. Chocolate Angel Bakery & To-Go | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Chocolate Angel Bakery & To-Go is a bakery in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/chocolate-angel-bakery-and-to-go-richardson/
+2. Chocolate Angel Bakery & To-Go | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Chocolate Angel Bakery & To-Go is a bakery in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/chocolate-angel-bakery-and-to-go-richardson/
 3. Bella Flan Bakery & Cafe | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Bella Flan Bakery & Cafe is a bakery in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/bella-flan-bakery-and-cafe-richardson/
 4. Selda Bakery | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Selda Bakery is a bakery in Richardson, TX at 101 South Coit Road, Richardson, TX 75080. | https://registry-edge.dingalinged.workers.dev/c/selda-bakery-richardson/
-5. Sugarless deLite | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Sugarless deLite is a bakery in Richardson, TX at 1389 West Campbell Road, Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/sugarless-delite-richardson/
+5. Sugarless deLite | Organic #5 | Pulse Score 56.5/100 (Unrated, #5 in city) | Sugarless deLite is a bakery in Richardson, TX at 1389 West Campbell Road, Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/sugarless-delite-richardson/
 6. Cinnaholic | Organic #6 | Pulse Score 42.5/100 (Unrated, #6 in city) | Cinnaholic is a bakery in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/cinnaholic-richardson/
 
 ## Market data (for advertisers and agents)

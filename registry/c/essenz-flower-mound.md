@@ -13,7 +13,7 @@ Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: http
 - Website: https://www.essenzbeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su closed; PH closed
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 7% of waxing salons in Dallas–Fort Worth, #2 of 5 waxing salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 7% of waxing salons in Dallas–Fort Worth, #2 of 5 waxing salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

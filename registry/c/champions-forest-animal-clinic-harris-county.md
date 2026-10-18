@@ -13,7 +13,7 @@ Champions Forest Animal Clinic is a veterinarian in Harris County, TX at 5211z C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-12:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 40% of veterinarians in Houston, #2 of 18 veterinarians in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 40% of veterinarians in Houston, #2 of 18 veterinarians in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tanning salon in Belton, MO; tanning salon near me (Belton, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Tanz | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Great Tanz is a tanning salon in Belton, MO at 8456 Clint Drive, Belton, MO 64012. Phone: +18163312501. Website: https://www.greattanz.com/. | https://registry-edge.dingalinged.workers.dev/c/great-tanz-belton/
+1. Great Tanz | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Great Tanz is a tanning salon in Belton, MO at 8456 Clint Drive, Belton, MO 64012. Phone: +18163312501. Website: https://www.greattanz.com/. | https://registry-edge.dingalinged.workers.dev/c/great-tanz-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon belton mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

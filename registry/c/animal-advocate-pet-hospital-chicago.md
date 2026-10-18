@@ -13,7 +13,7 @@ Animal Advocate Pet Hospital is a veterinarian in Chicago, IL at 1061 West Jacks
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 33% of veterinarians in Chicago, #20 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 32% of veterinarians in Chicago, #19 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

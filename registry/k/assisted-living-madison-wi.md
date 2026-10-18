@@ -6,7 +6,7 @@ Also answers: assisted living in Madison, WI; assisted living near me (Madison, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Madison, WI at 2001 West Beltline Highway #Suite 110, Madison, WI 53713. Phone: +16088190665. Website: https://www.visitingangels.com/madisonwi/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-madison/
+1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Madison, WI at 2001 West Beltline Highway #Suite 110, Madison, WI 53713. Phone: +16088190665. Website: https://www.visitingangels.com/madisonwi/home. | https://registry-edge.dingalinged.workers.dev/c/visiting-angels-senior-home-care-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living madison wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

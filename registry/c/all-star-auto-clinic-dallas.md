@@ -13,7 +13,7 @@ All-Star Auto Clinic is an auto repair shop in Dallas, TX at 13672 Floyd Circle,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in Dallas–Fort Worth, #30 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in Dallas–Fort Worth, #29 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

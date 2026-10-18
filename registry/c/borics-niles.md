@@ -13,7 +13,7 @@ BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Pho
 - Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-15:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Chicago, #3 of 9 hair salons in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 76% of hair salons in Chicago, #5 of 9 hair salons in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

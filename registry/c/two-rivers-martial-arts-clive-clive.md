@@ -13,7 +13,7 @@ Two Rivers Martial Arts Clive is a martial arts school in Clive, IA at 8801 Univ
 - Website: https://tworiversmartialarts.com/
 - Email: wdm@tworiversmartialarts.com
 - Opening hours (OSM syntax): Mo-Th 18:00-19:30, Sa 10:15-11:45
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 13% of martial arts schools in Des Moines, IA, #1 of 1 martial arts schools in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 13% of martial arts schools in Des Moines, IA, #1 of 1 martial arts schools in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

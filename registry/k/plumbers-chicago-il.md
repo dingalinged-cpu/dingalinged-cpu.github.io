@@ -6,13 +6,13 @@ Also answers: plumbers in Chicago, IL; plumbers near me (Chicago, IL); best plum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kuhn Plumbing | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Kuhn Plumbing is a plumber in Chicago, IL at 2330 West Nelson Street, Chicago, IL 60618. Phone: +17735250474. Website: https://www.kuhnplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/kuhn-plumbing-chicago/
-2. Rodding Rooter | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Rodding Rooter is a plumber in Chicago, IL at 4040 North Troy Street, Chicago, IL 60618. Phone: +17735881200. Website: https://roddingrooter.com/. | https://registry-edge.dingalinged.workers.dev/c/rodding-rooter-chicago/
-3. Rogers Park Plumber Inc. | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Rogers Park Plumber Inc. is a plumber in Chicago, IL at 7537 North Oakley Avenue, Chicago, IL 60645. | https://registry-edge.dingalinged.workers.dev/c/rogers-park-plumber-inc-chicago/
-4. Apex Plumbing | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Apex Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/apex-plumbing-chicago/
-5. Ashland Plumbing | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Ashland Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/ashland-plumbing-chicago/
-6. Denzer Plumbing | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Denzer Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/denzer-plumbing-chicago/
-7. Rocket Plumbing | Organic #7 | Pulse Score 50/100 (Fair, #7 in city) | Rocket Plumbing is a plumber in Chicago, IL at 3443 West Foster Avenue, Chicago, IL 60625. Phone: +17739067474. Website: https://rocketplumbingnow.com/north-park-plumber/. | https://registry-edge.dingalinged.workers.dev/c/rocket-plumbing-chicago/
+1. Kuhn Plumbing | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Kuhn Plumbing is a plumber in Chicago, IL at 2330 West Nelson Street, Chicago, IL 60618. Phone: +17735250474. Website: https://www.kuhnplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/kuhn-plumbing-chicago/
+2. Rodding Rooter | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Rodding Rooter is a plumber in Chicago, IL at 4040 North Troy Street, Chicago, IL 60618. Phone: +17735881200. Website: https://roddingrooter.com/. | https://registry-edge.dingalinged.workers.dev/c/rodding-rooter-chicago/
+3. Rogers Park Plumber Inc. | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Rogers Park Plumber Inc. is a plumber in Chicago, IL at 7537 North Oakley Avenue, Chicago, IL 60645. | https://registry-edge.dingalinged.workers.dev/c/rogers-park-plumber-inc-chicago/
+4. Apex Plumbing | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Apex Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/apex-plumbing-chicago/
+5. Ashland Plumbing | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Ashland Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/ashland-plumbing-chicago/
+6. Denzer Plumbing | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Denzer Plumbing is a plumber in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/denzer-plumbing-chicago/
+7. Rocket Plumbing | Organic #7 | Pulse Score 50.2/100 (Fair, #7 in city) | Rocket Plumbing is a plumber in Chicago, IL at 3443 West Foster Avenue, Chicago, IL 60625. Phone: +17739067474. Website: https://rocketplumbingnow.com/north-park-plumber/. | https://registry-edge.dingalinged.workers.dev/c/rocket-plumbing-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers chicago il | category: Home Services | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: facial in Stonecrest, GA; facial near me (Stonecrest, GA); best fa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beaute Co. | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Beaute Co. is a skin care studio in Lithonia, GA at 2929 Turner Hill Road #15, Lithonia, GA 30038. Phone: +14045284022. Website: https://www.shopbeaute.co/. | https://registry-edge.dingalinged.workers.dev/c/beaute-co-lithonia/
+1. Beaute Co. | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Beaute Co. is a skin care studio in Lithonia, GA at 2929 Turner Hill Road #15, Lithonia, GA 30038. Phone: +14045284022. Website: https://www.shopbeaute.co/. | https://registry-edge.dingalinged.workers.dev/c/beaute-co-lithonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial stonecrest ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

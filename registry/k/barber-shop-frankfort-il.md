@@ -6,7 +6,7 @@ Also answers: barber shop in Frankfort, IL; barber shop near me (Frankfort, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ultimate Image | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205. | https://registry-edge.dingalinged.workers.dev/c/ultimate-image-frankfort/
+1. Ultimate Image | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205. | https://registry-edge.dingalinged.workers.dev/c/ultimate-image-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop frankfort il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

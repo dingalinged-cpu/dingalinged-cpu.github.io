@@ -13,7 +13,7 @@ Kwick Finish Colors is an auto repair shop in West Allis, WI at 1361 South 59th 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-14:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of auto repair shops in Milwaukee, #4 of 9 auto repair shops in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Milwaukee, #4 of 9 auto repair shops in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

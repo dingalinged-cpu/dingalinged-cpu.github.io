@@ -13,7 +13,7 @@ The UPS Store is a printing service in Richardson, TX at 800 West Campbell Road,
 - Website: https://locations.theupsstore.com/tx/richardson/800-w-campbell-rd
 - Email: store8072@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa-Su 09:00-15:00
-- Pulse Score: 49.3/100 — Building — top 27% of printing services in Dallas–Fort Worth, #4 of 10 printing services in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 26% of printing services in Dallas–Fort Worth, #3 of 10 printing services in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

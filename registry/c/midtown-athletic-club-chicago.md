@@ -13,7 +13,7 @@ Midtown Athletic Club is a gym in Chicago, IL at 2445 North Elston Avenue, Chica
 - Website: https://www.midtown.com/chicago
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 57% of gyms in Chicago, #99 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 56% of gyms in Chicago, #97 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

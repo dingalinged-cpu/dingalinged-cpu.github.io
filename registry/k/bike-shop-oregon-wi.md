@@ -6,7 +6,7 @@ Also answers: bike shop in Oregon, WI; bike shop near me (Oregon, WI); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oregon Bicycle Company | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Oregon Bicycle Company is a bike shop in Oregon, WI at 201 Concord Drive, Oregon, WI. Phone: +16082910363. Website: https://www.oregonbicycleco.com/. | https://registry-edge.dingalinged.workers.dev/c/oregon-bicycle-company-oregon/
+1. Oregon Bicycle Company | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Oregon Bicycle Company is a bike shop in Oregon, WI at 201 Concord Drive, Oregon, WI. Phone: +16082910363. Website: https://www.oregonbicycleco.com/. | https://registry-edge.dingalinged.workers.dev/c/oregon-bicycle-company-oregon/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop oregon wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

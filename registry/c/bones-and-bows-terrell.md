@@ -13,7 +13,7 @@ Bones & Bows is a dog groomer in Terrell, TX at 210B South Virginia Street, Terr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-24:00; Sa 09:00-24:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 37% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 37% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

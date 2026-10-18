@@ -13,7 +13,7 @@ Familia Dental is a dentist in Madison, WI at 3303 East Washington Avenue, Madis
 - Website: https://www.familiadental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 78% of dentists in Madison, #28 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 75% of dentists in Madison, #26 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Berry Real Estate Team is a real estate agency in Frisco, TX at 4783 Preston Roa
 - Website: https://berryrealestateteam.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Fair — top 32% of real estate agencys in Dallas–Fort Worth, #2 of 11 real estate agencys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 32% of real estate agencys in Dallas–Fort Worth, #2 of 11 real estate agencys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

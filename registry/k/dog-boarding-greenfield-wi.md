@@ -6,7 +6,7 @@ Also answers: dog boarding in Greenfield, WI; dog boarding near me (Greenfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. It's a Dog's Life | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | It's a Dog's Life is a dog boarding facility in Greenfield, WI at 4501 South 76th Street, Greenfield, WI 53220. Phone: +14143212364. Website: https://itsadogslifemilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/its-a-dogs-life-greenfield/
+1. It's a Dog's Life | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | It's a Dog's Life is a dog boarding facility in Greenfield, WI at 4501 South 76th Street, Greenfield, WI 53220. Phone: +14143212364. Website: https://itsadogslifemilwaukee.com/. | https://registry-edge.dingalinged.workers.dev/c/its-a-dogs-life-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding greenfield wi | category: Pets | industry benchmark: Animals & Pets

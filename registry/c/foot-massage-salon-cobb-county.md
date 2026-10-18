@@ -13,7 +13,7 @@ Foot Massage Salon is a massage studio in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 68% of massage studios in Atlanta, #16 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 66% of massage studios in Atlanta, #15 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

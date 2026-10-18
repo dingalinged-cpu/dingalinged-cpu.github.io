@@ -6,7 +6,7 @@ Also answers: phone repair in Kansas City, KS; phone repair near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hightech Wireless | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Hightech Wireless is a phone repair shop in Kansas City, KS at 8135 State Avenue, Kansas City, KS 66112. Phone: +19132998821. | https://registry-edge.dingalinged.workers.dev/c/hightech-wireless-kansas-city/
+1. Hightech Wireless | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Hightech Wireless is a phone repair shop in Kansas City, KS at 8135 State Avenue, Kansas City, KS 66112. Phone: +19132998821. | https://registry-edge.dingalinged.workers.dev/c/hightech-wireless-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair kansas city ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

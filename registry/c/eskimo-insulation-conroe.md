@@ -13,7 +13,7 @@ Eskimo Insulation is an insulation contractor in Conroe, TX at 8725 Fawn Trl, Co
 - Website: https://www.eskimoinsulation.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 100% of insulation contractors in Houston, #1 of 1 insulation contractors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 100% of insulation contractors in Houston, #1 of 1 insulation contractors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

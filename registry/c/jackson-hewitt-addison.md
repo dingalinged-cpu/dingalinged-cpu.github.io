@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Addison, TX at 3776 Belt Line Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 62% of tax preparation services in Dallas–Fort Worth, #1 of 2 tax preparation services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 61% of tax preparation services in Dallas–Fort Worth, #1 of 2 tax preparation services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

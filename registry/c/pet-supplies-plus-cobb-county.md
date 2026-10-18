@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Cobb County, GA at 2960 Shallowford Road #11
 - Website: https://www.petsuppliesplus.com/store/ga/marietta/8041-marietta/8041
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 45.1/100 — Building — top 75% of pet stores in Atlanta, #4 of 5 pet stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 75% of pet stores in Atlanta, #4 of 5 pet stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

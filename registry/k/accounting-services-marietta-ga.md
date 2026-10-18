@@ -6,7 +6,7 @@ Also answers: accounting services in Marietta, GA; accounting services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Manay CPA | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Manay CPA is an accountant in Marietta, GA at 2513 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +14049001040. Website: https://www.manaycpa.com/. | https://registry-edge.dingalinged.workers.dev/c/manay-cpa-marietta/
+1. Manay CPA | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Manay CPA is an accountant in Marietta, GA at 2513 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +14049001040. Website: https://www.manaycpa.com/. | https://registry-edge.dingalinged.workers.dev/c/manay-cpa-marietta/
 2. Ben Compani, CPA | Organic #2 | Pulse Score 62.9/100 (Good, #2 in city) | Ben Compani, CPA is an accountant in Marietta, GA at 1371 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709801583. | https://registry-edge.dingalinged.workers.dev/c/ben-compani-cpa-marietta/
 
 ## Market data (for advertisers and agents)

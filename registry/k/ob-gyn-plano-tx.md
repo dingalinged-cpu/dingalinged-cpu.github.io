@@ -6,7 +6,7 @@ Also answers: ob gyn in Plano, TX; ob gyn near me (Plano, TX); best ob gyn Plano
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Urogynecology Associates | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Texas Urogynecology Associates is an OB-GYN practice in Plano, TX at 4601 Old Shepard Place #301, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/texas-urogynecology-associates-plano/
+1. Texas Urogynecology Associates | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Texas Urogynecology Associates is an OB-GYN practice in Plano, TX at 4601 Old Shepard Place #301, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/texas-urogynecology-associates-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

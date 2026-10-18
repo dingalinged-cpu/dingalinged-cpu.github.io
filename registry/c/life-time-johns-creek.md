@@ -13,7 +13,7 @@ Life Time is a gym in Johns Creek, GA at 11555 Johns Creek Parkway, Johns Creek,
 - Website: https://www.lifetime.life/life-time-locations/ga-johns-creek.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.6/100 — Building — top 62% of gyms in Atlanta, #5 of 9 gyms in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 61% of gyms in Atlanta, #5 of 9 gyms in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

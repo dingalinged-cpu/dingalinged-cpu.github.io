@@ -13,7 +13,7 @@ Chic Nails is a nail salon in Milwaukee, WI at 2109 North Prospect Avenue, Milwa
 - Website: https://www.chicnailsmke.com/
 - Email: customerservice@chicnailsmke.com
 - Opening hours (OSM syntax): We-Sa 10:30-18:30
-- Pulse Score: 63.8/100 — Good — top 5% of nail salons in Milwaukee, #3 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 83% of nail salons in Milwaukee, #30 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

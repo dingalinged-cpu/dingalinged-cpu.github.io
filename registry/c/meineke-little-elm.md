@@ -13,7 +13,7 @@ Meineke is an auto repair shop in Little Elm, TX at 2972 FM 423, Little Elm, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 75% of auto repair shops in Dallas–Fort Worth, #5 of 8 auto repair shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 74% of auto repair shops in Dallas–Fort Worth, #5 of 8 auto repair shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

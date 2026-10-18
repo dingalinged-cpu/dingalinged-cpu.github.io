@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. H&R Block | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | H&R Block is a tax preparation service in Denton, TX at 5017 Teasley Lane #Suite 147, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-denton-n4760381925/
 2. Jackson Hewitt | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in Denton, TX at 1710 West University Drive #Suite 110, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-denton/
 3. Liberty Tax | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in Denton, TX at 732 Fort Worth Drive, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-denton/
-4. H&R Block | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | H&R Block is a tax preparation service in Denton, TX at 2710 West University Drive #Suite 1010, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-denton/
-5. H&R Block | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | H&R Block is a tax preparation service in Denton, TX at 1012 West University Drive, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-denton-n9412742208/
+4. H&R Block | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | H&R Block is a tax preparation service in Denton, TX at 2710 West University Drive #Suite 1010, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-denton/
+5. H&R Block | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | H&R Block is a tax preparation service in Denton, TX at 1012 West University Drive, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-denton-n9412742208/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer denton tx | category: professional_accounting | industry benchmark: Business Services

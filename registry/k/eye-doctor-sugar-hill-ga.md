@@ -6,7 +6,7 @@ Also answers: eye doctor in Sugar Hill, GA; eye doctor near me (Sugar Hill, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Lanier Eye Care | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Lake Lanier Eye Care is an eye care practice in Sugar Hill, GA. Phone: +16789263525. Website: https://www.lakelaniereyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-lanier-eye-care-sugar-hill/
+1. Lake Lanier Eye Care | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Lake Lanier Eye Care is an eye care practice in Sugar Hill, GA. Phone: +16789263525. Website: https://www.lakelaniereyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-lanier-eye-care-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor sugar hill ga | category: Health & medical | industry benchmark: Physicians & Surgeons

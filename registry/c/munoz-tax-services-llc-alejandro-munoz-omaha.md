@@ -13,7 +13,7 @@ Munoz Tax Services LLC (Alejandro Munoz) is a tax preparation service in Omaha, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 10:00-17:30; We-Fr 10:30-17:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Omaha, NE, #1 of 3 tax preparation services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Omaha, NE, #1 of 3 tax preparation services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

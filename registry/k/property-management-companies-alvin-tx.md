@@ -6,7 +6,7 @@ Also answers: property management companies in Alvin, TX; property management co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stonegate Apartments | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Stonegate Apartments is a property management company in Alvin, TX at 1277 Dickinson Road, Alvin, TX 77511. | https://registry-edge.dingalinged.workers.dev/c/stonegate-apartments-alvin/
+1. Stonegate Apartments | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Stonegate Apartments is a property management company in Alvin, TX at 1277 Dickinson Road, Alvin, TX 77511. | https://registry-edge.dingalinged.workers.dev/c/stonegate-apartments-alvin/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies alvin tx | category: real_estate | industry benchmark: Real Estate

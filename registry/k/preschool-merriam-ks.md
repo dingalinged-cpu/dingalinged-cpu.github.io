@@ -6,7 +6,7 @@ Also answers: preschool in Merriam, KS; preschool near me (Merriam, KS); best pr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Petite Academy of Merriam | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | La Petite Academy of Merriam is a preschool in Merriam, KS at 6410 Antioch Road, Merriam, KS 66202. Phone: +18772716466. Website: https://www.lapetite.com/your-local-school/merriam-ks-7043/. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-of-merriam-merriam/
+1. La Petite Academy of Merriam | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | La Petite Academy of Merriam is a preschool in Merriam, KS at 6410 Antioch Road, Merriam, KS 66202. Phone: +18772716466. Website: https://www.lapetite.com/your-local-school/merriam-ks-7043/. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-of-merriam-merriam/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool merriam ks | category: Education & childcare | industry benchmark: Education & Instruction

@@ -6,7 +6,7 @@ Also answers: tire shop in New Lenox, IL; tire shop near me (New Lenox, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Discount Tire is a tire shop in New Lenox, IL at 681 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152153054. Website: https://www.discounttire.com/store/il/new-lenox/s/1891. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-new-lenox/
+1. Discount Tire | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | Discount Tire is a tire shop in New Lenox, IL at 681 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152153054. Website: https://www.discounttire.com/store/il/new-lenox/s/1891. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop new lenox il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

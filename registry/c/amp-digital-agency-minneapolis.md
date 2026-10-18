@@ -13,7 +13,7 @@ AMP Digital Agency is an IT support company in Minneapolis, MN at 275 Market Str
 - Website: https://ampdigitalagency.com/
 - Email: info@ampdigitalagency.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 21% of IT support companys in Minneapolis–St. Paul, #3 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 21% of IT support companys in Minneapolis–St. Paul, #3 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: barber shop in Lee'S Summit, MO; barber shop near me (Lee'S Summit
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Metric Baber Shop | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Metric Baber Shop is a barber shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/metric-baber-shop-lees-summit/
+1. Metric Baber Shop | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Metric Baber Shop is a barber shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/metric-baber-shop-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop lee's summit mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

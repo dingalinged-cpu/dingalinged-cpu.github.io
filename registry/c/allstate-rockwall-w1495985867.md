@@ -13,7 +13,7 @@ Allstate is an insurance agent in Rockwall, TX at 2740 State Highway 276 #200, R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 62% of insurance agents in Dallas–Fort Worth, #7 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 61% of insurance agents in Dallas–Fort Worth, #7 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tires Plus is a tire shop in Des Moines, IA at 3130 Merle Hay Road, Des Moines, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 72% of tire shops in Des Moines, IA, #2 of 4 tire shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 65% of tire shops in Des Moines, IA, #2 of 4 tire shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

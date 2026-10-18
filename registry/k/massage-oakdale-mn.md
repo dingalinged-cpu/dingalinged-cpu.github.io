@@ -6,7 +6,7 @@ Also answers: massage in Oakdale, MN; massage near me (Oakdale, MN); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garden of Eden Spa | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Garden of Eden Spa is a massage studio in Oakdale, MN at 5695 Geneva Avenue North, Oakdale, MN 55128. Phone: +16514930261. Website: https://gardenofeden.grouppayless.com/. | https://registry-edge.dingalinged.workers.dev/c/garden-of-eden-spa-oakdale/
+1. Garden of Eden Spa | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Garden of Eden Spa is a massage studio in Oakdale, MN at 5695 Geneva Avenue North, Oakdale, MN 55128. Phone: +16514930261. Website: https://gardenofeden.grouppayless.com/. | https://registry-edge.dingalinged.workers.dev/c/garden-of-eden-spa-oakdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage oakdale mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

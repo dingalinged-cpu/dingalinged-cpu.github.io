@@ -6,7 +6,7 @@ Also answers: driving school in Sun Prairie, WI; driving school near me (Sun Pra
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DNL Professional Driving School | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | DNL Professional Driving School is a driving school in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/dnl-professional-driving-school-sun-prairie/
+1. DNL Professional Driving School | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | DNL Professional Driving School is a driving school in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/dnl-professional-driving-school-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school sun prairie wi | category: Education & childcare | industry benchmark: Education & Instruction

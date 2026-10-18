@@ -13,7 +13,7 @@ BenchMark Physical Therapy is a physical therapy clinic in Brookhaven, GA at 248
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-18:00; Tu,Th 07:00-16:00; Fr 07:00-15:00
-- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 67% of physical therapy clinics in Atlanta, #1 of 1 physical therapy clinics in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 68% of physical therapy clinics in Atlanta, #1 of 1 physical therapy clinics in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

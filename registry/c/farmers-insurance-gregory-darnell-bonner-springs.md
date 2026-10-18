@@ -13,12 +13,12 @@ Farmers Insurance: Gregory Darnell is an insurance agent in Bonner Springs, KS a
 - Website: https://agents.farmers.com/ks/bonner-springs/gregory-darnell
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Tu, Th, Fr 08:00-17:30; Tu 08:30-17:30
-- Pulse Score: 49.2/100 — Building — top 47% of insurance agents in Kansas City, MO, #1 of 1 insurance agents in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 47% of insurance agents in Kansas City, MO, #1 of 1 insurance agents in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-gregory-darnell-bonner-springs/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-gregory-darnell-bonner-springs.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4463211309 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4463211309 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

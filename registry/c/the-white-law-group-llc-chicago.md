@@ -13,7 +13,7 @@ The White Law Group, LLC is a lawyer in Chicago, IL at 205 West Randolph Street,
 - Website: https://www.whitesecuritieslaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 57% of lawyers in Chicago, #44 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 57% of lawyers in Chicago, #44 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ A Team Automotive Repair is an auto repair shop in Milwaukee, WI at 5518 West Li
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Milwaukee, #25 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Milwaukee, #23 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dallas Midtown PTRA is a physical therapy clinic in Dallas, TX at 4101 McEwen Ro
 - Website: https://ptratx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Dallas–Fort Worth, #2 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Dallas–Fort Worth, #2 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

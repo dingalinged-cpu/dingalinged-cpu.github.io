@@ -13,12 +13,12 @@ GO Car Wash is a car wash in Lee's Summit, MO at 890 NE Mulberry St, Lee's Summi
 - Website: https://gocarwash.com/location/Lees-Summit
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 09:00-18:00
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 69% of car washes in Kansas City, MO, #3 of 3 car washes in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 64% of car washes in Kansas City, MO, #3 of 4 car washes in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/go-car-wash-lees-summit/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/go-car-wash-lees-summit.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/1809231111 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/1809231111 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

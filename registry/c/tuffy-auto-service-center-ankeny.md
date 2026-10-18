@@ -13,7 +13,7 @@ Tuffy Auto Service Center is an auto repair shop in Ankeny, IA at 1635 Southeast
 - Website: https://www.tuffy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 47.9/100 — Building — top 75% of auto repair shops in Des Moines, IA, #5 of 11 auto repair shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 73% of auto repair shops in Des Moines, IA, #5 of 11 auto repair shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

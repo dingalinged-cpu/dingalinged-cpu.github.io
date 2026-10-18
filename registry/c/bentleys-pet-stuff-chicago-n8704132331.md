@@ -13,7 +13,7 @@ Bentley's Pet Stuff is a pet store in Chicago, IL at 3657 North Southport Avenue
 - Website: https://petstuff.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 78% of pet stores in Chicago, #45 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 77% of pet stores in Chicago, #43 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

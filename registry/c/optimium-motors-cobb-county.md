@@ -13,7 +13,7 @@ Optimium Motors is an used car dealer in Cobb County, GA at 1749 Lower Roswell R
 - Website: https://optimummotorsga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off
-- Pulse Score: 63.3/100 — Good — top 13% of used car dealers in Atlanta, #1 of 7 used car dealers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 13% of used car dealers in Atlanta, #1 of 7 used car dealers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

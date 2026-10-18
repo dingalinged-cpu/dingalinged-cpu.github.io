@@ -13,7 +13,7 @@ Bless Web Designs is an IT support company in Dallas, TX at 3232 McKinney Avenue
 - Website: https://blesswebdesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 49% of IT support companys in Dallas–Fort Worth, #9 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 49% of IT support companys in Dallas–Fort Worth, #9 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

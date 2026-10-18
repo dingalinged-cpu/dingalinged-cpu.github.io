@@ -13,7 +13,7 @@ Midwest Power Gym is a gym in West Allis, WI at 2020 South 55th Street, West All
 - Website: https://www.midwestpowergym.com/
 - Email: midwestpowergym@gmail.com
 - Opening hours (OSM syntax): Mo-Su 5:00-23:30
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 18% of gyms in Milwaukee, #1 of 3 gyms in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 17% of gyms in Milwaukee, #1 of 3 gyms in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

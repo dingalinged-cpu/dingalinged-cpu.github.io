@@ -11,11 +11,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Magnolia Nails & Spa | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Magnolia Nails & Spa is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/magnolia-nails-and-spa-fort-bend-county/
 4. Memory Nails | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Memory Nails is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/memory-nails-fort-bend-county/
 5. Modern Nails & Beauty | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Modern Nails & Beauty is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/modern-nails-and-beauty-fort-bend-county/
-6. Nails & Co | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Nails & Co is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-and-co-fort-bend-county/
-7. Onyx Nail Salon | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Onyx Nail Salon is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/onyx-nail-salon-fort-bend-county/
-8. Polished Nails Studio | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | Polished Nails Studio is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/polished-nails-studio-fort-bend-county/
-9. RR Nails | Organic #9 | Pulse Score 55.1/100 (Unrated, #9 in city) | RR Nails is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/rr-nails-fort-bend-county/
-10. Deluxe Nails | Organic #10 | Pulse Score 42.3/100 (Unrated, #10 in city) | Deluxe Nails is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-fort-bend-county/
+6. Onyx Nail Salon | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Onyx Nail Salon is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/onyx-nail-salon-fort-bend-county/
+7. Polished Nails Studio | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Polished Nails Studio is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/polished-nails-studio-fort-bend-county/
+8. RR Nails | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | RR Nails is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/rr-nails-fort-bend-county/
+9. Deluxe Nails | Organic #9 | Pulse Score 42.3/100 (Unrated, #9 in city) | Deluxe Nails is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-fort-bend-county/
+10. Nails & Co | Organic #10 | Pulse Score 42.3/100 (Unrated, #10 in city) | Nails & Co is a nail salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-and-co-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon fort bend county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

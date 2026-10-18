@@ -13,7 +13,7 @@ Dynamic Chiropractic and Wellness is a chiropractor in Waukee, IA at 280 Ashwort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of chiropractors in Des Moines, IA, #1 of 1 chiropractors in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 47% of chiropractors in Des Moines, IA, #1 of 1 chiropractors in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

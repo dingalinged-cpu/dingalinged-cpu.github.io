@@ -13,7 +13,7 @@ Sunnyview Landscaping is a landscaping company in Alsip, IL at 11154 South Lawle
 - Website: https://www.sunnyviewlandscaping.shop/
 - Email: sunnyviewlandscaping@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Pulse Score: 64.2/100 — Good — top 7% of landscaping companys in Chicago, #1 of 1 landscaping companys in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 7% of landscaping companys in Chicago, #1 of 1 landscaping companys in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

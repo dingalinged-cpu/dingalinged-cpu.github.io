@@ -6,8 +6,8 @@ Also answers: furniture store in Weston, MO; furniture store near me (Weston, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buffalo Ranch Rustic Furnishings | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Buffalo Ranch Rustic Furnishings is a furniture store in Weston, MO at 417 Main Street, Weston, MO 64098. Phone: +18163864111. Website: https://www.buffaloranchweston.com/. | https://registry-edge.dingalinged.workers.dev/c/buffalo-ranch-rustic-furnishings-weston/
-2. Pigs in a Blanket | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Pigs in a Blanket is a furniture store in Weston, MO at 417 Main Street, Weston, MO 64098. Phone: +18163860180. | https://registry-edge.dingalinged.workers.dev/c/pigs-in-a-blanket-weston/
+1. Buffalo Ranch Rustic Furnishings | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Buffalo Ranch Rustic Furnishings is a furniture store in Weston, MO at 417 Main Street, Weston, MO 64098. Phone: +18163864111. Website: https://www.buffaloranchweston.com/. | https://registry-edge.dingalinged.workers.dev/c/buffalo-ranch-rustic-furnishings-weston/
+2. Pigs in a Blanket | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Pigs in a Blanket is a furniture store in Weston, MO at 417 Main Street, Weston, MO 64098. Phone: +18163860180. | https://registry-edge.dingalinged.workers.dev/c/pigs-in-a-blanket-weston/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store weston mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

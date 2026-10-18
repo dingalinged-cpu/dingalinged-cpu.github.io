@@ -13,7 +13,7 @@ All Pro Servicenter is an auto repair shop in West Des Moines, IA at 1121 Railro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Des Moines, IA, #11 of 14 auto repair shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 78% of auto repair shops in Des Moines, IA, #11 of 14 auto repair shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fleet Services, Inc. is an auto repair shop in Saint Paul, MN at 1953 Charles Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Minneapolis–St. Paul, #32 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 33% of auto repair shops in Minneapolis–St. Paul, #32 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

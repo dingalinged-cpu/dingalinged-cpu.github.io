@@ -13,7 +13,7 @@ Blush Nail Bar is a nail salon in Woodstock, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 58% of nail salons in Atlanta, #9 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 57% of nail salons in Atlanta, #9 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

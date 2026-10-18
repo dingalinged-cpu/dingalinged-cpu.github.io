@@ -6,7 +6,7 @@ Also answers: drug rehab in Grand Prairie, TX; drug rehab near me (Grand Prairie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Greenhouse Treatment Center | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Greenhouse Treatment Center is an addiction treatment center in Grand Prairie, TX at 1171 107th Street, Grand Prairie, TX 75050. Phone: +19728480221. Website: https://www.greenhousetreatment.com/. | https://registry-edge.dingalinged.workers.dev/c/greenhouse-treatment-center-grand-prairie/
+1. Greenhouse Treatment Center | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Greenhouse Treatment Center is an addiction treatment center in Grand Prairie, TX at 1171 107th Street, Grand Prairie, TX 75050. Phone: +19728480221. Website: https://www.greenhousetreatment.com/. | https://registry-edge.dingalinged.workers.dev/c/greenhouse-treatment-center-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: drug rehab grand prairie tx | category: Health & medical - Addiction treatment | industry benchmark: Physicians & Surgeons

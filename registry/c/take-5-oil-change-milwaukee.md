@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Milwaukee, WI at 7515 West Capitol D
 - Website: https://www.take5.com/locations/oil-change/wisconsin/milwaukee/30575/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 09:00-17:00
-- Pulse Score: 48.9/100 — Building — top 78% of auto repair shops in Milwaukee, #91 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 77% of auto repair shops in Milwaukee, #89 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

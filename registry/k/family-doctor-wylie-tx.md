@@ -6,7 +6,7 @@ Also answers: family doctor in Wylie, TX; family doctor near me (Wylie, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CareNow Urgent Care | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | CareNow Urgent Care is a family medicine practice in Wylie, TX at 3080 FM 544, Wylie, TX 75098. Phone: +19722027300. Website: https://www.carenow.com/locations/dallas-fort-worth/wylie/. | https://registry-edge.dingalinged.workers.dev/c/carenow-urgent-care-wylie/
+1. CareNow Urgent Care | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | CareNow Urgent Care is a family medicine practice in Wylie, TX at 3080 FM 544, Wylie, TX 75098. Phone: +19722027300. Website: https://www.carenow.com/locations/dallas-fort-worth/wylie/. | https://registry-edge.dingalinged.workers.dev/c/carenow-urgent-care-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor wylie tx | category: Health & medical | industry benchmark: Physicians & Surgeons

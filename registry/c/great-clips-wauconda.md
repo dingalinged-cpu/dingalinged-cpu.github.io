@@ -13,7 +13,7 @@ Great Clips is a hair salon in Wauconda, IL at 563 West Liberty Street, Wauconda
 - Website: https://salons.greatclips.com/us/il/wauconda/563-w-liberty-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 50.2/100 — Fair — top 76% of hair salons in Chicago, #6 of 6 hair salons in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 75% of hair salons in Chicago, #6 of 6 hair salons in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Greenbush Bakery is a bakery in Madison, WI at 1402 Regent Street, Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 06:00-20:00; Su 06:00-13:00
-- Pulse Score: 59/100 — Fair — top 45% of bakerys in Madison, #10 of 19 bakerys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 45% of bakerys in Madison, #10 of 19 bakerys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: assisted living in Prairie Village, KS; assisted living near me (P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meadowbrook Senior Living | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Meadowbrook Senior Living is an assisted living facility in Prairie Village, KS at 9300 Parkside Drive, Prairie Village, KS 66207. | https://registry-edge.dingalinged.workers.dev/c/meadowbrook-senior-living-prairie-village/
-2. The Village at Mission | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | The Village at Mission is an assisted living facility in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/the-village-at-mission-prairie-village/
+1. Meadowbrook Senior Living | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Meadowbrook Senior Living is an assisted living facility in Prairie Village, KS at 9300 Parkside Drive, Prairie Village, KS 66207. | https://registry-edge.dingalinged.workers.dev/c/meadowbrook-senior-living-prairie-village/
+2. The Village at Mission | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | The Village at Mission is an assisted living facility in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/the-village-at-mission-prairie-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living prairie village ks | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: plumbers in Kearney, MO; plumbers near me (Kearney, MO); best plum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trustfall Plumbing And Heating Services | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Trustfall Plumbing And Heating Services is a plumber in Kearney, MO at 12308 Wadeway Dr, Kearney, MO 64060. Phone: +18167777754. Website: https://www.trustfallplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/trustfall-plumbing-and-heating-services-kearney/
+1. Trustfall Plumbing And Heating Services | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Trustfall Plumbing And Heating Services is a plumber in Kearney, MO at 12308 Wadeway Dr, Kearney, MO 64060. Phone: +18167777754. Website: https://www.trustfallplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/trustfall-plumbing-and-heating-services-kearney/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers kearney mo | category: Home Services | industry benchmark: Home & Home Improvement

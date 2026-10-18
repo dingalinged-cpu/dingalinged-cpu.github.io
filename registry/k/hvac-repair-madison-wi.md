@@ -6,8 +6,8 @@ Also answers: hvac repair in Madison, WI; hvac repair near me (Madison, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gustave A Larson | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations. | https://registry-edge.dingalinged.workers.dev/c/gustave-a-larson-madison/
-2. Dale's Heating & Air | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Dale's Heating & Air is a HVAC contractor in Madison, WI at 2003 Freeport Road, Madison, WI. Website: https://www.dalesheating.com/. | https://registry-edge.dingalinged.workers.dev/c/dales-heating-and-air-madison/
+1. Gustave A Larson | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations. | https://registry-edge.dingalinged.workers.dev/c/gustave-a-larson-madison/
+2. Dale's Heating & Air | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Dale's Heating & Air is a HVAC contractor in Madison, WI at 2003 Freeport Road, Madison, WI. Website: https://www.dalesheating.com/. | https://registry-edge.dingalinged.workers.dev/c/dales-heating-and-air-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair madison wi | category: Home services - HVAC | industry benchmark: Home & Home Improvement

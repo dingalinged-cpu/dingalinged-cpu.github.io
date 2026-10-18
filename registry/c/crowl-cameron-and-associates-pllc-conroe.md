@@ -13,7 +13,7 @@ Crowl, Cameron & Associates PLLC is an accountant in Conroe, TX at 303 Longmire 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 67% of accountants in Houston, #1 of 1 accountants in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 67% of accountants in Houston, #1 of 1 accountants in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: bike shop in Council Bluffs, IA; bike shop near me (Council Bluffs
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. True Wheel Bicycle Co. | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | True Wheel Bicycle Co. is a bike shop in Council Bluffs, IA at 120 West Broadway, Council Bluffs, IA 51503. | https://registry-edge.dingalinged.workers.dev/c/true-wheel-bicycle-co-council-bluffs/
-2. Xtreme Wheels | Organic #2 | Pulse Score 53.4/100 (Unrated, #2 in city) | Xtreme Wheels is a bike shop in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/xtreme-wheels-council-bluffs/
+1. True Wheel Bicycle Co. | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | True Wheel Bicycle Co. is a bike shop in Council Bluffs, IA at 120 West Broadway, Council Bluffs, IA 51503. | https://registry-edge.dingalinged.workers.dev/c/true-wheel-bicycle-co-council-bluffs/
+2. Xtreme Wheels | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | Xtreme Wheels is a bike shop in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/xtreme-wheels-council-bluffs/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop council bluffs ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

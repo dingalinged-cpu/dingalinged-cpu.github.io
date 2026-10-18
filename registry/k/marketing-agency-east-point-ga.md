@@ -6,7 +6,7 @@ Also answers: marketing agency in East Point, GA; marketing agency near me (East
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ethic, Inc. | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ethic, Inc. is a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344. | https://registry-edge.dingalinged.workers.dev/c/ethic-inc-east-point/
+1. Ethic, Inc. | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Ethic, Inc. is a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344. | https://registry-edge.dingalinged.workers.dev/c/ethic-inc-east-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency east point ga | category: Professional & financial services | industry benchmark: Finance & Insurance

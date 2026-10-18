@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Humble, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 99% of mattress stores in Houston, #6 of 6 mattress stores in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.4/100 — Building — top 98% of mattress stores in Houston, #6 of 6 mattress stores in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

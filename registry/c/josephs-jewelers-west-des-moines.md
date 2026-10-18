@@ -13,7 +13,7 @@ Josephs Jewelers is a jewelry store in West Des Moines, IA at 5425 Mills Civic P
 - Website: https://josephsjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 35% of jewelry stores in Des Moines, IA, #4 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 35% of jewelry stores in Des Moines, IA, #4 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

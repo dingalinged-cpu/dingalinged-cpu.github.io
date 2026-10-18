@@ -6,7 +6,7 @@ Also answers: hvac repair in Countryside, IL; hvac repair near me (Countryside, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Heat Engineering Co. | Organic #1 | Pulse Score 53.2/100 (Unrated, #1 in city) | The Heat Engineering Co. is a HVAC contractor in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/the-heat-engineering-co-countryside/
+1. The Heat Engineering Co. | Organic #1 | Pulse Score 53.4/100 (Unrated, #1 in city) | The Heat Engineering Co. is a HVAC contractor in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/the-heat-engineering-co-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair countryside il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

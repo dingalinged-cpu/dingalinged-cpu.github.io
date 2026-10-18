@@ -6,7 +6,7 @@ Also answers: tanning salon in Chanhassen, MN; tanning salon near me (Chanhassen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. Website: https://palmbeachtan.com/locations/MN/West-79th-Street. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-chanhassen/
+1. Palm Beach Tan | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. Website: https://palmbeachtan.com/locations/MN/West-79th-Street. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon chanhassen mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

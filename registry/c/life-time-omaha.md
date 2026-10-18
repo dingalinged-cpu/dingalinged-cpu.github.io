@@ -13,7 +13,7 @@ Life Time is a gym in Omaha, NE at 17007 Elm Plaza, Omaha, NE 68130. Phone: +140
 - Website: https://www.lifetime.life/life-time-locations/ne-omaha.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 60% of gyms in Omaha, NE, #8 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 60% of gyms in Omaha, NE, #8 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

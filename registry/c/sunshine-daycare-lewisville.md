@@ -13,7 +13,7 @@ Sunshine Daycare is a daycare in Lewisville, TX at 223 Oakwood Lane, Lewisville,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 4% of daycares in Dallas–Fort Worth, #1 of 1 daycares in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 4% of daycares in Dallas–Fort Worth, #1 of 1 daycares in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Vibe Car Wash is a car wash in Richardson, TX at 535 West Arapaho Road, Richards
 - Website: https://www.vibecw.com/arapaho
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-21:00; Su 08:00-20:00
-- Pulse Score: 52.8/100 — Unrated (not enough evidence yet) — top 62% of car washes in Dallas–Fort Worth, #4 of 5 car washes in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 62% of car washes in Dallas–Fort Worth, #4 of 5 car washes in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

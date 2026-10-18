@@ -13,7 +13,7 @@ Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237,
 - Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/
 - Email: info@mullenandmullen.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-20:00; Sa,Su closed
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 98% of lawyers in Dallas–Fort Worth, #3 of 3 lawyers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 98% of lawyers in Dallas–Fort Worth, #3 of 3 lawyers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

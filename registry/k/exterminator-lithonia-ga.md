@@ -6,7 +6,7 @@ Also answers: exterminator in Lithonia, GA; exterminator near me (Lithonia, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Choice Pest Control | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | First Choice Pest Control is a pest control company in Lithonia, GA at 7482 Covington Highway, Lithonia, GA 30058. Phone: +17705938921. Website: https://www.firstchoicepestcontrolga.com/. | https://registry-edge.dingalinged.workers.dev/c/first-choice-pest-control-lithonia/
+1. First Choice Pest Control | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | First Choice Pest Control is a pest control company in Lithonia, GA at 7482 Covington Highway, Lithonia, GA 30058. Phone: +17705938921. Website: https://www.firstchoicepestcontrolga.com/. | https://registry-edge.dingalinged.workers.dev/c/first-choice-pest-control-lithonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator lithonia ga | category: Home services - Pest control | industry benchmark: Home & Home Improvement

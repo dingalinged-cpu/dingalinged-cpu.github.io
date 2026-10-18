@@ -13,7 +13,7 @@ Crossfit Marietta is a CrossFit gym in Cobb County, GA at 2673 Canton Road #A, C
 - Website: n/a
 - Email: sparkfittraining@gmail.com
 - Opening hours (OSM syntax): Mo-Th 07:00-12:00,16:00-19:00; Fr 07:00-13:00,16:00-19:00; Sa 08:00-11:00; Su off
-- Pulse Score: 63.7/100 — Good — top 17% of CrossFit gyms in Atlanta, #1 of 1 CrossFit gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.1, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 17% of CrossFit gyms in Atlanta, #1 of 1 CrossFit gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

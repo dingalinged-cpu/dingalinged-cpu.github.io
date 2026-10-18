@@ -6,7 +6,7 @@ Also answers: tanning salon in Leawood, KS; tanning salon near me (Leawood, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KC Tan | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | KC Tan is a tanning salon in Leawood, KS at 4800 West 135th Street, Leawood, KS 66209. Phone: +19132588585. Website: https://www.kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-leawood/
+1. KC Tan | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | KC Tan is a tanning salon in Leawood, KS at 4800 West 135th Street, Leawood, KS 66209. Phone: +19132588585. Website: https://www.kctan.com/. | https://registry-edge.dingalinged.workers.dev/c/kc-tan-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon leawood ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

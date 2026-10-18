@@ -13,7 +13,7 @@ Angel Nails is a nail salon in Atlanta, GA at 1874 Piedmont Avenue Northeast #B2
 - Website: https://angelnails1874piedmont.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:30,Su 12:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 25% of nail salons in Atlanta, #14 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 24% of nail salons in Atlanta, #14 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

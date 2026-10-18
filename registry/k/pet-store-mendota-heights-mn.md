@@ -6,7 +6,7 @@ Also answers: pet store in Mendota Heights, MN; pet store near me (Mendota Heigh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. For The Love Of Dogs | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Road, Mendota Heights, MN. Website: https://www.fortheloveofdogstrainingschool.com/. | https://registry-edge.dingalinged.workers.dev/c/for-the-love-of-dogs-mendota-heights/
+1. For The Love Of Dogs | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Road, Mendota Heights, MN. Website: https://www.fortheloveofdogstrainingschool.com/. | https://registry-edge.dingalinged.workers.dev/c/for-the-love-of-dogs-mendota-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store mendota heights mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

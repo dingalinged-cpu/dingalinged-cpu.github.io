@@ -13,7 +13,7 @@ Majspa is a skin care studio in Marietta, GA at 1401 Johnson Ferry Road Northeas
 - Website: https://majspa.glossgenius.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 45% of skin care studios in Atlanta, #4 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 48% of skin care studios in Atlanta, #5 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

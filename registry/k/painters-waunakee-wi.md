@@ -6,7 +6,7 @@ Also answers: painters in Waunakee, WI; painters near me (Waunakee, WI); best pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Danny's Painting Service | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Danny's Painting Service is a painting contractor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/dannys-painting-service-waunakee/
+1. Danny's Painting Service | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Danny's Painting Service is a painting contractor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/dannys-painting-service-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters waunakee wi | category: Home services - Painting | industry benchmark: Home & Home Improvement

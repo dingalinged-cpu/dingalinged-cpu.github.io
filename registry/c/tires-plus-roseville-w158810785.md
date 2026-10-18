@@ -13,7 +13,7 @@ Tires Plus is a tire shop in Roseville, MN at 1331 Larpenteur Avenue West, Rosev
 - Website: https://local.tiresplus.com/minnesota/roseville/1331-w-larpenteur-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 41% of tire shops in Minneapolis–St. Paul, #1 of 2 tire shops in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 41% of tire shops in Minneapolis–St. Paul, #1 of 2 tire shops in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

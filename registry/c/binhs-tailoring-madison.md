@@ -13,7 +13,7 @@ Binh's Tailoring is a tailor in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa-Su closed
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 43% of tailors in Madison, #2 of 6 tailors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 43% of tailors in Madison, #2 of 6 tailors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

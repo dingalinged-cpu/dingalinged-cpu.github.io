@@ -13,7 +13,7 @@ Goodwill is a thrift store in Atlanta, GA at 1460 Northside Drive Northwest, Atl
 - Website: https://goodwillng.org/gw-locations/northside-drive-store-donation-center-30318/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00
-- Pulse Score: 50.6/100 — Fair — top 47% of thrift stores in Atlanta, #5 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 45% of thrift stores in Atlanta, #5 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

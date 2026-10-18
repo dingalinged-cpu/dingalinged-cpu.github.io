@@ -6,7 +6,7 @@ Also answers: tanning salon in Tucker, GA; tanning salon near me (Tucker, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aqua Salon & Day Spa | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Aqua Salon & Day Spa is a tanning salon in Tucker, GA at 4987 Lavista Rd, #1, Tucker, GA 30084. Phone: +17706210289. Website: https://aquasaloninc.net/. | https://registry-edge.dingalinged.workers.dev/c/aqua-salon-and-day-spa-tucker/
+1. Aqua Salon & Day Spa | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Aqua Salon & Day Spa is a tanning salon in Tucker, GA at 4987 Lavista Rd, #1, Tucker, GA 30084. Phone: +17706210289. Website: https://aquasaloninc.net/. | https://registry-edge.dingalinged.workers.dev/c/aqua-salon-and-day-spa-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon tucker ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

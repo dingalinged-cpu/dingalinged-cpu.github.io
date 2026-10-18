@@ -19,6 +19,6 @@ Richey Real Estate Group is a real estate agency in Lee's Summit, MO at 222 Sout
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/richey-real-estate-group-lees-summit/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/richey-real-estate-group-lees-summit.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/11987450059 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11987450059 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

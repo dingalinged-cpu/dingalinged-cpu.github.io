@@ -13,7 +13,7 @@ Scenthound is a dog groomer in Kennesaw, GA at 3895 Cherokee Street Northwest #2
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 100% of dog groomers in Atlanta, #2 of 2 dog groomers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 97% of dog groomers in Atlanta, #2 of 2 dog groomers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

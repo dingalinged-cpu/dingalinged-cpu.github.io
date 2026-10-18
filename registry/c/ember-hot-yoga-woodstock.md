@@ -13,7 +13,7 @@ Ember Hot Yoga is a yoga studio in Woodstock, GA at 330 Chambers Street, Woodsto
 - Website: https://www.emberyoga.com/
 - Email: Info@emberyoga.com
 - Opening hours (OSM syntax): 06:00-21:00
-- Pulse Score: 65.3/100 — Good — top 9% of yoga studios in Atlanta, #1 of 2 yoga studios in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.4, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.3/100 — Good — top 9% of yoga studios in Atlanta, #1 of 2 yoga studios in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.4, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

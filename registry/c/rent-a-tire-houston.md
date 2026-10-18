@@ -13,7 +13,7 @@ Rent-A-Tire is a tire shop in Houston, TX at 20E East Crosstimbers Street, Houst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:30-19:00; Sa 09:00-18:00; PH closed
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 8% of tire shops in Houston, #9 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 8% of tire shops in Houston, #8 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

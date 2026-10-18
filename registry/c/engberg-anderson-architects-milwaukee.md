@@ -13,7 +13,7 @@ Engberg Anderson Architects is an architect in Milwaukee, WI at 320 East Buffalo
 - Website: https://engberganderson.com/locations/milwaukee/
 - Email: billr@engberganderson.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of architects in Milwaukee, #6 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of architects in Milwaukee, #6 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

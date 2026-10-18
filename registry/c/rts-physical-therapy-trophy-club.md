@@ -13,7 +13,7 @@ RTS Physical Therapy is a physical therapy clinic in Trophy Club, TX at 2550 Bob
 - Website: https://riatatherapy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 13% of physical therapy clinics in Dallas–Fort Worth, #1 of 1 physical therapy clinics in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 13% of physical therapy clinics in Dallas–Fort Worth, #1 of 1 physical therapy clinics in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

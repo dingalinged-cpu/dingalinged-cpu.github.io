@@ -6,7 +6,7 @@ Also answers: accountant in Lenexa, KS; accountant near me (Lenexa, KS); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Karlin & Long, LLC | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Karlin & Long, LLC is an accountant in Lenexa, KS at 10115 Cherry Lane, Lenexa, KS 66220. Phone: +19138297676. Website: https://www.karlinlong.com/lenexa-ks. | https://registry-edge.dingalinged.workers.dev/c/karlin-and-long-llc-lenexa/
+1. Karlin & Long, LLC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Karlin & Long, LLC is an accountant in Lenexa, KS at 10115 Cherry Lane, Lenexa, KS 66220. Phone: +19138297676. Website: https://www.karlinlong.com/lenexa-ks. | https://registry-edge.dingalinged.workers.dev/c/karlin-and-long-llc-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant lenexa ks | category: professional_accounting | industry benchmark: Business Services

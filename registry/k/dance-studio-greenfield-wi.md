@@ -6,7 +6,7 @@ Also answers: dance studio in Greenfield, WI; dance studio near me (Greenfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fred Astaire Dance Studios | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Fred Astaire Dance Studios is a dance studio in Greenfield, WI at 4868 South 74th Street, Greenfield, WI 53220. | https://registry-edge.dingalinged.workers.dev/c/fred-astaire-dance-studios-greenfield/
+1. Fred Astaire Dance Studios | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | Fred Astaire Dance Studios is a dance studio in Greenfield, WI at 4868 South 74th Street, Greenfield, WI 53220. | https://registry-edge.dingalinged.workers.dev/c/fred-astaire-dance-studios-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio greenfield wi | category: Fitness | industry benchmark: Health & Fitness

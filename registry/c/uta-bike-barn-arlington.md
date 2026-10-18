@@ -13,7 +13,7 @@ UTA Bike Barn is a bike shop in Arlington, TX at 1100 South Pecan Street, Arling
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): varies
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 58% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

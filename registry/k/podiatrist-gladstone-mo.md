@@ -6,7 +6,7 @@ Also answers: podiatrist in Gladstone, MO; podiatrist near me (Gladstone, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Foot Docs | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Family Foot Docs is a podiatrist in Gladstone, MO at 6717 North Oak Trafficway, Gladstone, MO 64118. Phone: +18164521211. Website: https://familyfootdocs.com/. | https://registry-edge.dingalinged.workers.dev/c/family-foot-docs-gladstone/
+1. Family Foot Docs | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Family Foot Docs is a podiatrist in Gladstone, MO at 6717 North Oak Trafficway, Gladstone, MO 64118. Phone: +18164521211. Website: https://familyfootdocs.com/. | https://registry-edge.dingalinged.workers.dev/c/family-foot-docs-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist gladstone mo | category: Health & medical | industry benchmark: Physicians & Surgeons

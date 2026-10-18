@@ -13,7 +13,7 @@ Peachtree Growler Co. is a liquor store in Peachtree Corners, GA at 5450 Peachtr
 - Website: https://peachtreegrowlerco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-20:00; Sa 10:00-20:00; Su 12:30-18:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of liquor stores in Atlanta, #1 of 1 liquor stores in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of liquor stores in Atlanta, #1 of 1 liquor stores in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

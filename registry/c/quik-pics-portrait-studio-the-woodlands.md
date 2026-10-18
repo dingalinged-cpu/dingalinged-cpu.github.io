@@ -13,7 +13,7 @@ Quik Pics Portrait Studio is a photographer in The Woodlands, TX at 25329 Budde 
 - Website: https://qpstudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 36% of photographers in Houston, #1 of 2 photographers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 36% of photographers in Houston, #1 of 2 photographers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

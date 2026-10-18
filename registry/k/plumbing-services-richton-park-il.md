@@ -6,7 +6,7 @@ Also answers: plumbing services in Richton Park, IL; plumbing services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RC Szabo Plumbing Richton Park IL | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | RC Szabo Plumbing Richton Park IL is a plumber in Richton Park, IL at 22811 East Drive, Richton Park, IL 60471. Phone: +17086538639. Website: https://richton-park-il.rcszaboplumbing.blog/. | https://registry-edge.dingalinged.workers.dev/c/rc-szabo-plumbing-richton-park-il-richton-park/
+1. RC Szabo Plumbing Richton Park IL | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | RC Szabo Plumbing Richton Park IL is a plumber in Richton Park, IL at 22811 East Drive, Richton Park, IL 60471. Phone: +17086538639. Website: https://richton-park-il.rcszaboplumbing.blog/. | https://registry-edge.dingalinged.workers.dev/c/rc-szabo-plumbing-richton-park-il-richton-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services richton park il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

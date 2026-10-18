@@ -6,7 +6,7 @@ Also answers: bike shop in Park Ridge, IL; bike shop near me (Park Ridge, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob's Bike Shop | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Bob's Bike Shop is a bike shop in Park Ridge, IL at 141 Vine Avenue, Park Ridge, IL 60068. Phone: +18478254438. Website: https://www.bobsbikepr.com/. | https://registry-edge.dingalinged.workers.dev/c/bobs-bike-shop-park-ridge/
+1. Bob's Bike Shop | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Bob's Bike Shop is a bike shop in Park Ridge, IL at 141 Vine Avenue, Park Ridge, IL 60068. Phone: +18478254438. Website: https://www.bobsbikepr.com/. | https://registry-edge.dingalinged.workers.dev/c/bobs-bike-shop-park-ridge/
 2. Wheel & Sprocket | Organic #2 | Pulse Score 42.4/100 (Unrated, #2 in city) | Wheel & Sprocket is a bike shop in Park Ridge, IL at 672 North Northwest Highway, Park Ridge, IL 60068. | https://registry-edge.dingalinged.workers.dev/c/wheel-and-sprocket-park-ridge/
 
 ## Market data (for advertisers and agents)

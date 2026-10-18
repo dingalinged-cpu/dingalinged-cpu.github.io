@@ -13,7 +13,7 @@ Club Studio is a gym in Chicago, IL at 3030 North Broadway, Chicago, IL 60657.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 19% of gyms in Chicago, #42 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 73% of gyms in Chicago, #133 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

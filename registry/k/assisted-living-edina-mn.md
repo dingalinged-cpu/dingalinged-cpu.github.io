@@ -6,7 +6,7 @@ Also answers: assisted living in Edina, MN; assisted living near me (Edina, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunrise of Edina | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Sunrise of Edina is an assisted living facility in Edina, MN at 7128 France Avenue South, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/sunrise-of-edina-edina/
+1. Sunrise of Edina | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Sunrise of Edina is an assisted living facility in Edina, MN at 7128 France Avenue South, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/sunrise-of-edina-edina/
 2. The Waters of Edina | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | The Waters of Edina is an assisted living facility in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/the-waters-of-edina-edina/
 
 ## Market data (for advertisers and agents)

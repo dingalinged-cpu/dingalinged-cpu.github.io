@@ -6,7 +6,7 @@ Also answers: caterers in Willow Springs, IL; caterers near me (Willow Springs, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spring Forest Deli and Catering | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Spring Forest Deli and Catering is a caterer in Willow Springs, IL at Archer Avenue, Willow Springs, IL. | https://registry-edge.dingalinged.workers.dev/c/spring-forest-deli-and-catering-willow-springs/
+1. Spring Forest Deli and Catering | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Spring Forest Deli and Catering is a caterer in Willow Springs, IL at Archer Avenue, Willow Springs, IL. | https://registry-edge.dingalinged.workers.dev/c/spring-forest-deli-and-catering-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers willow springs il | category: Events & weddings | industry benchmark: Personal Services

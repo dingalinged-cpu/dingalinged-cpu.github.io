@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Madison, WI at 4020 University Avenue, Madison, W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 75% of hair salons in Madison, #47 of 59 hair salons in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 74% of hair salons in Madison, #46 of 59 hair salons in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

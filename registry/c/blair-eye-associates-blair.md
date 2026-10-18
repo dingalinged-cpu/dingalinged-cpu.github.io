@@ -13,7 +13,7 @@ Blair Eye Associates is an eye care practice in Blair, NE at 257 South 19th Stre
 - Website: https://blaireyeassociates.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,We,Fr 08:00-17:00; Th 08:00-19:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Omaha, NE, #2 of 2 eye care practices in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 50% of eye care practices in Omaha, NE, #2 of 2 eye care practices in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

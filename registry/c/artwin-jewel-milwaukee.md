@@ -13,7 +13,7 @@ Artwin Jewel is a jewelry store in Milwaukee, WI at 8340 West Appleton Avenue, M
 - Website: https://www.artwinjewel.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 43% of jewelry stores in Milwaukee, #13 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 43% of jewelry stores in Milwaukee, #13 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,11 +6,11 @@ Also answers: preschool in Johnston, IA; preschool near me (Johnston, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Traditions Children Center V | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Traditions Children Center V is a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/traditions-children-center-v-johnston/
+1. Traditions Children Center V | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Traditions Children Center V is a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/traditions-children-center-v-johnston/
 2. As We Grow | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | As We Grow is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/as-we-grow-johnston/
 3. Generation Next Child Development Center and Preschool | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Generation Next Child Development Center and Preschool is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/generation-next-child-development-center-and-preschool-johnston/
 4. Loving Arms Childrens Center | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Loving Arms Childrens Center is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/loving-arms-childrens-center-johnston/
-5. NorthPoint Kids | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | NorthPoint Kids is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/northpoint-kids-johnston/
+5. NorthPoint Kids | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | NorthPoint Kids is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/northpoint-kids-johnston/
 6. KinderCare Learning Center | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | KinderCare Learning Center is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/kindercare-learning-center-johnston/
 
 ## Market data (for advertisers and agents)

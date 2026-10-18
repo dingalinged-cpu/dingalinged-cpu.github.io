@@ -13,7 +13,7 @@ Massage Heights is a massage studio in Houston, TX at 2055 Westheimer Road #155,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 82% of massage studios in Houston, #44 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 80% of massage studios in Houston, #44 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

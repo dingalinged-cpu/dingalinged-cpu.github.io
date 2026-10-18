@@ -13,7 +13,7 @@ Green River Tattoo is a tattoo shop in Minneapolis, MN at 118 East 26th Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 12:00-20:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 43% of tattoo shops in Minneapolis–St. Paul, #11 of 26 tattoo shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 43% of tattoo shops in Minneapolis–St. Paul, #11 of 26 tattoo shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

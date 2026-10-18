@@ -13,7 +13,7 @@ Larman Law, PLLC is a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 7
 - Website: https://www.larmanlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 57% of lawyers in Dallas–Fort Worth, #6 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 57% of lawyers in Dallas–Fort Worth, #6 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

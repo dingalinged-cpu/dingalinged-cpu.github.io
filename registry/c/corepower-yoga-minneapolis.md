@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Minneapolis, MN at 945 Northeast Broadway Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Building — top 100% of yoga studios in Minneapolis–St. Paul, #13 of 13 yoga studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 100% of yoga studios in Minneapolis–St. Paul, #13 of 13 yoga studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

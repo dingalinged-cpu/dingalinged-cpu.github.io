@@ -13,7 +13,7 @@ Morgan & Morgan is a lawyer in Chicago, IL at 55 East Monroe Street #Suite 3800,
 - Website: https://www.forthepeople.com/chicago/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.4/100 — Building — top 100% of lawyers in Chicago, #68 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 99% of lawyers in Chicago, #67 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

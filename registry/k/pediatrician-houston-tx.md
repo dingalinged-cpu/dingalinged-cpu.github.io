@@ -6,8 +6,8 @@ Also answers: pediatrician in Houston, TX; pediatrician near me (Houston, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vecino Airline Children's Health Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Vecino Airline Children's Health Center is a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/. | https://registry-edge.dingalinged.workers.dev/c/vecino-airline-childrens-health-center-houston/
-2. Pearsall Pediatrics | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Pearsall Pediatrics is a pediatrician in Houston, TX at 3003 South Loop West Frontage Road #Suite 410, Houston, TX 77054. | https://registry-edge.dingalinged.workers.dev/c/pearsall-pediatrics-houston/
+1. Vecino Airline Children's Health Center | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Vecino Airline Children's Health Center is a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/. | https://registry-edge.dingalinged.workers.dev/c/vecino-airline-childrens-health-center-houston/
+2. Pearsall Pediatrics | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Pearsall Pediatrics is a pediatrician in Houston, TX at 3003 South Loop West Frontage Road #Suite 410, Houston, TX 77054. | https://registry-edge.dingalinged.workers.dev/c/pearsall-pediatrics-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

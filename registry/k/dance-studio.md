@@ -1,4 +1,4 @@
-The top unpaid dance studio listing for the United States is Studio Ife Dance And Yoga (a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/). 272 dance studio businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for the United States is Studio Ife Dance And Yoga (a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/). 450 dance studio businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in the United States?
 
@@ -8,56 +8,56 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Studio Ife Dance And Yoga | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Studio Ife Dance And Yoga is a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/. | https://registry-edge.dingalinged.workers.dev/c/studio-ife-dance-and-yoga-marietta/
 2. Ballet Ballet Dance Studio | Organic #2 | Pulse Score 65.3/100 (Good, #1 in city) | Ballet Ballet Dance Studio is a dance studio in Frisco, TX at 9244 Prestmont Place #220, Frisco, TX. Phone: +14697939986. Website: https://ballet-ballet.com/. | https://registry-edge.dingalinged.workers.dev/c/ballet-ballet-dance-studio-frisco/
-3. Twinkle Star Dance Academy | Organic #3 | Pulse Score 64.6/100 (Good, #1 in city) | Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano. | https://registry-edge.dingalinged.workers.dev/c/twinkle-star-dance-academy-plano/
-4. Jones Dancesport Ballroom | Organic #4 | Pulse Score 64.1/100 (Good, #2 in city) | Jones Dancesport Ballroom is a dance studio in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17706757878. Website: https://www.jonesdancesport.com/. | https://registry-edge.dingalinged.workers.dev/c/jones-dancesport-ballroom-marietta/
-5. Top Hat Dance Centre | Organic #5 | Pulse Score 64.1/100 (Good, #1 in city) | Top Hat Dance Centre is a dance studio in Flower Mound, TX at 2200 Morriss Road #100, Flower Mound, TX 75028. Phone: +19723555299. Website: https://tophatdance.com/. | https://registry-edge.dingalinged.workers.dev/c/top-hat-dance-centre-flower-mound/
-6. Daync Studio MKE | Organic #6 | Pulse Score 63.9/100 (Unrated, #1 in city) | Daync Studio MKE is a dance studio in Milwaukee, WI at 910 East Hamilton Street, Milwaukee, WI 53202. Phone: +14147482336. Website: https://www.dayncstudiomke.com/. | https://registry-edge.dingalinged.workers.dev/c/daync-studio-mke-milwaukee/
-7. Ankeny Dance and Performing Arts Academy | Organic #7 | Pulse Score 63.9/100 (Unrated, #1 in city) | Ankeny Dance and Performing Arts Academy is a dance studio in Ankeny, IA at 515 North Ankeny Boulevard, Ankeny, IA 50023. Phone: +15159645048. Website: https://ankenydanceandperformingarts.com/. | https://registry-edge.dingalinged.workers.dev/c/ankeny-dance-and-performing-arts-academy-ankeny/
-8. Dance Studio I-Liz Kelley | Organic #8 | Pulse Score 63.6/100 (Good, #1 in city) | Dance Studio I-Liz Kelley is a dance studio in Kansas City, MO at 1166 West 103rd Street, Kansas City, MO 64114. Phone: +18169413990. Website: https://www.facebook.com/pages/Dance-Studio-1-Liz-Kelley/136300403083776. | https://registry-edge.dingalinged.workers.dev/c/dance-studio-i-liz-kelley-kansas-city/
-9. Konquer Dance Company | Organic #9 | Pulse Score 63.5/100 (Good, #1 in city) | Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th Street, Orland Park, IL 60462. Phone: +17089791910. Website: https://www.konquerdancecompany.com/. | https://registry-edge.dingalinged.workers.dev/c/konquer-dance-company-orland-park/
-10. Ballroom DanceTime Studio and Events | Organic #10 | Pulse Score 63.3/100 (Good, #1 in city) | Ballroom DanceTime Studio and Events is a dance studio in Cobb County, GA at 2635 Sandy Plains Road Northeast #136, Cobb County, GA. Phone: +17703091044. Website: https://www.ballroomdancetime.com/. | https://registry-edge.dingalinged.workers.dev/c/ballroom-dancetime-studio-and-events-cobb-county/
-11. Dance Vision Studios | Organic #11 | Pulse Score 63.3/100 (Unrated, #2 in city) | Dance Vision Studios is a dance studio in Flower Mound, TX. Phone: +12145130441. Website: https://www.dancevisiontexas.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-vision-studios-flower-mound/
-12. Celebrity Ballroom Dance Studios | Organic #12 | Pulse Score 63.2/100 (Good, #2 in city) | Celebrity Ballroom Dance Studios is a dance studio in Cobb County, GA at 2727 Canton Road #529, Cobb County, GA. Phone: +16786538003. Website: https://www.celebrityballroomdance.com/. | https://registry-edge.dingalinged.workers.dev/c/celebrity-ballroom-dance-studios-cobb-county/
-13. Jazzle Dance Studio | Organic #13 | Pulse Score 62.8/100 (Good, #1 in city) | Jazzle Dance Studio is a dance studio in Sandy Springs, GA at 8610 Roswell Road, Sandy Springs, GA. Phone: +17706097182. Website: https://www.jazzledancestudio.com/. | https://registry-edge.dingalinged.workers.dev/c/jazzle-dance-studio-sandy-springs/
-14. Kansas City Ballet - South Campus at Meadowbrook | Organic #14 | Pulse Score 62.8/100 (Unrated, #1 in city) | Kansas City Ballet - South Campus at Meadowbrook is a dance studio in Prairie Village, KS at 9415 Nall Avenue #Suite 100, Prairie Village, KS 66207. Phone: +18169312299. Website: https://kcballet.org/kc-ballet-school-south-campus/. | https://registry-edge.dingalinged.workers.dev/c/kansas-city-ballet-south-campus-at-meadowbrook-prairie-village/
-15. Milwaukee Ballet School & Academy | Organic #15 | Pulse Score 62.7/100 (Unrated, #1 in city) | Milwaukee Ballet School & Academy is a dance studio in Fox Point, WI at 8655 North Port Washington Road, Fox Point, WI 53217. Phone: +14142288128. Website: https://www.milwaukeeballet.org/school-academy/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-ballet-school-and-academy-fox-point/
-16. St. Paul Ballet | Organic #16 | Pulse Score 62.7/100 (Unrated, #1 in city) | St. Paul Ballet is a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/. | https://registry-edge.dingalinged.workers.dev/c/st-paul-ballet-saint-paul/
-17. Atlanta Ballet Center for Dance Education Virginia Highlands | Organic #17 | Pulse Score 62.6/100 (Good, #1 in city) | Atlanta Ballet Center for Dance Education Virginia Highlands is a dance studio in Atlanta, GA at 504 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048832178. Website: https://centre.atlantaballet.com/locations/virginia-highland-centre. | https://registry-edge.dingalinged.workers.dev/c/atlanta-ballet-center-for-dance-education-virginia-highlands-atlanta/
-18. Micki's Dance Studio | Organic #18 | Pulse Score 62.6/100 (Unrated, #1 in city) | Micki's Dance Studio is a dance studio in Omaha, NE at 6839 Grover Street, Omaha, NE 68106. Phone: +14029342552. Website: https://mickisdancestudio.om/. | https://registry-edge.dingalinged.workers.dev/c/mickis-dance-studio-omaha/
-19. Center Stange Dance | Organic #19 | Pulse Score 62.6/100 (Unrated, #1 in city) | Center Stange Dance is a dance studio in Bloomingdale, IL at 364 West Army Trail Road #Suite 250, Bloomingdale, IL 60108. Phone: +16305299080. Website: https://www.centerstagedanceonline.com/. | https://registry-edge.dingalinged.workers.dev/c/center-stange-dance-bloomingdale/
-20. Lake Shore Dance Academy | Organic #20 | Pulse Score 62.5/100 (Unrated, #1 in city) | Lake Shore Dance Academy is a dance studio in Evanston, IL at 915 Foster Street, Evanston, IL 60201. Phone: +13129459619. Website: https://www.lakeshoredanceacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-shore-dance-academy-evanston/
-21. TU Dance Center | Organic #21 | Pulse Score 62.5/100 (Unrated, #2 in city) | TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/. | https://registry-edge.dingalinged.workers.dev/c/tu-dance-center-saint-paul/
-22. Pole Waxers Pole Dance Studio | Organic #22 | Pulse Score 62.4/100 (Good, #3 in city) | Pole Waxers Pole Dance Studio is a dance studio in Cobb County, GA at 1647 Canton Road Northeast, Cobb County, GA. Phone: +14044842763. Website: https://www.polewaxersuniversity.com/. | https://registry-edge.dingalinged.workers.dev/c/pole-waxers-pole-dance-studio-cobb-county/
-23. Diversity Dance Studio | Organic #23 | Pulse Score 62.4/100 (Unrated, #3 in city) | Diversity Dance Studio is a dance studio in Flower Mound, TX. Phone: +12142855090. Website: https://www.diversitydsncestudio.org/. | https://registry-edge.dingalinged.workers.dev/c/diversity-dance-studio-flower-mound/
-24. Lucia Aerial Performing Arts | Organic #24 | Pulse Score 62.2/100 (Unrated, #1 in city) | Lucia Aerial Performing Arts is a dance studio in Leawood, KS at 5001 West 117th Street, Leawood, KS 66211. Phone: +19132716918. Website: https://luciaaerial.com/. | https://registry-edge.dingalinged.workers.dev/c/lucia-aerial-performing-arts-leawood/
-25. Princess Reception Hall | Organic #25 | Pulse Score 62.2/100 (Unrated, #1 in city) | Princess Reception Hall is a dance studio in Houston, TX at 16312 Spencer Road, Houston, TX 77095. Phone: +12816901487. | https://registry-edge.dingalinged.workers.dev/c/princess-reception-hall-houston/
-26. 2ONE LIFE STUDIO | Organic #26 | Pulse Score 62.2/100 (Unrated, #1 in city) | 2ONE LIFE STUDIO is a dance studio in Douglasville, GA at 1292 John Belt Drive #105, Douglasville, GA 30134. Phone: +17069275595. Website: https://www.2one.life/. | https://registry-edge.dingalinged.workers.dev/c/2one-life-studio-douglasville/
-27. Encore Dance Academy | Organic #27 | Pulse Score 62.2/100 (Unrated, #2 in city) | Encore Dance Academy is a dance studio in Ankeny, IA at 801 South Ankeny Boulevard, Ankeny, IA 50021. Phone: +15159744074. Website: https://1eda.com/. | https://registry-edge.dingalinged.workers.dev/c/encore-dance-academy-ankeny/
-28. Synergy Dance Academy | Organic #28 | Pulse Score 62.2/100 (Unrated, #2 in city) | Synergy Dance Academy is a dance studio in Bloomingdale, IL at 160 South Bloomingdale Road #KLM, Bloomingdale, IL 60108. Phone: +16308931444. Website: https://www.synergydanceil.com/. | https://registry-edge.dingalinged.workers.dev/c/synergy-dance-academy-bloomingdale/
-29. A&A Ballet Center for Dance | Organic #29 | Pulse Score 62.1/100 (Unrated, #1 in city) | A&A Ballet Center for Dance is a dance studio in Chicago, IL at 731 South Plymouth Court, Chicago, IL 60605. Phone: +13125452142. Website: https://www.aacenterfordance.org/. | https://registry-edge.dingalinged.workers.dev/c/a-and-a-ballet-center-for-dance-chicago/
-30. Academy Ballroom Atlanta | Organic #30 | Pulse Score 62.1/100 (Unrated, #3 in city) | Academy Ballroom Atlanta is a dance studio in Marietta, GA at 2211 Roswell Road, Marietta, GA 30062. Phone: +17702306060. Website: https://academyballroomatl.com/academy-ballroom-marietta-coming-soon/. | https://registry-edge.dingalinged.workers.dev/c/academy-ballroom-atlanta-marietta/
-31. Dance Connection | Organic #31 | Pulse Score 62.1/100 (Unrated, #2 in city) | Dance Connection is a dance studio in Chicago, IL at 3117 North Clybourn Avenue, Chicago, IL 60618. Phone: +17734040006. Website: https://www.danceconnectionchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-connection-chicago/
-32. Envision Dance | Organic #32 | Pulse Score 62/100 (Unrated, #1 in city) | Envision Dance is a dance studio in Naperville, IL at 790 Royal Saint George Drive #102, Naperville, IL 60563. Phone: +16307438839. Website: https://www.edcnaperville.com/. | https://registry-edge.dingalinged.workers.dev/c/envision-dance-naperville/
-33. Studio Dance, Inc. | Organic #33 | Pulse Score 62/100 (Unrated, #1 in city) | Studio Dance, Inc. is a dance studio in Dallas, GA at 104 Greystone Power Boulevard, Dallas, GA 30157. Phone: +17705054900. Website: https://www.studiodanceinc.com/. | https://registry-edge.dingalinged.workers.dev/c/studio-dance-inc-dallas/
-34. Sassy Feet Dance Studio | Organic #34 | Pulse Score 62/100 (Unrated, #1 in city) | Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/. | https://registry-edge.dingalinged.workers.dev/c/sassy-feet-dance-studio-harris-county/
-35. Ballet North | Organic #35 | Pulse Score 62/100 (Unrated, #1 in city) | Ballet North is a dance studio in Gladstone, MO at 6308 North Prospect Avenue, Gladstone, MO 64119. Phone: +18164544859. Website: https://www.balletnorth.com/. | https://registry-edge.dingalinged.workers.dev/c/ballet-north-gladstone/
-36. Dance Stop | Organic #36 | Pulse Score 61.8/100 (Good, #4 in city) | Dance Stop is a dance studio in Cobb County, GA at 4400 Roswell Road #128, Cobb County, GA 30062. Phone: +17705780048. Website: https://dancestopstudios.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-stop-cobb-county/
-37. KMC Dance Studio | Organic #37 | Pulse Score 61.8/100 (Good, #1 in city) | KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Highway 7, Shorewood, MN. Phone: +19522402319. Website: https://www.engagephysicaltherapymn.com/. | https://registry-edge.dingalinged.workers.dev/c/kmc-dance-studio-shorewood/
-38. Epic Moves | Organic #38 | Pulse Score 61.8/100 (Unrated, #2 in city) | Epic Moves is a dance studio in Milwaukee, WI at 3815 West Fond Du Lac Avenue, Milwaukee, WI 53216. Phone: +13475597355. Website: https://www.epicmoves414.com/. | https://registry-edge.dingalinged.workers.dev/c/epic-moves-milwaukee/
-39. Elevate Dance Experience | Organic #39 | Pulse Score 61.8/100 (Unrated, #2 in city) | Elevate Dance Experience is a dance studio in Naperville, IL at 1112 South Washington Street, Naperville, IL 60565. Phone: +13312046984. Website: https://www.elevatedanceexperience.com/. | https://registry-edge.dingalinged.workers.dev/c/elevate-dance-experience-naperville/
-40. McNamara McCarthy School of Irish Dance | Organic #40 | Pulse Score 61.8/100 (Unrated, #1 in city) | McNamara McCarthy School of Irish Dance is a dance studio in Wauwatosa, WI at 11727 West North Avenue, Wauwatosa, WI 53226. Phone: +14142079365. Website: https://www.mcnamaramccarthy.com/. | https://registry-edge.dingalinged.workers.dev/c/mcnamara-mccarthy-school-of-irish-dance-wauwatosa/
-41. Turning Pointe Dance Company | Organic #41 | Pulse Score 61.8/100 (Unrated, #1 in city) | Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet Highway, New Lenox, IL 60451. Phone: +18153206201. Website: https://tpdcdance.com/. | https://registry-edge.dingalinged.workers.dev/c/turning-pointe-dance-company-new-lenox/
-42. Smitty's Performing Arts Center LLC | Organic #42 | Pulse Score 61.7/100 (Unrated, #2 in city) | Smitty's Performing Arts Center LLC is a dance studio in Omaha, NE at 2410 South 140th Circle, Omaha, NE 68144. Phone: +14029996368. Website: https://www.smittyspac-omaha.com/. | https://registry-edge.dingalinged.workers.dev/c/smittys-performing-arts-center-llc-omaha/
-43. In The Light Performing Arts Center | Organic #43 | Pulse Score 61.7/100 (Unrated, #1 in city) | In The Light Performing Arts Center is a dance studio in Peculiar, MO at 145 West Broadway Street, Peculiar, MO 64078. Phone: +18162096775. | https://registry-edge.dingalinged.workers.dev/c/in-the-light-performing-arts-center-peculiar/
-44. Dance Tech & Talent | Organic #44 | Pulse Score 61.6/100 (Unrated, #1 in city) | Dance Tech & Talent is a dance studio in Kennesaw, GA at 2851 Cobb Parkway #101, Kennesaw, GA. Phone: +17708812333. Website: https://www.dancetechandtalent.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-tech-and-talent-kennesaw/
-45. Elevate Dance Center | Organic #45 | Pulse Score 61.5/100 (Unrated, #1 in city) | Elevate Dance Center is a dance studio in McKinney, TX. Phone: +14697420383. Website: https://danceatelevate.com/. | https://registry-edge.dingalinged.workers.dev/c/elevate-dance-center-mckinney/
-46. Latin Rhythms | Organic #46 | Pulse Score 61.4/100 (Unrated, #3 in city) | Latin Rhythms is a dance studio in Chicago, IL at 210 North Racine Avenue, Chicago, IL. Website: https://www.latinrhythms.com/. | https://registry-edge.dingalinged.workers.dev/c/latin-rhythms-chicago/
-47. Anjali Center for Performing Arts | Organic #47 | Pulse Score 61.3/100 (Good, #1 in city) | Anjali Center for Performing Arts is a dance studio in Sugar Land, TX at 2615 Cordes Drive, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/anjali-center-for-performing-arts-sugar-land/
-48. East Towne Ballrooms | Organic #48 | Pulse Score 61.3/100 (Unrated, #3 in city) | East Towne Ballrooms is a dance studio in Milwaukee, WI. Phone: +14142711002. Website: https://www.easttowneballrooms.com/. | https://registry-edge.dingalinged.workers.dev/c/east-towne-ballrooms-milwaukee/
-49. Dance Dimensions Inc | Organic #49 | Pulse Score 61.3/100 (Unrated, #1 in city) | Dance Dimensions Inc is a dance studio in Stoughton, WI at 1401 East Main Street, Stoughton, WI 53589. Phone: +16086205299. Website: https://www.dancedimensionsinc.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-dimensions-inc-stoughton/
-50. KMC Dance | Organic #50 | Pulse Score 61.2/100 (Unrated, #1 in city) | KMC Dance is a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635332623. Website: https://kmcdance.com/. | https://registry-edge.dingalinged.workers.dev/c/kmc-dance-robbinsdale/
+3. the Dance Scene | Organic #3 | Pulse Score 64.8/100 (Good, #1 in city) | the Dance Scene is a dance studio in Center Line, MI at 25333 Van Dyke Avenue, Center Line, MI 48015. Phone: +12482513950. Website: https://www.michigandancelessons.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dance-scene-center-line/
+4. Twinkle Star Dance Academy | Organic #4 | Pulse Score 64.6/100 (Good, #1 in city) | Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano. | https://registry-edge.dingalinged.workers.dev/c/twinkle-star-dance-academy-plano/
+5. Jones Dancesport Ballroom | Organic #5 | Pulse Score 64.1/100 (Good, #2 in city) | Jones Dancesport Ballroom is a dance studio in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17706757878. Website: https://www.jonesdancesport.com/. | https://registry-edge.dingalinged.workers.dev/c/jones-dancesport-ballroom-marietta/
+6. Top Hat Dance Centre | Organic #6 | Pulse Score 64.1/100 (Good, #1 in city) | Top Hat Dance Centre is a dance studio in Flower Mound, TX at 2200 Morriss Road #100, Flower Mound, TX 75028. Phone: +19723555299. Website: https://tophatdance.com/. | https://registry-edge.dingalinged.workers.dev/c/top-hat-dance-centre-flower-mound/
+7. Daync Studio MKE | Organic #7 | Pulse Score 63.9/100 (Unrated, #1 in city) | Daync Studio MKE is a dance studio in Milwaukee, WI at 910 East Hamilton Street, Milwaukee, WI 53202. Phone: +14147482336. Website: https://www.dayncstudiomke.com/. | https://registry-edge.dingalinged.workers.dev/c/daync-studio-mke-milwaukee/
+8. Ankeny Dance and Performing Arts Academy | Organic #8 | Pulse Score 63.9/100 (Unrated, #1 in city) | Ankeny Dance and Performing Arts Academy is a dance studio in Ankeny, IA at 515 North Ankeny Boulevard, Ankeny, IA 50023. Phone: +15159645048. Website: https://ankenydanceandperformingarts.com/. | https://registry-edge.dingalinged.workers.dev/c/ankeny-dance-and-performing-arts-academy-ankeny/
+9. Encore the Dance Centre | Organic #9 | Pulse Score 63.9/100 (Unrated, #1 in city) | Encore the Dance Centre is a dance studio in Fraser, MI at 16012 15 Mile Road, Fraser, MI 48026. Phone: +15862855299. Website: https://www.encorethedancecentre.com/. | https://registry-edge.dingalinged.workers.dev/c/encore-the-dance-centre-fraser/
+10. Dance Studio I-Liz Kelley | Organic #10 | Pulse Score 63.6/100 (Good, #1 in city) | Dance Studio I-Liz Kelley is a dance studio in Kansas City, MO at 1166 West 103rd Street, Kansas City, MO 64114. Phone: +18169413990. Website: https://www.facebook.com/pages/Dance-Studio-1-Liz-Kelley/136300403083776. | https://registry-edge.dingalinged.workers.dev/c/dance-studio-i-liz-kelley-kansas-city/
+11. Central Indiana Academy of Dance | Organic #11 | Pulse Score 63.6/100 (Unrated, #1 in city) | Central Indiana Academy of Dance is a dance studio in Westfield, IN at 14950 Greywood Court, Westfield, IN. Phone: +13175812423. Website: https://www.ciaodance.com/. | https://registry-edge.dingalinged.workers.dev/c/central-indiana-academy-of-dance-westfield/
+12. Konquer Dance Company | Organic #12 | Pulse Score 63.5/100 (Good, #1 in city) | Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th Street, Orland Park, IL 60462. Phone: +17089791910. Website: https://www.konquerdancecompany.com/. | https://registry-edge.dingalinged.workers.dev/c/konquer-dance-company-orland-park/
+13. Steppin' Up Dance | Organic #13 | Pulse Score 63.4/100 (Unrated, #1 in city) | Steppin' Up Dance is a dance studio in O’Fallon, MO at 64 Crossroads Plaza, O’Fallon, MO 63368. Phone: +16362946266. Website: https://steppinupdanceproductions.com/. | https://registry-edge.dingalinged.workers.dev/c/steppin-up-dance-o-fallon/
+14. Rapture Dancing Company | Organic #14 | Pulse Score 63.4/100 (Unrated, #1 in city) | Rapture Dancing Company is a dance studio in Cold Spring, KY at 4016 Alexandria Pike, Cold Spring, KY 41076. Phone: +18596097934. Website: https://www.rapturedancecompany.com/. | https://registry-edge.dingalinged.workers.dev/c/rapture-dancing-company-cold-spring/
+15. Ballroom DanceTime Studio and Events | Organic #15 | Pulse Score 63.3/100 (Good, #1 in city) | Ballroom DanceTime Studio and Events is a dance studio in Cobb County, GA at 2635 Sandy Plains Road Northeast #136, Cobb County, GA. Phone: +17703091044. Website: https://www.ballroomdancetime.com/. | https://registry-edge.dingalinged.workers.dev/c/ballroom-dancetime-studio-and-events-cobb-county/
+16. Dance Vision Studios | Organic #16 | Pulse Score 63.3/100 (Unrated, #2 in city) | Dance Vision Studios is a dance studio in Flower Mound, TX. Phone: +12145130441. Website: https://www.dancevisiontexas.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-vision-studios-flower-mound/
+17. Celebrity Ballroom Dance Studios | Organic #17 | Pulse Score 63.2/100 (Good, #2 in city) | Celebrity Ballroom Dance Studios is a dance studio in Cobb County, GA at 2727 Canton Road #529, Cobb County, GA. Phone: +16786538003. Website: https://www.celebrityballroomdance.com/. | https://registry-edge.dingalinged.workers.dev/c/celebrity-ballroom-dance-studios-cobb-county/
+18. Jazzle Dance Studio | Organic #18 | Pulse Score 62.8/100 (Good, #1 in city) | Jazzle Dance Studio is a dance studio in Sandy Springs, GA at 8610 Roswell Road, Sandy Springs, GA. Phone: +17706097182. Website: https://www.jazzledancestudio.com/. | https://registry-edge.dingalinged.workers.dev/c/jazzle-dance-studio-sandy-springs/
+19. Kansas City Ballet - South Campus at Meadowbrook | Organic #19 | Pulse Score 62.8/100 (Unrated, #1 in city) | Kansas City Ballet - South Campus at Meadowbrook is a dance studio in Prairie Village, KS at 9415 Nall Avenue #Suite 100, Prairie Village, KS 66207. Phone: +18169312299. Website: https://kcballet.org/kc-ballet-school-south-campus/. | https://registry-edge.dingalinged.workers.dev/c/kansas-city-ballet-south-campus-at-meadowbrook-prairie-village/
+20. Milwaukee Ballet School & Academy | Organic #20 | Pulse Score 62.7/100 (Unrated, #1 in city) | Milwaukee Ballet School & Academy is a dance studio in Fox Point, WI at 8655 North Port Washington Road, Fox Point, WI 53217. Phone: +14142288128. Website: https://www.milwaukeeballet.org/school-academy/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-ballet-school-and-academy-fox-point/
+21. DPU Dance | Organic #21 | Pulse Score 62.7/100 (Unrated, #1 in city) | DPU Dance is a dance studio in Arnold, MO at 3805 Vogel Road, Arnold, MO 63010. Phone: +16362876110. Website: https://dpu.dance/. | https://registry-edge.dingalinged.workers.dev/c/dpu-dance-arnold/
+22. International Ballet School | Organic #22 | Pulse Score 62.7/100 (Unrated, #1 in city) | International Ballet School is a dance studio in Littleton, CO at 250 East Dry Creek Road #203, Littleton, CO 80122. Phone: +13036223118. Website: https://www.internationalballetschool.net/. | https://registry-edge.dingalinged.workers.dev/c/international-ballet-school-littleton/
+23. St. Paul Ballet | Organic #23 | Pulse Score 62.7/100 (Unrated, #1 in city) | St. Paul Ballet is a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/. | https://registry-edge.dingalinged.workers.dev/c/st-paul-ballet-saint-paul/
+24. Brillobox | Organic #24 | Pulse Score 62.7/100 (Unrated, #1 in city) | Brillobox is a dance studio in Pittsburgh, PA at 4104 Penn Avenue, Pittsburgh, PA. Phone: +14126214900. Website: https://brilloboxpgh.com/. | https://registry-edge.dingalinged.workers.dev/c/brillobox-pittsburgh/
+25. Atlanta Ballet Center for Dance Education Virginia Highlands | Organic #25 | Pulse Score 62.6/100 (Good, #1 in city) | Atlanta Ballet Center for Dance Education Virginia Highlands is a dance studio in Atlanta, GA at 504 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048832178. Website: https://centre.atlantaballet.com/locations/virginia-highland-centre. | https://registry-edge.dingalinged.workers.dev/c/atlanta-ballet-center-for-dance-education-virginia-highlands-atlanta/
+26. Manda's Rhythm & Dance | Organic #26 | Pulse Score 62.6/100 (Unrated, #1 in city) | Manda's Rhythm & Dance is a dance studio in Clinton Township, MI at 35769 Moravian Drive, Clinton Township, MI 48035. Phone: +15867913343. Website: https://www.mandasdance.com/. | https://registry-edge.dingalinged.workers.dev/c/mandas-rhythm-and-dance-clinton-township/
+27. Micki's Dance Studio | Organic #27 | Pulse Score 62.6/100 (Unrated, #1 in city) | Micki's Dance Studio is a dance studio in Omaha, NE at 6839 Grover Street, Omaha, NE 68106. Phone: +14029342552. Website: https://mickisdancestudio.om/. | https://registry-edge.dingalinged.workers.dev/c/mickis-dance-studio-omaha/
+28. TU Dance Center | Organic #28 | Pulse Score 62.6/100 (Unrated, #2 in city) | TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/. | https://registry-edge.dingalinged.workers.dev/c/tu-dance-center-saint-paul/
+29. Center Stange Dance | Organic #29 | Pulse Score 62.6/100 (Unrated, #1 in city) | Center Stange Dance is a dance studio in Bloomingdale, IL at 364 West Army Trail Road #Suite 250, Bloomingdale, IL 60108. Phone: +16305299080. Website: https://www.centerstagedanceonline.com/. | https://registry-edge.dingalinged.workers.dev/c/center-stange-dance-bloomingdale/
+30. Poetry in Motion | Organic #30 | Pulse Score 62.5/100 (Good, #1 in city) | Poetry in Motion is a dance studio in Hutchinson, KS at 504 North Main Street #A, Hutchinson, KS. Phone: +16206637272. Website: https://www.poetryinmotiondance.com/. | https://registry-edge.dingalinged.workers.dev/c/poetry-in-motion-hutchinson/
+31. Anita's Elite Dance | Organic #31 | Pulse Score 62.5/100 (Unrated, #1 in city) | Anita's Elite Dance is a dance studio in Sterling Heights, MI at 37360 Van Dyke Avenue, Sterling Heights, MI 48312. Phone: +15869788450. Website: https://www.anitaselitedance.com/. | https://registry-edge.dingalinged.workers.dev/c/anitas-elite-dance-sterling-heights/
+32. Jennifer Bishop’s School of Dance | Organic #32 | Pulse Score 62.5/100 (Unrated, #1 in city) | Jennifer Bishop’s School of Dance is a dance studio in Alton, IL at 652 East Broadway, Alton, IL 62002. Phone: +16184948353. Website: https://www.jbsdpac.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-bishop-s-school-of-dance-alton/
+33. Lake Shore Dance Academy | Organic #33 | Pulse Score 62.5/100 (Unrated, #1 in city) | Lake Shore Dance Academy is a dance studio in Evanston, IL at 915 Foster Street, Evanston, IL 60201. Phone: +13129459619. Website: https://www.lakeshoredanceacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/lake-shore-dance-academy-evanston/
+34. Heritage Irish Stepdancers | Organic #34 | Pulse Score 62.5/100 (Unrated, #1 in city) | Heritage Irish Stepdancers is a dance studio in Denver, CO at 7808 Cherry Creek South Drive #209, Denver, CO 80231. Phone: +17207479377. Website: https://www.heritageirish.com/. | https://registry-edge.dingalinged.workers.dev/c/heritage-irish-stepdancers-denver/
+35. Pole Waxers Pole Dance Studio | Organic #35 | Pulse Score 62.4/100 (Good, #3 in city) | Pole Waxers Pole Dance Studio is a dance studio in Cobb County, GA at 1647 Canton Road Northeast, Cobb County, GA. Phone: +14044842763. Website: https://www.polewaxersuniversity.com/. | https://registry-edge.dingalinged.workers.dev/c/pole-waxers-pole-dance-studio-cobb-county/
+36. Diversity Dance Studio | Organic #36 | Pulse Score 62.4/100 (Unrated, #3 in city) | Diversity Dance Studio is a dance studio in Flower Mound, TX. Phone: +12142855090. Website: https://www.diversitydsncestudio.org/. | https://registry-edge.dingalinged.workers.dev/c/diversity-dance-studio-flower-mound/
+37. Sho'time dance company | Organic #37 | Pulse Score 62.4/100 (Unrated, #1 in city) | Sho'time dance company is a dance studio in Carmel, IN at 13620 North Meridian Street, Carmel, IN 46032. Website: https://shotimedance.com/. | https://registry-edge.dingalinged.workers.dev/c/shotime-dance-company-carmel/
+38. Stellar Athletics Sports Center | Organic #38 | Pulse Score 62.4/100 (Unrated, #1 in city) | Stellar Athletics Sports Center is a dance studio in West Chester Township, OH at 65 Circle Fwy Dr, West Chester Township, OH 45246. Phone: +15138581297. Website: https://stellar-athletics.com/. | https://registry-edge.dingalinged.workers.dev/c/stellar-athletics-sports-center-west-chester-township/
+39. Artistry Dance Lab | Organic #39 | Pulse Score 62.4/100 (Unrated, #1 in city) | Artistry Dance Lab is a dance studio in Lancaster, OH at 1406 Ety Shops Way, Lancaster, OH 43130. Phone: +17408236101. Website: https://www.artistrydancelab.com/. | https://registry-edge.dingalinged.workers.dev/c/artistry-dance-lab-lancaster/
+40. Princess Reception Hall | Organic #40 | Pulse Score 62.2/100 (Unrated, #1 in city) | Princess Reception Hall is a dance studio in Houston, TX at 16312 Spencer Road, Houston, TX 77095. Phone: +12816901487. | https://registry-edge.dingalinged.workers.dev/c/princess-reception-hall-houston/
+41. 2ONE LIFE STUDIO | Organic #41 | Pulse Score 62.2/100 (Unrated, #1 in city) | 2ONE LIFE STUDIO is a dance studio in Douglasville, GA at 1292 John Belt Drive #105, Douglasville, GA 30134. Phone: +17069275595. Website: https://www.2one.life/. | https://registry-edge.dingalinged.workers.dev/c/2one-life-studio-douglasville/
+42. Encore Dance Academy | Organic #42 | Pulse Score 62.2/100 (Unrated, #2 in city) | Encore Dance Academy is a dance studio in Ankeny, IA at 801 South Ankeny Boulevard, Ankeny, IA 50021. Phone: +15159744074. Website: https://1eda.com/. | https://registry-edge.dingalinged.workers.dev/c/encore-dance-academy-ankeny/
+43. Summit Dance Academy | Organic #43 | Pulse Score 62.2/100 (Unrated, #1 in city) | Summit Dance Academy is a dance studio in Parker, CO at 16522 Keystone Boulevard #F, Parker, CO 80134. Phone: +13035249713. Website: https://www.summitdanceacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/summit-dance-academy-parker/
+44. Synergy Dance Academy | Organic #44 | Pulse Score 62.2/100 (Unrated, #2 in city) | Synergy Dance Academy is a dance studio in Bloomingdale, IL at 160 South Bloomingdale Road #KLM, Bloomingdale, IL 60108. Phone: +16308931444. Website: https://www.synergydanceil.com/. | https://registry-edge.dingalinged.workers.dev/c/synergy-dance-academy-bloomingdale/
+45. A&A Ballet Center for Dance | Organic #45 | Pulse Score 62.1/100 (Unrated, #1 in city) | A&A Ballet Center for Dance is a dance studio in Chicago, IL at 731 South Plymouth Court, Chicago, IL 60605. Phone: +13125452142. Website: https://www.aacenterfordance.org/. | https://registry-edge.dingalinged.workers.dev/c/a-and-a-ballet-center-for-dance-chicago/
+46. Academy Ballroom Atlanta | Organic #46 | Pulse Score 62.1/100 (Unrated, #3 in city) | Academy Ballroom Atlanta is a dance studio in Marietta, GA at 2211 Roswell Road, Marietta, GA 30062. Phone: +17702306060. Website: https://academyballroomatl.com/academy-ballroom-marietta-coming-soon/. | https://registry-edge.dingalinged.workers.dev/c/academy-ballroom-atlanta-marietta/
+47. Sassy Feet Dance Studio | Organic #47 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/. | https://registry-edge.dingalinged.workers.dev/c/sassy-feet-dance-studio-harris-county/
+48. Ballet North | Organic #48 | Pulse Score 62.1/100 (Unrated, #1 in city) | Ballet North is a dance studio in Gladstone, MO at 6308 North Prospect Avenue, Gladstone, MO 64119. Phone: +18164544859. Website: https://www.balletnorth.com/. | https://registry-edge.dingalinged.workers.dev/c/ballet-north-gladstone/
+49. Dance Connection | Organic #49 | Pulse Score 62.1/100 (Unrated, #2 in city) | Dance Connection is a dance studio in Chicago, IL at 3117 North Clybourn Avenue, Chicago, IL 60618. Phone: +17734040006. Website: https://www.danceconnectionchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-connection-chicago/
+50. Envision Dance | Organic #50 | Pulse Score 62/100 (Unrated, #1 in city) | Envision Dance is a dance studio in Naperville, IL at 790 Royal Saint George Drive #102, Naperville, IL 60563. Phone: +16307438839. Website: https://www.edcnaperville.com/. | https://registry-edge.dingalinged.workers.dev/c/envision-dance-naperville/
 
-## More dance studio listings (272 total; top 50 unpaid shown)
+## More dance studio listings (450 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dance-studio.jsonl
 - Chicago, IL: 23 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-chicago-il/
 - Milwaukee, WI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-milwaukee-wi/
@@ -65,23 +65,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Marietta, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-marietta-ga/
 - Dallas, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-dallas-tx/
 - Houston, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-houston-tx/
+- Centennial, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-centennial-co/
+- Aurora, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-aurora-co/
+- Carmel, IN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-carmel-in/
 - Kansas City, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kansas-city-mo/
 - Plano, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-plano-tx/
 - Flower Mound, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-flower-mound-tx/
+- Littleton, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-littleton-co/
+- Cincinnati, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-cincinnati-oh/
 - Minneapolis, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-minneapolis-mn/
+- Springfield, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-springfield-mo/
 - Johns Creek, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-johns-creek-ga/
 - Atlanta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-atlanta-ga/
 - Harris County, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-harris-county-tx/
 - Richardson, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-richardson-tx/
+- Detroit, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-detroit-mi/
+- Parker, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-parker-co/
+- Lawrence, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lawrence-ks/
+- Lancaster, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lancaster-oh/
+- Hilliard, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-hilliard-oh/
 - Saint Paul, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-saint-paul-mn/
 - Decatur, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-decatur-ga/
 - Evanston, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-evanston-il/
 - Naperville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-naperville-il/
+- Pittsburgh, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-pittsburgh-pa/
 - Mckinney, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-mckinney-tx/
 - Sugar Land, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-sugar-land-tx/
 - Ankeny, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-ankeny-ia/
 - West Des Moines, IA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-des-moines-ia/
+- Topeka, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-topeka-ks/
+- Olathe, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-olathe-ks/
+- Columbus, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-columbus-oh/
 - Omaha, NE: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-omaha-ne/
+- Indianapolis, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-indianapolis-in/
 - Kennesaw, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kennesaw-ga/
 - Smyrna, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-smyrna-ga/
 - Roswell, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-roswell-ga/
@@ -90,6 +106,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Orland Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-orland-park-il/
 - Bloomingdale, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-bloomingdale-il/
 - La Grange, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-la-grange-il/
+- Alton, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-alton-il/
 - Brookfield, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-brookfield-il/
 - Lyons, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lyons-il/
 - Elk Grove Village, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-elk-grove-village-il/
@@ -102,9 +119,24 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Katy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-katy-tx/
 - Denton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-denton-tx/
 - The Woodlands, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-the-woodlands-tx/
+- Rochester Hills, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-rochester-hills-mi/
+- Livonia, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-livonia-mi/
+- Wyandotte, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-wyandotte-mi/
+- Westminster, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-westminster-co/
+- Longmont, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-longmont-co/
+- Jefferson County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-jefferson-county-co/
 - Polk City, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-polk-city-ia/
+- Manhattan, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-manhattan-ks/
 - Shawnee, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-shawnee-ks/
-- Olathe, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-olathe-ks/
+- Kansas City, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kansas-city-ks/
+- Greenfield Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-greenfield-township-oh/
+- Upper Arlington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-upper-arlington-oh/
+- Mason, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-mason-oh/
+- Gahanna, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-gahanna-oh/
+- Columbia, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-columbia-mo/
+- O’Fallon, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-o-fallon-mo/
+- Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-greenwood-in/
+- Fort Thomas, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-fort-thomas-ky/
 - Douglasville, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-douglasville-ga/
 - Acworth, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-acworth-ga/
 - Suwanee, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-suwanee-ga/
@@ -122,6 +154,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Glen Ellyn, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-glen-ellyn-il/
 - Hoffman Estates, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-hoffman-estates-il/
 - Long Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-long-grove-il/
+- Troy, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-troy-il/
 - Countryside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-countryside-il/
 - Wilmette, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-wilmette-il/
 - Vernon Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-vernon-hills-il/
@@ -132,6 +165,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Indian Head Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-indian-head-park-il/
 - New Lenox, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-new-lenox-il/
 - Niles, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-niles-il/
+- West Mifflin, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-mifflin-pa/
+- Peters Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-peters-township-pa/
+- Castle Shannon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-castle-shannon-pa/
+- West View, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-view-pa/
+- Indiana Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-indiana-township-pa/
+- Emsworth, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-emsworth-pa/
+- West Deer Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-deer-township-pa/
+- North Versailles, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-north-versailles-pa/
+- Scott Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-scott-township-pa/
+- Bridgeville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-bridgeville-pa/
+- Wilkins Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-wilkins-township-pa/
+- Elizabeth Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-elizabeth-township-pa/
 - Brown Deer, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-brown-deer-wi/
 - Racine, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-racine-wi/
 - South Milwaukee, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-south-milwaukee-wi/
@@ -164,6 +209,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Pasadena, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-pasadena-tx/
 - Grand Prairie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-grand-prairie-tx/
 - Midlothian, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-midlothian-tx/
+- Sterling Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-sterling-heights-mi/
+- Utica, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-utica-mi/
+- White Lake Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-white-lake-charter-township-mi/
+- Royal Oak, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-royal-oak-mi/
+- Essex County, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-essex-county-mi/
+- Southgate, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-southgate-mi/
+- Riverview, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-riverview-mi/
+- Kingsville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kingsville-mi/
+- Dearborn, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-dearborn-mi/
+- Rochester, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-rochester-mi/
+- Fraser, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-fraser-mi/
+- West Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-bloomfield-township-mi/
+- Shelby Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-shelby-charter-township-mi/
+- Taylor, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-taylor-mi/
+- Clinton Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-clinton-township-mi/
+- Northville Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-northville-charter-township-mi/
+- Northville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-northville-mi/
+- Saint Clair Shores, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-saint-clair-shores-mi/
+- Flat Rock, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-flat-rock-mi/
+- Waterford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-waterford-township-mi/
+- Center Line, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-center-line-mi/
+- Clawson, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-clawson-mi/
+- Boulder County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-boulder-county-co/
+- Glendale, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-glendale-co/
+- Castle Rock, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-castle-rock-co/
+- Greenwood Village, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-greenwood-village-co/
+- Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-louisville-co/
+- Thornton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-thornton-co/
+- Frederick, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-frederick-co/
+- Arvada, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-arvada-co/
+- Englewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-englewood-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-golden-co/
+- Lakewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lakewood-co/
 - Council Bluffs, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-council-bluffs-ia/
 - Urbandale, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-urbandale-ia/
 - Carlisle, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-carlisle-ia/
@@ -173,10 +251,22 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukee, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-waukee-ia/
 - Lenexa, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lenexa-ks/
 - Prairie Village, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-prairie-village-ks/
+- Wichita, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-wichita-ks/
 - Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-leawood-ks/
 - Overland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-overland-park-ks/
+- Hutchinson, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-hutchinson-ks/
 - Spring Hill, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-spring-hill-ks/
-- Kansas City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kansas-city-ks/
+- Salina, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-salina-ks/
+- Fairfield Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-fairfield-township-oh/
+- Sycamore Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-sycamore-township-oh/
+- Pataskala, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-pataskala-oh/
+- Milford, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-milford-oh/
+- Anderson Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-anderson-township-oh/
+- New Albany, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-new-albany-oh/
+- Loveland, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-loveland-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-west-chester-township-oh/
+- Columbia Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-columbia-township-oh/
+- Colerain Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-colerain-township-oh/
 - Hopkins, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-hopkins-mn/
 - Circle Pines, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-circle-pines-mn/
 - Edina, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-edina-mn/
@@ -193,16 +283,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - South Saint Paul, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-south-saint-paul-mn/
 - Smithville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-smithville-mo/
 - Gladstone, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-gladstone-mo/
+- Brentwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-brentwood-mo/
 - Platte Woods, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-platte-woods-mo/
+- Arnold, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-arnold-mo/
 - Platte City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-platte-city-mo/
 - Riverside, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-riverside-mo/
 - Peculiar, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-peculiar-mo/
+- Kirkwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kirkwood-mo/
 - Lee'S Summit, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-lees-summit-mo/
+- Overland, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-overland-mo/
+- Saint Charles, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-saint-charles-mo/
 - Excelsior Springs, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-excelsior-springs-mo/
 - Kearney, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-kearney-mo/
+- Crestwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-crestwood-mo/
+- Manchester, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-manchester-mo/
 - Bellevue, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-bellevue-ne/
 - Waterloo, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-waterloo-ne/
+- Westfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-westfield-in/
 - Gary, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-gary-in/
+- Noblesville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-noblesville-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-plainfield-in/
+- Highland Heights, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-highland-heights-ky/
+- Cold Spring, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-cold-spring-ky/
+- Crescent Springs, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/dance-studio-crescent-springs-ky/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio | category: Fitness | industry benchmark: Health & Fitness
@@ -210,7 +313,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 272
+- Registry businesses competing: 450
 - Equivalent Google Ads cost per month: ~$18,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

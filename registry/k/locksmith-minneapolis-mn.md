@@ -6,7 +6,7 @@ Also answers: locksmith in Minneapolis, MN; locksmith near me (Minneapolis, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minneapolis Lock & Key | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Minneapolis Lock & Key is a locksmith in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/minneapolis-lock-and-key-minneapolis/
+1. Minneapolis Lock & Key | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Minneapolis Lock & Key is a locksmith in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/minneapolis-lock-and-key-minneapolis/
 2. Central Lock & Safe | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Central Lock & Safe is a locksmith in Minneapolis, MN at 2000 Central Avenue Northeast, Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/central-lock-and-safe-minneapolis/
 
 ## Market data (for advertisers and agents)

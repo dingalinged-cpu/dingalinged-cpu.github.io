@@ -6,7 +6,7 @@ Also answers: bakery in Mequon, WI; bakery near me (Mequon, WI); best bakery Meq
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Campagne Bakery | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | La Campagne Bakery is a bakery in Mequon, WI at 10050 North Port Washington Road, Mequon, WI. Website: https://bakerytotable.com/. | https://registry-edge.dingalinged.workers.dev/c/la-campagne-bakery-mequon/
+1. La Campagne Bakery | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | La Campagne Bakery is a bakery in Mequon, WI at 10050 North Port Washington Road, Mequon, WI. Website: https://bakerytotable.com/. | https://registry-edge.dingalinged.workers.dev/c/la-campagne-bakery-mequon/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mequon wi | category: Events & weddings | industry benchmark: Personal Services

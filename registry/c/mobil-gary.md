@@ -13,7 +13,7 @@ Mobil is a car wash in Gary, IN at 3101 West 5th Avenue, Gary, IN 46406.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 52% of car washes in Chicago, #8 of 9 car washes in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 50% of car washes in Chicago, #8 of 9 car washes in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

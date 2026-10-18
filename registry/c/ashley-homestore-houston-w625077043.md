@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Houston, TX at 4500 San Felipe Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 67% of furniture stores in Houston, #55 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 64% of furniture stores in Houston, #52 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

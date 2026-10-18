@@ -13,7 +13,7 @@ Pick-Staiger Concert Hall is an event venue in Evanston, IL at 50 Arts Circle Dr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 59% of event venues in Chicago, #2 of 4 event venues in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 59% of event venues in Chicago, #2 of 4 event venues in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

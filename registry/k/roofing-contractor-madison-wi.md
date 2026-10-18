@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Swita Metal Roofing | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Swita Metal Roofing is a roofer in Madison, WI at 3369 Basil Drive, Madison, WI 53704. Phone: +16082987334. Website: https://switametalroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/swita-metal-roofing-madison/
 2. A-Team Construction | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | A-Team Construction is a roofer in Madison, WI. Website: https://ateamunlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/a-team-construction-madison/
-3. Metal Roofing Systems | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Metal Roofing Systems is a roofer in Madison, WI. Website: https://beautifulroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/metal-roofing-systems-madison/
+3. Metal Roofing Systems | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Metal Roofing Systems is a roofer in Madison, WI. Website: https://beautifulroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/metal-roofing-systems-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor madison wi | category: Home services - Roofing | industry benchmark: Home & Home Improvement

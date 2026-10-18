@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Richardson, TX at 500 Buckingh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 62% of self-storage facilitys in Dallas–Fort Worth, #1 of 2 self-storage facilitys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 60% of self-storage facilitys in Dallas–Fort Worth, #1 of 2 self-storage facilitys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: https://1800thewolf.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.6/100 — Good — top 17% of lawyers in Dallas–Fort Worth, #1 of 1 lawyers in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 17% of lawyers in Dallas–Fort Worth, #1 of 1 lawyers in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

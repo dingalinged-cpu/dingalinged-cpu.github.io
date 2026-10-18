@@ -13,7 +13,7 @@ Petco is a pet store in Houston, TX at 4512 Dacoma Street, Houston, TX 77092. Ph
 - Website: https://stores.petco.com/tx/houston/pet-supplies-houston-tx-2475.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 45.5/100 — Building — top 69% of pet stores in Houston, #31 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 69% of pet stores in Houston, #31 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

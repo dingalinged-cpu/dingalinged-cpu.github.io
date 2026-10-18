@@ -13,7 +13,7 @@ Take 5 Car Wash is a car wash in Cedar Hill, TX at 204 East Belt Line Road, Ceda
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 65.5/100 — Good — top 1% of car washes in Dallas–Fort Worth, #1 of 2 car washes in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.5/100 — Good — top 1% of car washes in Dallas–Fort Worth, #1 of 2 car washes in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-21:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of massage studios in Dallas–Fort Worth, #2 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 21% of massage studios in Dallas–Fort Worth, #2 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

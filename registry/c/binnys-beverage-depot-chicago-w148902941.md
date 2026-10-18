@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Chicago, IL at 1132 South Jefferson 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.6/100 — Building — top 97% of liquor stores in Chicago, #117 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 94% of liquor stores in Chicago, #117 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

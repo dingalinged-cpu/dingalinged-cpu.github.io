@@ -6,11 +6,11 @@ Also answers: auto repair in North Kansas City, MO; auto repair near me (North K
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oakes Kia Service Department | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Oakes Kia Service Department is an auto repair shop in North Kansas City, MO at 2900 Burlington Street, North Kansas City, MO. Phone: +18163007876. Website: https://oakeskia.com/car-repair. | https://registry-edge.dingalinged.workers.dev/c/oakes-kia-service-department-north-kansas-city/
-2. Jim's Discount Tire & Brake | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Jim's Discount Tire & Brake is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/jims-discount-tire-and-brake-north-kansas-city/
-3. NKC Auto Trim | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | NKC Auto Trim is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/nkc-auto-trim-north-kansas-city/
-4. Northtown Auto Clinic | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Northtown Auto Clinic is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/northtown-auto-clinic-north-kansas-city/
-5. Goodyear | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Goodyear is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/goodyear-north-kansas-city/
+1. Oakes Kia Service Department | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Oakes Kia Service Department is an auto repair shop in North Kansas City, MO at 2900 Burlington Street, North Kansas City, MO. Phone: +18163007876. Website: https://oakeskia.com/car-repair. | https://registry-edge.dingalinged.workers.dev/c/oakes-kia-service-department-north-kansas-city/
+2. Jim's Discount Tire & Brake | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Jim's Discount Tire & Brake is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/jims-discount-tire-and-brake-north-kansas-city/
+3. NKC Auto Trim | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | NKC Auto Trim is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/nkc-auto-trim-north-kansas-city/
+4. Northtown Auto Clinic | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Northtown Auto Clinic is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/northtown-auto-clinic-north-kansas-city/
+5. Goodyear | Organic #5 | Pulse Score 43.1/100 (Building, #5 in city) | Goodyear is an auto repair shop in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/goodyear-north-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair north kansas city mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

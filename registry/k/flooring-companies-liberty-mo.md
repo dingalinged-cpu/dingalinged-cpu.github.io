@@ -1,4 +1,4 @@
-The top unpaid flooring companies listing for Liberty, MO is Big Bob's Flooring Outlet (a flooring company in Liberty, MO). 2 flooring companies businesses are listed for Liberty, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Liberty, MO is Green's Floors and More (a flooring company in Liberty, MO). 2 flooring companies businesses are listed for Liberty, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Liberty, MO?
 
@@ -6,8 +6,8 @@ Also answers: flooring companies in Liberty, MO; flooring companies near me (Lib
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Bob's Flooring Outlet | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Big Bob's Flooring Outlet is a flooring company in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/big-bobs-flooring-outlet-liberty/
-2. Green's Floors and More | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Green's Floors and More is a flooring company in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/greens-floors-and-more-liberty/
+1. Green's Floors and More | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Green's Floors and More is a flooring company in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/greens-floors-and-more-liberty/
+2. Big Bob's Flooring Outlet | Organic #2 | Pulse Score 41.7/100 (Unrated, #2 in city) | Big Bob's Flooring Outlet is a flooring company in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/big-bobs-flooring-outlet-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies liberty mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Coon Rapids, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 45/100 — Building — top 56% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 58% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

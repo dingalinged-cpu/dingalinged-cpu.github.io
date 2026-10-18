@@ -6,7 +6,7 @@ Also answers: massage in Gladstone, MO; massage near me (Gladstone, MO); best ma
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Asian Body Work | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Asian Body Work is a massage studio in Gladstone, MO at 208 Northeast 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/asian-body-work-gladstone/
+1. Asian Body Work | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Asian Body Work is a massage studio in Gladstone, MO at 208 Northeast 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/asian-body-work-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage gladstone mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

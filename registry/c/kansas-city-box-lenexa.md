@@ -19,6 +19,6 @@ Kansas City Box is a gift shop in Lenexa, KS at 1416 Santa Fe Trail Drive, Lenex
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/kansas-city-box-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kansas-city-box-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/623908225 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/623908225 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Johns Creek, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 62% of insurance agents in Atlanta, #2 of 3 insurance agents in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 61% of insurance agents in Atlanta, #2 of 3 insurance agents in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

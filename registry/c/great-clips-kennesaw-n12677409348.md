@@ -13,7 +13,7 @@ Great Clips is a hair salon in Kennesaw, GA at 4430 Wade Green Road #170, Kennes
 - Website: https://salons.greatclips.com/us/ga/kennesaw/4430-wade-green-rd-nw
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
-- Pulse Score: 48.7/100 — Building — top 87% of hair salons in Atlanta, #27 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 86% of hair salons in Atlanta, #27 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

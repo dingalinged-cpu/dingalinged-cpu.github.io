@@ -13,7 +13,7 @@ Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road,
 - Website: https://companionlz.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 08:00-14:00
-- Pulse Score: 49.1/100 — Building — top 86% of veterinarians in Chicago, #2 of 2 veterinarians in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 85% of veterinarians in Chicago, #2 of 2 veterinarians in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

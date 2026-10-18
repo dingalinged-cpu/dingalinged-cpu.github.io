@@ -13,7 +13,7 @@ MONO is a marketing agency in Minneapolis, MN at 1350 Lagoon Avenue #Suite 1000,
 - Website: https://www.mono-1.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of marketing agencys in Minneapolis–St. Paul, #3 of 11 marketing agencys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 23% of marketing agencys in Minneapolis–St. Paul, #3 of 11 marketing agencys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

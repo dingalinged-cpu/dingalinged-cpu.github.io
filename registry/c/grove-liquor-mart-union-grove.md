@@ -13,7 +13,7 @@ Grove Liquor Mart is a liquor store in Union Grove, WI at 1118 15th Avenue, Unio
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-21:00
-- Pulse Score: 62.4/100 — Good — top 11% of liquor stores in Milwaukee, #1 of 1 liquor stores in Union Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 11% of liquor stores in Milwaukee, #1 of 1 liquor stores in Union Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

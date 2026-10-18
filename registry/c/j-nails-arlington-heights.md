@@ -13,7 +13,7 @@ J Nails is a nail salon in Arlington Heights, IL. Phone: +12247352437.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 36% of nail salons in Chicago, #4 of 6 nail salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Chicago, #4 of 6 nail salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

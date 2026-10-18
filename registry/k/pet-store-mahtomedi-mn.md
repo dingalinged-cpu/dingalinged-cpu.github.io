@@ -6,7 +6,7 @@ Also answers: pet store in Mahtomedi, MN; pet store near me (Mahtomedi, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chuck & Don's | Organic #1 | Pulse Score 47.3/100 (Unrated, #1 in city) | Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, MN. Website: https://stores.chuckanddons.com/mn-mahtomedi-104/. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-mahtomedi/
+1. Chuck & Don's | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, MN. Website: https://stores.chuckanddons.com/mn-mahtomedi-104/. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-mahtomedi/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store mahtomedi mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

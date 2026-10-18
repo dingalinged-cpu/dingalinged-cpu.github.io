@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Chicago, IL at 4124 West Peterson Avenue, Chi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 82% of yoga studios in Chicago, #23 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 84% of yoga studios in Chicago, #24 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

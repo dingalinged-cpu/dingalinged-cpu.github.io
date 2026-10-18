@@ -13,7 +13,7 @@ Built In Health Chiropractic is a chiropractor in Marietta, GA at 3000 Windy Hil
 - Website: https://www.builtinhealthchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-13:30; Su 12:00-18:00
-- Pulse Score: 63/100 — Good — top 5% of chiropractors in Atlanta, #3 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 5% of chiropractors in Atlanta, #3 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

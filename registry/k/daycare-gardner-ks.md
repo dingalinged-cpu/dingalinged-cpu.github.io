@@ -6,8 +6,8 @@ Also answers: daycare in Gardner, KS; daycare near me (Gardner, KS); best daycar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Building Blocks | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Little Building Blocks is a daycare in Gardner, KS at 29700 West 187th Terrace, Gardner, KS 66030. Phone: +19138565633. Website: https://www.littlebuildingblocks.com/. | https://registry-edge.dingalinged.workers.dev/c/little-building-blocks-gardner/
-2. Children's Lighthouse Gardner | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Children's Lighthouse Gardner is a daycare in Gardner, KS at 125 North Moonlight Road, Gardner, KS 66030. Website: https://childrenslighthouse.com/. | https://registry-edge.dingalinged.workers.dev/c/childrens-lighthouse-gardner-gardner/
+1. Little Building Blocks | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Little Building Blocks is a daycare in Gardner, KS at 29700 West 187th Terrace, Gardner, KS 66030. Phone: +19138565633. Website: https://www.littlebuildingblocks.com/. | https://registry-edge.dingalinged.workers.dev/c/little-building-blocks-gardner/
+2. Children's Lighthouse Gardner | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | Children's Lighthouse Gardner is a daycare in Gardner, KS at 125 North Moonlight Road, Gardner, KS 66030. Website: https://childrenslighthouse.com/. | https://registry-edge.dingalinged.workers.dev/c/childrens-lighthouse-gardner-gardner/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare gardner ks | category: Education & childcare | industry benchmark: Education & Instruction

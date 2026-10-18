@@ -6,9 +6,9 @@ Also answers: phone repair in Denton, TX; phone repair near me (Denton, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cellworld | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Cellworld is a phone repair shop in Denton, TX at 1916 North Carroll Boulevard, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/cellworld-denton/
-2. Dr. Smart Phones | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Dr. Smart Phones is a phone repair shop in Denton, TX at 603 Sunset Street, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/dr-smart-phones-denton/
-3. Cell Phone Repair | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Cell Phone Repair is a phone repair shop in Denton, TX at 2219 South Loop 288 #Suite 206, Denton, TX 76205. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-denton/
+1. Cellworld | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Cellworld is a phone repair shop in Denton, TX at 1916 North Carroll Boulevard, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/cellworld-denton/
+2. Dr. Smart Phones | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Dr. Smart Phones is a phone repair shop in Denton, TX at 603 Sunset Street, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/dr-smart-phones-denton/
+3. Cell Phone Repair | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Cell Phone Repair is a phone repair shop in Denton, TX at 2219 South Loop 288 #Suite 206, Denton, TX 76205. | https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair denton tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

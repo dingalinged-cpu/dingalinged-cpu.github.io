@@ -13,7 +13,7 @@ Ogden Wine & Spirit is a liquor store in Naperville, IL at 1568 West Ogden Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 38% of liquor stores in Chicago, #5 of 6 liquor stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 37% of liquor stores in Chicago, #5 of 6 liquor stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

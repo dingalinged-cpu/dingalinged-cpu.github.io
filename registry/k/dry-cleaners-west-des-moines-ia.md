@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for West Des Moines, IA is Crown Cleaners (a dry cleaner in West Des Moines, IA at 5918 E P True Parkway, West Des Moines, IA 50265). 6 dry cleaners businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for West Des Moines, IA is French Way Cleaners (a dry cleaner in West Des Moines, IA at 835 Grand Avenue, West Des Moines, IA 50265). 6 dry cleaners businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in West Des Moines, IA?
 
@@ -6,11 +6,11 @@ Also answers: dry cleaners in West Des Moines, IA; dry cleaners near me (West De
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crown Cleaners | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Crown Cleaners is a dry cleaner in West Des Moines, IA at 5918 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/crown-cleaners-west-des-moines/
-2. French Way Cleaners | Organic #2 | Pulse Score 46/100 (Unrated, #2 in city) | French Way Cleaners is a dry cleaner in West Des Moines, IA at 835 Grand Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/french-way-cleaners-west-des-moines-w325965544/
-3. Victoria Cleaners | Organic #3 | Pulse Score 46/100 (Unrated, #3 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 5931 Ashworth Road, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines/
-4. Victoria Cleaners | Organic #4 | Pulse Score 46/100 (Unrated, #4 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 650 South 50th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines-n3269138752/
-5. Victoria Cleaners | Organic #5 | Pulse Score 46/100 (Unrated, #5 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 900 Grand Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines-w326309028/
+1. French Way Cleaners | Organic #1 | Pulse Score 46/100 (Unrated, #1 in city) | French Way Cleaners is a dry cleaner in West Des Moines, IA at 835 Grand Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/french-way-cleaners-west-des-moines-w325965544/
+2. Victoria Cleaners | Organic #2 | Pulse Score 46/100 (Unrated, #2 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 5931 Ashworth Road, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines/
+3. Victoria Cleaners | Organic #3 | Pulse Score 46/100 (Unrated, #3 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 650 South 50th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines-n3269138752/
+4. Victoria Cleaners | Organic #4 | Pulse Score 46/100 (Unrated, #4 in city) | Victoria Cleaners is a dry cleaner in West Des Moines, IA at 900 Grand Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/victoria-cleaners-west-des-moines-w326309028/
+5. Crown Cleaners | Organic #5 | Pulse Score 44.9/100 (Unrated, #5 in city) | Crown Cleaners is a dry cleaner in West Des Moines, IA at 5918 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/crown-cleaners-west-des-moines/
 6. French Way Cleaners | Organic #6 | Pulse Score 43/100 (Unrated, #6 in city) | French Way Cleaners is a dry cleaner in West Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/french-way-cleaners-west-des-moines/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Cycology Bike Shop is a bike shop in Hiram, GA at 4484 Jimmy Lee Smith Parkway, 
 - Website: https://www.cycologybikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 10:00-17:00; Su 13:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of bike shops in Atlanta, #1 of 1 bike shops in Hiram (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of bike shops in Atlanta, #1 of 1 bike shops in Hiram (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

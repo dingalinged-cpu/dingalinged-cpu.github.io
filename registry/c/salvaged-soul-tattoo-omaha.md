@@ -13,7 +13,7 @@ Salvaged Soul Tattoo is a tattoo shop in Omaha, NE at 5055 South 108th Street, O
 - Website: https://www.tattoopricequotes.com/
 - Email: SalvagedSoulTattoo@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 28% of tattoo shops in Omaha, NE, #3 of 7 tattoo shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 28% of tattoo shops in Omaha, NE, #3 of 7 tattoo shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

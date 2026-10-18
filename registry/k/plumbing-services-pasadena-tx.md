@@ -6,7 +6,7 @@ Also answers: plumbing services in Pasadena, TX; plumbing services near me (Pasa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mission AC, Plumbing & Electric Pasadena | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/. | https://registry-edge.dingalinged.workers.dev/c/mission-ac-plumbing-and-electric-pasadena-pasadena/
+1. Mission AC, Plumbing & Electric Pasadena | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/. | https://registry-edge.dingalinged.workers.dev/c/mission-ac-plumbing-and-electric-pasadena-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services pasadena tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

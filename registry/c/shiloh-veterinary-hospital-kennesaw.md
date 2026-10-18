@@ -13,7 +13,7 @@ Shiloh Veterinary Hospital is a veterinarian in Kennesaw, GA at 3725 Cherokee St
 - Website: https://shilohvet.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 08:00-13:00; Su off
-- Pulse Score: 60.1/100 — Good — top 40% of veterinarians in Atlanta, #2 of 4 veterinarians in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 40% of veterinarians in Atlanta, #2 of 4 veterinarians in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

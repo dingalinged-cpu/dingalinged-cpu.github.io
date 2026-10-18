@@ -13,7 +13,7 @@ Peak Performance Chiropractic & Rehabilitation is a chiropractor in Chamblee, GA
 - Website: https://peakperformanceatl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 13:00-16:30;Tu,Th 09:30-18:30;Sa 09:00-14:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 27% of chiropractors in Atlanta, #1 of 1 chiropractors in Chamblee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 27% of chiropractors in Atlanta, #1 of 1 chiropractors in Chamblee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

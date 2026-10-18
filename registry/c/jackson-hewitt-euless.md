@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Euless, TX at 105 West Harwood Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 64% of tax preparation services in Dallas–Fort Worth, #2 of 4 tax preparation services in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 63% of tax preparation services in Dallas–Fort Worth, #2 of 4 tax preparation services in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

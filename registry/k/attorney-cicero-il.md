@@ -6,8 +6,8 @@ Also answers: attorney in Cicero, IL; attorney near me (Cicero, IL); best attorn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Centre | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Law Centre is a lawyer in Cicero, IL at West Cermak Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/law-centre-cicero/
-2. Solis Law Firm | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Solis Law Firm is a lawyer in Cicero, IL at West Cermak Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/solis-law-firm-cicero/
+1. Law Centre | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Law Centre is a lawyer in Cicero, IL at West Cermak Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/law-centre-cicero/
+2. Solis Law Firm | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Solis Law Firm is a lawyer in Cicero, IL at West Cermak Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/solis-law-firm-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney cicero il | category: professional_legal | industry benchmark: Attorneys & Legal Services

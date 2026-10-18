@@ -13,7 +13,7 @@ GQ Designs is a graphic designer in Chicago, IL at 4223 West Lake Street, Chicag
 - Website: https://www.gqdesignit.com/
 - Email: glenn@gqdesignit.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 65.5/100 — Good — top 20% of graphic designers in Chicago, #1 of 4 graphic designers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.7/100 — Good — top 20% of graphic designers in Chicago, #1 of 4 graphic designers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 69.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

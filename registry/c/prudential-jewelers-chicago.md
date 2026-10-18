@@ -13,7 +13,7 @@ Prudential Jewelers is a jewelry store in Chicago, IL at 9 North Wabash Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 34% of jewelry stores in Chicago, #31 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 33% of jewelry stores in Chicago, #29 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

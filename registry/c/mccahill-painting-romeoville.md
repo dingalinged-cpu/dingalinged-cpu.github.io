@@ -13,7 +13,7 @@ McCahill Painting is a painting contractor in Romeoville, IL at 324, Romeoville,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 75% of painting contractors in Chicago, #1 of 1 painting contractors in Romeoville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 75% of painting contractors in Chicago, #1 of 1 painting contractors in Romeoville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

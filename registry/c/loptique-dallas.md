@@ -13,7 +13,7 @@ L'Optique is an eye care practice in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 99% of eye care practices in Dallas–Fort Worth, #9 of 9 eye care practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 99% of eye care practices in Dallas–Fort Worth, #9 of 9 eye care practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

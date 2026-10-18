@@ -7,7 +7,7 @@ Also answers: vet in League City, TX; vet near me (League City, TX); best vet Le
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Veterinarians.org | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Veterinarians.org is a veterinarian in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18444780303. Website: https://www.veterinarians.org/. | https://registry-edge.dingalinged.workers.dev/c/veterinarians-org-league-city/
-2. Vetco Total Care | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Vetco Total Care is a veterinarian in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/vetco-total-care-league-city/
+2. Vetco Total Care | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Vetco Total Care is a veterinarian in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/vetco-total-care-league-city/
 3. Banfield Pet Hospital | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Banfield Pet Hospital is a veterinarian in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-league-city/
 
 ## Market data (for advertisers and agents)

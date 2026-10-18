@@ -13,7 +13,7 @@ Orange Theory Fitness is a gym in Cobb County, GA at 2960 Shallowford Road #103,
 - Website: https://www.orangetheory.com/en-us/locations/georgia/marietta/2960-shallowford-road-suite-103
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-20:00; Sa-Su 07:30-12:45
-- Pulse Score: 49.2/100 — Building — top 58% of gyms in Atlanta, #26 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 57% of gyms in Atlanta, #26 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

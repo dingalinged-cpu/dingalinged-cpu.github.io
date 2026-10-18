@@ -6,8 +6,8 @@ Also answers: daycare in Franklin, WI; daycare near me (Franklin, WI); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kids Connection Childcare Center | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Kids Connection Childcare Center is a daycare in Franklin, WI at 3130 West Rawson Avenue, Franklin, WI. | https://registry-edge.dingalinged.workers.dev/c/kids-connection-childcare-center-franklin/
-2. The Learning Experience Academy of Early Education | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | The Learning Experience Academy of Early Education is a daycare in Franklin, WI at 9651 West Drexel Avenue, Franklin, WI. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-academy-of-early-education-franklin/
+1. Kids Connection Childcare Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Kids Connection Childcare Center is a daycare in Franklin, WI at 3130 West Rawson Avenue, Franklin, WI. | https://registry-edge.dingalinged.workers.dev/c/kids-connection-childcare-center-franklin/
+2. The Learning Experience Academy of Early Education | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | The Learning Experience Academy of Early Education is a daycare in Franklin, WI at 9651 West Drexel Avenue, Franklin, WI. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-academy-of-early-education-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare franklin wi | category: Education & childcare | industry benchmark: Education & Instruction

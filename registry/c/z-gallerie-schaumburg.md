@@ -13,7 +13,7 @@ Z Gallerie is a furniture store in Schaumburg, IL at Woodfield Mall, Schaumburg,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 73% of furniture stores in Chicago, #5 of 6 furniture stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 71% of furniture stores in Chicago, #5 of 6 furniture stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

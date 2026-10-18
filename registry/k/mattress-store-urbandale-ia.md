@@ -6,8 +6,8 @@ Also answers: mattress store in Urbandale, IA; mattress store near me (Urbandale
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Mattress Firm is a mattress store in Urbandale, IA at 3358 100th Street, Urbandale, IA 50322. Phone: +15152181200. Website: https://www.mattressfirm.com/en-us/stores/ia/cedar-rapids/679004/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-urbandale/
-2. Mattress Firm Clearance | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Mattress Firm Clearance is a mattress store in Urbandale, IA at 3009 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-urbandale/
+1. Mattress Firm | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Urbandale, IA at 3358 100th Street, Urbandale, IA 50322. Phone: +15152181200. Website: https://www.mattressfirm.com/en-us/stores/ia/cedar-rapids/679004/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-urbandale/
+2. Mattress Firm Clearance | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Mattress Firm Clearance is a mattress store in Urbandale, IA at 3009 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-clearance-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store urbandale ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

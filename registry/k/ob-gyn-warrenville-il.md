@@ -6,7 +6,7 @@ Also answers: ob gyn in Warrenville, IL; ob gyn near me (Warrenville, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwestern Medicine Obstetrics and Gynecology | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | Northwestern Medicine Obstetrics and Gynecology is an OB-GYN practice in Warrenville, IL at 28375 Davis Parkway #901, Warrenville, IL 60555. | https://registry-edge.dingalinged.workers.dev/c/northwestern-medicine-obstetrics-and-gynecology-warrenville/
+1. Northwestern Medicine Obstetrics and Gynecology | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | Northwestern Medicine Obstetrics and Gynecology is an OB-GYN practice in Warrenville, IL at 28375 Davis Parkway #901, Warrenville, IL 60555. | https://registry-edge.dingalinged.workers.dev/c/northwestern-medicine-obstetrics-and-gynecology-warrenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn warrenville il | category: Health & medical | industry benchmark: Physicians & Surgeons

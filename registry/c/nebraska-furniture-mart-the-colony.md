@@ -13,7 +13,7 @@ Nebraska Furniture Mart is a furniture store in The Colony, TX at 5600 Nebraska 
 - Website: https://www.nfm.com/dallas-ft-worth-store
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 11:00-20:00; Sa 10:00-20:00
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 57% of furniture stores in Dallas–Fort Worth, #1 of 3 furniture stores in The Colony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 56% of furniture stores in Dallas–Fort Worth, #1 of 3 furniture stores in The Colony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

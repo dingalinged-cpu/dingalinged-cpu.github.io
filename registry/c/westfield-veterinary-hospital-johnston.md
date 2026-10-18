@@ -13,7 +13,7 @@ Westfield Veterinary Hospital is a veterinarian in Johnston, IA at 8789 Northwes
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 82% of veterinarians in Des Moines, IA, #3 of 3 veterinarians in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 79% of veterinarians in Des Moines, IA, #3 of 3 veterinarians in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

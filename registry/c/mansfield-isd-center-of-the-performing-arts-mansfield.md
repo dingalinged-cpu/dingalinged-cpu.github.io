@@ -13,7 +13,7 @@ Mansfield ISD Center of the Performing Arts is an event venue in Mansfield, TX a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 55% of event venues in Dallas–Fort Worth, #2 of 2 event venues in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 55% of event venues in Dallas–Fort Worth, #2 of 2 event venues in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

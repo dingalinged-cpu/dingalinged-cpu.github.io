@@ -7,8 +7,8 @@ Also answers: haircut in Weston, MO; haircut near me (Weston, MO); best haircut 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Green Ceiling Salon | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Green Ceiling Salon is a hair salon in Weston, MO at 714 Thomas Street, Weston, MO 64098. Phone: +18166652063. Website: https://greenceilingsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/green-ceiling-salon-weston/
-2. Jones On Main | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Jones On Main is a hair salon in Weston, MO at 539 Main Street, Weston, MO 64098. Phone: +18169357931. | https://registry-edge.dingalinged.workers.dev/c/jones-on-main-weston/
-3. Hairitage House Salon | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Hairitage House Salon is a hair salon in Weston, MO at 616 Thomas Street, Weston, MO 64098. | https://registry-edge.dingalinged.workers.dev/c/hairitage-house-salon-weston/
+2. Jones On Main | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Jones On Main is a hair salon in Weston, MO at 539 Main Street, Weston, MO 64098. Phone: +18169357931. | https://registry-edge.dingalinged.workers.dev/c/jones-on-main-weston/
+3. Hairitage House Salon | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Hairitage House Salon is a hair salon in Weston, MO at 616 Thomas Street, Weston, MO 64098. | https://registry-edge.dingalinged.workers.dev/c/hairitage-house-salon-weston/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut weston mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

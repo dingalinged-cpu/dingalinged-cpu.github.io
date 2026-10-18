@@ -13,7 +13,7 @@ Hair Cuttery is a hair salon in Griffith, IN at 100 West Ridge Road, Griffith, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 09:00-18:00
-- Pulse Score: 47/100 — Building — top 82% of hair salons in Chicago, #1 of 1 hair salons in Griffith (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 81% of hair salons in Chicago, #1 of 1 hair salons in Griffith (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

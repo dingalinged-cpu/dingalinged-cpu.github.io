@@ -13,7 +13,7 @@ Pep Boys is an auto repair shop in Sandy Springs, GA at 224 Hammond Drive Northe
 - Website: https://www.pepboys.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 75% of auto repair shops in Atlanta, #1 of 5 auto repair shops in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 74% of auto repair shops in Atlanta, #1 of 5 auto repair shops in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

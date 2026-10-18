@@ -13,7 +13,7 @@ Jagnandan & Lensch is a dentist in Ankeny, IA at 2302 West 1st Street, Ankeny, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 66% of dentists in Des Moines, IA, #9 of 14 dentists in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 62% of dentists in Des Moines, IA, #8 of 14 dentists in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

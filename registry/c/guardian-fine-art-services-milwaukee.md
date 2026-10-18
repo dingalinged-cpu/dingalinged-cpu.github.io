@@ -13,7 +13,7 @@ Guardian Fine Art Services is a self-storage facility in Milwaukee, WI. Phone: +
 - Website: https://www.guardianfineart.com/
 - Email: info@guardianfineart.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Good — top 8% of self-storage facilitys in Milwaukee, #4 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 8% of self-storage facilitys in Milwaukee, #4 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

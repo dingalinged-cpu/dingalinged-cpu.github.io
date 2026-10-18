@@ -13,7 +13,7 @@ YogaSix is a yoga studio in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 94% of yoga studios in Houston, #9 of 9 yoga studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 94% of yoga studios in Houston, #9 of 9 yoga studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

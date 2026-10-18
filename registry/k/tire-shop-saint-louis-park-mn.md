@@ -6,7 +6,7 @@ Also answers: tire shop in Saint Louis Park, MN; tire shop near me (Saint Louis 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big O Tires | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Big O Tires is a tire shop in Saint Louis Park, MN at 7001 Lake Street West, Saint Louis Park, MN 55426. Phone: +19522321072. Website: https://www.bigotires.com/location/MN-St.%20Louis%20Park-55426/023018?y_source=1_ODgyNDYzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-saint-louis-park/
+1. Big O Tires | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Big O Tires is a tire shop in Saint Louis Park, MN at 7001 Lake Street West, Saint Louis Park, MN 55426. Phone: +19522321072. Website: https://www.bigotires.com/location/MN-St.%20Louis%20Park-55426/023018?y_source=1_ODgyNDYzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D. | https://registry-edge.dingalinged.workers.dev/c/big-o-tires-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop saint louis park mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

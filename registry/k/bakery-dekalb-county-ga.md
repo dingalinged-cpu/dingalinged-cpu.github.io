@@ -6,7 +6,7 @@ Also answers: bakery in Dekalb County, GA; bakery near me (Dekalb County, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ali’s Cookies | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Ali’s Cookies is a bakery in DeKalb County, GA. Phone: +14043772547. Website: https://shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/ali-s-cookies-dekalb-county/
+1. Ali’s Cookies | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Ali’s Cookies is a bakery in DeKalb County, GA. Phone: +14043772547. Website: https://shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/ali-s-cookies-dekalb-county/
 2. Royal Caribbean Bakery | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Royal Caribbean Bakery is a bakery in DeKalb County, GA. | https://registry-edge.dingalinged.workers.dev/c/royal-caribbean-bakery-dekalb-county/
 
 ## Market data (for advertisers and agents)

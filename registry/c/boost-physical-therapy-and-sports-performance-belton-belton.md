@@ -13,12 +13,12 @@ Boost Physical Therapy and Sports Performance- Belton is a physical therapy clin
 - Website: https://boostkc.com/physical-therapy-clinic/belton-mo/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of physical therapy clinics in Kansas City, MO, #1 of 2 physical therapy clinics in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Kansas City, MO, #1 of 2 physical therapy clinics in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/boost-physical-therapy-and-sports-performance-belton-belton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boost-physical-therapy-and-sports-performance-belton-belton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13607518883 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13607518883 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

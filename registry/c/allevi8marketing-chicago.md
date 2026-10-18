@@ -13,7 +13,7 @@ allevi8marketing is a marketing agency in Chicago, IL at 6127 South University A
 - Website: https://allevi8marketing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 34% of marketing agencys in Chicago, #4 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 28% of marketing agencys in Chicago, #4 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ JMB2 Architecture is an architect in Sugar Land, TX at 16525 Lexington Boulevard
 - Website: https://www.jmb2.com/
 - Email: info@JMB2.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa-Su off
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 25% of architects in Houston, #1 of 2 architects in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of architects in Houston, #1 of 2 architects in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

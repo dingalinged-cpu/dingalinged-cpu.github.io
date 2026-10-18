@@ -13,7 +13,7 @@ HassleLess Mattress is a mattress store in Chicago, IL at 1747 North Sheffield A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 77% of mattress stores in Chicago, #19 of 23 mattress stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 77% of mattress stores in Chicago, #19 of 23 mattress stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

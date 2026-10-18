@@ -13,7 +13,7 @@ Goodwill Donation Center is a thrift store in Atlanta, GA at 160 Ponce de Leon A
 - Website: https://goodwillng.org/gw-locations/ponce-de-leon-donation-center-30308/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
-- Pulse Score: 49.1/100 — Building — top 54% of thrift stores in Atlanta, #7 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 53% of thrift stores in Atlanta, #7 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

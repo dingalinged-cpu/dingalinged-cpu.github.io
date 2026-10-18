@@ -1,4 +1,4 @@
-The top unpaid roofer listing for the United States is Elevated Roofing, LLC (a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/). 155 roofer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for the United States is Roof One (a roofer in Ferndale, MI at 1315 Academy Street, Ferndale, MI 48220. Phone: +12482913912. Website: https://www.roofonemichigan.com/service-areas/ferndale/). 276 roofer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in the United States?
 
@@ -6,65 +6,68 @@ Also answers: roofer in the United States; roofer near me (the United States); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elevated Roofing, LLC | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/elevated-roofing-llc-frisco/
-2. Amstill Roofing | Organic #2 | Pulse Score 63.6/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://registry-edge.dingalinged.workers.dev/c/amstill-roofing-houston/
-3. Style Exteriors | Organic #3 | Pulse Score 63.5/100 (Unrated, #1 in city) | Style Exteriors is a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/style-exteriors-wauconda/
-4. Advantage Remodeling and Roofing | Organic #4 | Pulse Score 63/100 (Good, #1 in city) | Advantage Remodeling and Roofing is a roofer in Allen, TX at 450 Century Parkway #Suite 250, Office 279, Allen, TX 75013. Phone: +12142503975. Website: https://advantageremodelingandroofing.com/roofing-company-in-allen-tx/. | https://registry-edge.dingalinged.workers.dev/c/advantage-remodeling-and-roofing-allen/
-5. KangaRoof | Organic #5 | Pulse Score 62.8/100 (Good, #1 in city) | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/kangaroof-grapevine/
-6. One Nation Exteriors LLC | Organic #6 | Pulse Score 62.7/100 (Unrated, #1 in city) | One Nation Exteriors LLC is a roofer in Little Canada, MN at 2885 Country Dr. #170, Little Canada, MN 55117. Phone: +16513007663. Website: https://www.onenationexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/one-nation-exteriors-llc-little-canada/
-7. Crown Town Restoration, Inc. | Organic #7 | Pulse Score 62.6/100 (Unrated, #1 in city) | Crown Town Restoration, Inc. is a roofer in Overland Park, KS at 7320 W 162nd St #Suite 106, Overland Park, KS 66085. Phone: +19132149028. Website: https://crowntownrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/crown-town-restoration-inc-overland-park/
-8. Mend Roofing | Organic #8 | Pulse Score 62.5/100 (Unrated, #1 in city) | Mend Roofing is a roofer in Spring, TX at 24624 Interstate 45 North #200, Spring, TX 77386. Phone: +13462363652. Website: https://mendroofing.com/spring/. | https://registry-edge.dingalinged.workers.dev/c/mend-roofing-spring/
-9. Tri-County Contracting | Organic #9 | Pulse Score 62.4/100 (Unrated, #1 in city) | Tri-County Contracting is a roofer in New Berlin, WI at 18500 West National Avenue, New Berlin, WI 53146. Phone: +12626796100. Website: https://tricountycontractingwi.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-county-contracting-new-berlin/
-10. Colony Roofers | Organic #10 | Pulse Score 62.3/100 (Unrated, #1 in city) | Colony Roofers is a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/. | https://registry-edge.dingalinged.workers.dev/c/colony-roofers-atlanta/
-11. WeatherPro Exteriors | Organic #11 | Pulse Score 62.1/100 (Good, #1 in city) | WeatherPro Exteriors is a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/weatherpro-exteriors-west-allis/
-12. Reign Roofing | Organic #12 | Pulse Score 62.1/100 (Unrated, #1 in city) | Reign Roofing is a roofer in Sugar Land, TX at 19901 Southwest Freeway Frontage Road #237, Sugar Land, TX 77479. Phone: +12813015477. Website: https://www.reignroof.com/. | https://registry-edge.dingalinged.workers.dev/c/reign-roofing-sugar-land/
-13. Community Roofing & Restoration | Organic #13 | Pulse Score 62/100 (Unrated, #1 in city) | Community Roofing & Restoration is a roofer in Milwaukee, WI at 1776 North Water Street, Milwaukee, WI 53202. Phone: +14143321139. Website: https://www.communityroofingandrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/community-roofing-and-restoration-milwaukee/
-14. Shake Guys | Organic #14 | Pulse Score 62/100 (Unrated, #1 in city) | Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/. | https://registry-edge.dingalinged.workers.dev/c/shake-guys-lake-zurich/
-15. Putnam Exteriors LLC | Organic #15 | Pulse Score 61.9/100 (Unrated, #1 in city) | Putnam Exteriors LLC is a roofer in Arlington, TX at 4303 South Bowen Road #109, Arlington, TX 76016. Phone: +16824442427. Website: https://putnamexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/putnam-exteriors-llc-arlington/
-16. Recon Roofing & Construction | Organic #16 | Pulse Score 61.9/100 (Unrated, #1 in city) | Recon Roofing & Construction is a roofer in Des Moines, IA at 455 Southwest 5th Street #C, Des Moines, IA 50309. Phone: +15154890123. Website: https://www.reconroof.com/. | https://registry-edge.dingalinged.workers.dev/c/recon-roofing-and-construction-des-moines/
-17. TrueWorks Roofing | Organic #17 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/trueworks-roofing-houston/
-18. SPS Roofing | Organic #18 | Pulse Score 61.8/100 (Unrated, #1 in city) | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://registry-edge.dingalinged.workers.dev/c/sps-roofing-irving/
-19. AAA Metal Works | Organic #19 | Pulse Score 61.6/100 (Unrated, #1 in city) | AAA Metal Works is a roofer in Hiram, GA at 165 Poag Crossing, Hiram, GA 30141. Phone: +17702229254. Website: https://aaametalworks.com/. | https://registry-edge.dingalinged.workers.dev/c/aaa-metal-works-hiram/
-20. HT Roofing & Construction | Organic #20 | Pulse Score 61.6/100 (Unrated, #1 in city) | HT Roofing & Construction is a roofer in Lenexa, KS at 11437 Strang Line Rd, Lenexa, KS 66215. Phone: +19138287663. Website: https://htroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/ht-roofing-and-construction-lenexa/
-21. Vera Roofing And Construction | Organic #21 | Pulse Score 61.4/100 (Good, #1 in city) | Vera Roofing And Construction is a roofer in Waxahachie, TX at 1408 West Jefferson Street #5, Waxahachie, TX 75165. Phone: +19724600210. Website: https://veraroofingandconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/vera-roofing-and-construction-waxahachie/
-22. Nelson Exteriors | Organic #22 | Pulse Score 61.4/100 (Good, #1 in city) | Nelson Exteriors is a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/nelson-exteriors-marietta/
-23. eRoof | Organic #23 | Pulse Score 61.3/100 (Good, #1 in city) | eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 55345. Phone: +16123544490. Website: https://eroofquote.com/. | https://registry-edge.dingalinged.workers.dev/c/eroof-minnetonka/
-24. Fit The Bill Construction LLC | Organic #24 | Pulse Score 61.3/100 (Unrated, #1 in city) | Fit The Bill Construction LLC is a roofer in Coon Rapids, MN at 9531 Foley Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16129007560. Website: https://fitthebillconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-the-bill-construction-llc-coon-rapids/
-25. Carsa Construction & Roofing LLC | Organic #25 | Pulse Score 61.1/100 (Good, #2 in city) | Carsa Construction & Roofing LLC is a roofer in Frisco, TX at 6136 Frisco Square Blvd #400, Frisco, TX 75034. Phone: +14699040673. Website: https://carsaconstruction.com/frisco-roofing/. | https://registry-edge.dingalinged.workers.dev/c/carsa-construction-and-roofing-llc-frisco/
-26. J-Tech Construction and Solar | Organic #26 | Pulse Score 61.1/100 (Unrated, #1 in city) | J-Tech Construction and Solar is a roofer in Omaha, NE at 13714 A Street, Omaha, NE 68144. Phone: +14028857986. Website: https://jtechconst.com/. | https://registry-edge.dingalinged.workers.dev/c/j-tech-construction-and-solar-omaha/
-27. Good Roofing Company | Organic #27 | Pulse Score 61/100 (Good, #1 in city) | Good Roofing Company is a roofer in Lee's Summit, MO at 17 Northeast Skyline Drive, Lee's Summit, MO 64086. Phone: +18162073993. Website: https://www.goodroofingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/good-roofing-company-lees-summit/
-28. Above All Roofing & Property Restoration | Organic #28 | Pulse Score 61/100 (Unrated, #1 in city) | Above All Roofing & Property Restoration is a roofer in Melrose Park, IL at 116 North 23rd Avenue, Melrose Park, IL 60160. Phone: +17733014044. Website: https://affordableroofingsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/above-all-roofing-and-property-restoration-melrose-park/
-29. AmeriPro Roofing | Organic #29 | Pulse Score 61/100 (Unrated, #1 in city) | AmeriPro Roofing is a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/ameripro-roofing-downers-grove/
-30. Heritage Contractors | Organic #30 | Pulse Score 61/100 (Unrated, #1 in city) | Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/. | https://registry-edge.dingalinged.workers.dev/c/heritage-contractors-chicago/
-31. Hi-Tech Roofing & Home Service | Organic #31 | Pulse Score 61/100 (Unrated, #1 in city) | Hi-Tech Roofing & Home Service is a roofer in New Caney, TX at 23610 3rd Street, New Caney, TX 77357. Phone: +12814461966. Website: https://hi-techroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/hi-tech-roofing-and-home-service-new-caney/
-32. Alpha Contracting | Organic #32 | Pulse Score 60.9/100 (Unrated, #2 in city) | Alpha Contracting is a roofer in Coon Rapids, MN at 11375 Robinson Drive Northwest, Coon Rapids, MN 55433. Phone: +16125989868. Website: https://alphacontracting.com/. | https://registry-edge.dingalinged.workers.dev/c/alpha-contracting-coon-rapids/
-33. D. Bassett Roofing & Renovation | Organic #33 | Pulse Score 60.9/100 (Unrated, #2 in city) | D. Bassett Roofing & Renovation is a roofer in Arlington, TX at 7815 S Cooper St, Arlington, TX 76001. Phone: +18172657444. Website: https://dbassettroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/d-bassett-roofing-and-renovation-arlington/
-34. Horizon Exteriors | Organic #34 | Pulse Score 60.9/100 (Unrated, #1 in city) | Horizon Exteriors is a roofer in Glendale, WI at 500 West Silver Spring Drive #K20, Glendale, WI 53217. Phone: +14143690555. Website: https://horizonexteriorswi.com/. | https://registry-edge.dingalinged.workers.dev/c/horizon-exteriors-glendale/
-35. Prate Roofing | Organic #35 | Pulse Score 60.7/100 (Unrated, #2 in city) | Prate Roofing is a roofer in Wauconda, IL at 368 West Liberty Street #F, Wauconda, IL 60084. Phone: +18475266402. Website: https://prateroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/prate-roofing-wauconda/
-36. Eldridge Roofing & Restoration | Organic #36 | Pulse Score 60.7/100 (Unrated, #2 in city) | Eldridge Roofing & Restoration is a roofer in Spring, TX at 5907 Spring Cypress Road, Spring, TX 77379. Phone: +12819994663. Website: https://eldridgeroofingtx.com/. | https://registry-edge.dingalinged.workers.dev/c/eldridge-roofing-and-restoration-spring/
-37. Kidd Roofing | Organic #37 | Pulse Score 60.7/100 (Unrated, #2 in city) | Kidd Roofing is a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75063. Phone: +19728237663. Website: https://www.kiddroof.com/. | https://registry-edge.dingalinged.workers.dev/c/kidd-roofing-irving/
-38. Benchmark Exteriors | Organic #38 | Pulse Score 60.6/100 (Unrated, #1 in city) | Benchmark Exteriors is a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/benchmark-exteriors-oak-brook/
-39. Carsa Construction & Roofing LLC | Organic #39 | Pulse Score 60.5/100 (Unrated, #1 in city) | Carsa Construction & Roofing LLC is a roofer in McKinney, TX at 1575 Heritage Drive ##100, McKinney, TX 75069. Phone: +14693064087. Website: https://carsaconstruction.com/mckinney-roofing/. | https://registry-edge.dingalinged.workers.dev/c/carsa-construction-and-roofing-llc-mckinney/
-40. Peaked Roofing of Flower Mound | Organic #40 | Pulse Score 60.5/100 (Unrated, #1 in city) | Peaked Roofing of Flower Mound is a roofer in Flower Mound, TX at 1943 Shoreline Drive, Flower Mound, TX 75022. Phone: +18175104602. Website: https://peakedroofing.com/flower-mound-roofing-services-by-peaked-roofing/. | https://registry-edge.dingalinged.workers.dev/c/peaked-roofing-of-flower-mound-flower-mound/
-41. Proliance General Contractors & Roofing Chicago | Organic #41 | Pulse Score 60.3/100 (Unrated, #1 in city) | Proliance General Contractors & Roofing Chicago is a roofer in Westmont, IL at 550 Oakmont Lane #2, Westmont, IL 60559. Phone: +16305937030. Website: https://proliancegc.com/roofing-chicago/. | https://registry-edge.dingalinged.workers.dev/c/proliance-general-contractors-and-roofing-chicago-westmont/
-42. Norman Roofing and Construction | Organic #42 | Pulse Score 60.3/100 (Unrated, #3 in city) | Norman Roofing and Construction is a roofer in Spring, TX at 3234 Spring Stuebner Road, Spring, TX 77389. Phone: +13463511188. Website: https://norman.construction/. | https://registry-edge.dingalinged.workers.dev/c/norman-roofing-and-construction-spring/
-43. Flynn Kansas City | Organic #43 | Pulse Score 59.9/100 (Unrated, #1 in city) | Flynn Kansas City is a roofer in Kansas City, MO at 8601 E US Highway 40, Kansas City, MO 64129. Phone: +18168744500. Website: https://flynncompanies.com/. | https://registry-edge.dingalinged.workers.dev/c/flynn-kansas-city-kansas-city/
-44. Sadler Roofing | Organic #44 | Pulse Score 59.7/100 (Fair, #1 in city) | Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/sadler-roofing-cobb-county/
-45. Berg Roofing and Home Improvement | Organic #45 | Pulse Score 59.7/100 (Fair, #2 in city) | Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden Avenue, Downers Grove, IL 60515. Phone: +16304152873. Website: https://www.bergext.com/. | https://registry-edge.dingalinged.workers.dev/c/berg-roofing-and-home-improvement-downers-grove/
-46. ARAC Roof It Forward | Organic #46 | Pulse Score 59.7/100 (Unrated, #1 in city) | ARAC Roof It Forward is a roofer in Woodstock, GA at 296 Bell Park Drive, Woodstock, GA 30188. Phone: +17706757650. Website: https://www.roofitforward.com/. | https://registry-edge.dingalinged.workers.dev/c/arac-roof-it-forward-woodstock/
-47. Regent Restoration Denton | Organic #47 | Pulse Score 59.6/100 (Unrated, #1 in city) | Regent Restoration Denton is a roofer in Denton, TX at 916 South Locust Street, Denton, TX 76201. Phone: +14696580842. Website: https://regentrestoration.com/water-damage-restoration-service-denton-tx/. | https://registry-edge.dingalinged.workers.dev/c/regent-restoration-denton-denton/
-48. AmeriPro Roofing | Organic #48 | Pulse Score 59.6/100 (Unrated, #1 in city) | AmeriPro Roofing is a roofer in Eagan, MN at 3825 Cedar Grove Parkway #Suite 107, Eagan, MN 55122. Phone: +18882016455. Website: https://ameriproroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/ameripro-roofing-eagan/
-49. Regent Restoration | Organic #49 | Pulse Score 59.5/100 (Unrated, #1 in city) | Regent Restoration is a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 75093. Phone: +12149152482. Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/regent-restoration-plano/
-50. Mancilla Roofing & Construction | Organic #50 | Pulse Score 59.5/100 (Unrated, #1 in city) | Mancilla Roofing & Construction is a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/mancilla-roofing-and-construction-acworth/
+1. Roof One | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Roof One is a roofer in Ferndale, MI at 1315 Academy Street, Ferndale, MI 48220. Phone: +12482913912. Website: https://www.roofonemichigan.com/service-areas/ferndale/. | https://registry-edge.dingalinged.workers.dev/c/roof-one-ferndale/
+2. Elevated Roofing, LLC | Organic #2 | Pulse Score 63.8/100 (Good, #1 in city) | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/elevated-roofing-llc-frisco/
+3. Elite Roofing & Solar | Organic #3 | Pulse Score 63.6/100 (Good, #1 in city) | Elite Roofing & Solar is a roofer in Denver, CO at 5475 Peoria Street #4-106, Denver, CO 80239. Phone: +13032960361. Website: https://elite-roofs.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-roofing-and-solar-denver/
+4. Amstill Roofing | Organic #4 | Pulse Score 63.5/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://registry-edge.dingalinged.workers.dev/c/amstill-roofing-houston/
+5. Style Exteriors | Organic #5 | Pulse Score 63.5/100 (Unrated, #1 in city) | Style Exteriors is a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/style-exteriors-wauconda/
+6. Advantage Remodeling and Roofing | Organic #6 | Pulse Score 63/100 (Good, #1 in city) | Advantage Remodeling and Roofing is a roofer in Allen, TX at 450 Century Parkway #Suite 250, Office 279, Allen, TX 75013. Phone: +12142503975. Website: https://advantageremodelingandroofing.com/roofing-company-in-allen-tx/. | https://registry-edge.dingalinged.workers.dev/c/advantage-remodeling-and-roofing-allen/
+7. Rize Exterior Services | Organic #7 | Pulse Score 62.9/100 (Unrated, #1 in city) | Rize Exterior Services is a roofer in Lakewood, CO at 2109 South Wadsworth Boulevard ##202, Lakewood, CO 80227. Phone: +13032845947. Website: https://rizeexterior.com/. | https://registry-edge.dingalinged.workers.dev/c/rize-exterior-services-lakewood/
+8. Roof One | Organic #8 | Pulse Score 62.9/100 (Unrated, #1 in city) | Roof One is a roofer in Pontiac, MI at 275 South Telegraph Road, Pontiac, MI 48341. Phone: +12486022241. Website: https://www.roofonemichigan.com/?bdr_campaign=BDR-DIG-DIR-ROOF-MI-PHO-DIRECTORY-202510-ROOFONEDETROITEXTERNALDIRECTORY. | https://registry-edge.dingalinged.workers.dev/c/roof-one-pontiac/
+9. KangaRoof | Organic #9 | Pulse Score 62.8/100 (Good, #1 in city) | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/kangaroof-grapevine/
+10. Crown Town Restoration, Inc. | Organic #10 | Pulse Score 62.6/100 (Unrated, #1 in city) | Crown Town Restoration, Inc. is a roofer in Overland Park, KS at 7320 W 162nd St #Suite 106, Overland Park, KS 66085. Phone: +19132149028. Website: https://crowntownrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/crown-town-restoration-inc-overland-park/
+11. One Nation Exteriors LLC | Organic #11 | Pulse Score 62.6/100 (Unrated, #1 in city) | One Nation Exteriors LLC is a roofer in Little Canada, MN at 2885 Country Dr. #170, Little Canada, MN 55117. Phone: +16513007663. Website: https://www.onenationexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/one-nation-exteriors-llc-little-canada/
+12. Mend Roofing | Organic #12 | Pulse Score 62.4/100 (Unrated, #1 in city) | Mend Roofing is a roofer in Spring, TX at 24624 Interstate 45 North #200, Spring, TX 77386. Phone: +13462363652. Website: https://mendroofing.com/spring/. | https://registry-edge.dingalinged.workers.dev/c/mend-roofing-spring/
+13. Tri-County Contracting | Organic #13 | Pulse Score 62.4/100 (Unrated, #1 in city) | Tri-County Contracting is a roofer in New Berlin, WI at 18500 West National Avenue, New Berlin, WI 53146. Phone: +12626796100. Website: https://tricountycontractingwi.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-county-contracting-new-berlin/
+14. Colony Roofers | Organic #14 | Pulse Score 62.2/100 (Unrated, #1 in city) | Colony Roofers is a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/. | https://registry-edge.dingalinged.workers.dev/c/colony-roofers-atlanta/
+15. 180 Contractors Roofing & Siding | Organic #15 | Pulse Score 62.1/100 (Unrated, #1 in city) | 180 Contractors Roofing & Siding is a roofer in Waterford Township, MI at 4696 Dixie Highway, Waterford Township, MI 48329. Phone: +12487149158. Website: https://180contractors.com/. | https://registry-edge.dingalinged.workers.dev/c/180-contractors-roofing-and-siding-waterford-township/
+16. Reign Roofing | Organic #16 | Pulse Score 62.1/100 (Unrated, #1 in city) | Reign Roofing is a roofer in Sugar Land, TX at 19901 Southwest Freeway Frontage Road #237, Sugar Land, TX 77479. Phone: +12813015477. Website: https://www.reignroof.com/. | https://registry-edge.dingalinged.workers.dev/c/reign-roofing-sugar-land/
+17. WeatherPro Exteriors | Organic #17 | Pulse Score 62/100 (Good, #1 in city) | WeatherPro Exteriors is a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/weatherpro-exteriors-west-allis/
+18. Community Roofing & Restoration | Organic #18 | Pulse Score 62/100 (Unrated, #1 in city) | Community Roofing & Restoration is a roofer in Milwaukee, WI at 1776 North Water Street, Milwaukee, WI 53202. Phone: +14143321139. Website: https://www.communityroofingandrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/community-roofing-and-restoration-milwaukee/
+19. Resolve Roofing | Organic #19 | Pulse Score 62/100 (Unrated, #1 in city) | Resolve Roofing is a roofer in Columbia, MO at 1000 Big Bear Boulevard #1000, Columbia, MO 65202. Phone: +15736468698. Website: https://resolveroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/resolve-roofing-columbia/
+20. Shake Guys | Organic #20 | Pulse Score 62/100 (Unrated, #1 in city) | Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/. | https://registry-edge.dingalinged.workers.dev/c/shake-guys-lake-zurich/
+21. Putnam Exteriors LLC | Organic #21 | Pulse Score 61.9/100 (Unrated, #1 in city) | Putnam Exteriors LLC is a roofer in Arlington, TX at 4303 South Bowen Road #109, Arlington, TX 76016. Phone: +16824442427. Website: https://putnamexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/putnam-exteriors-llc-arlington/
+22. Recon Roofing & Construction | Organic #22 | Pulse Score 61.9/100 (Unrated, #1 in city) | Recon Roofing & Construction is a roofer in Des Moines, IA at 455 Southwest 5th Street #C, Des Moines, IA 50309. Phone: +15154890123. Website: https://www.reconroof.com/. | https://registry-edge.dingalinged.workers.dev/c/recon-roofing-and-construction-des-moines/
+23. Tresnak Construction | Organic #23 | Pulse Score 61.9/100 (Unrated, #1 in city) | Tresnak Construction is a roofer in Royal Oak, MI at 1620 Northwood Boulevard, Royal Oak, MI 48073. Phone: +12484354848. Website: https://www.tresnakconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/tresnak-construction-royal-oak/
+24. TrueWorks Roofing | Organic #24 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/trueworks-roofing-houston/
+25. SPS Roofing | Organic #25 | Pulse Score 61.8/100 (Unrated, #1 in city) | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://registry-edge.dingalinged.workers.dev/c/sps-roofing-irving/
+26. Assurance Contractors | Organic #26 | Pulse Score 61.8/100 (Unrated, #2 in city) | Assurance Contractors is a roofer in Denver, CO at 1660 South Albion Street #Suite 339, Denver, CO 80222. Phone: +17208371630. Website: https://assurancecontractors.com/roofing-denver-co/. | https://registry-edge.dingalinged.workers.dev/c/assurance-contractors-denver/
+27. Skyline Roof Restoration | Organic #27 | Pulse Score 61.8/100 (Unrated, #1 in city) | Skyline Roof Restoration is a roofer in Frederick, CO at 8245 West Interstate Highway 25 Frontage Road, Frederick, CO 80516. Phone: +13037720766. Website: https://www.skylineroofrestoration.com/. | https://registry-edge.dingalinged.workers.dev/c/skyline-roof-restoration-frederick/
+28. AAA Metal Works | Organic #28 | Pulse Score 61.7/100 (Unrated, #1 in city) | AAA Metal Works is a roofer in Hiram, GA at 165 Poag Crossing, Hiram, GA 30141. Phone: +17702229254. Website: https://aaametalworks.com/. | https://registry-edge.dingalinged.workers.dev/c/aaa-metal-works-hiram/
+29. HT Roofing & Construction | Organic #29 | Pulse Score 61.6/100 (Unrated, #1 in city) | HT Roofing & Construction is a roofer in Lenexa, KS at 11437 Strang Line Rd, Lenexa, KS 66215. Phone: +19138287663. Website: https://htroofs.com/. | https://registry-edge.dingalinged.workers.dev/c/ht-roofing-and-construction-lenexa/
+30. MaxForce Roofing and Siding LLC | Organic #30 | Pulse Score 61.6/100 (Unrated, #1 in city) | MaxForce Roofing and Siding LLC is a roofer in Columbus, OH at 2762 Sawbury Boulevard, Columbus, OH 43235. Phone: +16144678910. Website: https://www.maxforceroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/maxforce-roofing-and-siding-llc-columbus/
+31. Mile High Roofing Services | Organic #31 | Pulse Score 61.6/100 (Unrated, #1 in city) | Mile High Roofing Services is a roofer in Westminster, CO at 1499 West 120th Avenue ##110, Westminster, CO 80234. Phone: +17209998282. Website: https://milehighroofingservices.com/. | https://registry-edge.dingalinged.workers.dev/c/mile-high-roofing-services-westminster/
+32. Golden Spike Roofing Inc | Organic #32 | Pulse Score 61.6/100 (Unrated, #3 in city) | Golden Spike Roofing Inc is a roofer in Denver, CO at 3600 S Yosemite Street ## 330, Denver, CO 80237. Phone: +13039421386. Website: https://www.goldenspikeroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/golden-spike-roofing-inc-denver/
+33. Skyyguard | Organic #33 | Pulse Score 61.6/100 (Unrated, #2 in city) | Skyyguard is a roofer in Lakewood, CO at 627 South Depew Street, Lakewood, CO 80226. Phone: +17205272108. Website: https://skyyguard.com/. | https://registry-edge.dingalinged.workers.dev/c/skyyguard-lakewood/
+34. McClellands Contracting & Roofing | Organic #34 | Pulse Score 61.5/100 (Unrated, #1 in city) | McClellands Contracting & Roofing is a roofer in Oakdale, PA at 2 Industrial Park Dr, Oakdale, PA 15071. Phone: +14123535660. Website: https://mcclellandsroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/mcclellands-contracting-and-roofing-oakdale/
+35. Fasto Roofing | Organic #35 | Pulse Score 61.5/100 (Unrated, #1 in city) | Fasto Roofing is a roofer in Mason, OH at 1233 Castle Drive #J4, Mason, OH 45040. Phone: +15136017306. Website: https://www.fastoroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/fasto-roofing-mason/
+36. Vera Roofing And Construction | Organic #36 | Pulse Score 61.4/100 (Good, #1 in city) | Vera Roofing And Construction is a roofer in Waxahachie, TX at 1408 West Jefferson Street #5, Waxahachie, TX 75165. Phone: +19724600210. Website: https://veraroofingandconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/vera-roofing-and-construction-waxahachie/
+37. Nelson Exteriors | Organic #37 | Pulse Score 61.3/100 (Good, #1 in city) | Nelson Exteriors is a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/nelson-exteriors-marietta/
+38. eRoof | Organic #38 | Pulse Score 61.3/100 (Good, #1 in city) | eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 55345. Phone: +16123544490. Website: https://eroofquote.com/. | https://registry-edge.dingalinged.workers.dev/c/eroof-minnetonka/
+39. Steel City Roofing | Organic #39 | Pulse Score 61.3/100 (Unrated, #1 in city) | Steel City Roofing is a roofer in Sewickley, PA at PO Box 565, Sewickley, PA 15143. Phone: +14122123804. Website: https://steelcityroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/steel-city-roofing-sewickley/
+40. Fit The Bill Construction LLC | Organic #40 | Pulse Score 61.3/100 (Unrated, #1 in city) | Fit The Bill Construction LLC is a roofer in Coon Rapids, MN at 9531 Foley Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16129007560. Website: https://fitthebillconstruction.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-the-bill-construction-llc-coon-rapids/
+41. Sol Vista Roofing Boulder | Organic #41 | Pulse Score 61.2/100 (Good, #1 in city) | Sol Vista Roofing Boulder is a roofer in Boulder, CO at 4845 Pearl East Circle #101, Boulder, CO 80301. Phone: +17207408098. Website: https://solvistaroofing.com/roofing-service-areas/boulder-co/. | https://registry-edge.dingalinged.workers.dev/c/sol-vista-roofing-boulder-boulder/
+42. Xtreme Exteriors | Organic #42 | Pulse Score 61.2/100 (Good, #1 in city) | Xtreme Exteriors is a roofer in Nixa, MO at 1376 West Mount Vernon Street, Nixa, MO 65714. Phone: +14173733973. Website: https://xesiding.com/. | https://registry-edge.dingalinged.workers.dev/c/xtreme-exteriors-nixa/
+43. Hilliard Roofing and Siding | Organic #43 | Pulse Score 61.2/100 (Unrated, #1 in city) | Hilliard Roofing and Siding is a roofer in Hilliard, OH at 3544 Main Street #Suite F, Hilliard, OH 43026. Phone: +16144485621. Website: https://hilliardroof.com/. | https://registry-edge.dingalinged.workers.dev/c/hilliard-roofing-and-siding-hilliard/
+44. Gouge Quality Roofing | Organic #44 | Pulse Score 61.2/100 (Unrated, #1 in city) | Gouge Quality Roofing is a roofer in Amanda, OH at 4159 Fosnaugh School Road Southwest, Amanda, OH 43102. Phone: +17404978447. Website: https://www.gougequalityroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/gouge-quality-roofing-amanda/
+45. Carsa Construction & Roofing LLC | Organic #45 | Pulse Score 61.1/100 (Good, #2 in city) | Carsa Construction & Roofing LLC is a roofer in Frisco, TX at 6136 Frisco Square Blvd #400, Frisco, TX 75034. Phone: +14699040673. Website: https://carsaconstruction.com/frisco-roofing/. | https://registry-edge.dingalinged.workers.dev/c/carsa-construction-and-roofing-llc-frisco/
+46. Good Roofing Company | Organic #46 | Pulse Score 61.1/100 (Good, #1 in city) | Good Roofing Company is a roofer in Lee's Summit, MO at 17 Northeast Skyline Drive, Lee's Summit, MO 64086. Phone: +18162073993. Website: https://www.goodroofingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/good-roofing-company-lees-summit/
+47. Bone Dry Commercial Roofing | Organic #47 | Pulse Score 61.1/100 (Unrated, #1 in city) | Bone Dry Commercial Roofing is a roofer in Indianapolis, IN at 7735 Winton Drive, Indianapolis, IN 46268. Phone: +14632200401. Website: https://bonedrycommercial.com/. | https://registry-edge.dingalinged.workers.dev/c/bone-dry-commercial-roofing-indianapolis/
+48. Indy Roof Company | Organic #48 | Pulse Score 61.1/100 (Unrated, #2 in city) | Indy Roof Company is a roofer in Indianapolis, IN at 5240 Elmwood Avenue #suite 200, Indianapolis, IN 46203. Phone: +13178867436. Website: https://indyroofcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/indy-roof-company-indianapolis/
+49. Roam Roofing Colorado | Organic #49 | Pulse Score 61.1/100 (Unrated, #1 in city) | Roam Roofing Colorado is a roofer in Evergreen, CO at 29413 Gray Hawk Drive, Evergreen, CO 80439. Phone: +17202029389. Website: https://www.roamroofingco.com/. | https://registry-edge.dingalinged.workers.dev/c/roam-roofing-colorado-evergreen/
+50. J-Tech Construction and Solar | Organic #50 | Pulse Score 61.1/100 (Unrated, #1 in city) | J-Tech Construction and Solar is a roofer in Omaha, NE at 13714 A Street, Omaha, NE 68144. Phone: +14028857986. Website: https://jtechconst.com/. | https://registry-edge.dingalinged.workers.dev/c/j-tech-construction-and-solar-omaha/
 
-## More roofer listings (155 total; top 50 unpaid shown)
+## More roofer listings (276 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/roofer.jsonl
+- Indianapolis, IN: 16 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-indianapolis-in/
 - North Richland Hills, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-north-richland-hills-tx/
+- Aurora, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-aurora-co/
 - Omaha, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-omaha-ne/
 - West Allis, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-west-allis-wi/
 - Brookfield, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-brookfield-il/
 - Dallas, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-dallas-tx/
 - Plano, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-plano-tx/
+- Lakewood, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lakewood-co/
 - Minneapolis, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-minneapolis-mn/
 - Madison, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-madison-wi/
 - Cobb County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-cobb-county-ga/
@@ -74,7 +77,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rockwall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-rockwall-tx/
 - Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-irving-tx/
 - Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-mesquite-tx/
+- Cincinnati, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-cincinnati-oh/
+- Sterling Heights, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-sterling-heights-mi/
+- Pontiac, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-pontiac-mi/
+- Royal Oak, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-royal-oak-mi/
 - Milwaukee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-milwaukee-wi/
+- Nixa, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-nixa-mo/
+- Gladstone, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-gladstone-mo/
+- Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-blue-springs-mo/
+- Saint Peters, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-saint-peters-mo/
 - Atlanta, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-atlanta-ga/
 - Marietta, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-marietta-ga/
 - Downers Grove, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-downers-grove-il/
@@ -89,15 +100,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Spring Hill, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-spring-hill-ks/
 - Kansas City, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-kansas-city-ks/
 - Overland Park, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-overland-park-ks/
+- Wichita, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-wichita-ks/
 - Shawnee, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-shawnee-ks/
+- Castle Rock, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-castle-rock-co/
+- Lafayette, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lafayette-co/
 - Coon Rapids, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-coon-rapids-mn/
 - Saint Louis Park, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-saint-louis-park-mn/
 - Saint Paul, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-saint-paul-mn/
-- Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-blue-springs-mo/
 - Urbandale, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-urbandale-ia/
+- Union Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-union-township-oh/
+- Loveland, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-loveland-oh/
+- Waterford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-waterford-township-mi/
+- Rochester Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-rochester-hills-mi/
+- Farmington Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-farmington-hills-mi/
+- Dearborn Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-dearborn-heights-mi/
+- Fraser, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-fraser-mi/
+- Clinton Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-clinton-township-mi/
+- Macomb Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-macomb-township-mi/
+- Ferndale, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-ferndale-mi/
 - Glendale, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-glendale-wi/
 - Town Of Burlington, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-town-of-burlington-wi/
 - New Berlin, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-new-berlin-wi/
+- Saint Joseph, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-saint-joseph-mo/
+- Webb City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-webb-city-mo/
+- Joplin, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-joplin-mo/
+- Springfield, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-springfield-mo/
+- Chesterfield, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-chesterfield-mo/
+- Kinloch, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-kinloch-mo/
+- Kansas City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-kansas-city-mo/
+- Rock Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-rock-township-mo/
+- Lee'S Summit, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lees-summit-mo/
+- Windsor Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-windsor-township-mo/
+- Lone Jack, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lone-jack-mo/
+- Columbia, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-columbia-mo/
 - Hiram, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-hiram-ga/
 - Woodstock, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-woodstock-ga/
 - Douglasville, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-douglasville-ga/
@@ -133,9 +168,27 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lewisville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lewisville-tx/
 - Spring Valley Village, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-spring-valley-village-tx/
 - Waxahachie, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-waxahachie-tx/
+- Fishers, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-fishers-in/
+- Noblesville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-noblesville-in/
+- Zionsville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-zionsville-in/
+- Franklin, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-franklin-in/
+- Carmel, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-carmel-in/
+- Beech Grove, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-beech-grove-in/
 - Olathe, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-olathe-ks/
+- Lawrence, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lawrence-ks/
+- Manhattan, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-manhattan-ks/
 - Lenexa, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lenexa-ks/
 - Merriam, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-merriam-ks/
+- Brighton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-brighton-co/
+- Englewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-englewood-co/
+- Littleton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-littleton-co/
+- Greenwood Village, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-greenwood-village-co/
+- Westminster, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-westminster-co/
+- Wheat Ridge, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-wheat-ridge-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-golden-co/
+- Frederick, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-frederick-co/
+- Boulder, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-boulder-co/
+- Longmont, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-longmont-co/
 - Eagan, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-eagan-mn/
 - New Brighton, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-new-brighton-mn/
 - Plymouth, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-plymouth-mn/
@@ -144,14 +197,38 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Little Canada, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-little-canada-mn/
 - Brooklyn Park, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-brooklyn-park-mn/
 - Centerville, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-centerville-mn/
-- Gladstone, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-gladstone-mo/
-- Kansas City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-kansas-city-mo/
-- Lee'S Summit, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lees-summit-mo/
-- Lone Jack, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lone-jack-mo/
 - Melia-Forest City Precinct, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-melia-forest-city-precinct-ne/
 - Gretna, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-gretna-ne/
 - Huxley, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-huxley-ia/
 - Des Moines, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-des-moines-ia/
+- Dublin, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-dublin-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-west-chester-township-oh/
+- Miami Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-miami-township-oh/
+- Mason, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-mason-oh/
+- Amanda Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-amanda-township-oh/
+- Amanda, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-amanda-oh/
+- Hilliard, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-hilliard-oh/
+- Ross Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-ross-township-oh/
+- Fairfield, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-fairfield-oh/
+- Orange Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-orange-township-oh/
+- Columbus, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-columbus-oh/
+- Milford, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-milford-oh/
+- Lancaster, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lancaster-oh/
+- Monroeville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-monroeville-pa/
+- Dormont, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-dormont-pa/
+- Bethel Park, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-bethel-park-pa/
+- Robinson Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-robinson-township-pa/
+- Mckees Rocks, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-mckees-rocks-pa/
+- Avalon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-avalon-pa/
+- Oakdale, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-oakdale-pa/
+- Monongahela, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-monongahela-pa/
+- Sewickley, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-sewickley-pa/
+- North Strabane Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-north-strabane-township-pa/
+- Coraopolis, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-coraopolis-pa/
+- Elsmere, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-elsmere-ky/
+- Erlanger, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-erlanger-ky/
+- Covington, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-covington-ky/
+- Dayton, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-dayton-ky/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer | category: Home services - Roofing | industry benchmark: Home & Home Improvement
@@ -159,7 +236,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $7.85, median $10.70, high $10.70 (Home & Home Improvement median CPC 2026 $8.33 [https://www.localiq.com/blog/search-advertising-benchmarks]; Home & Home Improvement median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Home services subcategory 'Roofing' CPC 2025 $10.70 [https://localiq.com/blog/home-services-search-advertising-benchmarks/])
 - Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 155
+- Registry businesses competing: 276
 - Equivalent Google Ads cost per month: ~$34,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $500/month, spots 2-4 from $50/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

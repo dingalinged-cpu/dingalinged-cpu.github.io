@@ -19,6 +19,6 @@ Monarch Plastic Surgery is a plastic surgeon in Kansas City, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/monarch-plastic-surgery-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/monarch-plastic-surgery-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13743428091 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13743428091 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

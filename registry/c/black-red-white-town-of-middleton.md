@@ -13,7 +13,7 @@ Black Red White is a furniture store in Town of Middleton, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Building — top 79% of furniture stores in Madison, #2 of 3 furniture stores in Town of Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 79% of furniture stores in Madison, #2 of 3 furniture stores in Town of Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

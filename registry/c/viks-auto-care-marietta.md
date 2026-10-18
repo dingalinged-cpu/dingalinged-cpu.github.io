@@ -13,7 +13,7 @@ Viks Auto Care is an auto repair shop in Marietta, GA at 556 Roswell Street, Mar
 - Website: https://www.viksautocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-13:30
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Atlanta, #15 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Atlanta, #15 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

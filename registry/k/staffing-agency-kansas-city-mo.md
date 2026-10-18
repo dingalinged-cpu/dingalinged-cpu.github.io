@@ -6,9 +6,9 @@ Also answers: staffing agency in Kansas City, MO; staffing agency near me (Kansa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Syndeo Staffing KC | Organic #1 | Pulse Score 58.7/100 (Unrated, #3 in city) | Syndeo Staffing KC is a staffing agency in Kansas City, MO at 2018 Washington Street, Kansas City, MO 64108. Website: https://kcsyndeo.com/. | https://registry-edge.dingalinged.workers.dev/c/syndeo-staffing-kc-kansas-city/
-2. Nextaff | Organic #2 | Pulse Score 56.7/100 (Unrated, #5 in city) | Nextaff is a staffing agency in Kansas City, MO. Website: https://www.nextaff.com/locations/kansas-city-mo/. | https://registry-edge.dingalinged.workers.dev/c/nextaff-kansas-city/
-3. 365 Personnel | Organic #3 | Pulse Score 54.5/100 (Unrated, #7 in city) | 365 Personnel is a staffing agency in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/365-personnel-kansas-city/
+1. Syndeo Staffing KC | Organic #1 | Pulse Score 58.9/100 (Unrated, #3 in city) | Syndeo Staffing KC is a staffing agency in Kansas City, MO at 2018 Washington Street, Kansas City, MO 64108. Website: https://kcsyndeo.com/. | https://registry-edge.dingalinged.workers.dev/c/syndeo-staffing-kc-kansas-city/
+2. Nextaff | Organic #2 | Pulse Score 56.8/100 (Unrated, #5 in city) | Nextaff is a staffing agency in Kansas City, MO. Website: https://www.nextaff.com/locations/kansas-city-mo/. | https://registry-edge.dingalinged.workers.dev/c/nextaff-kansas-city/
+3. 365 Personnel | Organic #3 | Pulse Score 54.6/100 (Unrated, #7 in city) | 365 Personnel is a staffing agency in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/365-personnel-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency kansas city mo | category: b2b_services | industry benchmark: Business Services

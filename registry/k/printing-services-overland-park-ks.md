@@ -6,11 +6,11 @@ Also answers: printing services in Overland Park, KS; printing services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park-n13888526441/
-2. FedEx Office | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | FedEx Office is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-overland-park/
-3. The UPS Store | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park/
-4. The UPS Store | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park-w319049950/
-5. FedEx Office | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | FedEx Office is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-overland-park-n11460330876/
+1. The UPS Store | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park-n13888526441/
+2. The UPS Store | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park/
+3. FedEx Office | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | FedEx Office is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-overland-park/
+4. The UPS Store | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | The UPS Store is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-overland-park-w319049950/
+5. FedEx Office | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | FedEx Office is a printing service in Overland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-overland-park-n11460330876/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services overland park ks | category: Professional & financial services | industry benchmark: Finance & Insurance

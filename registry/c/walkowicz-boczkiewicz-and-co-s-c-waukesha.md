@@ -13,7 +13,7 @@ Walkowicz, Boczkiewicz & Co., S.C. is an accountant in Waukesha, WI. Website: ht
 - Website: https://www.wbcosc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 34% of accountants in Milwaukee, #1 of 1 accountants in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Good — top 34% of accountants in Milwaukee, #1 of 1 accountants in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

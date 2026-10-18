@@ -13,7 +13,7 @@ Mark Essy DDS is a dentist in West Des Moines, IA at 233 5th Street, West Des Mo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 18% of dentists in Des Moines, IA, #2 of 15 dentists in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 16% of dentists in Des Moines, IA, #2 of 15 dentists in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

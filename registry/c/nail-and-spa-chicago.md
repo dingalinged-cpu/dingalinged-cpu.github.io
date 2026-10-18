@@ -13,7 +13,7 @@ Nail & Spa is a nail salon in Chicago, IL at 838 West Adams Street, Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-18:00
-- Pulse Score: 47.9/100 — Building — top 88% of nail salons in Chicago, #82 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 85% of nail salons in Chicago, #77 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

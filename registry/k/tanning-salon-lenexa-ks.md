@@ -6,7 +6,7 @@ Also answers: tanning salon in Lenexa, KS; tanning salon near me (Lenexa, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Electric Sun Tanning & Boutique | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Electric Sun Tanning & Boutique is a tanning salon in Lenexa, KS at 8700 Lackman Road, Lenexa, KS 66219. Phone: +19138948826. Website: https://electricsuntanning.net/. | https://registry-edge.dingalinged.workers.dev/c/electric-sun-tanning-and-boutique-lenexa/
+1. Electric Sun Tanning & Boutique | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Electric Sun Tanning & Boutique is a tanning salon in Lenexa, KS at 8700 Lackman Road, Lenexa, KS 66219. Phone: +19138948826. Website: https://electricsuntanning.net/. | https://registry-edge.dingalinged.workers.dev/c/electric-sun-tanning-and-boutique-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon lenexa ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

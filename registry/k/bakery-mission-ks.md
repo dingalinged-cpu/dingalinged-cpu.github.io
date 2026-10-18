@@ -6,7 +6,7 @@ Also answers: bakery in Mission, KS; bakery near me (Mission, KS); best bakery M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mud Pie Bakery & Coffee | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Mud Pie Bakery & Coffee is a bakery in Mission, KS at 6850 Johnson Drive, Mission, KS 66202. Phone: +19132719405. Website: https://www.mudpiebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mud-pie-bakery-and-coffee-mission/
+1. Mud Pie Bakery & Coffee | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Mud Pie Bakery & Coffee is a bakery in Mission, KS at 6850 Johnson Drive, Mission, KS 66202. Phone: +19132719405. Website: https://www.mudpiebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mud-pie-bakery-and-coffee-mission/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mission ks | category: Events & weddings | industry benchmark: Personal Services

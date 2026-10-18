@@ -13,7 +13,7 @@ Behavioral Innovations is a therapy practice in Houston, TX at 3036 Yale Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Building — top 95% of therapy practices in Houston, #20 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.2/100 — Building — top 93% of therapy practices in Houston, #19 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

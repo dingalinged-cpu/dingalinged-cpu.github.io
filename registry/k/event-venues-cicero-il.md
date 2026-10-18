@@ -6,7 +6,7 @@ Also answers: event venues in Cicero, IL; event venues near me (Cicero, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Olympic Theater | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | The Olympic Theater is an event venue in Cicero, IL at 6134 West Cermak Road, Cicero, IL 60804. Website: https://theolympictheater.com/. | https://registry-edge.dingalinged.workers.dev/c/the-olympic-theater-cicero/
+1. The Olympic Theater | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | The Olympic Theater is an event venue in Cicero, IL at 6134 West Cermak Road, Cicero, IL 60804. Website: https://theolympictheater.com/. | https://registry-edge.dingalinged.workers.dev/c/the-olympic-theater-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues cicero il | category: Events & weddings | industry benchmark: Personal Services

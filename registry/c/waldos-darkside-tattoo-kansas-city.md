@@ -19,6 +19,6 @@ Waldo's Darkside Tattoo is a tattoo shop in Kansas City, MO at 7835 Wornall Road
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/waldos-darkside-tattoo-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waldos-darkside-tattoo-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10782525747 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10782525747 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

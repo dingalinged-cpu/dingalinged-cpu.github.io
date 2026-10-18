@@ -13,7 +13,7 @@ Christian Brothers Automotive is an auto repair shop in Waxahachie, TX at 1300 W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Dallas–Fort Worth, #17 of 17 auto repair shops in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 84% of auto repair shops in Dallas–Fort Worth, #17 of 17 auto repair shops in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

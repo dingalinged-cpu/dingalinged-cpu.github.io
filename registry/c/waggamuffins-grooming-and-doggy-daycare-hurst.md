@@ -13,7 +13,7 @@ Waggamuffins Grooming and Doggy Daycare is a dog groomer in Hurst, TX at 846 Wes
 - Website: https://waggamuffinsdfw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 61.7/100 — Good — top 16% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 16% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

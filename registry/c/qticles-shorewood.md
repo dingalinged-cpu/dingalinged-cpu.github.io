@@ -13,7 +13,7 @@ Qticles is a nail salon in Shorewood, WI at 2127 East Capitol Drive, Shorewood, 
 - Website: https://www.qticlesmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:30-16:00; Tu-Th 09:30-19:30; Fr 09:00-19:30; Sa 09:00-18:00; Su off
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of nail salons in Milwaukee, #1 of 1 nail salons in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of nail salons in Milwaukee, #1 of 1 nail salons in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

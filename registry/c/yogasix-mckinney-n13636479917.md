@@ -13,7 +13,7 @@ YogaSix is a yoga studio in McKinney, TX at 1620 North Hardin Boulevard #600, Mc
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 78% of yoga studios in Dallas–Fort Worth, #3 of 4 yoga studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 78% of yoga studios in Dallas–Fort Worth, #3 of 4 yoga studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

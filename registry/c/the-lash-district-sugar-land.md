@@ -13,7 +13,7 @@ The Lash District is a waxing salon in Sugar Land, TX at 16525 Lexington Bouleva
 - Website: https://mysite.vagaro.com/thelashdistrict
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-17:00; Tu-Th 10:00-18:00; Fr-Sa off; Su 10:00-14:00
-- Pulse Score: 62.8/100 — Good — top 8% of waxing salons in Houston, #1 of 3 waxing salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 8% of waxing salons in Houston, #1 of 3 waxing salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

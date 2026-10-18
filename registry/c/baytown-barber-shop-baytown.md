@@ -13,7 +13,7 @@ Baytown Barber Shop is a barber shop in Baytown, TX at 4810 North Main Street, B
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 63.2/100 — Good — top 17% of barber shops in Houston, #1 of 1 barber shops in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 17% of barber shops in Houston, #1 of 1 barber shops in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

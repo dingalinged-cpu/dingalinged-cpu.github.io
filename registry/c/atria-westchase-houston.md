@@ -13,7 +13,7 @@ Atria Westchase is an assisted living facility in Houston, TX at 11424 Richmond 
 - Website: https://www.atriaseniorliving.com/retirement-communities/atria-westchase-houston-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 94% of assisted living facilitys in Houston, #30 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 94% of assisted living facilitys in Houston, #30 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

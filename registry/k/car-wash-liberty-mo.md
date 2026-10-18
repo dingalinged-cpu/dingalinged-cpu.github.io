@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Green Lantern | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Green Lantern is a car wash in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/green-lantern-liberty/
 2. Dr Spotless Car Wash | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Dr Spotless Car Wash is a car wash in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/dr-spotless-car-wash-liberty/
 3. McBee's Coffee & Carwash | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | McBee's Coffee & Carwash is a car wash in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/mcbees-coffee-and-carwash-liberty/
-4. Charlie's Car Wash | Organic #4 | Pulse Score 43.8/100 (Unrated, #4 in city) | Charlie's Car Wash is a car wash in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-liberty/
+4. Charlie's Car Wash | Organic #4 | Pulse Score 47.6/100 (Unrated, #4 in city) | Charlie's Car Wash is a car wash in Liberty, MO. Website: https://charliescarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash liberty mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

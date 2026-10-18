@@ -13,7 +13,7 @@ CubeSmart Self Storage is a self-storage facility in Cobb County, GA at 1966 Lel
 - Website: https://www.cubesmart.com/georgia-self-storage/marietta-self-storage/4964.html
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 51.8/100 — Fair — top 20% of self-storage facilitys in Atlanta, #10 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 19% of self-storage facilitys in Atlanta, #9 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

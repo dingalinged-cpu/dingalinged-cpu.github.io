@@ -13,7 +13,7 @@ Mark A. Alexander, P.C. is a lawyer in Dallas, TX at 8150 North Central Expressw
 - Website: https://oilandgasfraudlawyer.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Dallas–Fort Worth, #4 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of lawyers in Dallas–Fort Worth, #4 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

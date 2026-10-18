@@ -6,7 +6,7 @@ Also answers: accounting services in Norcross, GA; accounting services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bookkeeping Concepts LLC | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Bookkeeping Concepts LLC is an accountant in Norcross, GA at 2030 Beaver Ruin Road #Suite B, Norcross, GA 30071. Phone: +17709358200. Website: https://bookkeepingconcepts.com/. | https://registry-edge.dingalinged.workers.dev/c/bookkeeping-concepts-llc-norcross/
+1. Bookkeeping Concepts LLC | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Bookkeeping Concepts LLC is an accountant in Norcross, GA at 2030 Beaver Ruin Road #Suite B, Norcross, GA 30071. Phone: +17709358200. Website: https://bookkeepingconcepts.com/. | https://registry-edge.dingalinged.workers.dev/c/bookkeeping-concepts-llc-norcross/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services norcross ga | category: professional_accounting | industry benchmark: Business Services

@@ -6,7 +6,7 @@ Also answers: chiropractor in Chicago Precinct, NE; chiropractor near me (Chicag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hauptman Chiropractic | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Hauptman Chiropractic is a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/. | https://registry-edge.dingalinged.workers.dev/c/hauptman-chiropractic-omaha/
+1. Hauptman Chiropractic | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Hauptman Chiropractic is a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/. | https://registry-edge.dingalinged.workers.dev/c/hauptman-chiropractic-omaha/
 2. Mack Family Chiropractic | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Mack Family Chiropractic is a chiropractor in Chicago Precinct, NE at 18924 Evans Street #105, Chicago Precinct, NE 68022. Phone: +15314668611. Website: https://mackfamilychiro.com/. | https://registry-edge.dingalinged.workers.dev/c/mack-family-chiropractic-chicago-precinct/
 3. Balanced Body | Organic #3 | Pulse Score 56.1/100 (Unrated, #1 in city) | Balanced Body is a chiropractor in Chicago Precinct, NE. Website: https://www.balancedbodyomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/balanced-body-chicago-precinct/
 

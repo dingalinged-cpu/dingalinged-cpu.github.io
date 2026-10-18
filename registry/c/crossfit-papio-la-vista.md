@@ -13,7 +13,7 @@ Crossfit Papio is a gym in La Vista, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 33% of gyms in Omaha, NE, #1 of 1 gyms in La Vista (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 33% of gyms in Omaha, NE, #1 of 1 gyms in La Vista (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

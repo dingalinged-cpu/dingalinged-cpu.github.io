@@ -13,7 +13,7 @@ Powers And Sons Construction Co. is an architect in Gary, IN at 2636 West 15th A
 - Website: https://powersandsons.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of architects in Chicago, #1 of 2 architects in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 26% of architects in Chicago, #1 of 2 architects in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

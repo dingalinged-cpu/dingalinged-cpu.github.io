@@ -13,7 +13,7 @@ True Love Studios is a tattoo shop in Houston, TX at 4826 Washington Avenue, Hou
 - Website: https://truelove-studios.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 26% of tattoo shops in Houston, #7 of 22 tattoo shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 26% of tattoo shops in Houston, #7 of 22 tattoo shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ IKEA is a furniture store in Schaumburg, IL at 1800 East McConnor Parkway, Schau
 - Website: https://www.ikea.com/us/en/stores/schaumburg/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-20:00
-- Pulse Score: 49.8/100 — Building — top 47% of furniture stores in Chicago, #2 of 6 furniture stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 44% of furniture stores in Chicago, #2 of 6 furniture stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: heating and air in Willow Springs, IL; heating and air near me (Wi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Assured Air | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Assured Air is a HVAC contractor in Willow Springs, IL at 8440 South Archer Avenue, Willow Springs, IL 60480. Phone: +17088395760. Website: https://assuredair.com/. | https://registry-edge.dingalinged.workers.dev/c/assured-air-willow-springs/
+1. Assured Air | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Assured Air is a HVAC contractor in Willow Springs, IL at 8440 South Archer Avenue, Willow Springs, IL 60480. Phone: +17088395760. Website: https://assuredair.com/. | https://registry-edge.dingalinged.workers.dev/c/assured-air-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air willow springs il | category: Home Services | industry benchmark: Home & Home Improvement

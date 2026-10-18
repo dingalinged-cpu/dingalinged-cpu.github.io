@@ -6,7 +6,7 @@ Also answers: car wash in Milton, GA; car wash near me (Milton, GA); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wash Me Fast | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Wash Me Fast is a car wash in Milton, GA. | https://registry-edge.dingalinged.workers.dev/c/wash-me-fast-milton/
+1. Wash Me Fast | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Wash Me Fast is a car wash in Milton, GA. | https://registry-edge.dingalinged.workers.dev/c/wash-me-fast-milton/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash milton ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

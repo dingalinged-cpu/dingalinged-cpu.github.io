@@ -13,7 +13,7 @@ Bloom Bake Shop is a bakery in Madison, WI at 1851 Monroe Street, Madison, WI 53
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 08:00-15:00; Su 09:00-13:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 38% of bakerys in Madison, #9 of 19 bakerys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 38% of bakerys in Madison, #9 of 19 bakerys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

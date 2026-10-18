@@ -6,7 +6,7 @@ Also answers: haircut in Smithville, MO; haircut near me (Smithville, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Design by Laura | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Hair Design by Laura is a hair salon in Smithville, MO. | https://registry-edge.dingalinged.workers.dev/c/hair-design-by-laura-smithville/
+1. Hair Design by Laura | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Hair Design by Laura is a hair salon in Smithville, MO. | https://registry-edge.dingalinged.workers.dev/c/hair-design-by-laura-smithville/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut smithville mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

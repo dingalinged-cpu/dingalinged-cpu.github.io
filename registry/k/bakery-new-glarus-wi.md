@@ -6,7 +6,7 @@ Also answers: bakery in New Glarus, WI; bakery near me (New Glarus, WI); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Glarus Bakery | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | New Glarus Bakery is a bakery in New Glarus, WI at 534 1st Street, New Glarus, WI 53574. Phone: +16085272916. Website: https://newglarusbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/new-glarus-bakery-new-glarus/
+1. New Glarus Bakery | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | New Glarus Bakery is a bakery in New Glarus, WI at 534 1st Street, New Glarus, WI 53574. Phone: +16085272916. Website: https://newglarusbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/new-glarus-bakery-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery new glarus wi | category: Events & weddings | industry benchmark: Personal Services

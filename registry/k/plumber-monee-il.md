@@ -6,7 +6,7 @@ Also answers: plumber in Monee, IL; plumber near me (Monee, IL); best plumber Mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M & J Underground, Inc. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | M & J Underground, Inc. is a plumber in Monee, IL at 26603 South Governors Highway, Monee, IL 60449. Phone: +17085346434. Website: https://mjunderground.com/. | https://registry-edge.dingalinged.workers.dev/c/m-and-j-underground-inc-monee/
+1. M & J Underground, Inc. | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | M & J Underground, Inc. is a plumber in Monee, IL at 26603 South Governors Highway, Monee, IL 60449. Phone: +17085346434. Website: https://mjunderground.com/. | https://registry-edge.dingalinged.workers.dev/c/m-and-j-underground-inc-monee/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber monee il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

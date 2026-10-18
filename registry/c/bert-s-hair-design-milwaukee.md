@@ -13,7 +13,7 @@ Bert’s Hair Design is a hair salon in Milwaukee, WI at 2107 North Prospect Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Milwaukee, #62 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Milwaukee, #61 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

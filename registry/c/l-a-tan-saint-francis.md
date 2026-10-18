@@ -13,7 +13,7 @@ L.A. Tan is a tanning salon in Saint Francis, WI at 3088 East Layton Avenue, Sai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Milwaukee, #1 of 1 tanning salons in Saint Francis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Milwaukee, #1 of 1 tanning salons in Saint Francis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

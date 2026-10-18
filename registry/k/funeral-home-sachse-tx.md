@@ -6,7 +6,7 @@ Also answers: funeral home in Sachse, TX; funeral home near me (Sachse, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles W. Smith & Sons Funeral Home | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Charles W. Smith & Sons Funeral Home is a funeral home in Sachse, TX. | https://registry-edge.dingalinged.workers.dev/c/charles-w-smith-and-sons-funeral-home-sachse/
+1. Charles W. Smith & Sons Funeral Home | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Charles W. Smith & Sons Funeral Home is a funeral home in Sachse, TX. | https://registry-edge.dingalinged.workers.dev/c/charles-w-smith-and-sons-funeral-home-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home sachse tx | category: Professional & financial services | industry benchmark: Finance & Insurance

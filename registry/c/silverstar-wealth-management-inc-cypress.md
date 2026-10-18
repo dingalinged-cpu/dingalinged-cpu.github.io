@@ -13,7 +13,7 @@ SilverStar Wealth Management Inc. is a financial advisor in Cypress, TX at 17844
 - Website: https://silverstarwealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-12:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of financial advisors in Houston, #1 of 1 financial advisors in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of financial advisors in Houston, #1 of 1 financial advisors in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

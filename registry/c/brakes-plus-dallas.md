@@ -13,7 +13,7 @@ Brakes Plus is an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, T
 - Website: https://www.brakesplus.com/stores/dallas/tx/0341/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 47.9/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #89 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 67% of auto repair shops in Dallas–Fort Worth, #88 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

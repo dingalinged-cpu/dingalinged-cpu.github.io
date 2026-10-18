@@ -6,7 +6,7 @@ Also answers: photographer in Magnolia, TX; photographer near me (Magnolia, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blu Moon Photography | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Blu Moon Photography is a photographer in Magnolia, TX at 8450 Prine Lane, Magnolia, TX 77354. Website: https://blumoonphoto.com/. | https://registry-edge.dingalinged.workers.dev/c/blu-moon-photography-magnolia/
+1. Blu Moon Photography | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Blu Moon Photography is a photographer in Magnolia, TX at 8450 Prine Lane, Magnolia, TX 77354. Website: https://blumoonphoto.com/. | https://registry-edge.dingalinged.workers.dev/c/blu-moon-photography-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer magnolia tx | category: Events & weddings | industry benchmark: Personal Services

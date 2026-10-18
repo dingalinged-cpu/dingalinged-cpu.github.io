@@ -13,7 +13,7 @@ Henry & Son is a liquor store in Minneapolis, MN at 1220 Glenwood Avenue, Minnea
 - Website: https://shophenryandson.com/
 - Email: emailhenryandson@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 14% of liquor stores in Minneapolis–St. Paul, #8 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of liquor stores in Minneapolis–St. Paul, #8 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

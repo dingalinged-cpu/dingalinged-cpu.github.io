@@ -13,7 +13,7 @@ AO1 Roofing LLC is a roofer in Deer Park, TX. Phone: +18327923937. Website: http
 - Website: https://ao1roofingandconstruction.com/
 - Email: mark@ao1roofing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 88% of roofers in Houston, #1 of 1 roofers in Deer Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 88% of roofers in Houston, #1 of 1 roofers in Deer Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

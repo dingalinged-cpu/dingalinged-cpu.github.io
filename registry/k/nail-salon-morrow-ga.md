@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Happy Nail Supply | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Happy Nail Supply is a nail salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/happy-nail-supply-morrow/
 2. Julee Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Julee Nails is a nail salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/julee-nails-morrow/
-3. Solar Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Solar Nails is a nail salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/solar-nails-morrow/
+3. Solar Nails | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Solar Nails is a nail salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/solar-nails-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon morrow ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

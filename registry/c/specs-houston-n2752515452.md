@@ -13,7 +13,7 @@ Spec's is a liquor store in Houston, TX at 8306 Southwest Freeway Frontage Road,
 - Website: https://specsonline.com/liquor-stores/houston/gessner-at-sw-fwy-042
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50/100 — Fair — top 81% of liquor stores in Houston, #74 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 80% of liquor stores in Houston, #74 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

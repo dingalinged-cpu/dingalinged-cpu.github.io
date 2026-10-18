@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Lilburn, GA is Sunshine House (a daycare in Lilburn, GA at 970 Oak Road, Lilburn, GA 30047. Phone: +17709727775. Website: https://sunshinehouse.com/center/sunshine-house-lilburn/). 3 daycare businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Lilburn, GA is 5 Star Child Care (a daycare in Lilburn, GA). 3 daycare businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Lilburn, GA?
 
@@ -6,9 +6,9 @@ Also answers: daycare in Lilburn, GA; daycare near me (Lilburn, GA); best daycar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine House | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Sunshine House is a daycare in Lilburn, GA at 970 Oak Road, Lilburn, GA 30047. Phone: +17709727775. Website: https://sunshinehouse.com/center/sunshine-house-lilburn/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-house-lilburn/
-2. 5 Star Child Care | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | 5 Star Child Care is a daycare in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/5-star-child-care-lilburn/
-3. Sunrise Kids | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Sunrise Kids is a daycare in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/sunrise-kids-lilburn/
+1. 5 Star Child Care | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | 5 Star Child Care is a daycare in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/5-star-child-care-lilburn/
+2. Sunrise Kids | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Sunrise Kids is a daycare in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/sunrise-kids-lilburn/
+3. Sunshine House | Organic #3 | Pulse Score 49.1/100 (Unrated, #3 in city) | Sunshine House is a daycare in Lilburn, GA at 970 Oak Road, Lilburn, GA 30047. Phone: +17709727775. Website: https://sunshinehouse.com/center/sunshine-house-lilburn/. | https://registry-edge.dingalinged.workers.dev/c/sunshine-house-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare lilburn ga | category: Education & childcare | industry benchmark: Education & Instruction

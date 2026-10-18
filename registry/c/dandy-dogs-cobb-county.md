@@ -13,7 +13,7 @@ Dandy Dogs is a dog groomer in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 79% of dog groomers in Atlanta, #7 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 79% of dog groomers in Atlanta, #7 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Lowry Hill Tax is a tax preparation service in Minneapolis, MN at 1770 Hennepin 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 37% of tax preparation services in Minneapolis–St. Paul, #8 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 37% of tax preparation services in Minneapolis–St. Paul, #8 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

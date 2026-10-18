@@ -13,7 +13,7 @@ Lenox Massage & Spa is a massage studio in Atlanta, GA at 2770 Lenox Road #B7, A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 49% of massage studios in Atlanta, #9 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 47% of massage studios in Atlanta, #9 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Oxen Financial Services is a financial advisor in Houston, TX at 440 Louisiana S
 - Website: https://oxenfinancial.com/index.html
 - Email: contact@oxenfinancial.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 12:00-18:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of financial advisors in Houston, #1 of 10 financial advisors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of financial advisors in Houston, #1 of 10 financial advisors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

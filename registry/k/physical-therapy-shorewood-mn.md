@@ -6,7 +6,7 @@ Also answers: physical therapy in Shorewood, MN; physical therapy near me (Shore
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Engage Physical Therapy and Wellness | Organic #1 | Pulse Score 60.7/100 (Good, #1 in city) | Engage Physical Therapy and Wellness is a physical therapy clinic in Shorewood, MN at 23490 Minnesota State Highway 7, Shorewood, MN. Phone: +16128889882. Website: https://www.engagephysicaltherapymn.com/. | https://registry-edge.dingalinged.workers.dev/c/engage-physical-therapy-and-wellness-shorewood/
+1. Engage Physical Therapy and Wellness | Organic #1 | Pulse Score 60.8/100 (Good, #1 in city) | Engage Physical Therapy and Wellness is a physical therapy clinic in Shorewood, MN at 23490 Minnesota State Highway 7, Shorewood, MN. Phone: +16128889882. Website: https://www.engagephysicaltherapymn.com/. | https://registry-edge.dingalinged.workers.dev/c/engage-physical-therapy-and-wellness-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy shorewood mn | category: Health & medical | industry benchmark: Physicians & Surgeons

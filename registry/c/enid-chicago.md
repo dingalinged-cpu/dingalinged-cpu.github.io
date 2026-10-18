@@ -13,7 +13,7 @@ Enid is a jewelry store in Chicago, IL at 2003, Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 37% of jewelry stores in Chicago, #33 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 36% of jewelry stores in Chicago, #31 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

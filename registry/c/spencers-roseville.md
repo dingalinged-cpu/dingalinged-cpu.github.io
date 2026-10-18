@@ -13,7 +13,7 @@ Spencer's is a jewelry store in Roseville, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 87% of jewelry stores in Minneapolis–St. Paul, #6 of 7 jewelry stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 87% of jewelry stores in Minneapolis–St. Paul, #6 of 7 jewelry stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

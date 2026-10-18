@@ -6,11 +6,11 @@ Also answers: mechanic in Belton, MO; mechanic near me (Belton, MO); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NCC Muffler and Brakes | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | NCC Muffler and Brakes is an auto repair shop in Belton, MO. Phone: +18163315360. | https://registry-edge.dingalinged.workers.dev/c/ncc-muffler-and-brakes-belton/
-2. Belton Transmission | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Belton Transmission is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/belton-transmission-belton/
-3. Calverts Express Auto Service and Tire | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Calverts Express Auto Service and Tire is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/calverts-express-auto-service-and-tire-belton/
-4. Jack's tune up and alignment | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Jack's tune up and alignment is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/jacks-tune-up-and-alignment-belton/
-5. Valvoline | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Valvoline is an auto repair shop in Belton, MO. Website: https://store.vioc.com/mo/belton/oil-change-050109.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-belton/
+1. NCC Muffler and Brakes | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | NCC Muffler and Brakes is an auto repair shop in Belton, MO. Phone: +18163315360. | https://registry-edge.dingalinged.workers.dev/c/ncc-muffler-and-brakes-belton/
+2. Belton Transmission | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Belton Transmission is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/belton-transmission-belton/
+3. Calverts Express Auto Service and Tire | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Calverts Express Auto Service and Tire is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/calverts-express-auto-service-and-tire-belton/
+4. Jack's tune up and alignment | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Jack's tune up and alignment is an auto repair shop in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/jacks-tune-up-and-alignment-belton/
+5. Valvoline | Organic #5 | Pulse Score 45.7/100 (Building, #5 in city) | Valvoline is an auto repair shop in Belton, MO. Website: https://store.vioc.com/mo/belton/oil-change-050109.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic belton mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,12 +13,12 @@ Thompson Family Dental is a dentist in Overland Park, KS at 10124 W 119th Street
 - Website: https://thompsonfamilydentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of dentists in Kansas City, MO, #4 of 10 dentists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 38% of dentists in Kansas City, MO, #4 of 10 dentists in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/thompson-family-dental-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thompson-family-dental-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12700923737 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12700923737 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

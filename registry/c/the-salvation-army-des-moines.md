@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Des Moines, IA at 211 East Court Avenue,
 - Website: https://www.salvationarmyusa.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 49.2/100 — Building — top 61% of thrift stores in Des Moines, IA, #5 of 7 thrift stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 61% of thrift stores in Des Moines, IA, #5 of 7 thrift stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

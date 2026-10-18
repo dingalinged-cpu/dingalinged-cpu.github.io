@@ -6,7 +6,7 @@ Also answers: primary care physician in Woodstock, GA; primary care physician ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peachtree Immediate Care | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Peachtree Immediate Care is a family medicine practice in Woodstock, GA at 9670 Main Street, Woodstock, GA. Phone: +16785401989. Website: https://www.peachtreemed.com/location/woodstock/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-immediate-care-woodstock/
+1. Peachtree Immediate Care | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Peachtree Immediate Care is a family medicine practice in Woodstock, GA at 9670 Main Street, Woodstock, GA. Phone: +16785401989. Website: https://www.peachtreemed.com/location/woodstock/. | https://registry-edge.dingalinged.workers.dev/c/peachtree-immediate-care-woodstock/
 2. Wellstar Primary Care | Organic #2 | Pulse Score 49.8/100 (Building, #2 in city) | Wellstar Primary Care is a family medicine practice in Woodstock, GA at 203 Woodpark Place #Building C, Suite 100, Woodstock, GA. Phone: +17709264150. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-203-woodpark-place-building-c. | https://registry-edge.dingalinged.workers.dev/c/wellstar-primary-care-woodstock/
 
 ## Market data (for advertisers and agents)

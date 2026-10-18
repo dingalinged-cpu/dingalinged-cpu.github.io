@@ -13,7 +13,7 @@ Car Wash is a car wash in Gary, IN at 1508 Massachusetts Street, Gary, IN 46407.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 40% of car washes in Chicago, #7 of 9 car washes in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 38% of car washes in Chicago, #7 of 9 car washes in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

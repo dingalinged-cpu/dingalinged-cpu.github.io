@@ -13,7 +13,7 @@ Venue 338 is an event venue in Atlanta, GA at 338 West Peachtree Street Northwes
 - Website: https://www.venue338.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 64.3/100 — Good — top 7% of event venues in Atlanta, #4 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 7% of event venues in Atlanta, #4 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

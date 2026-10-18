@@ -13,7 +13,7 @@ Fricker Law Office is a lawyer in Wauwatosa, WI at 11601 West North Avenue, Wauw
 - Website: https://frickerlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-13:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Milwaukee, #1 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Milwaukee, #1 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

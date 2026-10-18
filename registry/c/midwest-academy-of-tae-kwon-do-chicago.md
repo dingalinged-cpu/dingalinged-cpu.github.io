@@ -13,7 +13,7 @@ Midwest Academy of Tae Kwon Do is a martial arts school in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 87% of martial arts schools in Chicago, #16 of 20 martial arts schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 87% of martial arts schools in Chicago, #16 of 20 martial arts schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

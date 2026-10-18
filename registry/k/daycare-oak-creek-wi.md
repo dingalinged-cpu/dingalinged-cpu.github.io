@@ -7,7 +7,7 @@ Also answers: daycare in Oak Creek, WI; daycare near me (Oak Creek, WI); best da
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ebenezer Child Care Center | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Ebenezer Child Care Center is a daycare in Oak Creek, WI at 220 West Forest Hill Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/ebenezer-child-care-center-oak-creek/
-2. The Learning Experience | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | The Learning Experience is a daycare in Oak Creek, WI at 8206 South Anthony Way, Oak Creek, WI 53154. Website: https://thelearningexperience.com/centers/oak-creek-wi/. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-oak-creek/
+2. The Learning Experience | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | The Learning Experience is a daycare in Oak Creek, WI at 8206 South Anthony Way, Oak Creek, WI 53154. Website: https://thelearningexperience.com/centers/oak-creek-wi/. | https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare oak creek wi | category: Education & childcare | industry benchmark: Education & Instruction

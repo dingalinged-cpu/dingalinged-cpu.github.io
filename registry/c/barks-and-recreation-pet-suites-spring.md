@@ -13,7 +13,7 @@ Barks and Recreation Pet Suites is a dog boarding facility in Spring, TX at 1103
 - Website: https://barksrecps.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00; "Drop-off after 2pm and pick-up before 2pm"
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of dog boarding facilitys in Houston, #1 of 2 dog boarding facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 20% of dog boarding facilitys in Houston, #1 of 2 dog boarding facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

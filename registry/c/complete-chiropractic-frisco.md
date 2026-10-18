@@ -13,7 +13,7 @@ Complete Chiropractic is a chiropractor in Frisco, TX at 4645 Avon Lane #130B, F
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 51% of chiropractors in Dallas–Fort Worth, #3 of 4 chiropractors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 51% of chiropractors in Dallas–Fort Worth, #3 of 4 chiropractors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

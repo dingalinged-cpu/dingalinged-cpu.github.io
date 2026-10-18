@@ -13,7 +13,7 @@ Entergy is an electrician in New Caney, TX at 21001 Eastex Freeway, New Caney, T
 - Website: https://www.entergy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 56% of electricians in Houston, #1 of 1 electricians in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 56% of electricians in Houston, #1 of 1 electricians in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

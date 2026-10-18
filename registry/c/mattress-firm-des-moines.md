@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Des Moines, IA at 6205 Southeast 14th Stree
 - Website: https://www.mattressfirm.com/en-us/stores/ia/des-moines/679001/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 25% of mattress stores in Des Moines, IA, #2 of 3 mattress stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 25% of mattress stores in Des Moines, IA, #2 of 3 mattress stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

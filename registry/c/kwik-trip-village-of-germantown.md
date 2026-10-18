@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Village of Germantown, WI at N112W18741 Mequon Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 05:00-22:00
-- Pulse Score: 49.1/100 — Building — top 48% of car washes in Milwaukee, #2 of 3 car washes in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 48% of car washes in Milwaukee, #2 of 3 car washes in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

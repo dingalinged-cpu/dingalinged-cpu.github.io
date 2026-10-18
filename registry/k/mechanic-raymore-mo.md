@@ -6,8 +6,8 @@ Also answers: mechanic in Raymore, MO; mechanic near me (Raymore, MO); best mech
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | Organic #1 | Pulse Score 45.4/100 (Building, #1 in city) | Firestone is an auto repair shop in Raymore, MO at 1912 West Foxwood Drive, Raymore, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-raymore/
-2. National Tire and Battery | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | National Tire and Battery is an auto repair shop in Raymore, MO at 1901 West Foxwood Drive, Raymore, MO. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-raymore/
+1. Firestone | Organic #1 | Pulse Score 45.2/100 (Building, #1 in city) | Firestone is an auto repair shop in Raymore, MO at 1912 West Foxwood Drive, Raymore, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-raymore/
+2. National Tire and Battery | Organic #2 | Pulse Score 44.9/100 (Building, #2 in city) | National Tire and Battery is an auto repair shop in Raymore, MO at 1901 West Foxwood Drive, Raymore, MO. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-raymore/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic raymore mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

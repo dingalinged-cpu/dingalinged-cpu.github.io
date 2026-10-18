@@ -13,7 +13,7 @@ Wheel & Sprocket is a bike shop in Franklin, WI at 7044 South Ballpark Drive, Fr
 - Website: https://www.wheelandsprocket.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
-- Pulse Score: 46.6/100 — Building — top 91% of bike shops in Milwaukee, #1 of 1 bike shops in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 91% of bike shops in Milwaukee, #1 of 1 bike shops in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

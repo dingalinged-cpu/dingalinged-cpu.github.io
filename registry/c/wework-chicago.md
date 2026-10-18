@@ -13,7 +13,7 @@ WeWork is a coworking space in Chicago, IL at 330 North Wabash Avenue #23rd Floo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 44.8/100 — Building — top 96% of coworking spaces in Chicago, #16 of 17 coworking spaces in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 96% of coworking spaces in Chicago, #16 of 17 coworking spaces in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

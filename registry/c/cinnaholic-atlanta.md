@@ -13,7 +13,7 @@ Cinnaholic is a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, A
 - Website: https://www.cinnaholic.com/
 - Email: cinnaholicatl@gmail.com
 - Opening hours (OSM syntax): Fr-Sa 10:00-22:00; Su-Th 10:00-21:00
-- Pulse Score: 68.4/100 — Good — top 2% of bakerys in Atlanta, #1 of 28 bakerys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.9, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 68.4/100 — Good — top 2% of bakerys in Atlanta, #1 of 28 bakerys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.9, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

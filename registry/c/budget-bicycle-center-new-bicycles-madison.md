@@ -13,7 +13,7 @@ Budget Bicycle Center - New Bicycles is a bike shop in Madison, WI at 1230 Regen
 - Website: https://budgetbicyclectr.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 11:00-17:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 55% of bike shops in Madison, #16 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 55% of bike shops in Madison, #16 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

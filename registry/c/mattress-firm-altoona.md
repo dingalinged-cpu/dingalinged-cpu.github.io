@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Altoona, IA at 3580 8th Street Southwest, A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 84% of mattress stores in Des Moines, IA, #1 of 1 mattress stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 75% of mattress stores in Des Moines, IA, #1 of 1 mattress stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anderson Funeral Home is a funeral home in Saint Paul, MN at 1401 Arcade Street,
 - Website: https://andersonfuneralhome.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of funeral homes in Minneapolis–St. Paul, #5 of 8 funeral homes in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 32% of funeral homes in Minneapolis–St. Paul, #5 of 8 funeral homes in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

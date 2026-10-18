@@ -6,7 +6,7 @@ Also answers: gym in Prairie Village, KS; gym near me (Prairie Village, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 2020FIT | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | 2020FIT is a gym in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/2020fit-prairie-village/
+1. 2020FIT | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | 2020FIT is a gym in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/2020fit-prairie-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym prairie village ks | category: Fitness | industry benchmark: Health & Fitness

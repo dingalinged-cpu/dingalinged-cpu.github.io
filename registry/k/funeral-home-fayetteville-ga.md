@@ -6,7 +6,7 @@ Also answers: funeral home in Fayetteville, GA; funeral home near me (Fayettevil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mowell's and Son Funeral Home | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Mowell's and Son Funeral Home is a funeral home in Fayetteville, GA at 180 Jeff Davis Drive North, Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/mowells-and-son-funeral-home-fayetteville/
+1. Mowell's and Son Funeral Home | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Mowell's and Son Funeral Home is a funeral home in Fayetteville, GA at 180 Jeff Davis Drive North, Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/mowells-and-son-funeral-home-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home fayetteville ga | category: Professional & financial services | industry benchmark: Finance & Insurance

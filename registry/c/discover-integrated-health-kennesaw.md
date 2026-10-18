@@ -13,7 +13,7 @@ Discover Integrated Health is a physical therapy clinic in Kennesaw, GA at 3940 
 - Website: https://discoverrehab.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-13:00,15:00-18:00; Tu,Su off; Sa 09:00-12:00
-- Pulse Score: 61.6/100 — Good — top 10% of physical therapy clinics in Atlanta, #1 of 4 physical therapy clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 10% of physical therapy clinics in Atlanta, #1 of 4 physical therapy clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

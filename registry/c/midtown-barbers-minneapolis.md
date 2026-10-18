@@ -13,7 +13,7 @@ Midtown Barbers is a hair salon in Minneapolis, MN. Phone: +17633273043.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): mo0fr 10:00-19:00l sa 10:00-18:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 26% of hair salons in Minneapolis–St. Paul, #36 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 26% of hair salons in Minneapolis–St. Paul, #35 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

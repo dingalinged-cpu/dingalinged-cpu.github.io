@@ -13,7 +13,7 @@ Cost Cutters is a hair salon in Mount Horeb, WI at 1205 Springdale Street, Mount
 - Website: https://www.costcutterssalons.com/salons/mt-horeb-wi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 73% of hair salons in Madison, #1 of 1 hair salons in Mount Horeb (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 72% of hair salons in Madison, #1 of 1 hair salons in Mount Horeb (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,8 +7,8 @@ Also answers: liquor store in Wheeling, IL; liquor store near me (Wheeling, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. B & L Liquors | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | B & L Liquors is a liquor store in Wheeling, IL at 767 West Dundee Road, Wheeling, IL 60090. Phone: +18472798000. | https://registry-edge.dingalinged.workers.dev/c/b-and-l-liquors-wheeling/
-2. Liquor Barn | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Liquor Barn is a liquor store in Wheeling, IL. | https://registry-edge.dingalinged.workers.dev/c/liquor-barn-wheeling/
-3. Binny's Beverage Depot | Organic #3 | Pulse Score 49.7/100 (Building, #3 in city) | Binny's Beverage Depot is a liquor store in Wheeling, IL. Phone: +18474592200. Website: https://www.binnys.com/store-locator/wheeling/. | https://registry-edge.dingalinged.workers.dev/c/binnys-beverage-depot-wheeling/
+2. Binny's Beverage Depot | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | Binny's Beverage Depot is a liquor store in Wheeling, IL. Phone: +18474592200. Website: https://www.binnys.com/store-locator/wheeling/. | https://registry-edge.dingalinged.workers.dev/c/binnys-beverage-depot-wheeling/
+3. Liquor Barn | Organic #3 | Pulse Score 41.8/100 (Unrated, #3 in city) | Liquor Barn is a liquor store in Wheeling, IL. | https://registry-edge.dingalinged.workers.dev/c/liquor-barn-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store wheeling il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

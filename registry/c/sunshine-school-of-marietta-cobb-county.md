@@ -13,7 +13,7 @@ Sunshine School of Marietta is a preschool in Cobb County, GA at 4677 Paper Mill
 - Website: https://sunshinehouse.com/marietta/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 21% of preschools in Atlanta, #3 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of preschools in Atlanta, #3 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

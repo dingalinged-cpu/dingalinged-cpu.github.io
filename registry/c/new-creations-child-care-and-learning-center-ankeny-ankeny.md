@@ -13,7 +13,7 @@ New Creations Child Care & Learning Center | Ankeny is a daycare in Ankeny, IA a
 - Website: https://www.newcreationschildcare.com/ankeny
 - Email: Marketing@newcreationschildcare.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 53.1/100 — Unrated (not enough evidence yet) — top 88% of daycares in Des Moines, IA, #2 of 2 daycares in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 82% of daycares in Des Moines, IA, #2 of 2 daycares in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

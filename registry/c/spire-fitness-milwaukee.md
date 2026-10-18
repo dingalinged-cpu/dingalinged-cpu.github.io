@@ -13,7 +13,7 @@ SPIRE Fitness is a gym in Milwaukee, WI. Phone: +14142199118. Website: https://w
 - Website: https://www.spire-fitness.com/
 - Email: hello@spire-fitness.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 17% of gyms in Milwaukee, #11 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 16% of gyms in Milwaukee, #10 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

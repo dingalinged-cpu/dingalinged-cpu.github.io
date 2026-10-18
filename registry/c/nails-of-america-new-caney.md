@@ -13,7 +13,7 @@ Nails of America is a nail salon in New Caney, TX at 21372 Eastex Freeway #300, 
 - Website: https://www.facebook.com/NOAValleyRanchTownCenter/
 - Email: noavalleyranch@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 11:00-18:00
-- Pulse Score: 52.9/100 — Fair — top 87% of nail salons in Houston, #1 of 2 nail salons in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 69.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.9/100 — Fair — top 84% of nail salons in Houston, #1 of 2 nail salons in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 69.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: drug rehab in Minneapolis, MN; drug rehab near me (Minneapolis, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alliance Clinic | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Alliance Clinic is an addiction treatment center in Minneapolis, MN at 3329 University Avenue Southeast, Minneapolis, MN 55414. Phone: +18773671715. Website: https://www.meridianprograms.com/. | https://registry-edge.dingalinged.workers.dev/c/alliance-clinic-minneapolis/
+1. Alliance Clinic | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Alliance Clinic is an addiction treatment center in Minneapolis, MN at 3329 University Avenue Southeast, Minneapolis, MN 55414. Phone: +18773671715. Website: https://www.meridianprograms.com/. | https://registry-edge.dingalinged.workers.dev/c/alliance-clinic-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: drug rehab minneapolis mn | category: Health & medical - Addiction treatment | industry benchmark: Physicians & Surgeons

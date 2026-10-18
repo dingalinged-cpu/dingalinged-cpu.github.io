@@ -13,7 +13,7 @@ Edina Liquor is a liquor store in Edina, MN at 6755 York Avenue South, Edina, MN
 - Website: https://www.edinaliquor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 90% of liquor stores in Minneapolis–St. Paul, #3 of 3 liquor stores in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 90% of liquor stores in Minneapolis–St. Paul, #3 of 3 liquor stores in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

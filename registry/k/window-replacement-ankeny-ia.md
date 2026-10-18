@@ -6,7 +6,7 @@ Also answers: window replacement in Ankeny, IA; window replacement near me (Anke
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Screenbuilders of Ankeny | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Screenbuilders of Ankeny is a window installer in Ankeny, IA at 1450 NE 69th Pl #Suite 54, Ankeny, IA 50021. Phone: +15152892790. Website: https://screenbuildersankeny.com/. | https://registry-edge.dingalinged.workers.dev/c/screenbuilders-of-ankeny-ankeny/
+1. Screenbuilders of Ankeny | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Screenbuilders of Ankeny is a window installer in Ankeny, IA at 1450 NE 69th Pl #Suite 54, Ankeny, IA 50021. Phone: +15152892790. Website: https://screenbuildersankeny.com/. | https://registry-edge.dingalinged.workers.dev/c/screenbuilders-of-ankeny-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement ankeny ia | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

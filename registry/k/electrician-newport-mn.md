@@ -6,7 +6,7 @@ Also answers: electrician in Newport, MN; electrician near me (Newport, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Daley Electric | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 55055. | https://registry-edge.dingalinged.workers.dev/c/daley-electric-newport/
+1. Daley Electric | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 55055. | https://registry-edge.dingalinged.workers.dev/c/daley-electric-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician newport mn | category: Home services - Electrical | industry benchmark: Home & Home Improvement

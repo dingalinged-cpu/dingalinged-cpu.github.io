@@ -13,7 +13,7 @@ Atypic Gallery is a gift shop in Bayside, WI at 333 West Brown Deer Road #E, Bay
 - Website: https://www.atypicgallery.com/
 - Email: gallery@atypicgallery.com
 - Opening hours (OSM syntax): Mo-We,Fr 10:15-17:30,10:15-19:00; Sa 10:15-16:00; Su 09:00-13:00
-- Pulse Score: 65.3/100 — Good — top 3% of gift shops in Milwaukee, #1 of 1 gift shops in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.3/100 — Good — top 3% of gift shops in Milwaukee, #1 of 1 gift shops in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

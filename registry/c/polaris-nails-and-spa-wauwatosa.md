@@ -13,7 +13,7 @@ Polaris Nails & Spa is a nail salon in Wauwatosa, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Fair — top 47% of nail salons in Milwaukee, #7 of 10 nail salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Fair — top 44% of nail salons in Milwaukee, #7 of 10 nail salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

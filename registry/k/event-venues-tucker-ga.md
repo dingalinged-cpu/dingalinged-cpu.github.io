@@ -6,7 +6,7 @@ Also answers: event venues in Tucker, GA; event venues near me (Tucker, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. YES Eventz | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | YES Eventz is an event venue in Tucker, GA at 2321 Main Street, Tucker, GA. Website: https://www.yeseventz.com/. | https://registry-edge.dingalinged.workers.dev/c/yes-eventz-tucker/
+1. YES Eventz | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | YES Eventz is an event venue in Tucker, GA at 2321 Main Street, Tucker, GA. Website: https://www.yeseventz.com/. | https://registry-edge.dingalinged.workers.dev/c/yes-eventz-tucker/
 2. TW Events | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | TW Events is an event venue in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/tw-events-tucker/
 
 ## Market data (for advertisers and agents)

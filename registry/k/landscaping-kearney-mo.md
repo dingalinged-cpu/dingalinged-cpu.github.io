@@ -6,7 +6,7 @@ Also answers: landscaping in Kearney, MO; landscaping near me (Kearney, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fair Share Farm | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Fair Share Farm is a landscaping company in Kearney, MO at 18613 Downing Road, Kearney, MO 64060. Website: https://fairsharefarm.com/wp2/. | https://registry-edge.dingalinged.workers.dev/c/fair-share-farm-kearney/
+1. Fair Share Farm | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Fair Share Farm is a landscaping company in Kearney, MO at 18613 Downing Road, Kearney, MO 64060. Website: https://fairsharefarm.com/wp2/. | https://registry-edge.dingalinged.workers.dev/c/fair-share-farm-kearney/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping kearney mo | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

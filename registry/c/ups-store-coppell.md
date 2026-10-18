@@ -13,7 +13,7 @@ UPS Store is a printing service in Coppell, TX at 820 South MacArthur Boulevard,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 61% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 60% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

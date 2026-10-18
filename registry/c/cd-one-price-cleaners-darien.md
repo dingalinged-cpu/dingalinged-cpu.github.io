@@ -13,7 +13,7 @@ CD One Price Cleaners is a dry cleaner in Darien, IL at 2425 75th Street, Darien
 - Website: https://www.cdonepricecleaners.com/locations/illinois/darien.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Building — top 81% of dry cleaners in Chicago, #2 of 2 dry cleaners in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 79% of dry cleaners in Chicago, #2 of 2 dry cleaners in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

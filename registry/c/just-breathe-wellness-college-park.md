@@ -13,7 +13,7 @@ Just Breathe Wellness is a yoga studio in College Park, GA at 5530 Old National 
 - Website: n/a
 - Email: just Breathe.atl@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 59% of yoga studios in Atlanta, #1 of 1 yoga studios in College Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 59% of yoga studios in Atlanta, #1 of 1 yoga studios in College Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

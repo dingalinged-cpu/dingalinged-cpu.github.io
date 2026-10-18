@@ -13,7 +13,7 @@ Coatly Bath & Groom is a dog groomer in Atlanta, GA at 1985 Howell Mill Road Nor
 - Website: https://coatly.com/
 - Email: info@coatly.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 61.9/100 — Good — top 19% of dog groomers in Atlanta, #1 of 4 dog groomers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 22% of dog groomers in Atlanta, #2 of 4 dog groomers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

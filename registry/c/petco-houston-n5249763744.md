@@ -13,7 +13,7 @@ Petco is a pet store in Houston, TX at 6883 Highway 6 North, Houston, TX 77084. 
 - Website: https://stores.petco.com/tx/houston/pet-supplies-houston-tx-473.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 45.4/100 — Building — top 71% of pet stores in Houston, #33 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 71% of pet stores in Houston, #33 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

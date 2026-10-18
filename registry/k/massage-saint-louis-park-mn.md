@@ -6,7 +6,7 @@ Also answers: massage in Saint Louis Park, MN; massage near me (Saint Louis Park
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Epic Bodyworks Massage & Skin Care Clinic | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/. | https://registry-edge.dingalinged.workers.dev/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/
+1. Epic Bodyworks Massage & Skin Care Clinic | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/. | https://registry-edge.dingalinged.workers.dev/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/
 2. Elements Massage | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Elements Massage is a massage studio in Saint Louis Park, MN at 5640 36th Street West, Saint Louis Park, MN 55416. Phone: +19523535674. Website: https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-saint-louis-park/
 
 ## Market data (for advertisers and agents)

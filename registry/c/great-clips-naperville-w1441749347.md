@@ -13,7 +13,7 @@ Great Clips is a hair salon in Naperville, IL at 1212 South Naper Boulevard #118
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-21:00; Sa 8:30-17:30; Su 10:00-17:00
-- Pulse Score: 50.3/100 — Fair — top 76% of hair salons in Chicago, #24 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 75% of hair salons in Chicago, #24 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

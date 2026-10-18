@@ -13,7 +13,7 @@ Underdog Rescue MN is a pet store in Saint Louis Park, MN at 3345 Dakota Avenue 
 - Website: https://www.underdogrescuemn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 19% of pet stores in Minneapolis–St. Paul, #3 of 5 pet stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 19% of pet stores in Minneapolis–St. Paul, #3 of 5 pet stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

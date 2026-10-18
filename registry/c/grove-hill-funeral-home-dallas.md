@@ -13,7 +13,7 @@ Grove Hill Funeral Home is a funeral home in Dallas, TX at 3930 Samuell Boulevar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Dallas–Fort Worth, #9 of 11 funeral homes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Dallas–Fort Worth, #9 of 11 funeral homes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

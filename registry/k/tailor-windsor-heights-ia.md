@@ -6,8 +6,8 @@ Also answers: tailor in Windsor Heights, IA; tailor near me (Windsor Heights, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hickman Tailors | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Hickman Tailors is a tailor in Windsor Heights, IA at 6720 Hickman Road, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/hickman-tailors-windsor-heights/
-2. Young's Tailor Shop | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Young's Tailor Shop is a tailor in Windsor Heights, IA at 6573 University Avenue, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/youngs-tailor-shop-windsor-heights/
+1. Hickman Tailors | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Hickman Tailors is a tailor in Windsor Heights, IA at 6720 Hickman Road, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/hickman-tailors-windsor-heights/
+2. Young's Tailor Shop | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Young's Tailor Shop is a tailor in Windsor Heights, IA at 6573 University Avenue, Windsor Heights, IA 50324. | https://registry-edge.dingalinged.workers.dev/c/youngs-tailor-shop-windsor-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor windsor heights ia | category: Professional & financial services | industry benchmark: Finance & Insurance

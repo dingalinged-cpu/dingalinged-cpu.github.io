@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. American Regenerative Bodywork | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | American Regenerative Bodywork is a massage studio in Roswell, GA at 770 Old Roswell Place #H-500, Roswell, GA 30076. Phone: +16783002259. Website: https://www.massagetherapyga.info/. | https://registry-edge.dingalinged.workers.dev/c/american-regenerative-bodywork-roswell/
 2. Mi Ni Massage | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Mi Ni Massage is a massage studio in Roswell, GA at 4750 Alabama Road #112, Roswell, GA. Phone: +16789861808. | https://registry-edge.dingalinged.workers.dev/c/mi-ni-massage-roswell/
 3. Best Day Massage | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Best Day Massage is a massage studio in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/best-day-massage-roswell/
-4. Wellness Massage | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Wellness Massage is a massage studio in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/wellness-massage-roswell/
-5. Massage Envy | Organic #5 | Pulse Score 46.6/100 (Building, #5 in city) | Massage Envy is a massage studio in Roswell, GA at 2300 Holcomb Bridge Road #302, Roswell, GA 30076. Phone: +17708173689. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-roswell/
+4. Massage Envy | Organic #4 | Pulse Score 46.6/100 (Building, #4 in city) | Massage Envy is a massage studio in Roswell, GA at 2300 Holcomb Bridge Road #302, Roswell, GA 30076. Phone: +17708173689. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-roswell/
+5. Wellness Massage | Organic #5 | Pulse Score 41.7/100 (Unrated, #5 in city) | Wellness Massage is a massage studio in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/wellness-massage-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage roswell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

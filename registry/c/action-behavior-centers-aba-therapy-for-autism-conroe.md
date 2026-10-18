@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Conroe
 - Website: https://www.actionbehavior.com/location/texas/conroe-anderson-crossing
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49.1/100 — Building — top 67% of therapy practices in Houston, #2 of 2 therapy practices in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 67% of therapy practices in Houston, #2 of 2 therapy practices in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Express Tires is a tire shop in Cicero, IL at 1901 South Laramie Avenue, Cicero,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 15% of tire shops in Chicago, #2 of 2 tire shops in Cicero (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 12% of tire shops in Chicago, #2 of 2 tire shops in Cicero (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

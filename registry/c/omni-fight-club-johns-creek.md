@@ -13,7 +13,7 @@ Omni Fight Club is a martial arts school in Johns Creek, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 83% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 83% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

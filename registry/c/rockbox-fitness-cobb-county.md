@@ -13,7 +13,7 @@ RockBox Fitness is a gym in Cobb County, GA at 4880 Lower Roswell Road #460, Cob
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 26% of gyms in Atlanta, #15 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 25% of gyms in Atlanta, #15 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

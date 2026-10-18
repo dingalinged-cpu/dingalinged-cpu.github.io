@@ -13,7 +13,7 @@ Storage Depot is a property management company in Omaha, NE at 4202 South 120th 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 84% of property management companys in Omaha, NE, #4 of 5 property management companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 100% of property management companys in Omaha, NE, #5 of 5 property management companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

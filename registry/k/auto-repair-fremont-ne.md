@@ -11,8 +11,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Gene Steffy Chrysler Jeep Dodge | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Gene Steffy Chrysler Jeep Dodge is an auto repair shop in Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/gene-steffy-chrysler-jeep-dodge-fremont/
 4. Sid Dillon Buick GMC Cadillac | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Sid Dillon Buick GMC Cadillac is an auto repair shop in Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/sid-dillon-buick-gmc-cadillac-fremont/
 5. Sid Dillon Chevrolet | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Sid Dillon Chevrolet is an auto repair shop in Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/sid-dillon-chevrolet-fremont/
-6. Walmart Tire & Lube | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Walmart Tire & Lube is an auto repair shop in Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/walmart-tire-and-lube-fremont/
-7. Jensen Tire & Auto | Organic #7 | Pulse Score 45.2/100 (Unrated, #7 in city) | Jensen Tire & Auto is an auto repair shop in Fremont, NE at 245 East Military Avenue, Fremont, NE 68025. | https://registry-edge.dingalinged.workers.dev/c/jensen-tire-and-auto-fremont/
+6. Jensen Tire & Auto | Organic #6 | Pulse Score 45.2/100 (Unrated, #6 in city) | Jensen Tire & Auto is an auto repair shop in Fremont, NE at 245 East Military Avenue, Fremont, NE 68025. | https://registry-edge.dingalinged.workers.dev/c/jensen-tire-and-auto-fremont/
+7. Walmart Tire & Lube | Organic #7 | Pulse Score 41.7/100 (Unrated, #7 in city) | Walmart Tire & Lube is an auto repair shop in Fremont, NE. | https://registry-edge.dingalinged.workers.dev/c/walmart-tire-and-lube-fremont/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair fremont ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Highland Park, IL is Waterway Car Wash (a car wash in Highland Park, IL at 64 Skokie Valley Road, Highland Park, IL 60035. Website: https://www.waterway.com/locations/highland-park/). 4 car wash businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Highland Park, IL is Wash Savvy (a car wash in Highland Park, IL). 4 car wash businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Highland Park, IL?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Highland Park, IL; car wash near me (Highland Park, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waterway Car Wash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Waterway Car Wash is a car wash in Highland Park, IL at 64 Skokie Valley Road, Highland Park, IL 60035. Website: https://www.waterway.com/locations/highland-park/. | https://registry-edge.dingalinged.workers.dev/c/waterway-car-wash-highland-park/
-2. Wash Savvy | Organic #2 | Pulse Score 58.8/100 (Fair, #2 in city) | Wash Savvy is a car wash in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/wash-savvy-highland-park/
-3. North Shore Auto Spa | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | North Shore Auto Spa is a car wash in Highland Park, IL at 2744 Skokie Valley Road, Highland Park, IL 60035. | https://registry-edge.dingalinged.workers.dev/c/north-shore-auto-spa-highland-park/
+1. Wash Savvy | Organic #1 | Pulse Score 58.8/100 (Fair, #1 in city) | Wash Savvy is a car wash in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/wash-savvy-highland-park/
+2. North Shore Auto Spa | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | North Shore Auto Spa is a car wash in Highland Park, IL at 2744 Skokie Valley Road, Highland Park, IL 60035. | https://registry-edge.dingalinged.workers.dev/c/north-shore-auto-spa-highland-park/
+3. Waterway Car Wash | Organic #3 | Pulse Score 49.3/100 (Unrated, #3 in city) | Waterway Car Wash is a car wash in Highland Park, IL at 64 Skokie Valley Road, Highland Park, IL 60035. Website: https://www.waterway.com/locations/highland-park/. | https://registry-edge.dingalinged.workers.dev/c/waterway-car-wash-highland-park/
 4. Shell | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Shell is a car wash in Highland Park, IL at 10 Skokie Valley Road, Highland Park, IL 60035. | https://registry-edge.dingalinged.workers.dev/c/shell-highland-park/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: storage units in Oak Grove, MO; storage units near me (Oak Grove, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Attic Storage of Oak Grove | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Attic Storage of Oak Grove is a self-storage facility in Oak Grove, MO at 601 Southwest 1st Street, Oak Grove, MO 64075. Phone: +18166908122. | https://registry-edge.dingalinged.workers.dev/c/attic-storage-of-oak-grove-oak-grove/
+1. Attic Storage of Oak Grove | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Attic Storage of Oak Grove is a self-storage facility in Oak Grove, MO at 601 Southwest 1st Street, Oak Grove, MO 64075. Phone: +18166908122. | https://registry-edge.dingalinged.workers.dev/c/attic-storage-of-oak-grove-oak-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units oak grove mo | category: Home services - Moving | industry benchmark: Home & Home Improvement

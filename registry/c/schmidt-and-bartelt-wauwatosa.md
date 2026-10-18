@@ -13,7 +13,7 @@ Schmidt and Bartelt is a funeral home in Wauwatosa, WI at 10121 West North Avenu
 - Website: https://www.schmidtandbartelt.com/funeral-homes/wauwatosa-funeral-home.htm
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 39% of funeral homes in Milwaukee, #1 of 1 funeral homes in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 39% of funeral homes in Milwaukee, #1 of 1 funeral homes in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

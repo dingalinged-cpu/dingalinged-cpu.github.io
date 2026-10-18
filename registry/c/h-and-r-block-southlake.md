@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Southlake, TX at 2140 East Southlake B
 - Website: https://www.hrblock.com/local-tax-offices/texas/southlake/2140-e-southlake-blvd/41844
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-18:00
-- Pulse Score: 50.6/100 — Fair — top 41% of tax preparation services in Dallas–Fort Worth, #1 of 1 tax preparation services in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 40% of tax preparation services in Dallas–Fort Worth, #1 of 1 tax preparation services in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

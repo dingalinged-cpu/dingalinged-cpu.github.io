@@ -13,7 +13,7 @@ Memorial Hermann Medical Group Sweetwater is a family medicine practice in Sugar
 - Website: https://memorialhermann.org/home/locations/mhmg-sweetwater
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; PH closed
-- Pulse Score: 50.1/100 — Fair — top 76% of family medicine practices in Houston, #1 of 2 family medicine practices in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 47.8, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 76% of family medicine practices in Houston, #1 of 2 family medicine practices in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 47.8, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

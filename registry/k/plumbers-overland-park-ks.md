@@ -6,7 +6,7 @@ Also answers: plumbers in Overland Park, KS; plumbers near me (Overland Park, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riden Plumbing | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Riden Plumbing is a plumber in Overland Park, KS at 11306 West 89th Street, Overland Park, KS 66214. Phone: +19134328495. Website: https://www.ridenplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/riden-plumbing-overland-park/
+1. Riden Plumbing | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Riden Plumbing is a plumber in Overland Park, KS at 11306 West 89th Street, Overland Park, KS 66214. Phone: +19134328495. Website: https://www.ridenplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/riden-plumbing-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers overland park ks | category: Home Services | industry benchmark: Home & Home Improvement

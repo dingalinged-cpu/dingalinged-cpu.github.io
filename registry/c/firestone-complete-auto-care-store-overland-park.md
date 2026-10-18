@@ -13,12 +13,12 @@ Firestone Complete Auto Care Store is an auto repair shop in Overland Park, KS a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 79% of auto repair shops in Kansas City, MO, #12 of 16 auto repair shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 79% of auto repair shops in Kansas City, MO, #12 of 16 auto repair shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-store-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-complete-auto-care-store-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/210693044 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/210693044 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

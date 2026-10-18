@@ -7,7 +7,7 @@ Also answers: preschool in Hoffman Estates, IL; preschool near me (Hoffman Estat
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Hoffman Estates KinderCare | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Hoffman Estates KinderCare is a preschool in Hoffman Estates, IL at 1351 West Palatine Road, Hoffman Estates, IL 60192. | https://registry-edge.dingalinged.workers.dev/c/hoffman-estates-kindercare-hoffman-estates/
-2. KinderCare | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | KinderCare is a preschool in Hoffman Estates, IL at 1275 Jones Road, Hoffman Estates, IL 60169. | https://registry-edge.dingalinged.workers.dev/c/kindercare-hoffman-estates/
+2. KinderCare | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | KinderCare is a preschool in Hoffman Estates, IL at 1275 Jones Road, Hoffman Estates, IL 60169. | https://registry-edge.dingalinged.workers.dev/c/kindercare-hoffman-estates/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool hoffman estates il | category: Education & childcare | industry benchmark: Education & Instruction

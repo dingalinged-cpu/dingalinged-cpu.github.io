@@ -13,7 +13,7 @@ Blue Line Electric is an electrician in McKinney, TX at 3342 FM 1827 #1A, McKinn
 - Website: https://callblueline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa-Su closed
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 42% of electricians in Dallas–Fort Worth, #1 of 1 electricians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 42% of electricians in Dallas–Fort Worth, #1 of 1 electricians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

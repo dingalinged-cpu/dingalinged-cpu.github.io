@@ -6,7 +6,7 @@ Also answers: accountant in Frisco, TX; accountant near me (Frisco, TX); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Henry & Peters | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Henry & Peters is an accountant in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/henry-and-peters-frisco/
+1. Henry & Peters | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Henry & Peters is an accountant in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/henry-and-peters-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant frisco tx | category: professional_accounting | industry benchmark: Business Services

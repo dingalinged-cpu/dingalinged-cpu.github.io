@@ -13,7 +13,7 @@ Glo Tanning is a tanning salon in Euless, TX at 2750 State Hwy 1212 #300, Euless
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Unrated (not enough evidence yet) — top 86% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Unrated (not enough evidence yet) — top 86% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.8, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

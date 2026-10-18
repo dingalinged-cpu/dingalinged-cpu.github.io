@@ -13,7 +13,7 @@ Momentum Physical Therapy is a physical therapy clinic in Naperville, IL at 1512
 - Website: https://momentumphysicaltherapy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of physical therapy clinics in Chicago, #1 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of physical therapy clinics in Chicago, #1 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

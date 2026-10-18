@@ -13,7 +13,7 @@ Aristide Event Center is an event venue in Mansfield, TX at 570 North Walnut Cre
 - Website: https://waltersweddingestates.com/venues/aristide-mansfield/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 53% of event venues in Dallas–Fort Worth, #1 of 2 event venues in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 53% of event venues in Dallas–Fort Worth, #1 of 2 event venues in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

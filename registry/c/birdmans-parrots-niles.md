@@ -13,7 +13,7 @@ Birdmans Parrots is a pet store in Niles, IL at 7752 North Milwaukee Avenue, Nil
 - Website: https://birdmansparrots.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 12:00-19:30; Su 12:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 1% of pet stores in Chicago, #1 of 2 pet stores in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 1% of pet stores in Chicago, #1 of 2 pet stores in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

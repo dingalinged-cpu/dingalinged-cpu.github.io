@@ -13,12 +13,12 @@ De Soto Flowers and Gifts is a florist in De Soto, KS at 33045 West 83rd Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 35% of florists in Kansas City, MO, #1 of 1 florists in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 35% of florists in Kansas City, MO, #1 of 1 florists in De Soto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/de-soto-flowers-and-gifts-de-soto/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/de-soto-flowers-and-gifts-de-soto.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4455941352 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4455941352 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

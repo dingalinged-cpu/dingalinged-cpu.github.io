@@ -6,9 +6,9 @@ Also answers: insurance agent in Waunakee, WI; insurance agent near me (Waunakee
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hub Insurance | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Hub Insurance is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/hub-insurance-waunakee/
-2. Kurt Fauerbach Insurance | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Kurt Fauerbach Insurance is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/kurt-fauerbach-insurance-waunakee/
-3. Safeco | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Safeco is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/safeco-waunakee/
+1. Hub Insurance | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Hub Insurance is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/hub-insurance-waunakee/
+2. Kurt Fauerbach Insurance | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Kurt Fauerbach Insurance is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/kurt-fauerbach-insurance-waunakee/
+3. Safeco | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Safeco is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/safeco-waunakee/
 4. American Family Insurance - Katy Lea | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | American Family Insurance - Katy Lea is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-katy-lea-waunakee/
 5. Erie Insurance | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Erie Insurance is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/erie-insurance-waunakee/
 6. State Farm - Troy Salisbury | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | State Farm - Troy Salisbury is an insurance agent in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/state-farm-troy-salisbury-waunakee/

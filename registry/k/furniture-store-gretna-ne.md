@@ -6,7 +6,7 @@ Also answers: furniture store in Gretna, NE; furniture store near me (Gretna, NE
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woodwright Contracting & Design | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Woodwright Contracting & Design is a furniture store in Gretna, NE at 118 North McKenna Avenue, Gretna, NE 68028. Website: https://www.houzz.com/pro/rlancaster/woodwright-contracting-and-design. | https://registry-edge.dingalinged.workers.dev/c/woodwright-contracting-and-design-gretna/
+1. Woodwright Contracting & Design | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Woodwright Contracting & Design is a furniture store in Gretna, NE at 118 North McKenna Avenue, Gretna, NE 68028. Website: https://www.houzz.com/pro/rlancaster/woodwright-contracting-and-design. | https://registry-edge.dingalinged.workers.dev/c/woodwright-contracting-and-design-gretna/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store gretna ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

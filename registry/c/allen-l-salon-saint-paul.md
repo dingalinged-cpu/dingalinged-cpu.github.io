@@ -13,7 +13,7 @@ Allen L Salon is a hair salon in Saint Paul, MN at 1824 Grand Avenue, Saint Paul
 - Website: https://www.allenlsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Minneapolis–St. Paul, #11 of 65 hair salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Minneapolis–St. Paul, #11 of 65 hair salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Legacy Humane Vet Clinic is a veterinarian in McKinney, TX at 5121 Collin McKinn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 48% of veterinarians in Dallas–Fort Worth, #8 of 11 veterinarians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 47% of veterinarians in Dallas–Fort Worth, #8 of 11 veterinarians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

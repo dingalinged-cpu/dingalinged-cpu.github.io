@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care is an assisted living facility in Tucker, GA at
 - Website: https://www.visitingangels.com/tucker/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 98% of assisted living facilitys in Atlanta, #1 of 1 assisted living facilitys in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 98% of assisted living facilitys in Atlanta, #1 of 1 assisted living facilitys in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

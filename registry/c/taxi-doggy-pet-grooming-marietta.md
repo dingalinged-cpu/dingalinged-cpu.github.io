@@ -13,7 +13,7 @@ Taxi Doggy Pet Grooming is a dog groomer in Marietta, GA at 2856 Delk Road South
 - Website: https://taxidoggypetgroomingllc.setmore.com/
 - Email: rodispetspa@yahoo.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 08:00-16:00
-- Pulse Score: 64.2/100 — Good — top 7% of dog groomers in Atlanta, #2 of 3 dog groomers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 7% of dog groomers in Atlanta, #2 of 3 dog groomers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

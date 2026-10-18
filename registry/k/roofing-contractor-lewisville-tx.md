@@ -6,7 +6,7 @@ Also answers: roofing contractor in Lewisville, TX; roofing contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Triton Roofing & Restoration | Organic #1 | Pulse Score 55.6/100 (Fair, #1 in city) | Triton Roofing & Restoration is a roofer in Lewisville, TX at 206 South Charles Street #107, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/triton-roofing-and-restoration-lewisville/
+1. Triton Roofing & Restoration | Organic #1 | Pulse Score 55.5/100 (Fair, #1 in city) | Triton Roofing & Restoration is a roofer in Lewisville, TX at 206 South Charles Street #107, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/triton-roofing-and-restoration-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor lewisville tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

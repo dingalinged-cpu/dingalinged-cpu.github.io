@@ -13,7 +13,7 @@ Buffalo Exchange is a thrift store in Houston, TX at 1222 Westheimer Road, Houst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-20:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 15% of thrift stores in Houston, #7 of 44 thrift stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 14% of thrift stores in Houston, #7 of 44 thrift stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: pet store in Ramsey, MN; pet store near me (Ramsey, MN); best pet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fetched-Up | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Fetched-Up is a pet store in Ramsey, MN at 6111 T.H 10 Service Road #300, Ramsey, MN 55303. | https://registry-edge.dingalinged.workers.dev/c/fetched-up-ramsey/
+1. Fetched-Up | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Fetched-Up is a pet store in Ramsey, MN at 6111 T.H 10 Service Road #300, Ramsey, MN 55303. | https://registry-edge.dingalinged.workers.dev/c/fetched-up-ramsey/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store ramsey mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

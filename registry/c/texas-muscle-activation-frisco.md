@@ -13,7 +13,7 @@ Texas Muscle Activation is a chiropractor in Frisco, TX at 8380 Warren Parkway #
 - Website: https://www.texasmuscleactivation.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30, Fr 09:00-12:00
-- Pulse Score: 63.9/100 — Good — top 5% of chiropractors in Dallas–Fort Worth, #1 of 4 chiropractors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 5% of chiropractors in Dallas–Fort Worth, #1 of 4 chiropractors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

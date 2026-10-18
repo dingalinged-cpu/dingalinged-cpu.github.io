@@ -13,7 +13,7 @@ Driven Collision is an auto repair shop in Kennesaw, GA at 2184 Cobb Parkway, Ke
 - Website: https://drivencollision.com/
 - Email: info@drivencollision.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in Atlanta, #20 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 72% of auto repair shops in Atlanta, #20 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Lockport Express Medical is an urgent care clinic in Lockport, IL at 16221 West 
 - Website: https://www.xpressmedical.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa,Su 10:00-16:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 54% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 54% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

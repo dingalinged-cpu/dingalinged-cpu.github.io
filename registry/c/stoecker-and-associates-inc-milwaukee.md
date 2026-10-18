@@ -13,7 +13,7 @@ Stoecker & Associates, Inc. is an insurance agent in Milwaukee, WI at 5128 West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 65% of insurance agents in Milwaukee, #18 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 65% of insurance agents in Milwaukee, #18 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

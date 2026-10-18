@@ -6,7 +6,7 @@ Also answers: music lessons in Dallas, TX; music lessons near me (Dallas, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Preston Harmony | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Preston Harmony is a music school in Dallas, TX at 11661 Preston Road #136, Dallas, TX 75230. Phone: +12143697772. Website: https://www.prestonharmonymusic.com/. | https://registry-edge.dingalinged.workers.dev/c/preston-harmony-dallas/
+1. Preston Harmony | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Preston Harmony is a music school in Dallas, TX at 11661 Preston Road #136, Dallas, TX 75230. Phone: +12143697772. Website: https://www.prestonharmonymusic.com/. | https://registry-edge.dingalinged.workers.dev/c/preston-harmony-dallas/
 2. Scott Sound Music | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Scott Sound Music is a music school in Dallas, TX at 17194 Preston Road #219, Dallas, TX 75248. | https://registry-edge.dingalinged.workers.dev/c/scott-sound-music-dallas/
 3. Dallas Piano Academy | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dallas Piano Academy is a music school in Dallas, TX at 10464 East Northwest Highway, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/dallas-piano-academy-dallas/
 

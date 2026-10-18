@@ -13,7 +13,7 @@ B Towne Auto Service is an auto repair shop in Burlington, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 59% of auto repair shops in Milwaukee, #2 of 6 auto repair shops in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 58% of auto repair shops in Milwaukee, #2 of 6 auto repair shops in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

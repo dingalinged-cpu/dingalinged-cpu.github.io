@@ -13,7 +13,7 @@ Balance Yoga Lounge is a yoga studio in Ankeny, IA at 2202 East 1st Street, Anke
 - Website: https://balanceyogalounge.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 75% of yoga studios in Des Moines, IA, #1 of 1 yoga studios in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 75% of yoga studios in Des Moines, IA, #1 of 1 yoga studios in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

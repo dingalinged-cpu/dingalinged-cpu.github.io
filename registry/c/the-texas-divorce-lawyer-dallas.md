@@ -13,7 +13,7 @@ The Texas Divorce Lawyer is a lawyer in Dallas, TX at 12222 Merit Drive #1201, D
 - Website: https://www.thetexasdivorcelawyer.com/
 - Email: texasdivorcelawyer434@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of lawyers in Dallas–Fort Worth, #12 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of lawyers in Dallas–Fort Worth, #12 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

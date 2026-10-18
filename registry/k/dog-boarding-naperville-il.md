@@ -6,7 +6,7 @@ Also answers: dog boarding in Naperville, IL; dog boarding near me (Naperville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSuites | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | PetSuites is a dog boarding facility in Naperville, IL at 540 East Ogden Avenue, Naperville, IL 60563. Phone: +16304676826. Website: https://naperville.petsuitesofamerica.com/. | https://registry-edge.dingalinged.workers.dev/c/petsuites-naperville/
+1. PetSuites | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | PetSuites is a dog boarding facility in Naperville, IL at 540 East Ogden Avenue, Naperville, IL 60563. Phone: +16304676826. Website: https://naperville.petsuitesofamerica.com/. | https://registry-edge.dingalinged.workers.dev/c/petsuites-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding naperville il | category: Pets | industry benchmark: Animals & Pets

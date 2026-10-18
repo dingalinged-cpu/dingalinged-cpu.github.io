@@ -6,7 +6,7 @@ Also answers: bike shop in Villa Park, IL; bike shop near me (Villa Park, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J & R Cycle & Ski | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Road, Villa Park, IL 60181. Phone: +16306201606. Website: https://www.jandrcycleandski.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-r-cycle-and-ski-villa-park/
+1. J & R Cycle & Ski | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Road, Villa Park, IL 60181. Phone: +16306201606. Website: https://www.jandrcycleandski.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-r-cycle-and-ski-villa-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop villa park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: vet in Hopkins, MN; vet near me (Hopkins, MN); best vet Hopkins, M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hopkins Pet Hospital | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Hopkins Pet Hospital is a veterinarian in Hopkins, MN. | https://registry-edge.dingalinged.workers.dev/c/hopkins-pet-hospital-hopkins/
+1. Hopkins Pet Hospital | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Hopkins Pet Hospital is a veterinarian in Hopkins, MN. | https://registry-edge.dingalinged.workers.dev/c/hopkins-pet-hospital-hopkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet hopkins mn | category: Pets | industry benchmark: Animals & Pets

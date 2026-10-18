@@ -6,7 +6,7 @@ Also answers: chiropractor in Platte City, MO; chiropractor near me (Platte City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clarrey Chiropractic Inc. | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Clarrey Chiropractic Inc. is a chiropractor in Platte City, MO at 700 Branch Street #5, Platte City, MO 64079. Phone: +18168582633. | https://registry-edge.dingalinged.workers.dev/c/clarrey-chiropractic-inc-platte-city/
+1. Clarrey Chiropractic Inc. | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Clarrey Chiropractic Inc. is a chiropractor in Platte City, MO at 700 Branch Street #5, Platte City, MO 64079. Phone: +18168582633. | https://registry-edge.dingalinged.workers.dev/c/clarrey-chiropractic-inc-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor platte city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

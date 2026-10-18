@@ -6,7 +6,7 @@ Also answers: podiatrist in Bellevue, NE; podiatrist near me (Bellevue, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellevue Foot & Ankle Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Bellevue Foot & Ankle Center is a podiatrist in Bellevue, NE at 1313 Harlan Drive, Bellevue, NE 68123. Phone: +14022913123. Website: https://www.bfaac.com/. | https://registry-edge.dingalinged.workers.dev/c/bellevue-foot-and-ankle-center-bellevue/
+1. Bellevue Foot & Ankle Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Bellevue Foot & Ankle Center is a podiatrist in Bellevue, NE at 1313 Harlan Drive, Bellevue, NE 68123. Phone: +14022913123. Website: https://www.bfaac.com/. | https://registry-edge.dingalinged.workers.dev/c/bellevue-foot-and-ankle-center-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist bellevue ne | category: Health & medical | industry benchmark: Physicians & Surgeons

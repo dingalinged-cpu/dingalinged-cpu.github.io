@@ -6,7 +6,7 @@ Also answers: vet in Edina, MN; vet near me (Edina, MN); best vet Edina, MN; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vet Partners Edina | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Vet Partners Edina is a veterinarian in Edina, MN at 7101 France Avenue South #Suite 117, Edina, MN 55435. Website: https://myvetpartners.com/edina-2/. | https://registry-edge.dingalinged.workers.dev/c/vet-partners-edina-edina/
+1. Vet Partners Edina | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Vet Partners Edina is a veterinarian in Edina, MN at 7101 France Avenue South #Suite 117, Edina, MN 55435. Website: https://myvetpartners.com/edina-2/. | https://registry-edge.dingalinged.workers.dev/c/vet-partners-edina-edina/
 2. Banfield Pet Hospital | Organic #2 | Pulse Score 46.7/100 (Building, #2 in city) | Banfield Pet Hospital is a veterinarian in Edina, MN at 5103 Gus Young Lane, Edina, MN 55436. Website: https://www.banfield.com/locations/veterinarians/mn/edina/edi/. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-edina/
 
 ## Market data (for advertisers and agents)

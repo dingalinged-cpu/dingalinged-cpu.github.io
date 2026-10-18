@@ -7,7 +7,7 @@ Also answers: liquor store in Royse City, TX; liquor store near me (Royse City, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. AB Beer & Wine | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | AB Beer & Wine is a liquor store in Royse City, TX at 125 East Main Street, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/ab-beer-and-wine-royse-city/
-2. Cork N Bottle | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Cork N Bottle is a liquor store in Royse City, TX at 520 East Interstate 30, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/cork-n-bottle-royse-city/
+2. Cork N Bottle | Organic #2 | Pulse Score 44.2/100 (Unrated, #2 in city) | Cork N Bottle is a liquor store in Royse City, TX at 520 East Interstate 30, Royse City, TX 75189. | https://registry-edge.dingalinged.workers.dev/c/cork-n-bottle-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store royse city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

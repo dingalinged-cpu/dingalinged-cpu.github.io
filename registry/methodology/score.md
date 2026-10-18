@@ -6,7 +6,7 @@ Pulse Score is a 0-100 reputation score the registry computes for every listing;
 - JSON field (full, per company at api/companies/{slug}.json): pulseScore {score, tier, rank, of: businesses in that city+category, top_pct: percentile within category+metro, conf: low|medium|high, conf_v: 0-1, sub: {Reputation, Buzz, Community, Trust}, comp: components present, trend: {30d, 90d} (omitted until history exists), as_of: ISO 8601 date, method: methodology URL}.
 - Markdown sentence: "Pulse Score: 87/100 - Excellent - top 5% of dentists in Minneapolis-St. Paul, #3 of 40 dentists in Minneapolis (confidence: medium, as of 2026-10-17)."
 - JSON-LD: additionalProperty PropertyValue name "Pulse Score" (propertyID pulseScore), minValue 0, maxValue 100, plus one PropertyValue per sub-score. Never AggregateRating or Review.
-- Version: registry-score-v1.2; scores as of 2026-10-18T13:41:34Z
+- Version: registry-score-v1.2; scores as of 2026-10-18T16:37:49Z
 
 ## Tiers
   - Elite: 90-100

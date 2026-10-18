@@ -13,7 +13,7 @@ Edencrest at Green Meadows is an assisted living facility in Johnston, IA at 675
 - Website: https://edencrestliving.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 10% of assisted living facilitys in Des Moines, IA, #1 of 4 assisted living facilitys in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 10% of assisted living facilitys in Des Moines, IA, #1 of 4 assisted living facilitys in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

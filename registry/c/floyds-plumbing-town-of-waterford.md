@@ -13,7 +13,7 @@ Floyd's Plumbing is a plumber in Town of Waterford, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 60% of plumbers in Milwaukee, #1 of 1 plumbers in Town of Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 60% of plumbers in Milwaukee, #1 of 1 plumbers in Town of Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 40.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

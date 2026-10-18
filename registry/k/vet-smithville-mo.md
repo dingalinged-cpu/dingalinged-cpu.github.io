@@ -6,8 +6,8 @@ Also answers: vet in Smithville, MO; vet near me (Smithville, MO); best vet Smit
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brisbane Veterinary Services | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Brisbane Veterinary Services is a veterinarian in Smithville, MO at 14105 Earthworks Drive, Smithville, MO 64089. | https://registry-edge.dingalinged.workers.dev/c/brisbane-veterinary-services-smithville/
-2. Smithville Animal Hospital | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Smithville Animal Hospital is a veterinarian in Smithville, MO. | https://registry-edge.dingalinged.workers.dev/c/smithville-animal-hospital-smithville/
+1. Brisbane Veterinary Services | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Brisbane Veterinary Services is a veterinarian in Smithville, MO at 14105 Earthworks Drive, Smithville, MO 64089. | https://registry-edge.dingalinged.workers.dev/c/brisbane-veterinary-services-smithville/
+2. Smithville Animal Hospital | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Smithville Animal Hospital is a veterinarian in Smithville, MO. | https://registry-edge.dingalinged.workers.dev/c/smithville-animal-hospital-smithville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet smithville mo | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Brick And Ivey is an event venue in Marietta, GA at 1440 Roswell Road #A, Mariet
 - Website: https://www.brickandivey.com/
 - Email: brickandivey@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Good — top 14% of event venues in Atlanta, #4 of 11 event venues in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 14% of event venues in Atlanta, #4 of 11 event venues in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

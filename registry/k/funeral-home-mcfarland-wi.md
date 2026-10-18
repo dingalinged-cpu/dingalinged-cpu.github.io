@@ -6,7 +6,7 @@ Also answers: funeral home in Mcfarland, WI; funeral home near me (Mcfarland, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cress Funeral & Cremation Service | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Cress Funeral & Cremation Service is a funeral home in McFarland, WI at 5801 US Highway 51, McFarland, WI 53558. Phone: +16088380655. Website: https://www.cressfuneralservice.com/mcfarland. | https://registry-edge.dingalinged.workers.dev/c/cress-funeral-and-cremation-service-mcfarland/
+1. Cress Funeral & Cremation Service | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Cress Funeral & Cremation Service is a funeral home in McFarland, WI at 5801 US Highway 51, McFarland, WI 53558. Phone: +16088380655. Website: https://www.cressfuneralservice.com/mcfarland. | https://registry-edge.dingalinged.workers.dev/c/cress-funeral-and-cremation-service-mcfarland/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home mcfarland wi | category: Professional & financial services | industry benchmark: Finance & Insurance

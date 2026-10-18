@@ -6,7 +6,7 @@ Also answers: storage units in Hilltop, MN; storage units near me (Hilltop, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 51.3/100 (Fair, #1 in city) | Public Storage is a self-storage facility in Hilltop, MN at 4560 Central Avenue Northeast, Hilltop, MN 55421. Phone: +17632845544. Website: https://www.publicstorage.com/self-storage-mn-hilltop/5343. | https://registry-edge.dingalinged.workers.dev/c/public-storage-hilltop/
+1. Public Storage | Organic #1 | Pulse Score 51.4/100 (Fair, #1 in city) | Public Storage is a self-storage facility in Hilltop, MN at 4560 Central Avenue Northeast, Hilltop, MN 55421. Phone: +17632845544. Website: https://www.publicstorage.com/self-storage-mn-hilltop/5343. | https://registry-edge.dingalinged.workers.dev/c/public-storage-hilltop/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units hilltop mn | category: Home services - Moving | industry benchmark: Home & Home Improvement

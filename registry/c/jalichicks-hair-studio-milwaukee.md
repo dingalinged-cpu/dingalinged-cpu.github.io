@@ -13,7 +13,7 @@ JaliChicks Hair Studio is a hair salon in Milwaukee, WI at 3737 West National Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-19:00; Su 09:00-14:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of hair salons in Milwaukee, #69 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of hair salons in Milwaukee, #68 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

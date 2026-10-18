@@ -13,7 +13,7 @@ Geek Squad is a computer repair shop in Dallas, TX. Phone: +12146962089. Website
 - Website: https://stores.bestbuy.com/tx/dallas/9378-n-central-expy-58/geeksquad.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 100% of computer repair shops in Dallas–Fort Worth, #1 of 1 computer repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 100% of computer repair shops in Dallas–Fort Worth, #1 of 1 computer repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

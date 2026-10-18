@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Roswell, GA at 1105 Woodstock Road #120, Roswell,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 88% of hair salons in Atlanta, #12 of 13 hair salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 87% of hair salons in Atlanta, #11 of 13 hair salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

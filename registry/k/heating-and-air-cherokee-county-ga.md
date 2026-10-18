@@ -6,7 +6,7 @@ Also answers: heating and air in Cherokee County, GA; heating and air near me (C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hamkock's HVAC | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Hamkock's HVAC is a HVAC contractor in Cherokee County, GA. Website: https://www.hammockshvac.com/. | https://registry-edge.dingalinged.workers.dev/c/hamkocks-hvac-cherokee-county/
+1. Hamkock's HVAC | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Hamkock's HVAC is a HVAC contractor in Cherokee County, GA. Website: https://www.hammockshvac.com/. | https://registry-edge.dingalinged.workers.dev/c/hamkocks-hvac-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air cherokee county ga | category: Home Services | industry benchmark: Home & Home Improvement

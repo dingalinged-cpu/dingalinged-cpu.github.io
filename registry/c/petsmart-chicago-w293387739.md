@@ -13,7 +13,7 @@ PetSmart is a pet store in Chicago, IL at 5210 North Broadway, Chicago, IL 60640
 - Website: https://www.petsmart.com/stores/us/il/chicago-store2524.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 50.1/100 — Fair — top 43% of pet stores in Chicago, #30 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 42% of pet stores in Chicago, #28 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

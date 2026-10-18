@@ -1,4 +1,4 @@
-The top unpaid urgent care listing for Kansas City, MO is Meritas Health Gashland (an urgent care clinic in Kansas City, MO at 9411 North Oak Trafficway #Suite 100, Kansas City, MO 64155. Phone: +18164361800. Website: https://www.meritashealth.com/home/locations/profile/?id=252). 1 urgent care businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Kansas City, MO is NKC Health Primary Care Gashland (an urgent care clinic in Kansas City, MO at 9411 North Oak Trafficway #Suite 100, Kansas City, MO 64155. Phone: +18164361800. Website: https://www.nkchealth.org/location/nkc-health-primary-care-gashland). 1 urgent care businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Kansas City, MO?
 
@@ -6,7 +6,7 @@ Also answers: urgent care in Kansas City, MO; urgent care near me (Kansas City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meritas Health Gashland | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Meritas Health Gashland is an urgent care clinic in Kansas City, MO at 9411 North Oak Trafficway #Suite 100, Kansas City, MO 64155. Phone: +18164361800. Website: https://www.meritashealth.com/home/locations/profile/?id=252. | https://registry-edge.dingalinged.workers.dev/c/meritas-health-gashland-kansas-city/
+1. NKC Health Primary Care Gashland | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | NKC Health Primary Care Gashland is an urgent care clinic in Kansas City, MO at 9411 North Oak Trafficway #Suite 100, Kansas City, MO 64155. Phone: +18164361800. Website: https://www.nkchealth.org/location/nkc-health-primary-care-gashland. | https://registry-edge.dingalinged.workers.dev/c/meritas-health-gashland-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care kansas city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

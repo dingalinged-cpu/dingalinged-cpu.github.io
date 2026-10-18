@@ -6,7 +6,7 @@ Also answers: liquor store in Winfield, IL; liquor store near me (Winfield, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Value Food and Liquor | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Extra Value Food and Liquor is a liquor store in Winfield, IL at 27W237 Geneva Road, Winfield, IL 60190. | https://registry-edge.dingalinged.workers.dev/c/extra-value-food-and-liquor-winfield/
+1. Extra Value Food and Liquor | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Extra Value Food and Liquor is a liquor store in Winfield, IL at 27W237 Geneva Road, Winfield, IL 60190. | https://registry-edge.dingalinged.workers.dev/c/extra-value-food-and-liquor-winfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store winfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

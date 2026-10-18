@@ -13,7 +13,7 @@ Rowan is a piercing studio in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 45.2/100 — Building — top 100% of piercing studios in Madison, #2 of 2 piercing studios in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 100% of piercing studios in Madison, #2 of 2 piercing studios in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

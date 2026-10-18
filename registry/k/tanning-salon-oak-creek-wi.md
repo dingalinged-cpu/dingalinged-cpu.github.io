@@ -6,7 +6,7 @@ Also answers: tanning salon in Oak Creek, WI; tanning salon near me (Oak Creek, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ultra Tan | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Ultra Tan is a tanning salon in Oak Creek, WI at 2141 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/ultra-tan-oak-creek/
+1. Ultra Tan | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Ultra Tan is a tanning salon in Oak Creek, WI at 2141 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/ultra-tan-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon oak creek wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

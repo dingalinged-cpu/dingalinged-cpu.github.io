@@ -6,7 +6,7 @@ Also answers: dermatologist in Allen, TX; dermatologist near me (Allen, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bare Dermatology | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Bare Dermatology is a dermatologist in Allen, TX at 977 Raintree Circle #120, Allen, TX. Phone: +19723384528. Website: https://barederm.com/. | https://registry-edge.dingalinged.workers.dev/c/bare-dermatology-allen/
+1. Bare Dermatology | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Bare Dermatology is a dermatologist in Allen, TX at 977 Raintree Circle #120, Allen, TX. Phone: +19723384528. Website: https://barederm.com/. | https://registry-edge.dingalinged.workers.dev/c/bare-dermatology-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist allen tx | category: Health & medical | industry benchmark: Physicians & Surgeons

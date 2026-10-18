@@ -13,7 +13,7 @@ SK Tax Group is an accountant in Gwinnett County, GA. Phone: +17708816682. Websi
 - Website: https://www.sktaxgroup.com/
 - Email: admin@sktaxgroup.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of accountants in Atlanta, #1 of 4 accountants in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 36% of accountants in Atlanta, #1 of 4 accountants in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

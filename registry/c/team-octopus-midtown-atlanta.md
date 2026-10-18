@@ -13,7 +13,7 @@ Team Octopus Midtown is a martial arts school in Atlanta, GA at 503 Amsterdam Av
 - Website: https://mmaatl.com/midtown-location/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 18% of martial arts schools in Atlanta, #1 of 5 martial arts schools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 18% of martial arts schools in Atlanta, #1 of 5 martial arts schools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

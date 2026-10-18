@@ -13,7 +13,7 @@ Auto Planet is an used car dealer in Dallas, TX at 11544 East Northwest Highway,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 54% of used car dealers in Dallas–Fort Worth, #16 of 25 used car dealers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 54% of used car dealers in Dallas–Fort Worth, #16 of 25 used car dealers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

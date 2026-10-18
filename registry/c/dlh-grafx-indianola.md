@@ -13,7 +13,7 @@ DLH GraFX is a tailor in Indianola, IA. Website: https://dlhventures.com/.
 - Website: https://dlhventures.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 80% of tailors in Des Moines, IA, #1 of 1 tailors in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 80% of tailors in Des Moines, IA, #1 of 1 tailors in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

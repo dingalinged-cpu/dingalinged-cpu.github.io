@@ -6,7 +6,7 @@ Also answers: chiropractor in Rosenberg, TX; chiropractor near me (Rosenberg, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Joint Chiropractic | Organic #1 | Pulse Score 45.7/100 (Unrated, #1 in city) | The Joint Chiropractic is a chiropractor in Rosenberg, TX at 4130 FM 762 #300, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-rosenberg/
+1. The Joint Chiropractic | Organic #1 | Pulse Score 45.8/100 (Unrated, #1 in city) | The Joint Chiropractic is a chiropractor in Rosenberg, TX at 4130 FM 762 #300, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor rosenberg tx | category: Health & medical | industry benchmark: Physicians & Surgeons

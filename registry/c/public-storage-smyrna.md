@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Smyrna, GA at 2791 Cumberland Boule
 - Website: https://www.publicstorage.com/self-storage-ga-smyrna/547.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 34% of self-storage facilitys in Atlanta, #1 of 3 self-storage facilitys in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 30% of self-storage facilitys in Atlanta, #1 of 3 self-storage facilitys in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

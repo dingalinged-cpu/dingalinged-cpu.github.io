@@ -6,7 +6,7 @@ Also answers: bike shop in University Park, TX; bike shop near me (University Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trek | Organic #1 | Pulse Score 47.8/100 (Building, #11 in city) | Trek is a bike shop in Dallas, TX at 7015 Snider Plaza #110, Dallas, TX 75205. Phone: +12143632025. Website: https://www.trekbikes.com/us/en_US/retail/dallas_park_cities/?y_source=1_MTg0ODUwNzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D. | https://registry-edge.dingalinged.workers.dev/c/trek-dallas/
+1. Trek | Organic #1 | Pulse Score 47.9/100 (Building, #11 in city) | Trek is a bike shop in Dallas, TX at 7015 Snider Plaza #110, Dallas, TX 75205. Phone: +12143632025. Website: https://www.trekbikes.com/us/en_US/retail/dallas_park_cities/?y_source=1_MTg0ODUwNzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D. | https://registry-edge.dingalinged.workers.dev/c/trek-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop university park tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

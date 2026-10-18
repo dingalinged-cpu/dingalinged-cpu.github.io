@@ -6,7 +6,7 @@ Also answers: gift shop in Franklin, WI; gift shop near me (Franklin, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Hallmark is a gift shop in Franklin, WI at 7205 South 76th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/hallmark-franklin/
+1. Hallmark | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Hallmark is a gift shop in Franklin, WI at 7205 South 76th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/hallmark-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop franklin wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

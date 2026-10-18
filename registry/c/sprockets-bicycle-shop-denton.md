@@ -13,7 +13,7 @@ Sprockets Bicycle Shop is a bike shop in Denton, TX at 231 West Hickory Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Dallas–Fort Worth, #3 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Dallas–Fort Worth, #3 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

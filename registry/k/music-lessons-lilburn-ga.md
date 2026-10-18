@@ -6,7 +6,7 @@ Also answers: music lessons in Lilburn, GA; music lessons near me (Lilburn, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New School of Music | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | New School of Music is a music school in Lilburn, GA at 4100 Five Forks Trickum Road, Lilburn, GA 30047. Phone: +17709258900. Website: https://www.newschoolofmusic.com/locations/lilburn-ga-30047/. | https://registry-edge.dingalinged.workers.dev/c/new-school-of-music-lilburn/
+1. New School of Music | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | New School of Music is a music school in Lilburn, GA at 4100 Five Forks Trickum Road, Lilburn, GA 30047. Phone: +17709258900. Website: https://www.newschoolofmusic.com/locations/lilburn-ga-30047/. | https://registry-edge.dingalinged.workers.dev/c/new-school-of-music-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons lilburn ga | category: Education & childcare | industry benchmark: Education & Instruction

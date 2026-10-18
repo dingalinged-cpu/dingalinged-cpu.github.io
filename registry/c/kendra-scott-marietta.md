@@ -13,7 +13,7 @@ Kendra Scott is a jewelry store in Marietta, GA at 4475 Roswell Road #940, Marie
 - Website: https://avenueeastcobb.com/directory/kendra-scott/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 50.2/100 — Fair — top 66% of jewelry stores in Atlanta, #8 of 9 jewelry stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 65% of jewelry stores in Atlanta, #8 of 9 jewelry stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

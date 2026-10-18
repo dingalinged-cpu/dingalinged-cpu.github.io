@@ -13,7 +13,7 @@ Early Childhood Center is a preschool in Schaumburg, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 98% of preschools in Chicago, #6 of 7 preschools in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 98% of preschools in Chicago, #6 of 7 preschools in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

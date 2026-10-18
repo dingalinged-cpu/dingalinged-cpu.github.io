@@ -13,7 +13,7 @@ Sun Spa is a massage studio in Champlin, MN at 514 Jefferson Highway North, Cham
 - Website: https://sunspamn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in Champlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in Champlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

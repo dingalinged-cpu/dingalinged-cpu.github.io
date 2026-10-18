@@ -13,7 +13,7 @@ Shell is a car wash in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 64% of car washes in Houston, #54 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 63% of car washes in Houston, #54 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

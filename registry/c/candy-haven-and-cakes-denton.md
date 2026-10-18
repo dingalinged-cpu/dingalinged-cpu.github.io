@@ -13,7 +13,7 @@ Candy Haven & Cakes is a bakery in Denton, TX at 301 North Interstate 35E, Dento
 - Website: https://www.candyhavenandcakes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 14:00-22:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of bakerys in Dallas–Fort Worth, #1 of 5 bakerys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of bakerys in Dallas–Fort Worth, #1 of 5 bakerys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ CrossFit is a gym in Chicago, IL at 4864 West Irving Park Road, Chicago, IL 6064
 - Website: https://crossfitchisel.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 63% of gyms in Chicago, #112 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 62% of gyms in Chicago, #111 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

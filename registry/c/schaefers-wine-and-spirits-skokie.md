@@ -13,7 +13,7 @@ Schaefer's Wine & Spirits is a liquor store in Skokie, IL at 9965 Gross Point Ro
 - Website: https://schaefers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 22% of liquor stores in Chicago, #2 of 4 liquor stores in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 21% of liquor stores in Chicago, #2 of 4 liquor stores in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

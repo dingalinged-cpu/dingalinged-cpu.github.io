@@ -6,7 +6,7 @@ Also answers: therapist in Lee'S Summit, MO; therapist near me (Lee'S Summit, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WW Studio | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | WW Studio is a therapy practice in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-lees-summit/
+1. WW Studio | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | WW Studio is a therapy practice in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/ww-studio-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist lee's summit mo | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

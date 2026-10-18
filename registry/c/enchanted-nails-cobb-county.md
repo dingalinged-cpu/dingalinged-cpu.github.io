@@ -13,7 +13,7 @@ Enchanted Nails is a nail salon in Cobb County, GA at 425 Earnest W Barrett Park
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-21:30; Su 10:00-20:00
-- Pulse Score: 61.6/100 — Good — top 25% of nail salons in Atlanta, #14 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.5, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 25% of nail salons in Atlanta, #13 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.5, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

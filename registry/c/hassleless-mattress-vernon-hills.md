@@ -13,7 +13,7 @@ HassleLess Mattress is a mattress store in Vernon Hills, IL at 375 North Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 66% of mattress stores in Chicago, #1 of 4 mattress stores in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 66% of mattress stores in Chicago, #1 of 4 mattress stores in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

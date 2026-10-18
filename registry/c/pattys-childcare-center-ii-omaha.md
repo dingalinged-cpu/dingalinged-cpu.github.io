@@ -13,7 +13,7 @@ Pattys Childcare Center II is a daycare in Omaha, NE at 4110 South 13th Street, 
 - Website: https://pattyschildcarepapillion.com/
 - Email: pattyschildcarecenter@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 4% of daycares in Omaha, NE, #1 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 4% of daycares in Omaha, NE, #1 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

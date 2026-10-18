@@ -13,7 +13,7 @@ KinderCare is a preschool in Minneapolis, MN at 525 Southeast Huron Boulevard, M
 - Website: https://www.kindercare.com/our-centers/minneapolis/mn/000855
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 48% of preschools in Minneapolis–St. Paul, #7 of 9 preschools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 48% of preschools in Minneapolis–St. Paul, #7 of 9 preschools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

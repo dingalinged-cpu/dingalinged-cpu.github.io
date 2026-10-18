@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Wauwatosa, WI at 6929 West North Avenue, Wau
 - Website: https://www.clubpilates.com/location/wauwatosa
 - Email: wauwatosa@clubpilates.com
 - Opening hours (OSM syntax): Mo,We 09:00-11:30,15:30-19:00; Tu 06:00-07:00,08:30-11:00,17:30-19:30; Th 06:00-11:00,16:00-19:30; Fr 09:00-12:30; Sa 08:00-12:30; Su 08:30-12:00
-- Pulse Score: 50.4/100 — Fair — top 100% of pilates studios in Milwaukee, #2 of 2 pilates studios in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 67.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 100% of pilates studios in Milwaukee, #2 of 2 pilates studios in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

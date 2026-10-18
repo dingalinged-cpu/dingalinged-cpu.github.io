@@ -13,7 +13,7 @@ Auto 1 Towing is a moving company in Omaha, NE at 6328 Grover Street, Omaha, NE 
 - Website: https://auto1towing.net/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Omaha, NE, #1 of 3 moving companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Omaha, NE, #1 of 3 moving companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

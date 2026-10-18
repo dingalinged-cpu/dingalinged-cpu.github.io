@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Clive, IA at 1229 Northwest 86th Street, Clive, 
 - Website: https://www.discounttire.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Building — top 29% of tire shops in Des Moines, IA, #1 of 1 tire shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 22% of tire shops in Des Moines, IA, #1 of 1 tire shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Bethel & Associates | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Bethel & Associates is a tax preparation service in Euless, TX at 501 North Main Street #117, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/bethel-and-associates-euless/
 2. Jackson Hewitt | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in Euless, TX at 105 West Harwood Road, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-euless/
 3. Liberty Tax | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in Euless, TX at 1201 North Main Street #550, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-euless/
-4. H&R Block | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | H&R Block is a tax preparation service in Euless, TX at 1060 North Main Street #110, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-euless/
+4. H&R Block | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | H&R Block is a tax preparation service in Euless, TX at 1060 North Main Street #110, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer euless tx | category: professional_accounting | industry benchmark: Business Services

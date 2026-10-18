@@ -13,7 +13,7 @@ The Drip Mobile IV is a therapy practice in Prosper, TX at 130 N Preston Rd #108
 - Website: https://www.thedripmobileiv.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 28% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 28% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

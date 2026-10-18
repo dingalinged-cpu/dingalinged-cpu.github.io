@@ -6,7 +6,7 @@ Also answers: window replacement in Pleasant Valley, MO; window replacement near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Santa Fe Glass | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Santa Fe Glass is a window installer in Pleasant Valley, MO at 6601 Royal Street, Pleasant Valley, MO 64068. Phone: +18167810087. Website: https://www.santafeglass.net/. | https://registry-edge.dingalinged.workers.dev/c/santa-fe-glass-pleasant-valley/
+1. Santa Fe Glass | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Santa Fe Glass is a window installer in Pleasant Valley, MO at 6601 Royal Street, Pleasant Valley, MO 64068. Phone: +18167810087. Website: https://www.santafeglass.net/. | https://registry-edge.dingalinged.workers.dev/c/santa-fe-glass-pleasant-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement pleasant valley mo | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

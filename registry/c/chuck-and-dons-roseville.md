@@ -13,7 +13,7 @@ Chuck & Don's is a pet store in Roseville, MN at 1661 West County Road C, Rosevi
 - Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
-- Pulse Score: 50.2/100 — Fair — top 60% of pet stores in Minneapolis–St. Paul, #1 of 4 pet stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.1, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 58% of pet stores in Minneapolis–St. Paul, #1 of 4 pet stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

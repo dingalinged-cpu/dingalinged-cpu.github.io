@@ -13,7 +13,7 @@ Heyday Leasing Office is a property management company in Oak Creek, WI at 8760 
 - Website: https://heydayoc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su "by appointment"
-- Pulse Score: 62.4/100 — Good — top 8% of property management companys in Milwaukee, #1 of 2 property management companys in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 8% of property management companys in Milwaukee, #1 of 2 property management companys in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

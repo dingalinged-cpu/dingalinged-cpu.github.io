@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, 
 - Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 49/100 — Building — top 85% of veterinarians in Minneapolis–St. Paul, #5 of 6 veterinarians in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 85% of veterinarians in Minneapolis–St. Paul, #5 of 6 veterinarians in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

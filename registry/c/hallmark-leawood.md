@@ -19,6 +19,6 @@ Hallmark is a gift shop in Leawood, KS.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/hallmark-leawood/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hallmark-leawood.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/1028300070 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/1028300070 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

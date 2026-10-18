@@ -13,7 +13,7 @@ EyeDeal Eye Care is an eye care practice in Prosper, TX at 4940 West University 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 39% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

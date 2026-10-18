@@ -13,7 +13,7 @@ Screen Door Studio is a printing service in Madison, WI. Phone: +16082552660. We
 - Website: https://screendoorprinting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-15:30
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 10% of printing services in Madison, #1 of 12 printing services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 10% of printing services in Madison, #1 of 12 printing services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dentist in Excelsior Springs, MO; dentist near me (Excelsior Sprin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Excelsior Springs Family Dentistry | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Excelsior Springs Family Dentistry is a dentist in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/excelsior-springs-family-dentistry-excelsior-springs/
+1. Excelsior Springs Family Dentistry | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Excelsior Springs Family Dentistry is a dentist in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/excelsior-springs-family-dentistry-excelsior-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist excelsior springs mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

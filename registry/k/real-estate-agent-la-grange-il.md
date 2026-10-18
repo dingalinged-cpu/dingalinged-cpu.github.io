@@ -6,7 +6,7 @@ Also answers: real estate agent in La Grange, IL; real estate agent near me (La 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Becknell Industrial | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Becknell Industrial is a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/. | https://registry-edge.dingalinged.workers.dev/c/becknell-industrial-la-grange/
+1. Becknell Industrial | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Becknell Industrial is a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/. | https://registry-edge.dingalinged.workers.dev/c/becknell-industrial-la-grange/
 2. Burcor Properties | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Burcor Properties is a real estate agency in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/burcor-properties-la-grange/
 3. Exit Realty | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Exit Realty is a real estate agency in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/exit-realty-la-grange/
 4. Green Acres Realty Corp | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Green Acres Realty Corp is a real estate agency in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/green-acres-realty-corp-la-grange/

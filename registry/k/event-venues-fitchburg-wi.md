@@ -6,7 +6,7 @@ Also answers: event venues in Fitchburg, WI; event venues near me (Fitchburg, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loxley | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Loxley is an event venue in Fitchburg, WI at 5264 Anton Drive, Fitchburg, WI. Website: https://www.loxleyvenue.com/. | https://registry-edge.dingalinged.workers.dev/c/loxley-fitchburg/
+1. Loxley | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Loxley is an event venue in Fitchburg, WI at 5264 Anton Drive, Fitchburg, WI. Website: https://www.loxleyvenue.com/. | https://registry-edge.dingalinged.workers.dev/c/loxley-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues fitchburg wi | category: Events & weddings | industry benchmark: Personal Services

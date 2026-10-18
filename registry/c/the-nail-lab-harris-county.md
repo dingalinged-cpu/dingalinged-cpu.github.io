@@ -13,7 +13,7 @@ The Nail Lab is a nail salon in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 83% of nail salons in Houston, #40 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 81% of nail salons in Houston, #40 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

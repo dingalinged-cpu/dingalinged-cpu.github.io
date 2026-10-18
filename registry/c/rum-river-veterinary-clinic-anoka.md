@@ -13,7 +13,7 @@ Rum River Veterinary Clinic is a veterinarian in Anoka, MN at 100 West Main Stre
 - Website: https://rumrivervet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 35% of veterinarians in Minneapolis–St. Paul, #1 of 1 veterinarians in Anoka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of veterinarians in Minneapolis–St. Paul, #1 of 1 veterinarians in Anoka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

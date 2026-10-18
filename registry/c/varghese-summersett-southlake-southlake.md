@@ -13,7 +13,7 @@ Varghese Summersett (Southlake) is a lawyer in Southlake, TX at 3120 Sabre Drive
 - Website: https://www.versustexas.com/
 - Email: info@versustexas.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.4/100 — Good — top 18% of lawyers in Dallas–Fort Worth, #2 of 6 lawyers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 18% of lawyers in Dallas–Fort Worth, #2 of 6 lawyers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

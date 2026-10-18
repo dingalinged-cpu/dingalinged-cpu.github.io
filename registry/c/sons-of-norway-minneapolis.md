@@ -13,7 +13,7 @@ Sons of Norway is an insurance agent in Minneapolis, MN at 1455 West Lake Street
 - Website: https://sonsofnorway.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
-- Pulse Score: 48.8/100 — Building — top 53% of insurance agents in Minneapolis–St. Paul, #7 of 13 insurance agents in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 53% of insurance agents in Minneapolis–St. Paul, #7 of 13 insurance agents in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Michelle’s Ballroom is an event venue in Chicago, IL at 2800 West Belmont Aven
 - Website: https://michellesballroom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of event venues in Chicago, #3 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of event venues in Chicago, #3 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

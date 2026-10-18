@@ -13,7 +13,7 @@ Midwest Orthopaedics at Rush is an orthopedic surgeon in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 67% of orthopedic surgeons in Chicago, #1 of 1 orthopedic surgeons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 67% of orthopedic surgeons in Chicago, #1 of 1 orthopedic surgeons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

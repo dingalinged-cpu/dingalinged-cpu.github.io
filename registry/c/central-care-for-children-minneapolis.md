@@ -13,7 +13,7 @@ Central Care for Children is a daycare in Minneapolis, MN at 2015 Nicollet Avenu
 - Website: https://www.centralcareforchildren.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 11% of daycares in Minneapolis–St. Paul, #4 of 24 daycares in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 11% of daycares in Minneapolis–St. Paul, #4 of 24 daycares in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

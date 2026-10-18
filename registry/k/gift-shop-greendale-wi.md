@@ -6,7 +6,7 @@ Also answers: gift shop in Greendale, WI; gift shop near me (Greendale, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Our Wisconsin | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Our Wisconsin is a gift shop in Greendale, WI at 5676 Broad Street, Greendale, WI 53129. | https://registry-edge.dingalinged.workers.dev/c/our-wisconsin-greendale/
+1. Our Wisconsin | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Our Wisconsin is a gift shop in Greendale, WI at 5676 Broad Street, Greendale, WI 53129. | https://registry-edge.dingalinged.workers.dev/c/our-wisconsin-greendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop greendale wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

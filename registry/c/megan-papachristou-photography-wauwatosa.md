@@ -13,7 +13,7 @@ Megan Papachristou Photography is a photographer in Wauwatosa, WI at 7405 Harwoo
 - Website: https://meganpapachristou.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of photographers in Milwaukee, #1 of 3 photographers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 31% of photographers in Milwaukee, #1 of 3 photographers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

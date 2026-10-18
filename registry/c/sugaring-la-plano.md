@@ -13,7 +13,7 @@ Sugaring LA is a waxing salon in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-17:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 30% of waxing salons in Dallas–Fort Worth, #1 of 2 waxing salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 30% of waxing salons in Dallas–Fort Worth, #1 of 2 waxing salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

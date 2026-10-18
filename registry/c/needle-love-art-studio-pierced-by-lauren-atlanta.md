@@ -13,7 +13,7 @@ Needle Love Art Studio - Pierced By Lauren is a piercing studio in Atlanta, GA a
 - Website: https://piercedbylauren.as.me/schedule/b5e5f4ce
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Th 12:00-20:00; Fr-Sa 12:00-21:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 60% of piercing studios in Atlanta, #3 of 5 piercing studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 60% of piercing studios in Atlanta, #3 of 5 piercing studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

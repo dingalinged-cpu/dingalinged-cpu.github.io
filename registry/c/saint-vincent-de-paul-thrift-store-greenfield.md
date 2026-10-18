@@ -13,7 +13,7 @@ Saint Vincent de Paul Thrift Store is a thrift store in Greenfield, WI at 4476 S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 84% of thrift stores in Milwaukee, #2 of 2 thrift stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 84% of thrift stores in Milwaukee, #2 of 2 thrift stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

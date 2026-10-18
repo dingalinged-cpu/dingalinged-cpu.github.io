@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 54% of car washes in Minneapolis–St. Paul, #1 of 3 car washes in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 54% of car washes in Minneapolis–St. Paul, #1 of 3 car washes in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

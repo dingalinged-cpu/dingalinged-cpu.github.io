@@ -6,8 +6,8 @@ Also answers: bakery in Blue Springs, MO; bakery near me (Blue Springs, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lara's Cakes & Bakes | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Lara's Cakes & Bakes is a bakery in Blue Springs, MO at 1121 West Main Street, Blue Springs, MO 64015. Website: https://larascakesbakes.com/. | https://registry-edge.dingalinged.workers.dev/c/laras-cakes-and-bakes-blue-springs/
-2. Gigi's Cupcakes | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Gigi's Cupcakes is a bakery in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/gigis-cupcakes-blue-springs/
+1. Lara's Cakes & Bakes | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Lara's Cakes & Bakes is a bakery in Blue Springs, MO at 1121 West Main Street, Blue Springs, MO 64015. Website: https://larascakesbakes.com/. | https://registry-edge.dingalinged.workers.dev/c/laras-cakes-and-bakes-blue-springs/
+2. Gigi's Cupcakes | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | Gigi's Cupcakes is a bakery in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/gigis-cupcakes-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery blue springs mo | category: Events & weddings | industry benchmark: Personal Services

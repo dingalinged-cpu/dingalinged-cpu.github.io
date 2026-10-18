@@ -13,7 +13,7 @@ Nancy's Nails is a nail salon in Omaha, NE at 5027 Grover Street, Omaha, NE 6810
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of nail salons in Omaha, NE, #3 of 10 nail salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of nail salons in Omaha, NE, #3 of 10 nail salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

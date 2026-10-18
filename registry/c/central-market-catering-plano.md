@@ -13,7 +13,7 @@ Central Market Catering is a caterer in Plano, TX at 320 Coit Road, Plano, TX 75
 - Website: https://www.centralmarket.com/locations/plano
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-17:00
-- Pulse Score: 48.8/100 — Building — top 95% of caterers in Dallas–Fort Worth, #2 of 2 caterers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 95% of caterers in Dallas–Fort Worth, #2 of 2 caterers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

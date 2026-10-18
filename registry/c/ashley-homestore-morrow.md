@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Morrow, GA at 1930 Mount Zion Road, Mor
 - Website: https://stores.ashleyfurniture.com/store/us/georgia/morrow/7710000122/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 75% of furniture stores in Atlanta, #4 of 4 furniture stores in Morrow (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 75% of furniture stores in Atlanta, #4 of 4 furniture stores in Morrow (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

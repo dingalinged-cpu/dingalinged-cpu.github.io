@@ -6,7 +6,7 @@ Also answers: car wash in Cicero, IL; car wash near me (Cicero, IL); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sparkle Express Car Wash | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Sparkle Express Car Wash is a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/. | https://registry-edge.dingalinged.workers.dev/c/sparkle-express-car-wash-cicero/
+1. Sparkle Express Car Wash | Organic #1 | Pulse Score 48.2/100 (Unrated, #1 in city) | Sparkle Express Car Wash is a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/. | https://registry-edge.dingalinged.workers.dev/c/sparkle-express-car-wash-cicero/
 2. BP | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | BP is a car wash in Cicero, IL at 3100 South Cicero Avenue, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/bp-cicero/
 3. Mobil | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Mobil is a car wash in Cicero, IL at 5147 West Roosevelt Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/mobil-cicero/
 4. Shell | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | Shell is a car wash in Cicero, IL at 3146 South Cicero Avenue, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/shell-cicero/

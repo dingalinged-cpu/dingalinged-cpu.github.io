@@ -13,7 +13,7 @@ La Posh Salon is a hair salon in Milwaukee, WI at 215 West North Avenue, Milwauk
 - Website: https://www.laposhsalonmke.com/
 - Email: LaPoshSalonMKE@Gmail.com
 - Opening hours (OSM syntax): We-Sa 10:00-16:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Milwaukee, #21 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Milwaukee, #20 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

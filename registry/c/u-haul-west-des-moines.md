@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in West Des Moines, IA at 6220 Village View Dr
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-West-Des-Moines-IA-50266/793070/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00
-- Pulse Score: 50.1/100 — Fair — top 62% of self-storage facilitys in Des Moines, IA, #2 of 2 self-storage facilitys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 56% of self-storage facilitys in Des Moines, IA, #2 of 2 self-storage facilitys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ KMCL is a lawyer in Atlanta, GA at 1200 Peachtree Street Northeast #600, Atlanta
 - Website: https://www.kmcllaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Fair — top 50% of lawyers in Atlanta, #31 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Fair — top 50% of lawyers in Atlanta, #31 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

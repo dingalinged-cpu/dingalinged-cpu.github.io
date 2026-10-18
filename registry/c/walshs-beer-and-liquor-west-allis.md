@@ -13,7 +13,7 @@ Walsh's Beer & Liquor is a liquor store in West Allis, WI at 10910 West Greenfie
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 71% of liquor stores in Milwaukee, #5 of 6 liquor stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 66% of liquor stores in Milwaukee, #5 of 6 liquor stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

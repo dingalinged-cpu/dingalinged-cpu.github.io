@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Houston, TX at 5535 Memorial Drive #J, Houst
 - Website: https://www.clubpilates.com/location/ricemilitary
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa 08:00-17:00; Su 08:00-14:00
-- Pulse Score: 50.5/100 — Fair — top 78% of pilates studios in Houston, #5 of 6 pilates studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 78% of pilates studios in Houston, #5 of 6 pilates studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

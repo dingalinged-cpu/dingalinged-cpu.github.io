@@ -13,7 +13,7 @@ Vecino Airline Children's Health Center is a pediatrician in Houston, TX at 5808
 - Website: https://www.airlinechildrensclinic.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-18:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 56% of pediatricians in Houston, #1 of 2 pediatricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 45% of pediatricians in Houston, #1 of 2 pediatricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

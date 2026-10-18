@@ -13,7 +13,7 @@ Orion McKinney Apartments is a property management company in McKinney, TX at 25
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 70% of property management companys in Dallas–Fort Worth, #5 of 5 property management companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 72% of property management companys in Dallas–Fort Worth, #5 of 5 property management companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

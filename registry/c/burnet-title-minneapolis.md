@@ -13,7 +13,7 @@ Burnet Title is a business consultant in Minneapolis, MN at 3033 Excelsior, Minn
 - Website: https://www.burnettitle.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 55% of business consultants in Minneapolis–St. Paul, #2 of 7 business consultants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 55% of business consultants in Minneapolis–St. Paul, #2 of 7 business consultants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

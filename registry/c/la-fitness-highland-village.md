@@ -13,7 +13,7 @@ LA Fitness is a gym in Highland Village, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 84% of gyms in Dallas–Fort Worth, #2 of 3 gyms in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 83% of gyms in Dallas–Fort Worth, #2 of 3 gyms in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

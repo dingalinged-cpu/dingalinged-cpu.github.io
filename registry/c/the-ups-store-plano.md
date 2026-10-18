@@ -13,7 +13,7 @@ The UPS Store is a printing service in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:30-17:00; Su 10:00-15:00
-- Pulse Score: 44.5/100 — Building — top 68% of printing services in Dallas–Fort Worth, #6 of 6 printing services in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 67% of printing services in Dallas–Fort Worth, #6 of 6 printing services in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

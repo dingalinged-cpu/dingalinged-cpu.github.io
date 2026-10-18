@@ -6,7 +6,7 @@ Also answers: nail salon in Papillion Second I Precinct, NE; nail salon near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Papio Nails and Spa | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Papio Nails and Spa is a nail salon in Papillion, NE at 754 West Gold Coast Road #109, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/papio-nails-and-spa-papillion/
+1. Papio Nails and Spa | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Papio Nails and Spa is a nail salon in Papillion, NE at 754 West Gold Coast Road #109, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/papio-nails-and-spa-papillion/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon papillion second i precinct ne | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

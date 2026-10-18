@@ -6,7 +6,7 @@ Also answers: staffing agency in Independence, MO; staffing agency near me (Inde
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LSI Staffing | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | LSI Staffing is a staffing agency in Independence, MO at 3600 South Noland Road #A-B, Independence, MO 64055. Phone: +18164897850. Website: https://lsistaffing.com/locations/independence-missouri. | https://registry-edge.dingalinged.workers.dev/c/lsi-staffing-independence/
+1. LSI Staffing | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | LSI Staffing is a staffing agency in Independence, MO at 3600 South Noland Road #A-B, Independence, MO 64055. Phone: +18164897850. Website: https://lsistaffing.com/locations/independence-missouri. | https://registry-edge.dingalinged.workers.dev/c/lsi-staffing-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency independence mo | category: b2b_services | industry benchmark: Business Services

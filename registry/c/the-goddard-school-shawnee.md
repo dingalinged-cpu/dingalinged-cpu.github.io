@@ -13,12 +13,12 @@ The Goddard School is a preschool in Shawnee, KS at 22855 West 68th Terrace, Sha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 76% of preschools in Kansas City, MO, #3 of 3 preschools in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 75% of preschools in Kansas City, MO, #3 of 3 preschools in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-shawnee/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-goddard-school-shawnee.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/448059152 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/448059152 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

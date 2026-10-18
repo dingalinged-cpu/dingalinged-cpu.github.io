@@ -13,7 +13,7 @@ Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Aven
 - Website: https://www.kellyplumbinginc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 70% of plumbers in Minneapolis–St. Paul, #2 of 3 plumbers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 70% of plumbers in Minneapolis–St. Paul, #2 of 3 plumbers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

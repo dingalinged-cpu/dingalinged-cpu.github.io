@@ -8,7 +8,7 @@ Meridian Tax & Accounting, LLC is an accountant in Pleasant Hill, MO at 1010 Ind
 - City: Pleasant Hill
 - State: MO
 - ZIP: 64080
-- Coordinates: 38.815694, -94.2649684
+- Coordinates: 38.8156941, -94.2649684
 - Phone: +18007051925
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Meridian Tax & Accounting, LLC is an accountant in Pleasant Hill, MO at 1010 Ind
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/meridian-tax-and-accounting-llc-pleasant-hill/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/meridian-tax-and-accounting-llc-pleasant-hill.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/496961573 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/496961573 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Petco is a pet store in West Bend, WI at 806 West Paradise Drive, West Bend, WI 
 - Website: https://stores.petco.com/wi/westbend/pet-supplies-westbend-wi-1664.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.4/100 — Building — top 73% of pet stores in Milwaukee, #2 of 2 pet stores in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 69% of pet stores in Milwaukee, #2 of 2 pet stores in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

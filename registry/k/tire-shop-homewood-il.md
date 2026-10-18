@@ -6,7 +6,7 @@ Also answers: tire shop in Homewood, IL; tire shop near me (Homewood, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bridgestone | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Bridgestone is a tire shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-homewood/
+1. Bridgestone | Organic #1 | Pulse Score 43.9/100 (Building, #1 in city) | Bridgestone is a tire shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-homewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop homewood il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

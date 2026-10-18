@@ -13,7 +13,7 @@ The 1808 is an event venue in Kennesaw, GA at 2871 Cherokee Street Northwest, Ke
 - Website: https://www.the1808.com/
 - Email: the1808@everydaypeoplegroup.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Good — top 36% of event venues in Atlanta, #1 of 4 event venues in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 36% of event venues in Atlanta, #1 of 4 event venues in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

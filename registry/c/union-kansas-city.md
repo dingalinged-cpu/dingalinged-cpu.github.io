@@ -13,7 +13,7 @@ Union is an event venue in Kansas City, MO at 1721 Baltimore Avenue, Kansas City
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 74% of event venues in Kansas City, MO, #20 of 25 event venues in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 74% of event venues in Kansas City, MO, #23 of 29 event venues in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

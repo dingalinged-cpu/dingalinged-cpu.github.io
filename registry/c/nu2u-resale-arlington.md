@@ -13,7 +13,7 @@ Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, A
 - Website: https://arlingtonurbanministries.org/nu2u-resale
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 9% of thrift stores in Dallas–Fort Worth, #2 of 12 thrift stores in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 9% of thrift stores in Dallas–Fort Worth, #2 of 12 thrift stores in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

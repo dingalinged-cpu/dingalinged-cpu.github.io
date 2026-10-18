@@ -13,7 +13,7 @@ Heartland Animal Hospital is a veterinarian in Des Moines, IA. Phone: +151525544
 - Website: https://heartlandanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of veterinarians in Des Moines, IA, #3 of 8 veterinarians in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of veterinarians in Des Moines, IA, #3 of 8 veterinarians in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

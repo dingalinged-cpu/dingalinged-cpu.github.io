@@ -13,7 +13,7 @@ Central Market - Catering is a caterer in Dallas, TX at 5750 East Lovers Lane, D
 - Website: https://www.centralmarket.com/locations/dallas-lovers-lane
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 67.2/100 — Good — top 6% of caterers in Dallas–Fort Worth, #1 of 6 caterers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 77.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 67/100 — Good — top 6% of caterers in Dallas–Fort Worth, #1 of 6 caterers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 77.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

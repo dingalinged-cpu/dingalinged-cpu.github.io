@@ -13,7 +13,7 @@ Parkaire Shoe Repair is a shoe repair in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 69% of shoe repairs in Atlanta, #3 of 3 shoe repairs in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 57% of shoe repairs in Atlanta, #3 of 3 shoe repairs in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

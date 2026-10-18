@@ -13,7 +13,7 @@ Zentner-Beal Funeral Home is a funeral home in New Glarus, WI at 29 6th Avenue, 
 - Website: https://www.bealfuneralhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 14% of funeral homes in Madison, #1 of 1 funeral homes in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 14% of funeral homes in Madison, #1 of 1 funeral homes in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

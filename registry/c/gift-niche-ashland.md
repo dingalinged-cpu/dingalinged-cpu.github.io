@@ -13,7 +13,7 @@ Gift Niche is a gift shop in Ashland, NE at 1414 Silver Street, Ashland, NE 6800
 - Website: https://visitsaunderscounty.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of gift shops in Omaha, NE, #1 of 2 gift shops in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of gift shops in Omaha, NE, #1 of 2 gift shops in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

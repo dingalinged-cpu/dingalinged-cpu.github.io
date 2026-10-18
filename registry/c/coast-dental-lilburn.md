@@ -13,7 +13,7 @@ Coast Dental is a dentist in Lilburn, GA at 3050 Five Forks Trickum Road Southwe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 95% of dentists in Atlanta, #10 of 10 dentists in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 94% of dentists in Atlanta, #10 of 10 dentists in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

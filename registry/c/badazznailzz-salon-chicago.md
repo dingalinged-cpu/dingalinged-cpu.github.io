@@ -13,7 +13,7 @@ BadazzNailzz Salon is a nail salon in Chicago, IL at 1045 North Western Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00 open "appointment only"
-- Pulse Score: 64.1/100 — Good — top 3% of nail salons in Chicago, #2 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 3% of nail salons in Chicago, #2 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

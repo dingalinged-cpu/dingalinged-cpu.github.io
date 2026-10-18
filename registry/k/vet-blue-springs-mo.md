@@ -6,8 +6,8 @@ Also answers: vet in Blue Springs, MO; vet near me (Blue Springs, MO); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AniMed Animal Hospital | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | AniMed Animal Hospital is a veterinarian in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/animed-animal-hospital-blue-springs/
-2. Cavanaugh Pet Hospital | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Cavanaugh Pet Hospital is a veterinarian in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/cavanaugh-pet-hospital-blue-springs/
+1. AniMed Animal Hospital | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | AniMed Animal Hospital is a veterinarian in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/animed-animal-hospital-blue-springs/
+2. Cavanaugh Pet Hospital | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Cavanaugh Pet Hospital is a veterinarian in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/cavanaugh-pet-hospital-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet blue springs mo | category: Pets | industry benchmark: Animals & Pets

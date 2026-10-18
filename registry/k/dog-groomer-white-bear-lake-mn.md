@@ -6,8 +6,8 @@ Also answers: dog groomer in White Bear Lake, MN; dog groomer near me (White Bea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Haute Dog | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Haute Dog is a dog groomer in White Bear Lake, MN at 995 Wildwood Road, White Bear Lake, MN. Website: https://www.hautedogspa.com/whitebear. | https://registry-edge.dingalinged.workers.dev/c/haute-dog-white-bear-lake/
-2. HeartSpace Salon and Spa for Dogs | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | HeartSpace Salon and Spa for Dogs is a dog groomer in White Bear Lake, MN at 5050 Division Avenue, White Bear Lake, MN 55110. Phone: +16516001563. | https://registry-edge.dingalinged.workers.dev/c/heartspace-salon-and-spa-for-dogs-white-bear-lake/
+1. Haute Dog | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Haute Dog is a dog groomer in White Bear Lake, MN at 995 Wildwood Road, White Bear Lake, MN. Website: https://www.hautedogspa.com/whitebear. | https://registry-edge.dingalinged.workers.dev/c/haute-dog-white-bear-lake/
+2. HeartSpace Salon and Spa for Dogs | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | HeartSpace Salon and Spa for Dogs is a dog groomer in White Bear Lake, MN at 5050 Division Avenue, White Bear Lake, MN 55110. Phone: +16516001563. | https://registry-edge.dingalinged.workers.dev/c/heartspace-salon-and-spa-for-dogs-white-bear-lake/
 3. Chuck & Don's Grooming | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Chuck & Don's Grooming is a dog groomer in White Bear Lake, MN. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-grooming-white-bear-lake/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Peters Street Station is an event venue in Atlanta, GA. Website: https://www.pee
 - Website: https://www.peerspace.com/pages/listings/64d033ff1fd4490022609b9a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 82% of event venues in Atlanta, #30 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 82% of event venues in Atlanta, #30 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

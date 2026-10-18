@@ -13,7 +13,7 @@ TX Medical Staffing is a business consultant in Sachse, TX at 6114 Ben Road, Sac
 - Website: https://www.1stoprecruiting.com/texas-medical-staffing-agency/
 - Email: info@1stoprecruiting.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 22% of business consultants in Dallas–Fort Worth, #1 of 2 business consultants in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 22% of business consultants in Dallas–Fort Worth, #1 of 2 business consultants in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Martinizing is a dry cleaner in Milwaukee, WI at 233 West Layton Avenue, Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 86% of dry cleaners in Milwaukee, #16 of 16 dry cleaners in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 86% of dry cleaners in Milwaukee, #16 of 16 dry cleaners in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

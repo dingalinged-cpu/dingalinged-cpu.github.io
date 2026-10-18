@@ -13,7 +13,7 @@ Kids 'R' Kids is a daycare in Katy, TX at 3820 Mason Road, Katy, TX 77449.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 91% of daycares in Houston, #3 of 4 daycares in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 90% of daycares in Houston, #3 of 4 daycares in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Park Nicolet Specialty Center is a plastic surgeon in Saint Louis Park, MN at 54
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; PH closed
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 58% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 58% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

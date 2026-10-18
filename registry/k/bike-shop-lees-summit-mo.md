@@ -6,8 +6,8 @@ Also answers: bike shop in Lee'S Summit, MO; bike shop near me (Lee'S Summit, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BikeStop | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | BikeStop is a bike shop in Lee's Summit, MO at 248 Northwest Oldham Parkway, Lee's Summit, MO 64081. Website: https://www.bikestoponline.com/. | https://registry-edge.dingalinged.workers.dev/c/bikestop-lees-summit/
-2. Bicycle Shack | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Bicycle Shack is a bike shop in Lee's Summit, MO at 3365 Southwest Fascination Drive, Lee's Summit, MO 64081. | https://registry-edge.dingalinged.workers.dev/c/bicycle-shack-lees-summit/
+1. BikeStop | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | BikeStop is a bike shop in Lee's Summit, MO at 248 Northwest Oldham Parkway, Lee's Summit, MO 64081. Website: https://www.bikestoponline.com/. | https://registry-edge.dingalinged.workers.dev/c/bikestop-lees-summit/
+2. Bicycle Shack | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Bicycle Shack is a bike shop in Lee's Summit, MO at 3365 Southwest Fascination Drive, Lee's Summit, MO 64081. | https://registry-edge.dingalinged.workers.dev/c/bicycle-shack-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop lee's summit mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

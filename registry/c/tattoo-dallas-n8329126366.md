@@ -13,7 +13,7 @@ TATTOO is a tattoo shop in Dallas, TX at 19177 Preston Road #170, Dallas, TX 752
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 96% of tattoo shops in Dallas–Fort Worth, #19 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 96% of tattoo shops in Dallas–Fort Worth, #19 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

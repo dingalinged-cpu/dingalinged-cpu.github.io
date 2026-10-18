@@ -6,9 +6,9 @@ Also answers: thrift store in Shawnee, KS; thrift store near me (Shawnee, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. City Thrift Shawnee Mission | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | City Thrift Shawnee Mission is a thrift store in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/city-thrift-shawnee-mission-shawnee/
-2. Savers | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Savers is a thrift store in Shawnee, KS at 13233 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19132481938. | https://registry-edge.dingalinged.workers.dev/c/savers-shawnee/
-3. Goodwill | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Goodwill is a thrift store in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/goodwill-shawnee/
+1. City Thrift Shawnee Mission | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | City Thrift Shawnee Mission is a thrift store in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/city-thrift-shawnee-mission-shawnee/
+2. Goodwill | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Goodwill is a thrift store in Shawnee, KS at 10611 Shawnee Mission Parkway, Shawnee, KS 66203. Phone: +19139627500. Website: https://www.mokangoodwill.org/locations/goodwill-shawnee. | https://registry-edge.dingalinged.workers.dev/c/goodwill-shawnee/
+3. Savers | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Savers is a thrift store in Shawnee, KS at 13233 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19132481938. | https://registry-edge.dingalinged.workers.dev/c/savers-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store shawnee ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

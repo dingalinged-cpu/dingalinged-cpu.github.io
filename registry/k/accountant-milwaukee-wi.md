@@ -6,7 +6,7 @@ Also answers: accountant in Milwaukee, WI; accountant near me (Milwaukee, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hilker & Associates | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hilker & Associates is an accountant in Milwaukee, WI at 1320 North Jackson Street, Milwaukee, WI 53202. Phone: +14142645330. Website: https://hilkerassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/hilker-and-associates-milwaukee/
+1. Hilker & Associates | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Hilker & Associates is an accountant in Milwaukee, WI at 1320 North Jackson Street, Milwaukee, WI 53202. Phone: +14142645330. Website: https://hilkerassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/hilker-and-associates-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant milwaukee wi | category: professional_accounting | industry benchmark: Business Services

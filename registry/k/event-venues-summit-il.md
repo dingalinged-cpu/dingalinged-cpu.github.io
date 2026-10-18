@@ -6,7 +6,7 @@ Also answers: event venues in Summit, IL; event venues near me (Summit, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valladolid Banquet Hall | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Valladolid Banquet Hall is an event venue in Summit, IL. | https://registry-edge.dingalinged.workers.dev/c/valladolid-banquet-hall-summit/
+1. Valladolid Banquet Hall | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Valladolid Banquet Hall is an event venue in Summit, IL. | https://registry-edge.dingalinged.workers.dev/c/valladolid-banquet-hall-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues summit il | category: Events & weddings | industry benchmark: Personal Services

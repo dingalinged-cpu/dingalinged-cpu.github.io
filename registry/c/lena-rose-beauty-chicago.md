@@ -13,7 +13,7 @@ Lena Rose Beauty is a nail salon in Chicago, IL at 4645 North Rockwell Street, C
 - Website: https://lenarosebeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 31% of nail salons in Chicago, #28 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Chicago, #25 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

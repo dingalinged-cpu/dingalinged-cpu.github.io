@@ -6,8 +6,8 @@ Also answers: yoga classes in Wauwatosa, WI; yoga classes near me (Wauwatosa, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tosa Yoga Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Tosa Yoga Center is a yoga studio in Wauwatosa, WI at 6734 West North Avenue, Wauwatosa, WI 53213. Phone: +14148287555. Website: https://www.tosayoga.com/. | https://registry-edge.dingalinged.workers.dev/c/tosa-yoga-center-wauwatosa/
-2. One Sky Yoga | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | One Sky Yoga is a yoga studio in Wauwatosa, WI at 1510 Underwood Avenue, Wauwatosa, WI 53213. | https://registry-edge.dingalinged.workers.dev/c/one-sky-yoga-wauwatosa/
+1. Tosa Yoga Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Tosa Yoga Center is a yoga studio in Wauwatosa, WI at 6734 West North Avenue, Wauwatosa, WI 53213. Phone: +14148287555. Website: https://www.tosayoga.com/. | https://registry-edge.dingalinged.workers.dev/c/tosa-yoga-center-wauwatosa/
+2. One Sky Yoga | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | One Sky Yoga is a yoga studio in Wauwatosa, WI at 1510 Underwood Avenue, Wauwatosa, WI 53213. | https://registry-edge.dingalinged.workers.dev/c/one-sky-yoga-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes wauwatosa wi | category: Fitness | industry benchmark: Health & Fitness

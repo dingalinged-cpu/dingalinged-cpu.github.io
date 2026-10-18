@@ -13,7 +13,7 @@ Bearings Bike Shop is a bike shop in Atlanta, GA at 982 Murphy Avenue Southwest,
 - Website: https://bearingsbikeshop.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 54% of bike shops in Atlanta, #9 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 54% of bike shops in Atlanta, #9 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: https://www.glassandgrooves.com/
 - Email: 414glassandgrooves@gmail.com
 - Opening hours (OSM syntax): Mo-Tu,Th-Sa 12:00-20:00; Su 12:00-18:00
-- Pulse Score: 61.4/100 — Good — top 38% of window repair services in Milwaukee, #2 of 3 window repair services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Good — top 25% of window repair services in Milwaukee, #2 of 3 window repair services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

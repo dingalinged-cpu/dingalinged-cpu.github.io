@@ -6,9 +6,9 @@ Also answers: bakery in Shawnee, KS; bakery near me (Shawnee, KS); best bakery S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Twisted Sugar | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Twisted Sugar is a bakery in Shawnee, KS at 15810 Shawnee Mission Parkway #D, Shawnee, KS 66217. Phone: +19132715520. Website: https://twistedsugar.com/locations/?location=shawnee-shawnee-ks. | https://registry-edge.dingalinged.workers.dev/c/twisted-sugar-shawnee/
+1. Twisted Sugar | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Twisted Sugar is a bakery in Shawnee, KS at 15810 Shawnee Mission Parkway #D, Shawnee, KS 66217. Phone: +19132715520. Website: https://twistedsugar.com/locations/?location=shawnee-shawnee-ks. | https://registry-edge.dingalinged.workers.dev/c/twisted-sugar-shawnee/
 2. Smallcakes Shawnee | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Smallcakes Shawnee is a bakery in Shawnee, KS at 6638 Monticello Road, Shawnee, KS 66226. | https://registry-edge.dingalinged.workers.dev/c/smallcakes-shawnee-shawnee/
-3. Kolache Factory | Organic #3 | Pulse Score 46.3/100 (Unrated, #3 in city) | Kolache Factory is a bakery in Shawnee, KS at 13103 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19136316000. | https://registry-edge.dingalinged.workers.dev/c/kolache-factory-shawnee/
+3. Kolache Factory | Organic #3 | Pulse Score 45.9/100 (Unrated, #3 in city) | Kolache Factory is a bakery in Shawnee, KS at 13103 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19136316000. | https://registry-edge.dingalinged.workers.dev/c/kolache-factory-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery shawnee ks | category: Events & weddings | industry benchmark: Personal Services

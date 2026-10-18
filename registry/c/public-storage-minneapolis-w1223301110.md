@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Minneapolis, MN at 1720 North Washi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 52% of self-storage facilitys in Minneapolis–St. Paul, #6 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 52% of self-storage facilitys in Minneapolis–St. Paul, #6 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

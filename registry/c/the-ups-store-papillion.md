@@ -13,7 +13,7 @@ The UPS Store is a printing service in Papillion, NE at 7202 Giles Road #4, Papi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 75% of printing services in Omaha, NE, #1 of 2 printing services in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 75% of printing services in Omaha, NE, #1 of 2 printing services in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

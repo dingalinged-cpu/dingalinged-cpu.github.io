@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. The UPS Store | Organic #3 | Pulse Score 49.4/100 (Building, #3 in city) | The UPS Store is a printing service in Naperville, IL at 924 West 75th Street #120, Naperville, IL 60565. Phone: +16307171540. Website: https://locations.theupsstore.com/il/naperville/924-w-75th-st. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-naperville-w993536469/
 4. Sir Speedy | Organic #4 | Pulse Score 48.5/100 (Building, #4 in city) | Sir Speedy is a printing service in Naperville, IL at 526 West 5th Avenue, Naperville, IL 60563. Phone: +16303550660. Website: https://www.sirspeedy.com/napervilleil060/. | https://registry-edge.dingalinged.workers.dev/c/sir-speedy-naperville/
 5. FedEx Office | Organic #5 | Pulse Score 46.2/100 (Building, #5 in city) | FedEx Office is a printing service in Naperville, IL at 860 75th Street #128, Naperville, IL 60565. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-naperville/
-6. FedEx Office | Organic #6 | Pulse Score 41.9/100 (Building, #6 in city) | FedEx Office is a printing service in Naperville, IL. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-naperville-w1441750581/
+6. FedEx Office | Organic #6 | Pulse Score 42/100 (Building, #6 in city) | FedEx Office is a printing service in Naperville, IL. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-naperville-w1441750581/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services naperville il | category: Professional & financial services | industry benchmark: Finance & Insurance

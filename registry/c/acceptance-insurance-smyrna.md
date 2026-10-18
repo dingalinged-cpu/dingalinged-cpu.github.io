@@ -13,7 +13,7 @@ Acceptance Insurance is an insurance agent in Smyrna, GA at 2477 Cobb Parkway So
 - Website: https://acceptanceinsurance.com/ga/smyrna/2477-cobb-pkwy
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 54% of insurance agents in Atlanta, #5 of 9 insurance agents in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 53% of insurance agents in Atlanta, #5 of 9 insurance agents in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

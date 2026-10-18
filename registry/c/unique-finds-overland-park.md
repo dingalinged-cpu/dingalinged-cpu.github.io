@@ -19,6 +19,6 @@ Unique Finds is a gift shop in Overland Park, KS at 8025 Santa Fe Drive, Overlan
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/unique-finds-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/unique-finds-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/761721130 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/761721130 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

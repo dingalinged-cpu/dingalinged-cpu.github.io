@@ -13,7 +13,7 @@ Weir Family Chiropractice and Wellness Center is a chiropractor in Carrollton, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 83% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 82% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Legacy Dental is a dentist in Atlanta, GA at 181 14th Street Northeast #100, Atl
 - Website: https://www.legacydentalatlanta.com/
 - Email: smile@legacydentalatlanta.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 94% of dentists in Atlanta, #34 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 93% of dentists in Atlanta, #34 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

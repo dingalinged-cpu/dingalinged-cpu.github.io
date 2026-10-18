@@ -6,7 +6,7 @@ Also answers: landscaping in Madison, WI; landscaping near me (Madison, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J & B Lawn Service | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | J & B Lawn Service is a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-b-lawn-service-madison/
+1. J & B Lawn Service | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | J & B Lawn Service is a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-b-lawn-service-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping madison wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

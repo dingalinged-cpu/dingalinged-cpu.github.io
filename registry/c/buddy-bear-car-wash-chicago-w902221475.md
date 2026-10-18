@@ -13,7 +13,7 @@ Buddy Bear Car Wash is a car wash in Chicago, IL at 7068 South South Chicago Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 64% of car washes in Chicago, #63 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 62% of car washes in Chicago, #63 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

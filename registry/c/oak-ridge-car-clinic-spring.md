@@ -13,7 +13,7 @@ Oak Ridge Car Clinic is an auto repair shop in Spring, TX at 1622 Rayford Road B
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in Houston, #10 of 30 auto repair shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in Houston, #10 of 30 auto repair shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tire shop in Blue Springs, MO; tire shop near me (Blue Springs, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Discount Tire is a tire shop in Blue Springs, MO at 914 Southwest MO-7 HWY, Blue Springs, MO 64014. Website: https://www.discounttire.com/store/mo/blue-springs/s/2033. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-blue-springs/
+1. Discount Tire | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Discount Tire is a tire shop in Blue Springs, MO at 914 Southwest MO-7 HWY, Blue Springs, MO 64014. Website: https://www.discounttire.com/store/mo/blue-springs/s/2033. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop blue springs mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

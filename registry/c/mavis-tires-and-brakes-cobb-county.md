@@ -13,7 +13,7 @@ Mavis Tires & Brakes is a tire shop in Cobb County, GA at 1405 East Cobb Drive, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 83% of tire shops in Atlanta, #11 of 11 tire shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 83% of tire shops in Atlanta, #11 of 11 tire shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

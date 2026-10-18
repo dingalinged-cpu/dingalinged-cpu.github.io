@@ -13,7 +13,7 @@ GatoCity Properties is a real estate agency in Milwaukee, WI at 610 East Pleasan
 - Website: https://www.gatocity.com/
 - Email: gatocityproperties@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.4/100 — Good — top 4% of real estate agencys in Milwaukee, #2 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 4% of real estate agencys in Milwaukee, #2 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

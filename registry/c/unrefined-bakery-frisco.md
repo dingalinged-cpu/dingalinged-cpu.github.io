@@ -13,7 +13,7 @@ Unrefined Bakery is a bakery in Frisco, TX at 3411 Preston Road #5, Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 36% of bakerys in Dallas–Fort Worth, #3 of 5 bakerys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 36% of bakerys in Dallas–Fort Worth, #3 of 5 bakerys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

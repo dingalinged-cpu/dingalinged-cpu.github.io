@@ -13,7 +13,7 @@ East Side Family Chiropractic is a chiropractor in Milwaukee, WI at 1726 East No
 - Website: https://www.esfamilychiropractic.com/
 - Email: info@esfamilychiropractic.com
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-13:00
-- Pulse Score: 62.2/100 — Good — top 7% of chiropractors in Milwaukee, #1 of 6 chiropractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 7% of chiropractors in Milwaukee, #1 of 6 chiropractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

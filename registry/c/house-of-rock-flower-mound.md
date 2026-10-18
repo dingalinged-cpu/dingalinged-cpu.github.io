@@ -13,7 +13,7 @@ House of Rock is a music school in Flower Mound, TX. Phone: +19725390761. Websit
 - Website: https://flowermound.schoolofrock.com/
 - Email: FlowerMound@SchoolofRock.com
 - Opening hours (OSM syntax): Mo-Th 14:00-20:30; Sa 10:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of music schools in Dallas–Fort Worth, #1 of 4 music schools in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 10% of music schools in Dallas–Fort Worth, #1 of 4 music schools in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

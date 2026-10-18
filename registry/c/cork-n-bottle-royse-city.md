@@ -13,7 +13,7 @@ Cork N Bottle is a liquor store in Royse City, TX at 520 East Interstate 30, Roy
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 35% of liquor stores in Dallas–Fort Worth, #2 of 2 liquor stores in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 88% of liquor stores in Dallas–Fort Worth, #2 of 2 liquor stores in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

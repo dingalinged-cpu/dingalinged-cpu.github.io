@@ -6,7 +6,7 @@ Also answers: landscaping in Yorkville, WI; landscaping near me (Yorkville, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Naturescape | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Naturescape is a landscaping company in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/naturescape-yorkville/
+1. Naturescape | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Naturescape is a landscaping company in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/naturescape-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping yorkville wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

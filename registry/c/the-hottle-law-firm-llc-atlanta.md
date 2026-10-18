@@ -13,7 +13,7 @@ The Hottle Law Firm, LLC. is a lawyer in Atlanta, GA at 1100 Spring Street North
 - Website: https://hottlelaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 60.5/100 — Good — top 25% of lawyers in Atlanta, #15 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 23% of lawyers in Atlanta, #14 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

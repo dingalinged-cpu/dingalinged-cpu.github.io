@@ -13,7 +13,7 @@ Lee Nails is a nail salon in Chicago, IL at 2657 North Elston Avenue, Chicago, I
 - Website: https://leenailselston.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 90% of nail salons in Chicago, #83 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 88% of nail salons in Chicago, #80 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

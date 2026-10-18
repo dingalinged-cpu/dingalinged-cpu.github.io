@@ -13,7 +13,7 @@ Law Offices of Robert G. Black is a lawyer in Naperville, IL at 101 North Washin
 - Website: https://www.illinois-appellate-attorney.com/bob-black
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of lawyers in Chicago, #7 of 12 lawyers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of lawyers in Chicago, #7 of 12 lawyers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

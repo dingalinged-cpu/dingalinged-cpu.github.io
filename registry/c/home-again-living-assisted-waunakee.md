@@ -13,7 +13,7 @@ Home Again Living. Assisted. is an assisted living facility in Waunakee, WI at 1
 - Website: https://homeagainliving.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of assisted living facilitys in Madison, #1 of 1 assisted living facilitys in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of assisted living facilitys in Madison, #1 of 1 assisted living facilitys in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

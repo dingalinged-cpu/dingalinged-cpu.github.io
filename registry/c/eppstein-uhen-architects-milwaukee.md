@@ -13,7 +13,7 @@ Eppstein Uhen Architects is an architect in Milwaukee, WI at 333 East Chicago St
 - Website: https://www.eua.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.7/100 — Good — top 10% of architects in Milwaukee, #2 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 10% of architects in Milwaukee, #2 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

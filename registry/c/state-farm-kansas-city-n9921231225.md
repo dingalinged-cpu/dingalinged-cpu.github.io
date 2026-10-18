@@ -19,6 +19,6 @@ State Farm is an insurance agent in Kansas City, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-kansas-city-n9921231225/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-kansas-city-n9921231225.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9921231225 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9921231225 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

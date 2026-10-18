@@ -13,7 +13,7 @@ Lucid Private Offices is a coworking space in Dallas, TX at 3010 Lyndon B Johnso
 - Website: https://www.lucidprivateoffices.com/texas/dallas/3010-lbj-freeway/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 52.5/100 — Fair — top 58% of coworking spaces in Dallas–Fort Worth, #9 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 69.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.5/100 — Fair — top 58% of coworking spaces in Dallas–Fort Worth, #9 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 69.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Marietta, GA at 2858 Delk Road Southea
 - Website: https://www.hrblock.com/tax-office-near-me/georgia/marietta/10931/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-17:00
-- Pulse Score: 53.3/100 — Fair — top 50% of tax preparation services in Atlanta, #2 of 4 tax preparation services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 72.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.3/100 — Fair — top 50% of tax preparation services in Atlanta, #2 of 4 tax preparation services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 72.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: roofer in Hiram, GA; roofer near me (Hiram, GA); best roofer Hiram
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Metal Works | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | AAA Metal Works is a roofer in Hiram, GA at 165 Poag Crossing, Hiram, GA 30141. Phone: +17702229254. Website: https://aaametalworks.com/. | https://registry-edge.dingalinged.workers.dev/c/aaa-metal-works-hiram/
+1. AAA Metal Works | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | AAA Metal Works is a roofer in Hiram, GA at 165 Poag Crossing, Hiram, GA 30141. Phone: +17702229254. Website: https://aaametalworks.com/. | https://registry-edge.dingalinged.workers.dev/c/aaa-metal-works-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer hiram ga | category: Home services - Roofing | industry benchmark: Home & Home Improvement

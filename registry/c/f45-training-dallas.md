@@ -13,7 +13,7 @@ F45 Training is a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 7525
 - Website: https://f45training.com/studio/addisoneast/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 64% of gyms in Dallas–Fort Worth, #46 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 63% of gyms in Dallas–Fort Worth, #45 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

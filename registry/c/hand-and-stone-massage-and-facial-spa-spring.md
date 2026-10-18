@@ -13,7 +13,7 @@ Hand & Stone Massage and Facial Spa is a massage studio in Spring, TX at 2168 Sp
 - Website: https://handandstone.com/locations/tx-spring
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 77% of massage studios in Houston, #7 of 8 massage studios in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 74% of massage studios in Houston, #7 of 8 massage studios in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ PetSmart is a pet store in Tomball, TX at 14420 FM 2920, Tomball, TX 77377. Phon
 - Website: https://www.petsmart.com/stores/us/tx/tomball-store1642.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.3/100 — Building — top 35% of pet stores in Houston, #1 of 1 pet stores in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 35% of pet stores in Houston, #1 of 1 pet stores in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

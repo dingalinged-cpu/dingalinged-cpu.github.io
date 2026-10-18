@@ -6,7 +6,7 @@ Also answers: dance studio in Waterloo, NE; dance studio near me (Waterloo, NE);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Energy Dance Studio | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | New Energy Dance Studio is a dance studio in Waterloo, NE at 304 3rd Street, Waterloo, NE 68069. | https://registry-edge.dingalinged.workers.dev/c/new-energy-dance-studio-waterloo/
+1. New Energy Dance Studio | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | New Energy Dance Studio is a dance studio in Waterloo, NE at 304 3rd Street, Waterloo, NE 68069. | https://registry-edge.dingalinged.workers.dev/c/new-energy-dance-studio-waterloo/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio waterloo ne | category: Fitness | industry benchmark: Health & Fitness

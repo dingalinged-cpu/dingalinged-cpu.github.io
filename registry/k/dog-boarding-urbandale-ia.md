@@ -6,7 +6,7 @@ Also answers: dog boarding in Urbandale, IA; dog boarding near me (Urbandale, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Canine Craze Performance Center | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Canine Craze Performance Center is a dog boarding facility in Urbandale, IA at 3101 104th St #Suite 3, Urbandale, IA 50322. Phone: +15152221112. Website: https://www.caninecraze.com/. | https://registry-edge.dingalinged.workers.dev/c/canine-craze-performance-center-urbandale/
+1. Canine Craze Performance Center | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Canine Craze Performance Center is a dog boarding facility in Urbandale, IA at 3101 104th St #Suite 3, Urbandale, IA 50322. Phone: +15152221112. Website: https://www.caninecraze.com/. | https://registry-edge.dingalinged.workers.dev/c/canine-craze-performance-center-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding urbandale ia | category: Pets | industry benchmark: Animals & Pets

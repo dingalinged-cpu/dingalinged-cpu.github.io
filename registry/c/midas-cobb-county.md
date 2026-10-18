@@ -13,7 +13,7 @@ Midas is an auto repair shop in Cobb County, GA at 2730 Town Center Drive, Cobb 
 - Website: https://www.midas.com/store/ga/kennesaw/2730-town-center-drive-30144?shopnum=3340
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
-- Pulse Score: 49.8/100 — Building — top 70% of auto repair shops in Atlanta, #56 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 69% of auto repair shops in Atlanta, #56 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

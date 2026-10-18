@@ -13,7 +13,7 @@ North Minneapolis Pet Resource Center is a pet store in Minneapolis, MN at 2825 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 33% of pet stores in Minneapolis–St. Paul, #6 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 32% of pet stores in Minneapolis–St. Paul, #6 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

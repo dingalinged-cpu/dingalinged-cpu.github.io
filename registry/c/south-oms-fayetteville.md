@@ -13,7 +13,7 @@ South OMS is a dentist in Fayetteville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 88% of dentists in Atlanta, #8 of 9 dentists in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 87% of dentists in Atlanta, #8 of 9 dentists in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

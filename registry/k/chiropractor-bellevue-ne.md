@@ -6,7 +6,7 @@ Also answers: chiropractor in Bellevue, NE; chiropractor near me (Bellevue, NE);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Akridge & Akridge Chiropractic | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Akridge & Akridge Chiropractic is a chiropractor in Bellevue, NE at 3811 Twin Creek Drive #102, Bellevue, NE 68123. Phone: +14028844774. Website: https://akridgechiropractic.com/. | https://registry-edge.dingalinged.workers.dev/c/akridge-and-akridge-chiropractic-bellevue/
+1. Akridge & Akridge Chiropractic | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Akridge & Akridge Chiropractic is a chiropractor in Bellevue, NE at 3811 Twin Creek Drive #102, Bellevue, NE 68123. Phone: +14028844774. Website: https://akridgechiropractic.com/. | https://registry-edge.dingalinged.workers.dev/c/akridge-and-akridge-chiropractic-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor bellevue ne | category: Health & medical | industry benchmark: Physicians & Surgeons

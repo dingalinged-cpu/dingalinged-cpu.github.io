@@ -13,7 +13,7 @@ The Exercise Coach is a gym in Flower Mound, TX. Phone: +14696788303. Website: h
 - Website: https://exercisecoach.com/flower-mound
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-20:00; Fr 06:00-19:00; PH closed; Sa 07:00-13:00
-- Pulse Score: 49.4/100 — Building — top 49% of gyms in Dallas–Fort Worth, #13 of 20 gyms in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 48% of gyms in Dallas–Fort Worth, #13 of 20 gyms in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

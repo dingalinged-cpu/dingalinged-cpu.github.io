@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The Gooch Firm | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | The Gooch Firm is a lawyer in Wauconda, IL at 209 North Main Street, Wauconda, IL 60084. Phone: +18475260110. Website: https://goochfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-gooch-firm-wauconda/
 2. Klevatt & Associates | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Klevatt & Associates is a lawyer in Wauconda, IL at 110B North Main Street #D, Wauconda, IL 60084. | https://registry-edge.dingalinged.workers.dev/c/klevatt-and-associates-wauconda/
-3. Thomas W. Malik | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Thomas W. Malik is a lawyer in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://registry-edge.dingalinged.workers.dev/c/thomas-w-malik-wauconda/
+3. Thomas W. Malik | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Thomas W. Malik is a lawyer in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://registry-edge.dingalinged.workers.dev/c/thomas-w-malik-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney wauconda il | category: professional_legal | industry benchmark: Attorneys & Legal Services

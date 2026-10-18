@@ -13,7 +13,7 @@ Cars Bike Shop is a bike shop in Mounds View, MN at 2661 West County Road I, Mou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Minneapolis–St. Paul, #1 of 1 bike shops in Mounds View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Minneapolis–St. Paul, #1 of 1 bike shops in Mounds View (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

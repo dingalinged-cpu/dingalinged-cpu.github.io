@@ -13,7 +13,7 @@ Wash n' Run is a car wash in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 79% of car washes in Houston, #61 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 99% of car washes in Houston, #67 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

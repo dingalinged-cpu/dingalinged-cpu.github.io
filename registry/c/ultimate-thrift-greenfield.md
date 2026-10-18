@@ -13,7 +13,7 @@ Ultimate Thrift is a thrift store in Greenfield, WI at 4450 South 108th Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 7% of thrift stores in Milwaukee, #1 of 2 thrift stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 7% of thrift stores in Milwaukee, #1 of 2 thrift stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

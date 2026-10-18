@@ -6,7 +6,7 @@ Also answers: florist in Des Plaines, IL; florist near me (Des Plaines, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 7 Red Roses | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | 7 Red Roses is a florist in Des Plaines, IL at 1452 Miner Street, Des Plaines, IL 60016. Phone: +18476358755. Website: https://www.sevenredroses.com/. | https://registry-edge.dingalinged.workers.dev/c/7-red-roses-des-plaines/
+1. 7 Red Roses | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | 7 Red Roses is a florist in Des Plaines, IL at 1452 Miner Street, Des Plaines, IL 60016. Phone: +18476358755. Website: https://www.sevenredroses.com/. | https://registry-edge.dingalinged.workers.dev/c/7-red-roses-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist des plaines il | category: Events & weddings | industry benchmark: Personal Services

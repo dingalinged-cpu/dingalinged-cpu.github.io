@@ -13,7 +13,7 @@ Quick Liquor is a liquor store in Palatine, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 80% of liquor stores in Chicago, #3 of 3 liquor stores in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 77% of liquor stores in Chicago, #3 of 3 liquor stores in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

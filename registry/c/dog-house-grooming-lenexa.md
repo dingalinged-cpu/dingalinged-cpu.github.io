@@ -13,12 +13,12 @@ Dog House Grooming is a dog groomer in Lenexa, KS at 13506 West 93rd Street, Len
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 41% of dog groomers in Kansas City, MO, #1 of 2 dog groomers in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of dog groomers in Kansas City, MO, #1 of 2 dog groomers in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/dog-house-grooming-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dog-house-grooming-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/624520105 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/624520105 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

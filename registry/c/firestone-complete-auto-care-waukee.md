@@ -13,7 +13,7 @@ Firestone Complete Auto Care is an auto repair shop in Waukee, IA at 575 E. Hick
 - Website: https://www.firestonecompleteautocare.com/iowa/waukee/575-e-hickman-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 73% of auto repair shops in Des Moines, IA, #3 of 5 auto repair shops in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 71% of auto repair shops in Des Moines, IA, #3 of 5 auto repair shops in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

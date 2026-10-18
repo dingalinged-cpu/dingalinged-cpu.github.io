@@ -13,7 +13,7 @@ MSP Cycles is a motorcycle repair shop in Decatur, GA at 2500 Lawrenceville High
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 60% of motorcycle repair shops in Atlanta, #1 of 1 motorcycle repair shops in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 60% of motorcycle repair shops in Atlanta, #1 of 1 motorcycle repair shops in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

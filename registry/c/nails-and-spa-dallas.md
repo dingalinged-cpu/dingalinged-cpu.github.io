@@ -13,7 +13,7 @@ Nails & Spa is a nail salon in Dallas, TX. Phone: +12144341799.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-17:00; Mo-Sa 10:00-19:30
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 90% of nail salons in Dallas–Fort Worth, #42 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Dallas–Fort Worth, #39 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

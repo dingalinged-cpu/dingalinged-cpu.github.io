@@ -13,7 +13,7 @@ Garcia's Tailor Shop and Alterations is a tailor in Chicago, IL at 4314 North Li
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): M-W 09:00-18:30; Th 16:30-19:30; Fr 09:00-18:30; Sa 08:00-17:30
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 12% of tailors in Chicago, #2 of 18 tailors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 12% of tailors in Chicago, #2 of 18 tailors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

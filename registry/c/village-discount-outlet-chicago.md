@@ -13,7 +13,7 @@ Village Discount Outlet is a thrift store in Chicago, IL at 4898 North Clark Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 72% of thrift stores in Chicago, #42 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 89% of thrift stores in Chicago, #45 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

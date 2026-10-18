@@ -13,7 +13,7 @@ Mosley Architecture & Gardens is a landscaping company in Atlanta, GA at 2374 Vi
 - Website: https://mosleyag.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 25% of landscaping companys in Atlanta, #1 of 2 landscaping companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of landscaping companys in Atlanta, #1 of 2 landscaping companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

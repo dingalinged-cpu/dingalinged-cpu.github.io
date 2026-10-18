@@ -6,8 +6,8 @@ Also answers: dog boarding in Brookhaven, GA; dog boarding near me (Brookhaven, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Pet Set | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | The Pet Set is a dog boarding facility in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/the-pet-set-brookhaven/
-2. Dogtopia | Organic #2 | Pulse Score 47.1/100 (Building, #6 in city) | Dogtopia is a dog boarding facility in Atlanta, GA at 2152 Johnson Ferry Road Northeast, Atlanta, GA 30319. Phone: +14048858655. Website: https://www.dogtopia.com/atlanta-northbrookhaven/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-atlanta/
+1. The Pet Set | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | The Pet Set is a dog boarding facility in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/the-pet-set-brookhaven/
+2. Dogtopia | Organic #2 | Pulse Score 47.2/100 (Building, #6 in city) | Dogtopia is a dog boarding facility in Atlanta, GA at 2152 Johnson Ferry Road Northeast, Atlanta, GA 30319. Phone: +14048858655. Website: https://www.dogtopia.com/atlanta-northbrookhaven/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding brookhaven ga | category: Pets | industry benchmark: Animals & Pets

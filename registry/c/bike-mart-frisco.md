@@ -13,7 +13,7 @@ Bike Mart is a bike shop in Frisco, TX at 16702 Hollyhock Road #100, Frisco, TX.
 - Website: https://bikemart.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 98% of bike shops in Dallas–Fort Worth, #2 of 2 bike shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 98% of bike shops in Dallas–Fort Worth, #2 of 2 bike shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

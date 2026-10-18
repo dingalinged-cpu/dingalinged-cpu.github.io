@@ -6,11 +6,11 @@ Also answers: dermatologist in Flower Mound, TX; dermatologist near me (Flower M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flower Mound Dermatology | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Flower Mound Dermatology is a dermatologist in Flower Mound, TX at 3821 Long Prairie Road #100, Flower Mound, TX. Phone: +19722212784. | https://registry-edge.dingalinged.workers.dev/c/flower-mound-dermatology-flower-mound/
-2. U.S. Dermatology Partners | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. Phone: +19729859003. | https://registry-edge.dingalinged.workers.dev/c/u-s-dermatology-partners-flower-mound-n12974696506/
-3. McGuiness Dermatology | Organic #3 | Pulse Score 58.2/100 (Fair, #3 in city) | McGuiness Dermatology is a dermatologist in Flower Mound, TX at 4471 Long Prairie Road #100, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mcguiness-dermatology-flower-mound/
+1. Flower Mound Dermatology | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Flower Mound Dermatology is a dermatologist in Flower Mound, TX at 3821 Long Prairie Road #100, Flower Mound, TX. Phone: +19722212784. | https://registry-edge.dingalinged.workers.dev/c/flower-mound-dermatology-flower-mound/
+2. U.S. Dermatology Partners | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. Phone: +19729859003. | https://registry-edge.dingalinged.workers.dev/c/u-s-dermatology-partners-flower-mound-n12974696506/
+3. McGuiness Dermatology | Organic #3 | Pulse Score 58.4/100 (Fair, #3 in city) | McGuiness Dermatology is a dermatologist in Flower Mound, TX at 4471 Long Prairie Road #100, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mcguiness-dermatology-flower-mound/
 4. Skin Care Body Contouring Laser Center | Organic #4 | Pulse Score 56.6/100 (Fair, #4 in city) | Skin Care Body Contouring Laser Center is a dermatologist in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/skin-care-body-contouring-laser-center-flower-mound/
-5. U.S. Dermatology Partners | Organic #5 | Pulse Score 55.3/100 (Fair, #5 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/u-s-dermatology-partners-flower-mound/
+5. U.S. Dermatology Partners | Organic #5 | Pulse Score 55.4/100 (Fair, #5 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/u-s-dermatology-partners-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

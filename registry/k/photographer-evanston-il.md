@@ -6,7 +6,7 @@ Also answers: photographer in Evanston, IL; photographer near me (Evanston, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bordeaux Studio | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Bordeaux Studio is a photographer in Evanston, IL at 1703 Darrow Avenue, Evanston, IL 60201. Website: https://www.bordeauxstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/bordeaux-studio-evanston/
+1. Bordeaux Studio | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Bordeaux Studio is a photographer in Evanston, IL at 1703 Darrow Avenue, Evanston, IL 60201. Website: https://www.bordeauxstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/bordeaux-studio-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer evanston il | category: Events & weddings | industry benchmark: Personal Services

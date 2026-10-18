@@ -13,7 +13,7 @@ Internet Exposure is an IT support company in Minneapolis, MN at 1101 South Wash
 - Website: https://www.iexposure.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 17% of IT support companys in Minneapolis–St. Paul, #2 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of IT support companys in Minneapolis–St. Paul, #2 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

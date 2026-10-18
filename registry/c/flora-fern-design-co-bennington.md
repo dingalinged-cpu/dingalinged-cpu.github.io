@@ -13,7 +13,7 @@ Flora + Fern Design Co is a florist in Bennington, NE at 15321 South 2nd Street,
 - Website: https://www.floraandferndesign.com/
 - Email: flora.ferndesignco@gmail.com
 - Opening hours (OSM syntax): Su CLOSED, Mo-Fr 08:30-18:00, Sa 10:00-17:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 10% of florists in Omaha, NE, #1 of 1 florists in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 10% of florists in Omaha, NE, #1 of 1 florists in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

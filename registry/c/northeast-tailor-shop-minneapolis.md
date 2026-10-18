@@ -13,7 +13,7 @@ Northeast Tailor Shop is a tailor in Minneapolis, MN at 2831 Northeast Johnson S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 19% of tailors in Minneapolis–St. Paul, #2 of 10 tailors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 28% of tailors in Minneapolis–St. Paul, #2 of 10 tailors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

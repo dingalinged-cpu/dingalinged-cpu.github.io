@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Minneapolis, MN at 3212 Lake Street We
 - Website: https://www.hrblock.com/local-tax-offices/minnesota/minneapolis/3212-w-lake-st/22689?otppartnerid=9308&campaignid=pw_mcm_9308_9762&y_source=1_MzU5NDY5Ny03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 62% of tax preparation services in Minneapolis–St. Paul, #12 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 62% of tax preparation services in Minneapolis–St. Paul, #12 of 14 tax preparation services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tire Plus Custom Wheels is a tire shop in Terrell, TX at 410 East Moore Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 31% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 31% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

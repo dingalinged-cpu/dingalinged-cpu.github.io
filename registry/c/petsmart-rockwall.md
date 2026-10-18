@@ -13,7 +13,7 @@ PetSmart is a pet store in Rockwall, TX at 931 East Interstate 30, Rockwall, TX 
 - Website: https://www.petsmart.com/stores/us/tx/rockwall-store1278.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 70% of pet stores in Dallas–Fort Worth, #3 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 69% of pet stores in Dallas–Fort Worth, #3 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

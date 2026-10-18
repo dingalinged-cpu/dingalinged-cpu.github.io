@@ -6,7 +6,7 @@ Also answers: eye doctor in Glendale Heights, IL; eye doctor near me (Glendale H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iDoctor | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | iDoctor is an eye care practice in Glendale Heights, IL at 132 East Army Trail Road, Glendale Heights, IL 60139. Phone: +16304546899. Website: https://www.idoctoril.com/. | https://registry-edge.dingalinged.workers.dev/c/idoctor-glendale-heights/
+1. iDoctor | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | iDoctor is an eye care practice in Glendale Heights, IL at 132 East Army Trail Road, Glendale Heights, IL 60139. Phone: +16304546899. Website: https://www.idoctoril.com/. | https://registry-edge.dingalinged.workers.dev/c/idoctor-glendale-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor glendale heights il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Houston, TX at 1214 West 43rd Street #6
 - Website: https://locations.waxcenter.com/tx/houston/houston-oak-forest-0223.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 12:00-18:00
-- Pulse Score: 47.9/100 — Building — top 44% of waxing salons in Houston, #7 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 44% of waxing salons in Houston, #7 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

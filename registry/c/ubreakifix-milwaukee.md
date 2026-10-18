@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Milwaukee, WI at 1857 East Kenilworth Place
 - Website: https://www.ubreakifix.com/locations/milwaukee
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 50% of phone repair shops in Milwaukee, #3 of 3 phone repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 50% of phone repair shops in Milwaukee, #3 of 3 phone repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

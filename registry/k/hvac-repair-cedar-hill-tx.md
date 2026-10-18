@@ -6,7 +6,7 @@ Also answers: hvac repair in Cedar Hill, TX; hvac repair near me (Cedar Hill, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ellis Air Conditioning and Heating | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Ellis Air Conditioning and Heating is a HVAC contractor in Cedar Hill, TX at 536 North Highway 67, Cedar Hill, TX 75104. Phone: +19722919316. Website: https://www.ellisac.com/. | https://registry-edge.dingalinged.workers.dev/c/ellis-air-conditioning-and-heating-cedar-hill/
+1. Ellis Air Conditioning and Heating | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Ellis Air Conditioning and Heating is a HVAC contractor in Cedar Hill, TX at 536 North Highway 67, Cedar Hill, TX 75104. Phone: +19722919316. Website: https://www.ellisac.com/. | https://registry-edge.dingalinged.workers.dev/c/ellis-air-conditioning-and-heating-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair cedar hill tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

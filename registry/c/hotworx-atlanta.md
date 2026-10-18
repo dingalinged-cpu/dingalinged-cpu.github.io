@@ -13,7 +13,7 @@ Hotworx is a yoga studio in Atlanta, GA at 780 Memorial Drive Southeast #1B, Atl
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 96% of yoga studios in Atlanta, #9 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 96% of yoga studios in Atlanta, #9 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

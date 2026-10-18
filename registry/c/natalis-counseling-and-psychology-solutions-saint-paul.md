@@ -13,7 +13,7 @@ Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, M
 - Website: https://www.natalispsychology.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:30-19:00; Th 07:30-18:00; Fr 07:30-19:00; Sa 08:00-14:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 7% of therapy practices in Minneapolis–St. Paul, #3 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of therapy practices in Minneapolis–St. Paul, #3 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

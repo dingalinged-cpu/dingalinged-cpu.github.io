@@ -13,7 +13,7 @@ Hair Designers is a hair salon in Marietta, GA at 2145 Roswell Road, Marietta, G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Atlanta, #19 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Atlanta, #19 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

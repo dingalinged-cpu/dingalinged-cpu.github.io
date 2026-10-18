@@ -13,7 +13,7 @@ The Hive Collaborative Coworking is a coworking space in Kennesaw, GA at 2847 So
 - Website: https://thehivekennesaw.com/
 - Email: TheHiveKennesaw@gmail.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61/100 — Good — top 28% of coworking spaces in Atlanta, #1 of 3 coworking spaces in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 28% of coworking spaces in Atlanta, #1 of 3 coworking spaces in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

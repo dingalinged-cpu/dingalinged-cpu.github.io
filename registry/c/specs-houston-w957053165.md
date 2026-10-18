@@ -13,7 +13,7 @@ Spec's is a liquor store in Houston, TX at 8102 Westheimer Road, Houston, TX 770
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 84% of liquor stores in Houston, #78 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 83% of liquor stores in Houston, #78 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

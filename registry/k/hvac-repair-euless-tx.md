@@ -6,7 +6,7 @@ Also answers: hvac repair in Euless, TX; hvac repair near me (Euless, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BIMS, Inc. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | BIMS, Inc. is a HVAC contractor in Euless, TX at 1114 South Airport Circle #120, Euless, TX 76040. Phone: +12144672653. Website: https://bellomyims.com/. | https://registry-edge.dingalinged.workers.dev/c/bims-inc-euless/
+1. BIMS, Inc. | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | BIMS, Inc. is a HVAC contractor in Euless, TX at 1114 South Airport Circle #120, Euless, TX 76040. Phone: +12144672653. Website: https://bellomyims.com/. | https://registry-edge.dingalinged.workers.dev/c/bims-inc-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair euless tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

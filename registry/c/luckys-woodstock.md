@@ -13,7 +13,7 @@ Lucky's is a liquor store in Woodstock, GA at 610 Claremore Professional Way, Wo
 - Website: https://www.yelp.com/biz/luckys-beverage-world-woodstock
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 47% of liquor stores in Atlanta, #2 of 2 liquor stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 46% of liquor stores in Atlanta, #2 of 2 liquor stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

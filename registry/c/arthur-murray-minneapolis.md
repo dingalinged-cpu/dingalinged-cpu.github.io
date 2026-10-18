@@ -13,7 +13,7 @@ Arthur Murray is a dance studio in Minneapolis, MN at 5041 France Avenue South, 
 - Website: https://arthurmurrayminneapolis.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-22:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 40% of dance studios in Minneapolis–St. Paul, #3 of 5 dance studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 40% of dance studios in Minneapolis–St. Paul, #3 of 5 dance studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

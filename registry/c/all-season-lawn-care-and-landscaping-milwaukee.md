@@ -13,7 +13,7 @@ All Season Lawn Care & Landscaping is a landscaping company in Milwaukee, WI at 
 - Website: https://lawncaremilwaukeewi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 59.4/100 — Fair — top 50% of landscaping companys in Milwaukee, #3 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 50% of landscaping companys in Milwaukee, #3 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

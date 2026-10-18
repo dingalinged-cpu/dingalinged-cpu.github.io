@@ -13,7 +13,7 @@ Elements Massage is a massage studio in McKinney, TX at 4800 West University Dri
 - Website: https://elementsmassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 74% of massage studios in Dallas–Fort Worth, #7 of 9 massage studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 70% of massage studios in Dallas–Fort Worth, #7 of 9 massage studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

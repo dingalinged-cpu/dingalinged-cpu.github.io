@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-19:00; PH closed; Su 09:00-17:00
-- Pulse Score: 48.2/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #24 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #24 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

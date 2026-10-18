@@ -13,7 +13,7 @@ K&L Bagels is a bakery in Dallas, TX at 11930 Preston Road, Dallas, TX 75230. We
 - Website: https://www.klbagels.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 07:00-13:30; Sa,Su 07:00-13:00; Mo off
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Dallas–Fort Worth, #6 of 23 bakerys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Dallas–Fort Worth, #6 of 23 bakerys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

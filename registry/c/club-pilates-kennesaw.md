@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Kennesaw, GA at 1450 Ernest W. Barrett Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 73% of pilates studios in Atlanta, #1 of 1 pilates studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 73% of pilates studios in Atlanta, #1 of 1 pilates studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

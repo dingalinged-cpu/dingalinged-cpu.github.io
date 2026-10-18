@@ -13,7 +13,7 @@ PetSmart is a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplew
 - Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 50.3/100 — Fair — top 58% of pet stores in Minneapolis–St. Paul, #1 of 1 pet stores in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 53% of pet stores in Minneapolis–St. Paul, #1 of 1 pet stores in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

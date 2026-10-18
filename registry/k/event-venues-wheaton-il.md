@@ -7,7 +7,7 @@ Also answers: event venues in Wheaton, IL; event venues near me (Wheaton, IL); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Danada House | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Danada House is an event venue in Wheaton, IL at 3S501 Naperville Road, Wheaton, IL 60187. Phone: +16306685392. Website: https://danadahouse.org/. | https://registry-edge.dingalinged.workers.dev/c/danada-house-wheaton/
-2. DuPage County Fairgrounds | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | DuPage County Fairgrounds is an event venue in Wheaton, IL at Manchester Road, Wheaton, IL 60187. Website: https://dupagecountyfair.org/. | https://registry-edge.dingalinged.workers.dev/c/dupage-county-fairgrounds-wheaton/
+2. DuPage County Fairgrounds | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | DuPage County Fairgrounds is an event venue in Wheaton, IL at Manchester Road, Wheaton, IL 60187. Website: https://dupagecountyfair.org/. | https://registry-edge.dingalinged.workers.dev/c/dupage-county-fairgrounds-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues wheaton il | category: Events & weddings | industry benchmark: Personal Services

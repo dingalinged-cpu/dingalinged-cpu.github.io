@@ -13,7 +13,7 @@ North Texas Allergy & Asthma Center is an allergist in Denton, TX at 3105 Colora
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.4/100 — Unrated (not enough evidence yet) — top 100% of allergists in Dallas–Fort Worth, #2 of 2 allergists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.1, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 100% of allergists in Dallas–Fort Worth, #2 of 2 allergists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

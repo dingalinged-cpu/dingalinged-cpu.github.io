@@ -13,7 +13,7 @@ FedEx Office is a printing service in Clive, IA at 10201 University Avenue, Cliv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 100% of printing services in Des Moines, IA, #2 of 2 printing services in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 100% of printing services in Des Moines, IA, #2 of 2 printing services in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

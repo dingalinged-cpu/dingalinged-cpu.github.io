@@ -6,7 +6,7 @@ Also answers: tanning salon in Town Of Norway, WI; tanning salon near me (Town O
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wiakiki Beach Tanning | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Wiakiki Beach Tanning is a tanning salon in Town of Norway, WI. | https://registry-edge.dingalinged.workers.dev/c/wiakiki-beach-tanning-town-of-norway/
+1. Wiakiki Beach Tanning | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Wiakiki Beach Tanning is a tanning salon in Town of Norway, WI. | https://registry-edge.dingalinged.workers.dev/c/wiakiki-beach-tanning-town-of-norway/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon town of norway wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

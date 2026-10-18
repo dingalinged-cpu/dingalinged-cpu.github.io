@@ -13,7 +13,7 @@ Ridgewood Senior Living is an assisted living facility in Bennington, NE. Phone:
 - Website: https://heritage-communities.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 30% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 30% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

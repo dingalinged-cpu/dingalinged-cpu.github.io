@@ -13,7 +13,7 @@ Little Guys Movers is a moving company in Flower Mound, TX at 2624 Long Prairie 
 - Website: https://www.littleguys.com/
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment only"
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 43% of moving companys in Dallas–Fort Worth, #1 of 1 moving companys in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 43% of moving companys in Dallas–Fort Worth, #1 of 1 moving companys in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

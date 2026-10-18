@@ -6,7 +6,7 @@ Also answers: pilates in Lenexa, KS; pilates near me (Lenexa, KS); best pilates 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Club Pilates is a pilates studio in Lenexa, KS at 16131 West 87th Terrace, Lenexa, KS 66219. Phone: +19134996453. Website: https://www.clubpilates.com/location/lenexa. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-lenexa/
+1. Club Pilates | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Club Pilates is a pilates studio in Lenexa, KS at 16131 West 87th Terrace, Lenexa, KS 66219. Phone: +19134996453. Website: https://www.clubpilates.com/location/lenexa. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates lenexa ks | category: Fitness | industry benchmark: Health & Fitness

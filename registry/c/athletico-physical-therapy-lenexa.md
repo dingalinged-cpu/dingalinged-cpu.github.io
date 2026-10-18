@@ -13,12 +13,12 @@ Athletico Physical Therapy is a physical therapy clinic in Lenexa, KS at 14900 W
 - Website: https://www.athletico.com/locations/lenexa
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:30
-- Pulse Score: 49/100 — Building — top 61% of physical therapy clinics in Kansas City, MO, #2 of 2 physical therapy clinics in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 60% of physical therapy clinics in Kansas City, MO, #3 of 3 physical therapy clinics in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1415314812 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1415314812 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

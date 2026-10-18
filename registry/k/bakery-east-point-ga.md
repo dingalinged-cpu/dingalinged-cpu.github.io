@@ -6,7 +6,7 @@ Also answers: bakery in East Point, GA; bakery near me (East Point, GA); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kupkakerie | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Kupkakerie is a bakery in East Point, GA at 2781 Main Street, East Point, GA 30344. Website: https://kupcakerie.com/. | https://registry-edge.dingalinged.workers.dev/c/kupkakerie-east-point/
+1. Kupkakerie | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Kupkakerie is a bakery in East Point, GA at 2781 Main Street, East Point, GA 30344. Website: https://kupcakerie.com/. | https://registry-edge.dingalinged.workers.dev/c/kupkakerie-east-point/
 2. Baked Wright | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Baked Wright is a bakery in East Point, GA. | https://registry-edge.dingalinged.workers.dev/c/baked-wright-east-point/
 
 ## Market data (for advertisers and agents)

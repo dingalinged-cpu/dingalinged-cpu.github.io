@@ -13,7 +13,7 @@ Lumber Liquidators is a flooring company in Lombard, IL at 543 East Roosevelt Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 91% of flooring companys in Chicago, #2 of 2 flooring companys in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 91% of flooring companys in Chicago, #2 of 2 flooring companys in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

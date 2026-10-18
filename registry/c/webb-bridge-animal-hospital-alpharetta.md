@@ -13,7 +13,7 @@ Webb Bridge Animal Hospital is a veterinarian in Alpharetta, GA at 3593 Webb Bri
 - Website: https://webbbridgeanimalhospital.com/
 - Email: mailto:staff@webbbridgevet.com
 - Opening hours (OSM syntax): Mo 08:00-18:00; Tu 08:30-17:00; We 08:00-18:00; Fr 08:30-17:00; Sa 08:30-16:00; Su off
-- Pulse Score: 61/100 — Good — top 31% of veterinarians in Atlanta, #4 of 6 veterinarians in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 30% of veterinarians in Atlanta, #4 of 6 veterinarians in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

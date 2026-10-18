@@ -13,7 +13,7 @@ Reformed Pilates is a gym in McKinney, TX at 8701 West University Drive #110, Mc
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 65% of gyms in Dallas–Fort Worth, #12 of 19 gyms in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 64% of gyms in Dallas–Fort Worth, #11 of 19 gyms in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

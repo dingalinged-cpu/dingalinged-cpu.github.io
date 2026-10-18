@@ -13,7 +13,7 @@ New Fashion Cleaners is a dry cleaner in Kennesaw, GA at 4148 Jiles Road, Kennes
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:30; Sa 07:00-17:00; Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 21% of dry cleaners in Atlanta, #2 of 6 dry cleaners in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Atlanta, #2 of 6 dry cleaners in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: dog groomer in Overland Park, KS; dog groomer near me (Overland Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zoom Room Dog Training - Overland Park | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Zoom Room Dog Training - Overland Park is a dog groomer in Overland Park, KS at 11670 West 133rd Street, Overland Park, KS 66221. Phone: +19137323083. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-overland-park-overland-park/
-2. Zoom Room Dog Training - Overland Park | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Zoom Room Dog Training - Overland Park is a dog groomer in Overland Park, KS at 9238 Metcalf Avenue, Overland Park, KS 66212. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-overland-park-overland-park-w1478746168/
+1. Zoom Room Dog Training - Overland Park | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Zoom Room Dog Training - Overland Park is a dog groomer in Overland Park, KS at 11670 West 133rd Street, Overland Park, KS 66221. Phone: +19137323083. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-overland-park-overland-park/
+2. Zoom Room Dog Training - Overland Park | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Zoom Room Dog Training - Overland Park is a dog groomer in Overland Park, KS at 9238 Metcalf Avenue, Overland Park, KS 66212. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-overland-park-overland-park-w1478746168/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer overland park ks | category: Pets | industry benchmark: Animals & Pets

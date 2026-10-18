@@ -13,7 +13,7 @@ Mavis Tires & Brakes is an auto repair shop in Atlanta, GA at 1689 Howell Mill R
 - Website: https://www.mavis.com/locations/atlanta-howell-mill-dr-ga?stnum=1008
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00
-- Pulse Score: 50.2/100 — Fair — top 68% of auto repair shops in Atlanta, #33 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 67% of auto repair shops in Atlanta, #33 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

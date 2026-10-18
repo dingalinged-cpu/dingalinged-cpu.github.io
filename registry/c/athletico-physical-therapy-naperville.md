@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Naperville, IL at 115
 - Website: https://www.athletico.com/locations/naperville-ogden-avenue/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 07:00-20:00; Tu, Th 09:00-20:00; Fr 07:00-18:30; Su 07:00-12:00
-- Pulse Score: 50.3/100 — Fair — top 27% of physical therapy clinics in Chicago, #2 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 26% of physical therapy clinics in Chicago, #2 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

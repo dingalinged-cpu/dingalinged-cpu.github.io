@@ -6,7 +6,7 @@ Also answers: primary care physician in The Woodlands, TX; primary care physicia
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Primary Care | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | First Primary Care is a family medicine practice in The Woodlands, TX at 25511 Budde Road #3703, The Woodlands, TX 77380. Phone: +12815498060. Website: https://www.firstprimarycare.com/. | https://registry-edge.dingalinged.workers.dev/c/first-primary-care-the-woodlands/
+1. First Primary Care | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | First Primary Care is a family medicine practice in The Woodlands, TX at 25511 Budde Road #3703, The Woodlands, TX 77380. Phone: +12815498060. Website: https://www.firstprimarycare.com/. | https://registry-edge.dingalinged.workers.dev/c/first-primary-care-the-woodlands/
 2. Total Men's Primary Care | Organic #2 | Pulse Score 41.1/100 (Unrated, #2 in city) | Total Men's Primary Care is a family medicine practice in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/total-mens-primary-care-the-woodlands/
 
 ## Market data (for advertisers and agents)

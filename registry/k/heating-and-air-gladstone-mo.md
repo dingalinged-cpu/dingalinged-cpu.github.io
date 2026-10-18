@@ -6,8 +6,8 @@ Also answers: heating and air in Gladstone, MO; heating and air near me (Gladsto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arctic Air Heating & Cooling | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Arctic Air Heating & Cooling is a HVAC contractor in Gladstone, MO at 6708 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/arctic-air-heating-and-cooling-gladstone/
-2. Buckner's Heating & Cooling | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Buckner's Heating & Cooling is a HVAC contractor in Gladstone, MO at 202 Northwest 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/buckners-heating-and-cooling-gladstone/
+1. Arctic Air Heating & Cooling | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Arctic Air Heating & Cooling is a HVAC contractor in Gladstone, MO at 6708 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/arctic-air-heating-and-cooling-gladstone/
+2. Buckner's Heating & Cooling | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Buckner's Heating & Cooling is a HVAC contractor in Gladstone, MO at 202 Northwest 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/buckners-heating-and-cooling-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air gladstone mo | category: Home Services | industry benchmark: Home & Home Improvement

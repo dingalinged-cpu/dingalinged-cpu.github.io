@@ -6,7 +6,7 @@ Also answers: furniture store in Fitchburg, WI; furniture store near me (Fitchbu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roughing It In Style | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Roughing It In Style is a furniture store in Fitchburg, WI. Website: https://www.roughingitinstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/roughing-it-in-style-fitchburg/
+1. Roughing It In Style | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Roughing It In Style is a furniture store in Fitchburg, WI. Website: https://www.roughingitinstyle.com/. | https://registry-edge.dingalinged.workers.dev/c/roughing-it-in-style-fitchburg/
 2. A1 Furniture and Mattress | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | A1 Furniture and Mattress is a furniture store in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/a1-furniture-and-mattress-fitchburg/
 3. Dwellings | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Dwellings is a furniture store in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/dwellings-fitchburg/
 

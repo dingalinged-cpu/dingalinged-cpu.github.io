@@ -13,7 +13,7 @@ Cuddle Care Academy is a daycare in Chicago, IL at 4800 South Lake Park Avenue, 
 - Website: https://cuddlecarechicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 5% of daycares in Chicago, #3 of 73 daycares in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 5% of daycares in Chicago, #3 of 73 daycares in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

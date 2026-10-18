@@ -6,7 +6,7 @@ Also answers: electrician in Council Bluffs, IA; electrician near me (Council Bl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bluffs Electric | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Bluffs Electric is an electrician in Council Bluffs, IA at 1315 9th Avenue, Council Bluffs, IA 51501. Phone: +17123251537. Website: https://bluffsservices.com/. | https://registry-edge.dingalinged.workers.dev/c/bluffs-electric-council-bluffs/
+1. Bluffs Electric | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Bluffs Electric is an electrician in Council Bluffs, IA at 1315 9th Avenue, Council Bluffs, IA 51501. Phone: +17123251537. Website: https://bluffsservices.com/. | https://registry-edge.dingalinged.workers.dev/c/bluffs-electric-council-bluffs/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician council bluffs ia | category: Home services - Electrical | industry benchmark: Home & Home Improvement

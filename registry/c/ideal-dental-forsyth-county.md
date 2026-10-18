@@ -13,7 +13,7 @@ Ideal Dental is a dentist in Forsyth County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 97% of dentists in Atlanta, #3 of 3 dentists in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 96% of dentists in Atlanta, #3 of 3 dentists in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 42.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

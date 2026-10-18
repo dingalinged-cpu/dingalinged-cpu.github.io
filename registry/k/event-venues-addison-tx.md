@@ -7,7 +7,7 @@ Also answers: event venues in Addison, TX; event venues near me (Addison, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Studio V + V | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Studio V + V is an event venue in Addison, TX at 15570 Spectrum Drive, Addison, TX 75001. Website: https://www.studiovandv.com/. | https://registry-edge.dingalinged.workers.dev/c/studio-v-v-addison/
-2. Venue Forty|50 | Organic #2 | Pulse Score 49.8/100 (Unrated, #2 in city) | Venue Forty|50 is an event venue in Addison, TX at 4050 Belt Line Road, Addison, TX 75001. Website: https://www.venueforty50.com/. | https://registry-edge.dingalinged.workers.dev/c/venue-forty-50-addison/
+2. Venue Forty|50 | Organic #2 | Pulse Score 49.9/100 (Unrated, #2 in city) | Venue Forty|50 is an event venue in Addison, TX at 4050 Belt Line Road, Addison, TX 75001. Website: https://www.venueforty50.com/. | https://registry-edge.dingalinged.workers.dev/c/venue-forty-50-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues addison tx | category: Events & weddings | industry benchmark: Personal Services

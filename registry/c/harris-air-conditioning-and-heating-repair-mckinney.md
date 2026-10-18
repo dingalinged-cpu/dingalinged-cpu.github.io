@@ -13,7 +13,7 @@ Harris Air Conditioning and Heating Repair is a HVAC contractor in McKinney, TX 
 - Website: https://www.harrisairservices.com/air-conditioning/repair/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 44% of HVAC contractors in Dallas–Fort Worth, #2 of 2 HVAC contractors in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 44% of HVAC contractors in Dallas–Fort Worth, #2 of 2 HVAC contractors in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

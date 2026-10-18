@@ -13,7 +13,7 @@ QWerks Complete Automotive Restoration, LLC is an auto repair shop in Union Grov
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Milwaukee, #1 of 2 auto repair shops in Union Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Milwaukee, #1 of 2 auto repair shops in Union Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

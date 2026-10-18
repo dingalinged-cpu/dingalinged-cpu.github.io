@@ -13,7 +13,7 @@ Foot & Ankle Solutions is a podiatrist in Flower Mound, TX at 3208 Long Prairie 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-11:45,12:45-17:00; Fr 08:00-11:45,12:45-16:00; Sa-Su off
-- Pulse Score: 61.6/100 — Good — top 18% of podiatrists in Dallas–Fort Worth, #1 of 2 podiatrists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 18% of podiatrists in Dallas–Fort Worth, #1 of 2 podiatrists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

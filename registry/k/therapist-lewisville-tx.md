@@ -6,9 +6,9 @@ Also answers: therapist in Lewisville, TX; therapist near me (Lewisville, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Helm ABA | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Helm ABA is a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/. | https://registry-edge.dingalinged.workers.dev/c/the-helm-aba-lewisville/
-2. Just Be You. Psychiatry | Organic #2 | Pulse Score 57.9/100 (Fair, #2 in city) | Just Be You. Psychiatry is a therapy practice in Lewisville, TX at 118 North Edna Avenue #602, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/just-be-you-psychiatry-lewisville/
-3. Counseling Center of Lewisville | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Counseling Center of Lewisville is a therapy practice in Lewisville, TX. Phone: +19403877517. | https://registry-edge.dingalinged.workers.dev/c/counseling-center-of-lewisville-lewisville/
+1. The Helm ABA | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Helm ABA is a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/. | https://registry-edge.dingalinged.workers.dev/c/the-helm-aba-lewisville/
+2. Just Be You. Psychiatry | Organic #2 | Pulse Score 58/100 (Fair, #2 in city) | Just Be You. Psychiatry is a therapy practice in Lewisville, TX at 118 North Edna Avenue #602, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/just-be-you-psychiatry-lewisville/
+3. Counseling Center of Lewisville | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Counseling Center of Lewisville is a therapy practice in Lewisville, TX. Phone: +19403877517. | https://registry-edge.dingalinged.workers.dev/c/counseling-center-of-lewisville-lewisville/
 4. Compassion Counseling Collaborative | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Compassion Counseling Collaborative is a therapy practice in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/compassion-counseling-collaborative-lewisville/
 
 ## Market data (for advertisers and agents)

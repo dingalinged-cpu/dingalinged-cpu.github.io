@@ -13,7 +13,7 @@ Recreation is a marketing agency in Dallas, TX at 3710 Commerce Street, Dallas, 
 - Website: https://recreationdallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 83% of marketing agencys in Dallas–Fort Worth, #5 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 79% of marketing agencys in Dallas–Fort Worth, #5 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

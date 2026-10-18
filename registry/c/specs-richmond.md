@@ -13,7 +13,7 @@ Spec's is a liquor store in Richmond, TX at 19210 West Bellfort Street, Richmond
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Building — top 88% of liquor stores in Houston, #2 of 2 liquor stores in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 87% of liquor stores in Houston, #2 of 2 liquor stores in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

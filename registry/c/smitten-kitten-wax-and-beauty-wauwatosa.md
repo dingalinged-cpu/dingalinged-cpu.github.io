@@ -13,7 +13,7 @@ Smitten Kitten Wax & Beauty is a waxing salon in Wauwatosa, WI at 7259 West Nort
 - Website: https://www.smittenkittenwax.com/
 - Email: smittenkittenwax@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 60% of waxing salons in Milwaukee, #2 of 2 waxing salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 80% of waxing salons in Milwaukee, #2 of 2 waxing salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

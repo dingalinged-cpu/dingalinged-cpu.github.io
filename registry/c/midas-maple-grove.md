@@ -13,7 +13,7 @@ Midas is an auto repair shop in Maple Grove, MN at 13350 Grove Drive North, Mapl
 - Website: https://13350grovedrive.midasminneapolis.com/store.aspx?shopnum=2239
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 49.2/100 — Building — top 77% of auto repair shops in Minneapolis–St. Paul, #3 of 7 auto repair shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 76% of auto repair shops in Minneapolis–St. Paul, #3 of 7 auto repair shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: acupuncture in Overland Park, KS; acupuncture near me (Overland Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trump Chiropractic & Acupuncture | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Trump Chiropractic & Acupuncture is an acupuncture clinic in Overland Park, KS at 6871 West 91st Street, Overland Park, KS 66212. Phone: +19133810740. Website: https://www.trumpchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/trump-chiropractic-and-acupuncture-overland-park/
+1. Trump Chiropractic & Acupuncture | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Trump Chiropractic & Acupuncture is an acupuncture clinic in Overland Park, KS at 6871 West 91st Street, Overland Park, KS 66212. Phone: +19133810740. Website: https://www.trumpchiro.com/. | https://registry-edge.dingalinged.workers.dev/c/trump-chiropractic-and-acupuncture-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture overland park ks | category: Health & medical | industry benchmark: Physicians & Surgeons

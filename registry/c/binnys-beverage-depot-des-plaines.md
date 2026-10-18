@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Des Plaines, IL at 767 West Golf Roa
 - Website: https://www.binnys.com/store-locator/des-plaines/
 - Email: desplaines@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 50.7/100 — Fair — top 88% of liquor stores in Chicago, #7 of 7 liquor stores in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 86% of liquor stores in Chicago, #7 of 7 liquor stores in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

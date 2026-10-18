@@ -13,7 +13,7 @@ Orbesen Construction Company, Inc. is an architect in Gary, IN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 100% of architects in Chicago, #2 of 2 architects in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 100% of architects in Chicago, #2 of 2 architects in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Katy, TX at 25120 Market Place Drive, Katy, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 75% of auto repair shops in Houston, #11 of 16 auto repair shops in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 75% of auto repair shops in Houston, #10 of 16 auto repair shops in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: yoga classes in Northmoor, MO; yoga classes near me (Northmoor, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. InBliss Yoga | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | InBliss Yoga is a yoga studio in Northmoor, MO at 5106 Northwest Waukomis Drive, Northmoor, MO 64151. Website: https://inblissyoga.mykajabi.com/store. | https://registry-edge.dingalinged.workers.dev/c/inbliss-yoga-northmoor/
+1. InBliss Yoga | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | InBliss Yoga is a yoga studio in Northmoor, MO at 5106 Northwest Waukomis Drive, Northmoor, MO 64151. Website: https://inblissyoga.mykajabi.com/store. | https://registry-edge.dingalinged.workers.dev/c/inbliss-yoga-northmoor/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes northmoor mo | category: Fitness | industry benchmark: Health & Fitness

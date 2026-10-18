@@ -13,7 +13,7 @@ The UPS Store is a printing service in Frisco, TX at 11625 Custer Road #110, Fri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 52% of printing services in Dallas–Fort Worth, #2 of 8 printing services in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 51% of printing services in Dallas–Fort Worth, #2 of 8 printing services in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

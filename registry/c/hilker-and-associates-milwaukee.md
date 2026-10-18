@@ -13,7 +13,7 @@ Hilker & Associates is an accountant in Milwaukee, WI at 1320 North Jackson Stre
 - Website: https://hilkerassociates.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of accountants in Milwaukee, #1 of 1 accountants in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 12% of accountants in Milwaukee, #1 of 1 accountants in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

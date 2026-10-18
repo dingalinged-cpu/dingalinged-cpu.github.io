@@ -13,7 +13,7 @@ Knead Me Bakery is a bakery in Shenandoah, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu off; We-Fr 09:00-16:00; Sa-Su 09:00-15:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Houston, #2 of 2 bakerys in Shenandoah (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Houston, #2 of 2 bakerys in Shenandoah (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bakery in Madrid, IA; bakery near me (Madrid, IA); best bakery Mad
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madrid Bakery and Coffee | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Madrid Bakery and Coffee is a bakery in Madrid, IA at 305 Annex Road, Madrid, IA. | https://registry-edge.dingalinged.workers.dev/c/madrid-bakery-and-coffee-madrid/
+1. Madrid Bakery and Coffee | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Madrid Bakery and Coffee is a bakery in Madrid, IA at 305 Annex Road, Madrid, IA. | https://registry-edge.dingalinged.workers.dev/c/madrid-bakery-and-coffee-madrid/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery madrid ia | category: Events & weddings | industry benchmark: Personal Services

@@ -6,7 +6,7 @@ Also answers: dance studio in Platte City, MO; dance studio near me (Platte City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elements Dance Academy | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Elements Dance Academy is a dance studio in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/elements-dance-academy-platte-city/
+1. Elements Dance Academy | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Elements Dance Academy is a dance studio in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/elements-dance-academy-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio platte city mo | category: Fitness | industry benchmark: Health & Fitness

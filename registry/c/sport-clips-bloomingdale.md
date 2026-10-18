@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Bloomingdale, IL at 383 West Army Trail Road, Blo
 - Website: https://sportclips.com/us-il-bloomingdale-il105
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 49.2/100 — Building — top 78% of hair salons in Chicago, #1 of 1 hair salons in Bloomingdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 77% of hair salons in Chicago, #1 of 1 hair salons in Bloomingdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

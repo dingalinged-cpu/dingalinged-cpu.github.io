@@ -13,7 +13,7 @@ The Rim Plug (The Chrome Depot) is a tire shop in Cicero, IL at 1817 South 55th 
 - Website: https://www.facebook.com/thechromedepot
 - Email: thechromedepotinc@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Good — top 5% of tire shops in Chicago, #1 of 2 tire shops in Cicero (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 5% of tire shops in Chicago, #1 of 2 tire shops in Cicero (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

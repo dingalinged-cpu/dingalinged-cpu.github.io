@@ -6,7 +6,7 @@ Also answers: jewelry store in Belton, MO; jewelry store near me (Belton, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hurst Jewelry and Eyewear | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Hurst Jewelry and Eyewear is a jewelry store in Belton, MO at 8430 Clint Drive, Belton, MO 64012. Phone: +18164381460. Website: https://hurstjewelryandeyewear.com/. | https://registry-edge.dingalinged.workers.dev/c/hurst-jewelry-and-eyewear-belton/
+1. Hurst Jewelry and Eyewear | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Hurst Jewelry and Eyewear is a jewelry store in Belton, MO at 8430 Clint Drive, Belton, MO 64012. Phone: +18164381460. Website: https://hurstjewelryandeyewear.com/. | https://registry-edge.dingalinged.workers.dev/c/hurst-jewelry-and-eyewear-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store belton mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

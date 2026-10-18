@@ -13,7 +13,7 @@ Johnson/Turner Legal is a lawyer in Minneapolis, MN at 100 S 5th St, Suite #1900
 - Website: https://www.johnsonturner.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Minneapolis–St. Paul, #20 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Minneapolis–St. Paul, #20 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

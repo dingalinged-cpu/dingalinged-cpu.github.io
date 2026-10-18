@@ -13,7 +13,7 @@ Haskells is a liquor store in Bloomington, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00, Fr,Sa 22:00-21:00, Su 11:00-18:00
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 43% of liquor stores in Minneapolis–St. Paul, #2 of 6 liquor stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 43% of liquor stores in Minneapolis–St. Paul, #2 of 6 liquor stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

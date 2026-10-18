@@ -13,7 +13,7 @@ Pure Barre is a gym in Dallas, TX at 5000 Belt Line Road #200, Dallas, TX 75254.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 71% of gyms in Dallas–Fort Worth, #50 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 70% of gyms in Dallas–Fort Worth, #49 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

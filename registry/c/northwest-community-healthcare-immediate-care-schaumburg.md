@@ -13,7 +13,7 @@ Northwest Community Healthcare Immediate Care is an urgent care clinic in Schaum
 - Website: https://www.nch.org/location-contact-info/immediate-care/nch-immediate-care-at-schaumburg
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00; Sa,Su,PH 08:00-18:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 31% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 31% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

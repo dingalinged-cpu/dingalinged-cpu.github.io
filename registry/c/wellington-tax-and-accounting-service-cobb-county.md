@@ -13,7 +13,7 @@ Wellington Tax & Accounting Service is a tax preparation service in Cobb County,
 - Website: https://www.wellingtontax.com/
 - Email: Don@WellingtonTax.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 6% of tax preparation services in Atlanta, #3 of 10 tax preparation services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 6% of tax preparation services in Atlanta, #3 of 10 tax preparation services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

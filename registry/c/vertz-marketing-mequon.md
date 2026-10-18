@@ -13,7 +13,7 @@ Vertz Marketing is a marketing agency in Mequon, WI at 10505 North Port Washingt
 - Website: https://vertzmarketing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 94% of marketing agencys in Milwaukee, #1 of 1 marketing agencys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 94% of marketing agencys in Milwaukee, #1 of 1 marketing agencys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

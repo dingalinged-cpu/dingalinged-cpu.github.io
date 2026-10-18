@@ -13,7 +13,7 @@ C & K Painting is a painting contractor in Santa Fe, TX at 1720 Shouse Road, San
 - Website: https://www.candkpainting.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Houston, #1 of 1 painting contractors in Santa Fe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Houston, #1 of 1 painting contractors in Santa Fe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

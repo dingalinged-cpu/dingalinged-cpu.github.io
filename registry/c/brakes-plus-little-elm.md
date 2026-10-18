@@ -13,7 +13,7 @@ Brakes Plus is an auto repair shop in Little Elm, TX at 26585 East University Dr
 - Website: https://www.brakesplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 46.6/100 — Building — top 72% of auto repair shops in Dallas–Fort Worth, #3 of 8 auto repair shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 71% of auto repair shops in Dallas–Fort Worth, #3 of 8 auto repair shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

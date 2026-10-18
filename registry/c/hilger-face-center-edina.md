@@ -13,7 +13,7 @@ Hilger Face Center is a plastic surgeon in Edina, MN. Website: https://mphysicia
 - Website: https://mphysicians.org/hilger
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 72% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 72% of plastic surgeons in Minneapolis–St. Paul, #1 of 1 plastic surgeons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: waxing in Naperville, IL; waxing near me (Naperville, IL); best wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benefit Brow Bar | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Benefit Brow Bar is a waxing salon in Naperville, IL at 214 South Main Street, Naperville, IL 60540. Phone: +16304288557. Website: https://naperville.benefitboutiques.com/. | https://registry-edge.dingalinged.workers.dev/c/benefit-brow-bar-naperville/
+1. Benefit Brow Bar | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | Benefit Brow Bar is a waxing salon in Naperville, IL at 214 South Main Street, Naperville, IL 60540. Phone: +16304288557. Website: https://naperville.benefitboutiques.com/. | https://registry-edge.dingalinged.workers.dev/c/benefit-brow-bar-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing naperville il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

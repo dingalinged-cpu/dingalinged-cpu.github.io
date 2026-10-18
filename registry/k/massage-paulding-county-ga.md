@@ -6,7 +6,7 @@ Also answers: massage in Paulding County, GA; massage near me (Paulding County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaVida Massage | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | LaVida Massage is a massage studio in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-paulding-county/
+1. LaVida Massage | Organic #1 | Pulse Score 41.7/100 (Unrated, #1 in city) | LaVida Massage is a massage studio in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-paulding-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage paulding county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

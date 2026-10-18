@@ -13,12 +13,12 @@ Family Foot Docs is a podiatrist in Gladstone, MO at 6717 North Oak Trafficway, 
 - Website: https://familyfootdocs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of podiatrists in Kansas City, MO, #1 of 1 podiatrists in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 25% of podiatrists in Kansas City, MO, #1 of 1 podiatrists in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/family-foot-docs-gladstone/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/family-foot-docs-gladstone.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/3383587689 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3383587689 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Fini Conditioned Air is a HVAC contractor in Des Moines, IA at 5501 East Douglas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 67% of HVAC contractors in Des Moines, IA, #2 of 3 HVAC contractors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 67% of HVAC contractors in Des Moines, IA, #2 of 3 HVAC contractors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tailor in Naperville, IL; tailor near me (Naperville, IL); best ta
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tailoring by Monica | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/. | https://registry-edge.dingalinged.workers.dev/c/tailoring-by-monica-naperville/
+1. Tailoring by Monica | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/. | https://registry-edge.dingalinged.workers.dev/c/tailoring-by-monica-naperville/
 2. Tailoring by JoDee | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Tailoring by JoDee is a tailor in Naperville, IL. | https://registry-edge.dingalinged.workers.dev/c/tailoring-by-jodee-naperville/
 
 ## Market data (for advertisers and agents)

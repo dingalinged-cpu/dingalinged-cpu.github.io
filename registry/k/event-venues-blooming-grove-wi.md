@@ -6,7 +6,7 @@ Also answers: event venues in Blooming Grove, WI; event venues near me (Blooming
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barnwood Events | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Barnwood Events is an event venue in Blooming Grove, WI. Website: https://www.barnwoodeventswi.com/. | https://registry-edge.dingalinged.workers.dev/c/barnwood-events-blooming-grove/
+1. Barnwood Events | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Barnwood Events is an event venue in Blooming Grove, WI. Website: https://www.barnwoodeventswi.com/. | https://registry-edge.dingalinged.workers.dev/c/barnwood-events-blooming-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues blooming grove wi | category: Events & weddings | industry benchmark: Personal Services

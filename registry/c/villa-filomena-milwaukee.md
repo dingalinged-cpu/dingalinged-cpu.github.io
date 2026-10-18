@@ -13,7 +13,7 @@ Villa Filomena is an event venue in Milwaukee, WI at 1119 North Marshall Street,
 - Website: https://www.villafilomena.com/
 - Email: info.villafilomena@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 65.6/100 — Good — top 5% of event venues in Milwaukee, #3 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.7/100 — Good — top 4% of event venues in Milwaukee, #2 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

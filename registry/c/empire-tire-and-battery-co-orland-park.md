@@ -13,7 +13,7 @@ Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wo
 - Website: https://etabco.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Fr 08:00-17:00; We-Th 08:00-18:00; Sa 07:00-12:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Chicago, #1 of 10 auto repair shops in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Chicago, #1 of 10 auto repair shops in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

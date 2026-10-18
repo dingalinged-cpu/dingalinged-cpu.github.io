@@ -13,7 +13,7 @@ Accurate Heating & Cooling is a HVAC contractor in Omaha, NE. Phone: +1402496895
 - Website: https://accurateheatingcooling.com/
 - Email: Accurate1998@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 75% of HVAC contractors in Omaha, NE, #3 of 3 HVAC contractors in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 75% of HVAC contractors in Omaha, NE, #3 of 3 HVAC contractors in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: heating and air in Kennesaw, GA; heating and air near me (Kennesaw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Top Tech Mechanical Services | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Top Tech Mechanical Services is a HVAC contractor in Kennesaw, GA at 2535 South Main Street #105, Kennesaw, GA. Phone: +16784879021. Website: https://toptechmech.com/. | https://registry-edge.dingalinged.workers.dev/c/top-tech-mechanical-services-kennesaw/
-2. J&S Air Conditioning Heating & Electrical | Organic #2 | Pulse Score 60.4/100 (Good, #2 in city) | J&S Air Conditioning Heating & Electrical is a HVAC contractor in Kennesaw, GA at 3762 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17704211988. Website: https://www.jandshvacelectrical.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-s-air-conditioning-heating-and-electrical-kennesaw/
+1. Top Tech Mechanical Services | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Top Tech Mechanical Services is a HVAC contractor in Kennesaw, GA at 2535 South Main Street #105, Kennesaw, GA. Phone: +16784879021. Website: https://toptechmech.com/. | https://registry-edge.dingalinged.workers.dev/c/top-tech-mechanical-services-kennesaw/
+2. J&S Air Conditioning Heating & Electrical | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | J&S Air Conditioning Heating & Electrical is a HVAC contractor in Kennesaw, GA at 3762 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17704211988. Website: https://www.jandshvacelectrical.com/. | https://registry-edge.dingalinged.workers.dev/c/j-and-s-air-conditioning-heating-and-electrical-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air kennesaw ga | category: Home Services | industry benchmark: Home & Home Improvement

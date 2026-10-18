@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Milwaukee, WI at 6676 West Appleton
 - Website: https://www.publicstorage.com/self-storage-wi-milwaukee/1318.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00
-- Pulse Score: 50.6/100 — Fair — top 68% of self-storage facilitys in Milwaukee, #11 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 64% of self-storage facilitys in Milwaukee, #10 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

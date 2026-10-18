@@ -13,7 +13,7 @@ Smyrna Liquors is a liquor store in Smyrna, GA at 2350 Spring Road Southeast, Sm
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; Su 12:30-18:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in Atlanta, #2 of 7 liquor stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of liquor stores in Atlanta, #2 of 7 liquor stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

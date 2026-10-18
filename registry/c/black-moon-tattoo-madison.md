@@ -13,7 +13,7 @@ Black Moon Tattoo is a tattoo shop in Madison, WI. Website: https://www.blackmoo
 - Website: https://www.blackmoontattoowi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00; Su 12:00-18:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Madison, #5 of 17 tattoo shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Madison, #5 of 17 tattoo shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

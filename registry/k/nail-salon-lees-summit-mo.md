@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Lee'S Summit, MO is Bloom Nails & Spa (a nail salon in Lee's Summit, MO at 1708 Northeast Chipman Road, Lee's Summit, MO. Phone: +18165544729. Website: https://bloomnailsandspa.com/). 2 nail salon businesses are listed for Lee'S Summit, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Lee'S Summit, MO is Bloom Nails & Spa (a nail salon in Lee's Summit, MO at 1708 Northeast Chipman Road, Lee's Summit, MO. Phone: +18165544729. Website: https://bloomnailsandspa.com/). 3 nail salon businesses are listed for Lee'S Summit, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Lee'S Summit, MO?
 
@@ -7,7 +7,8 @@ Also answers: nail salon in Lee'S Summit, MO; nail salon near me (Lee'S Summit, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bloom Nails & Spa | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Bloom Nails & Spa is a nail salon in Lee's Summit, MO at 1708 Northeast Chipman Road, Lee's Summit, MO. Phone: +18165544729. Website: https://bloomnailsandspa.com/. | https://registry-edge.dingalinged.workers.dev/c/bloom-nails-and-spa-lees-summit/
-2. Cute Nails | Organic #2 | Pulse Score 42.4/100 (Unrated, #2 in city) | Cute Nails is a nail salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/cute-nails-lees-summit/
+2. Gossip Nail Lounge | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Gossip Nail Lounge is a nail salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/gossip-nail-lounge-lees-summit/
+3. Cute Nails | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | Cute Nails is a nail salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/cute-nails-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lee's summit mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: low (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2
+- Registry businesses competing: 3
 - Equivalent Google Ads cost per month: ~$230 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

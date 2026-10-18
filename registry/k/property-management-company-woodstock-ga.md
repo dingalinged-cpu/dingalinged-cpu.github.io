@@ -6,7 +6,7 @@ Also answers: property management company in Woodstock, GA; property management 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JW Collection | South On Main | Organic #1 | Pulse Score 54.2/100 (Fair, #1 in city) | JW Collection | South On Main is a property management company in Woodstock, GA at 9200 Main Street #3A-4A, Woodstock, GA 30188. Phone: +17709700200. Website: https://www.jwcollectionhomes.com/home/south-on-main. | https://registry-edge.dingalinged.workers.dev/c/jw-collection-south-on-main-woodstock/
+1. JW Collection | South On Main | Organic #1 | Pulse Score 54/100 (Fair, #1 in city) | JW Collection | South On Main is a property management company in Woodstock, GA at 9200 Main Street #3A-4A, Woodstock, GA 30188. Phone: +17709700200. Website: https://www.jwcollectionhomes.com/home/south-on-main. | https://registry-edge.dingalinged.workers.dev/c/jw-collection-south-on-main-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

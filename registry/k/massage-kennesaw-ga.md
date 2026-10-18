@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. UU-Massage | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | UU-Massage is a massage studio in Kennesaw, GA at 3895 Cherokee Street Northwest #623, Kennesaw, GA 30144. Phone: +16785408117. | https://registry-edge.dingalinged.workers.dev/c/uu-massage-kennesaw/
 2. Lu's Massage | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Lu's Massage is a massage studio in Kennesaw, GA at 2790 Cobb Parkway #B, Kennesaw, GA. Phone: +14047355931. | https://registry-edge.dingalinged.workers.dev/c/lus-massage-kennesaw/
 3. Family Foot Spa | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Family Foot Spa is a massage studio in Kennesaw, GA at 3326 Cherokee Street Northwest, Kennesaw, GA 30144. | https://registry-edge.dingalinged.workers.dev/c/family-foot-spa-kennesaw/
-4. LaVida Massage | Organic #4 | Pulse Score 50.4/100 (Fair, #4 in city) | LaVida Massage is a massage studio in Kennesaw, GA at 1635 Old 41 Highway Northwest #201, Kennesaw, GA. Phone: +16783541161. Website: https://lavidamassagekennesawga.com/. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-kennesaw/
+4. LaVida Massage | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | LaVida Massage is a massage studio in Kennesaw, GA at 1635 Old 41 Highway Northwest #201, Kennesaw, GA. Phone: +16783541161. Website: https://lavidamassagekennesawga.com/. | https://registry-edge.dingalinged.workers.dev/c/lavida-massage-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage kennesaw ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

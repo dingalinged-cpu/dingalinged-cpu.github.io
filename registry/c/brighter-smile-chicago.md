@@ -13,7 +13,7 @@ Brighter Smile is a dentist in Chicago, IL at 4845 North Milwaukee Avenue, Chica
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 59% of dentists in Chicago, #80 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 58% of dentists in Chicago, #80 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

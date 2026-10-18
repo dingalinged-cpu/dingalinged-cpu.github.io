@@ -13,7 +13,7 @@ Dr. Russell J. Otto, MD is an allergist in Denton, TX at 1209 Bent Oaks Court, D
 - Website: https://northtexassinusandallergy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 45% of allergists in Dallas–Fort Worth, #1 of 2 allergists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 45% of allergists in Dallas–Fort Worth, #1 of 2 allergists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 94% of financial advisors in Dallas–Fort Worth, #2 of 2 financial advisors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 94% of financial advisors in Dallas–Fort Worth, #2 of 2 financial advisors in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

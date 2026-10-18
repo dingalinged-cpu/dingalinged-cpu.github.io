@@ -1,4 +1,4 @@
-The top unpaid plumber listing for the United States is NOMI - Bathroom Remodeling (a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/). 127 plumber businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for the United States is Golden Hands Plumbing & Heating (a plumber in Denver, CO at 1240 East Colfax Avenue, Denver, CO 80218. Phone: +17206026975. Website: https://plumbersdenver.net/). 257 plumber businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in the United States?
 
@@ -6,77 +6,101 @@ Also answers: plumber in the United States; plumber near me (the United States);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NOMI - Bathroom Remodeling | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | NOMI - Bathroom Remodeling is a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-plano/
-2. NOMI - Bathroom Remodeling Dallas Tx | Organic #2 | Pulse Score 64.4/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
-3. James Armstrong Plumbing Mesquite | Organic #3 | Pulse Score 64.1/100 (Good, #1 in city) | James Armstrong Plumbing Mesquite is a plumber in Mesquite, TX at 15330 Lyndon B Johnson Freeway #Suite 309, Mesquite, TX 75150. Phone: +12149186109. Website: https://www.jamesarmstrongplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/james-armstrong-plumbing-mesquite-mesquite/
-4. Kriens Plumbing & Mechanical Corporation | Organic #4 | Pulse Score 63.5/100 (Unrated, #1 in city) | Kriens Plumbing & Mechanical Corporation is a plumber in Des Moines, IA at 2110 Wakonda View Drive, Des Moines, IA 50321. Phone: +15152888688. Website: https://kriensplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/kriens-plumbing-and-mechanical-corporation-des-moines/
-5. Onyx Plumbing | Organic #5 | Pulse Score 63.2/100 (Good, #1 in city) | Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/. | https://registry-edge.dingalinged.workers.dev/c/onyx-plumbing-minneapolis/
-6. Father and Sons Plumbing & Drain Cleaning LLC | Organic #6 | Pulse Score 63.1/100 (Unrated, #1 in city) | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
-7. Bill Fry the Plumbing Guy | Organic #7 | Pulse Score 62.9/100 (Unrated, #1 in city) | Bill Fry the Plumbing Guy is a plumber in Lee's Summit, MO at 2603 Northeast Hagen Road, Lee's Summit, MO 64064. Phone: +18168282455. Website: https://billfrytheplumbingguy.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-fry-the-plumbing-guy-lees-summit/
-8. Freedom Plumbing and Water Conditioning | Organic #8 | Pulse Score 62.9/100 (Unrated, #1 in city) | Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/. | https://registry-edge.dingalinged.workers.dev/c/freedom-plumbing-and-water-conditioning-south-saint-paul/
-9. RC Szabo Plumbing Richton Park IL | Organic #9 | Pulse Score 62.9/100 (Unrated, #1 in city) | RC Szabo Plumbing Richton Park IL is a plumber in Richton Park, IL at 22811 East Drive, Richton Park, IL 60471. Phone: +17086538639. Website: https://richton-park-il.rcszaboplumbing.blog/. | https://registry-edge.dingalinged.workers.dev/c/rc-szabo-plumbing-richton-park-il-richton-park/
-10. Plumbers 4 Real LLC | Organic #10 | Pulse Score 62.8/100 (Good, #1 in city) | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://registry-edge.dingalinged.workers.dev/c/plumbers-4-real-llc-marietta/
-11. Tim's Quality Plumbing, Heating, & Cooling | Organic #11 | Pulse Score 62.6/100 (Good, #1 in city) | Tim's Quality Plumbing, Heating, & Cooling is a plumber in Osseo, MN at 225 County Road 81 Service Road West, Osseo, MN 55369. Phone: +16128277951. Website: https://timsqualityplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/tims-quality-plumbing-heating-and-cooling-osseo/
-12. Trustfall Plumbing And Heating Services | Organic #12 | Pulse Score 62.5/100 (Unrated, #1 in city) | Trustfall Plumbing And Heating Services is a plumber in Kearney, MO at 12308 Wadeway Dr, Kearney, MO 64060. Phone: +18167777754. Website: https://www.trustfallplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/trustfall-plumbing-and-heating-services-kearney/
-13. Robert's Plumbing & Heating | Organic #13 | Pulse Score 62.4/100 (Unrated, #1 in city) | Robert's Plumbing & Heating is a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/. | https://registry-edge.dingalinged.workers.dev/c/roberts-plumbing-and-heating-madison/
-14. Charles Conner Plumbing Inc. | Organic #14 | Pulse Score 62.4/100 (Unrated, #1 in city) | Charles Conner Plumbing Inc. is a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/charles-conner-plumbing-inc-burnsville/
-15. Gene Wagner Plumbing | Organic #15 | Pulse Score 62.2/100 (Good, #1 in city) | Gene Wagner Plumbing is a plumber in West Allis, WI at 2017 South 60th Street, West Allis, WI 53219. Phone: +14145419217. Website: https://www.genewagnerplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/gene-wagner-plumbing-west-allis/
-16. Plumbers Local 68 | Organic #16 | Pulse Score 62/100 (Unrated, #1 in city) | Plumbers Local 68 is a plumber in Houston, TX at 502 Link Road, Houston, TX 77009. Phone: +17168693592. Website: https://www.plu68.com/. | https://registry-edge.dingalinged.workers.dev/c/plumbers-local-68-houston/
-17. Gronendyke Plumbing | Organic #17 | Pulse Score 62/100 (Unrated, #1 in city) | Gronendyke Plumbing is a plumber in Merrillville, IN at 9109 Indiana Pl, Merrillville, IN 46410. Phone: +12194887711. Website: https://gronendykeplumbinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/gronendyke-plumbing-merrillville/
-18. MDN Enterprises | Organic #18 | Pulse Score 62/100 (Unrated, #1 in city) | MDN Enterprises is a plumber in New Caney, TX at 21371 Eastex Freeway, New Caney, TX 77357. Phone: +12813549621. Website: https://mdnenterprises.com/. | https://registry-edge.dingalinged.workers.dev/c/mdn-enterprises-new-caney/
-19. Plumbing Sewer and Restoration Inc | Organic #19 | Pulse Score 62/100 (Unrated, #1 in city) | Plumbing Sewer and Restoration Inc is a plumber in Niles, IL at 7831 North Nora Avenue, Niles, IL 60714. Phone: +18009713128. Website: https://restorationplumbing.net/. | https://registry-edge.dingalinged.workers.dev/c/plumbing-sewer-and-restoration-inc-niles/
-20. Rooter Pro Plumbing | Organic #20 | Pulse Score 61.9/100 (Good, #1 in city) | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://registry-edge.dingalinged.workers.dev/c/rooter-pro-plumbing-cobb-county/
-21. Pro Plumbing Services | Organic #21 | Pulse Score 61.8/100 (Unrated, #2 in city) | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://registry-edge.dingalinged.workers.dev/c/pro-plumbing-services-marietta/
-22. Georgia Plumbers 24/7 | Organic #22 | Pulse Score 61.6/100 (Unrated, #1 in city) | Georgia Plumbers 24/7 is a plumber in Alpharetta, GA at 12850 Highway 9 North #600-126, Alpharetta, GA 30004. Phone: +16786280474. Website: https://georgiaplumbers247.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-plumbers-24-7-alpharetta/
-23. Drain Genie Plumbing & Drains | Organic #23 | Pulse Score 61.5/100 (Unrated, #1 in city) | Drain Genie Plumbing & Drains is a plumber in Lawrenceville, GA at 2490 Waterford Park Drive, Lawrenceville, GA 30044. Phone: +14044843003. Website: https://draingenie.net/. | https://registry-edge.dingalinged.workers.dev/c/drain-genie-plumbing-and-drains-lawrenceville/
-24. Benjamin Plumbing Inc | Organic #24 | Pulse Score 61/100 (Unrated, #1 in city) | Benjamin Plumbing Inc is a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/benjamin-plumbing-inc-fitchburg/
-25. F6 Plumbing | Organic #25 | Pulse Score 60.5/100 (Good, #1 in city) | F6 Plumbing is a plumber in Alvarado, TX at 205 East College Street, Alvarado, TX 76009. Phone: +18173504838. Website: https://www.f6plumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/f6-plumbing-alvarado/
-26. Kuhn Plumbing | Organic #26 | Pulse Score 60.5/100 (Unrated, #1 in city) | Kuhn Plumbing is a plumber in Chicago, IL at 2330 West Nelson Street, Chicago, IL 60618. Phone: +17735250474. Website: https://www.kuhnplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/kuhn-plumbing-chicago/
-27. M & J Underground, Inc. | Organic #27 | Pulse Score 60.5/100 (Unrated, #1 in city) | M & J Underground, Inc. is a plumber in Monee, IL at 26603 South Governors Highway, Monee, IL 60449. Phone: +17085346434. Website: https://mjunderground.com/. | https://registry-edge.dingalinged.workers.dev/c/m-and-j-underground-inc-monee/
-28. Ray Lindsey Company | Organic #28 | Pulse Score 60.4/100 (Unrated, #1 in city) | Ray Lindsey Company is a plumber in Belton, MO at 17221 Bel Ray Place, Belton, MO 64012. Phone: +18163887440. Website: https://www.raylindsey.com/. | https://registry-edge.dingalinged.workers.dev/c/ray-lindsey-company-belton/
-29. Backlund Plumbing | Organic #29 | Pulse Score 60.4/100 (Unrated, #1 in city) | Backlund Plumbing is a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/backlund-plumbing-omaha/
-30. My Local Plumber | Organic #30 | Pulse Score 60.4/100 (Unrated, #2 in city) | My Local Plumber is a plumber in Plano, TX at 820 West Spring Creek Parkway, Plano, TX 75023. Phone: +19726452363. Website: https://mylocalplumber.net/plumber-plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/my-local-plumber-plano/
-31. Water Heater Hero | Organic #31 | Pulse Score 60.4/100 (Unrated, #3 in city) | Water Heater Hero is a plumber in Plano, TX at 3905 Hedgcoxe Road ##250605, Plano, TX 75025. Phone: +14694561855. Website: https://waterheaterherotx.com/. | https://registry-edge.dingalinged.workers.dev/c/water-heater-hero-plano/
-32. Plumb Doctor | Organic #32 | Pulse Score 60.3/100 (Good, #2 in city) | Plumb Doctor is a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/. | https://registry-edge.dingalinged.workers.dev/c/plumb-doctor-cobb-county/
-33. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #33 | Pulse Score 60.3/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in The Woodlands, TX at 25420 Kuykendahl Rd, Suite B200-236, The Woodlands, TX 77375. Phone: +17134877943. Website: https://www.anytimeplumbing365.com/emergency-plumbing-repairs/. | https://registry-edge.dingalinged.workers.dev/c/anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands/
-34. AM/PM Plumbing | Organic #34 | Pulse Score 60.2/100 (Good, #1 in city) | AM/PM Plumbing is a plumber in West Des Moines, IA at 701 Railroad Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/am-pm-plumbing-west-des-moines/
-35. Monkey's Wrench Plumbing | Organic #35 | Pulse Score 60.2/100 (Unrated, #1 in city) | Monkey's Wrench Plumbing is a plumber in Addison, IL at 1001 Republic Drive #STE 4, Addison, IL 60101. Phone: +16306246665. Website: https://www.monkeyswrenchplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/monkeys-wrench-plumbing-addison/
-36. Premier Plumbing | Organic #36 | Pulse Score 60.1/100 (Unrated, #1 in city) | Premier Plumbing is a plumber in Ankeny, IA at 121 Southeast Shurfine Drive, Ankeny, IA 50021. Phone: +15159650714. Website: https://www.premierplumbing.org/. | https://registry-edge.dingalinged.workers.dev/c/premier-plumbing-ankeny/
-37. ABC Sewer and Drain Cleaning | Organic #37 | Pulse Score 60.1/100 (Unrated, #1 in city) | ABC Sewer and Drain Cleaning is a plumber in Milwaukee, WI at 633 South Hawley Road #Suite 120, Milwaukee, WI 53214. Phone: +14147446060. Website: https://www.abcsewer.com/. | https://registry-edge.dingalinged.workers.dev/c/abc-sewer-and-drain-cleaning-milwaukee/
-38. Mission AC, Plumbing & Electric Pasadena | Organic #38 | Pulse Score 60/100 (Unrated, #1 in city) | Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/. | https://registry-edge.dingalinged.workers.dev/c/mission-ac-plumbing-and-electric-pasadena-pasadena/
-39. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #39 | Pulse Score 60/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/. | https://registry-edge.dingalinged.workers.dev/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/
-40. Benjamin Franklin Plumbing & Drain Services of Duncanville | Organic #40 | Pulse Score 60/100 (Unrated, #1 in city) | Benjamin Franklin Plumbing & Drain Services of Duncanville is a plumber in Duncanville, TX at 1019 Explorer Street, Duncanville, TX 75137. Phone: +19722635010. Website: https://www.duncanvilleplumber.com/. | https://registry-edge.dingalinged.workers.dev/c/benjamin-franklin-plumbing-and-drain-services-of-duncanville-duncanville/
-41. Brooks Plumbing | Organic #41 | Pulse Score 60/100 (Unrated, #2 in city) | Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/. | https://registry-edge.dingalinged.workers.dev/c/brooks-plumbing-garland/
-42. CW Service Pros Plumbing, Heating & Air Conditioning | Organic #42 | Pulse Score 60/100 (Unrated, #1 in city) | CW Service Pros Plumbing, Heating & Air Conditioning is a plumber in Lewisville, TX at 1890 Midway Road, Lewisville, TX 75056. Phone: +19728458220. Website: https://www.cwservicepros.com/. | https://registry-edge.dingalinged.workers.dev/c/cw-service-pros-plumbing-heating-and-air-conditioning-lewisville/
-43. Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair | Organic #43 | Pulse Score 60/100 (Unrated, #1 in city) | Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair is a plumber in Richardson, TX at 610 Presidential Drive #STE 110, Richardson, TX 75081. Phone: +19724495274. Website: https://www.deansplumbingtx.com/. | https://registry-edge.dingalinged.workers.dev/c/deans-plumbing-drain-cleaning-sewer-and-water-heater-repair-richardson/
-44. Dean’s Plumbing | Organic #44 | Pulse Score 60/100 (Unrated, #1 in city) | Dean’s Plumbing is a plumber in Hurst, TX at 227 Northeast Loop 820 #suite 163, Hurst, TX 76053. Phone: +19722315509. Website: https://www.deansplumbingtx.com/. | https://registry-edge.dingalinged.workers.dev/c/dean-s-plumbing-hurst/
-45. Jim's Plumbing Now | Organic #45 | Pulse Score 60/100 (Unrated, #1 in city) | Jim's Plumbing Now is a plumber in Carrollton, TX at 2418 Marsh Lane #106, Carrollton, TX 75006. Phone: +19722365892. Website: https://www.jimsplumbingnow.com/. | https://registry-edge.dingalinged.workers.dev/c/jims-plumbing-now-carrollton/
-46. Larry Stinson Plumbing & Water Heater Repair | Organic #46 | Pulse Score 60/100 (Unrated, #1 in city) | Larry Stinson Plumbing & Water Heater Repair is a plumber in Southlake, TX at 1725 East Southlake Boulevard #295, Southlake, TX 76092. Phone: +18176704359. Website: https://www.larrystinsonplumbing.com/north/. | https://registry-edge.dingalinged.workers.dev/c/larry-stinson-plumbing-and-water-heater-repair-southlake/
-47. Bear's Plumbing Services | Organic #47 | Pulse Score 59.9/100 (Unrated, #1 in city) | Bear's Plumbing Services is a plumber in Spring, TX at 18903 Tomato Street, Spring, TX 77379. Phone: +12813502327. Website: https://www.bearsplumbing.net/. | https://registry-edge.dingalinged.workers.dev/c/bears-plumbing-services-spring/
-48. JD Precision Plumbing Services | Organic #48 | Pulse Score 59.9/100 (Unrated, #1 in city) | JD Precision Plumbing Services is a plumber in Conroe, TX at 4050 FM 1488, Conroe, TX 77384. Phone: +19362285000. Website: https://www.jdprecisionplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/jd-precision-plumbing-services-conroe/
-49. Priority Plumbing | Organic #49 | Pulse Score 59.8/100 (Unrated, #2 in city) | Priority Plumbing is a plumber in Ankeny, IA at 905 Southwest Ordnance Road #Suite F, Ankeny, IA 50023. Phone: +15152433509. Website: https://www.priorityplumbingco.com/. | https://registry-edge.dingalinged.workers.dev/c/priority-plumbing-ankeny/
-50. Top Notch Heating, Cooling & Plumbing | Organic #50 | Pulse Score 59.5/100 (Unrated, #1 in city) | Top Notch Heating, Cooling & Plumbing is a plumber in Shawnee, KS at 23754 West 82nd Terrace, Shawnee, KS 66227. Phone: +19134418900. Website: https://www.topnotchheatingandair.com/. | https://registry-edge.dingalinged.workers.dev/c/top-notch-heating-cooling-and-plumbing-shawnee/
+1. Golden Hands Plumbing & Heating | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Golden Hands Plumbing & Heating is a plumber in Denver, CO at 1240 East Colfax Avenue, Denver, CO 80218. Phone: +17206026975. Website: https://plumbersdenver.net/. | https://registry-edge.dingalinged.workers.dev/c/golden-hands-plumbing-and-heating-denver/
+2. NOMI - Bathroom Remodeling | Organic #2 | Pulse Score 64.7/100 (Good, #1 in city) | NOMI - Bathroom Remodeling is a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-plano/
+3. Altstadt Hoffman Plumbing Services | Organic #3 | Pulse Score 64.6/100 (Good, #1 in city) | Altstadt Hoffman Plumbing Services is a plumber in Indianapolis, IN at 5781 Thunderbird Road, Indianapolis, IN 46236. Phone: +13174631169. Website: https://www.altstadtplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/altstadt-hoffman-plumbing-services-indianapolis/
+4. NOMI - Bathroom Remodeling Dallas Tx | Organic #4 | Pulse Score 64.5/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
+5. James Armstrong Plumbing Mesquite | Organic #5 | Pulse Score 64.1/100 (Good, #1 in city) | James Armstrong Plumbing Mesquite is a plumber in Mesquite, TX at 15330 Lyndon B Johnson Freeway #Suite 309, Mesquite, TX 75150. Phone: +12149186109. Website: https://www.jamesarmstrongplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/james-armstrong-plumbing-mesquite-mesquite/
+6. Kriens Plumbing & Mechanical Corporation | Organic #6 | Pulse Score 63.6/100 (Unrated, #1 in city) | Kriens Plumbing & Mechanical Corporation is a plumber in Des Moines, IA at 2110 Wakonda View Drive, Des Moines, IA 50321. Phone: +15152888688. Website: https://kriensplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/kriens-plumbing-and-mechanical-corporation-des-moines/
+7. Roto-Rooter Wichita | Organic #7 | Pulse Score 63.4/100 (Unrated, #1 in city) | Roto-Rooter Wichita is a plumber in Wichita, KS at 801 East Mount Vernon Street, Wichita, KS 67211. Phone: +13162674277. Website: https://www.rooter.com/. | https://registry-edge.dingalinged.workers.dev/c/roto-rooter-wichita-wichita/
+8. Onyx Plumbing | Organic #8 | Pulse Score 63.3/100 (Good, #1 in city) | Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/. | https://registry-edge.dingalinged.workers.dev/c/onyx-plumbing-minneapolis/
+9. Father and Sons Plumbing & Drain Cleaning LLC | Organic #9 | Pulse Score 63.2/100 (Unrated, #1 in city) | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
+10. Bill Fry the Plumbing Guy | Organic #10 | Pulse Score 63.1/100 (Unrated, #1 in city) | Bill Fry the Plumbing Guy is a plumber in Lee's Summit, MO at 2603 Northeast Hagen Road, Lee's Summit, MO 64064. Phone: +18168282455. Website: https://billfrytheplumbingguy.com/. | https://registry-edge.dingalinged.workers.dev/c/bill-fry-the-plumbing-guy-lees-summit/
+11. Plumbers 4 Real LLC | Organic #11 | Pulse Score 63/100 (Good, #1 in city) | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://registry-edge.dingalinged.workers.dev/c/plumbers-4-real-llc-marietta/
+12. Freedom Plumbing and Water Conditioning | Organic #12 | Pulse Score 63/100 (Unrated, #1 in city) | Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/. | https://registry-edge.dingalinged.workers.dev/c/freedom-plumbing-and-water-conditioning-south-saint-paul/
+13. RC Szabo Plumbing Richton Park IL | Organic #13 | Pulse Score 63/100 (Unrated, #1 in city) | RC Szabo Plumbing Richton Park IL is a plumber in Richton Park, IL at 22811 East Drive, Richton Park, IL 60471. Phone: +17086538639. Website: https://richton-park-il.rcszaboplumbing.blog/. | https://registry-edge.dingalinged.workers.dev/c/rc-szabo-plumbing-richton-park-il-richton-park/
+14. Tim's Quality Plumbing, Heating, & Cooling | Organic #14 | Pulse Score 62.7/100 (Good, #1 in city) | Tim's Quality Plumbing, Heating, & Cooling is a plumber in Osseo, MN at 225 County Road 81 Service Road West, Osseo, MN 55369. Phone: +16128277951. Website: https://timsqualityplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/tims-quality-plumbing-heating-and-cooling-osseo/
+15. Trustfall Plumbing And Heating Services | Organic #15 | Pulse Score 62.7/100 (Unrated, #1 in city) | Trustfall Plumbing And Heating Services is a plumber in Kearney, MO at 12308 Wadeway Dr, Kearney, MO 64060. Phone: +18167777754. Website: https://www.trustfallplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/trustfall-plumbing-and-heating-services-kearney/
+16. Eco Plumbers, Electricians, and HVAC Technicians | Organic #16 | Pulse Score 62.7/100 (Unrated, #1 in city) | Eco Plumbers, Electricians, and HVAC Technicians is a plumber in West Chester Township, OH at 9114 Cincinnati Columbus Rd, West Chester Township, OH 45069. Phone: +15133428502. Website: https://geteco.com/cincinnati-oh/. | https://registry-edge.dingalinged.workers.dev/c/eco-plumbers-electricians-and-hvac-technicians-west-chester-township/
+17. Gene Wagner Plumbing | Organic #17 | Pulse Score 62.6/100 (Good, #1 in city) | Gene Wagner Plumbing is a plumber in West Allis, WI at 2017 South 60th Street, West Allis, WI 53219. Phone: +14145419217. Website: https://www.genewagnerplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/gene-wagner-plumbing-west-allis/
+18. Robert's Plumbing & Heating | Organic #18 | Pulse Score 62.6/100 (Unrated, #1 in city) | Robert's Plumbing & Heating is a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/. | https://registry-edge.dingalinged.workers.dev/c/roberts-plumbing-and-heating-madison/
+19. A-Fordable Plumbing & Mechanical | Organic #19 | Pulse Score 62.6/100 (Unrated, #1 in city) | A-Fordable Plumbing & Mechanical is a plumber in Sterling Heights, MI at 39473 Mound Road, Sterling Heights, MI 48310. Phone: +12483710494. Website: https://a-fordableplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/a-fordable-plumbing-and-mechanical-sterling-heights/
+20. Littleton Hot Water Heaters LLC | Organic #20 | Pulse Score 62.5/100 (Unrated, #1 in city) | Littleton Hot Water Heaters LLC is a plumber in Littleton, CO at 5282 S Newton St., Littleton, CO 80123. Phone: +17204033696. Website: https://littletonhotwaterheater.com/. | https://registry-edge.dingalinged.workers.dev/c/littleton-hot-water-heaters-llc-littleton/
+21. Charles Conner Plumbing Inc. | Organic #21 | Pulse Score 62.5/100 (Unrated, #1 in city) | Charles Conner Plumbing Inc. is a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/charles-conner-plumbing-inc-burnsville/
+22. Zona Plumbing Inc | Organic #22 | Pulse Score 62.4/100 (Unrated, #1 in city) | Zona Plumbing Inc is a plumber in Irwin, PA at 11010 Parker Drive, Irwin, PA 15642. Phone: +14127541824. Website: https://zonaplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/zona-plumbing-inc-irwin/
+23. St Charles Plumbing Company | Organic #23 | Pulse Score 62.4/100 (Unrated, #1 in city) | St Charles Plumbing Company is a plumber in Saint Charles, MO at 3441 Ipswich Lane, Saint Charles, MO 63301. Phone: +16363366944. Website: https://stcharlesplumbingco.com/. | https://registry-edge.dingalinged.workers.dev/c/st-charles-plumbing-company-saint-charles/
+24. All American Drain Cleaning | Organic #24 | Pulse Score 62.3/100 (Unrated, #1 in city) | All American Drain Cleaning is a plumber in Centennial, CO at 6920 South Jordan Road, Centennial, CO 80112. Phone: +13038077549. Website: https://allamericandrains.net/. | https://registry-edge.dingalinged.workers.dev/c/all-american-drain-cleaning-centennial/
+25. Rooter Pro Plumbing | Organic #25 | Pulse Score 62.2/100 (Good, #1 in city) | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://registry-edge.dingalinged.workers.dev/c/rooter-pro-plumbing-cobb-county/
+26. Plumbers Local 68 | Organic #26 | Pulse Score 62.2/100 (Unrated, #1 in city) | Plumbers Local 68 is a plumber in Houston, TX at 502 Link Road, Houston, TX 77009. Phone: +17168693592. Website: https://www.plu68.com/. | https://registry-edge.dingalinged.workers.dev/c/plumbers-local-68-houston/
+27. Gronendyke Plumbing | Organic #27 | Pulse Score 62.1/100 (Unrated, #1 in city) | Gronendyke Plumbing is a plumber in Merrillville, IN at 9109 Indiana Pl, Merrillville, IN 46410. Phone: +12194887711. Website: https://gronendykeplumbinginc.com/. | https://registry-edge.dingalinged.workers.dev/c/gronendyke-plumbing-merrillville/
+28. MDN Enterprises | Organic #28 | Pulse Score 62.1/100 (Unrated, #1 in city) | MDN Enterprises is a plumber in New Caney, TX at 21371 Eastex Freeway, New Caney, TX 77357. Phone: +12813549621. Website: https://mdnenterprises.com/. | https://registry-edge.dingalinged.workers.dev/c/mdn-enterprises-new-caney/
+29. Munson’s Water Works | Organic #29 | Pulse Score 62.1/100 (Unrated, #1 in city) | Munson’s Water Works is a plumber in Anderson, IN at 5315 W IN-32, Anderson, IN 46011. Phone: +17656391563. Website: https://munsonswaterworksreviews.com/. | https://registry-edge.dingalinged.workers.dev/c/munson-s-water-works-anderson/
+30. Plumbing Sewer and Restoration Inc | Organic #30 | Pulse Score 62.1/100 (Unrated, #1 in city) | Plumbing Sewer and Restoration Inc is a plumber in Niles, IL at 7831 North Nora Avenue, Niles, IL 60714. Phone: +18009713128. Website: https://restorationplumbing.net/. | https://registry-edge.dingalinged.workers.dev/c/plumbing-sewer-and-restoration-inc-niles/
+31. Pro Plumbing Services | Organic #31 | Pulse Score 61.8/100 (Unrated, #2 in city) | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://registry-edge.dingalinged.workers.dev/c/pro-plumbing-services-marietta/
+32. Georgia Plumbers 24/7 | Organic #32 | Pulse Score 61.7/100 (Unrated, #1 in city) | Georgia Plumbers 24/7 is a plumber in Alpharetta, GA at 12850 Highway 9 North #600-126, Alpharetta, GA 30004. Phone: +16786280474. Website: https://georgiaplumbers247.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-plumbers-24-7-alpharetta/
+33. Jolly Plumbing | Organic #33 | Pulse Score 61.7/100 (Unrated, #1 in city) | Jolly Plumbing is a plumber in Wilder, KY at 101 Beacon Drive #1, Wilder, KY 41076. Phone: +18593207811. Website: https://jollyplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/jolly-plumbing-wilder/
+34. Lancaster Plumbing Works | Organic #34 | Pulse Score 61.7/100 (Unrated, #1 in city) | Lancaster Plumbing Works is a plumber in Lancaster, OH at 608 Lincoln Avenue, Lancaster, OH 43130. Phone: +17403906565. Website: https://plumberslancasteroh.com/. | https://registry-edge.dingalinged.workers.dev/c/lancaster-plumbing-works-lancaster/
+35. Drain Genie Plumbing & Drains | Organic #35 | Pulse Score 61.6/100 (Unrated, #1 in city) | Drain Genie Plumbing & Drains is a plumber in Lawrenceville, GA at 2490 Waterford Park Drive, Lawrenceville, GA 30044. Phone: +14044843003. Website: https://draingenie.net/. | https://registry-edge.dingalinged.workers.dev/c/drain-genie-plumbing-and-drains-lawrenceville/
+36. Lighthouse Plumbing Services | Organic #36 | Pulse Score 61.6/100 (Unrated, #1 in city) | Lighthouse Plumbing Services is a plumber in Livonia, MI at 34021 Schoolcraft Road, Livonia, MI 48150. Phone: +17347444134. | https://registry-edge.dingalinged.workers.dev/c/lighthouse-plumbing-services-livonia/
+37. SouthSide Plumbing and Heating | Organic #37 | Pulse Score 61.6/100 (Unrated, #1 in city) | SouthSide Plumbing and Heating is a plumber in Pittsburgh, PA at 95 South 20th Street, Pittsburgh, PA. Phone: +14124317455. Website: https://www.southsideplumbingandheating.com/. | https://registry-edge.dingalinged.workers.dev/c/southside-plumbing-and-heating-pittsburgh/
+38. SMP Plumbing Company | Organic #38 | Pulse Score 61.4/100 (Unrated, #1 in city) | SMP Plumbing Company is a plumber in Bridgeton, MO at 3275 Lake Avenue, Bridgeton, MO 63044. Phone: +13146774763. Website: https://smpplumbingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/smp-plumbing-company-bridgeton/
+39. Certified Plumbing | Organic #39 | Pulse Score 61.4/100 (Unrated, #2 in city) | Certified Plumbing is a plumber in Sterling Heights, MI at 6335 Progress Drive #102, Sterling Heights, MI 48312. Phone: +15867899192. Website: https://certifiedplumbingmi.com/sterling-heights. | https://registry-edge.dingalinged.workers.dev/c/certified-plumbing-sterling-heights/
+40. Anywhere Rooter | Organic #40 | Pulse Score 61.3/100 (Unrated, #1 in city) | Anywhere Rooter is a plumber in Aurora, CO at 2290 Chambers Road #Dept D, Aurora, CO 80011. Phone: +13038654830. Website: https://www.anywhererooter.com/. | https://registry-edge.dingalinged.workers.dev/c/anywhere-rooter-aurora/
+41. Doyle Plumbing | Organic #41 | Pulse Score 61.3/100 (Unrated, #1 in city) | Doyle Plumbing is a plumber in Parker, CO at 18860 East Clarke Road #113, Parker, CO 80134. Phone: +17206388839. Website: https://www.plumberparkercolorado.com/. | https://registry-edge.dingalinged.workers.dev/c/doyle-plumbing-parker/
+42. Pronto-Rooter | Organic #42 | Pulse Score 61.3/100 (Unrated, #1 in city) | Pronto-Rooter is a plumber in Lawrence, KS at 1019 West 29th Street, Lawrence, KS 66046. Phone: +17858432223. Website: https://lawrencekansasplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/pronto-rooter-lawrence/
+43. Benjamin Plumbing Inc | Organic #43 | Pulse Score 61.2/100 (Unrated, #1 in city) | Benjamin Plumbing Inc is a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/benjamin-plumbing-inc-fitchburg/
+44. Defense Plumbing | Organic #44 | Pulse Score 61.1/100 (Unrated, #2 in city) | Defense Plumbing is a plumber in Denver, CO at 2710 West 1st Avenue #J, Denver, CO 80219. Phone: +13038424799. Website: https://www.defenseplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/defense-plumbing-denver/
+45. Boulder Water Heaters | Organic #45 | Pulse Score 61.1/100 (Unrated, #1 in city) | Boulder Water Heaters is a plumber in Boulder, CO at 3785 Smugglers Pl, Boulder, CO 80305. Phone: +17203402737. Website: https://boulderwaterheaters.com/. | https://registry-edge.dingalinged.workers.dev/c/boulder-water-heaters-boulder/
+46. Backlund Plumbing | Organic #46 | Pulse Score 60.8/100 (Unrated, #1 in city) | Backlund Plumbing is a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/backlund-plumbing-omaha/
+47. Fix-it 24/7 Plumbing, Heating, Air & Electric | Organic #47 | Pulse Score 60.7/100 (Unrated, #1 in city) | Fix-it 24/7 Plumbing, Heating, Air & Electric is a plumber in Golden, CO at 16360 Table Mountain Parkway, Golden, CO 80403. Phone: +17209289317. Website: https://www.fixmyhome.com/. | https://registry-edge.dingalinged.workers.dev/c/fix-it-24-7-plumbing-heating-air-and-electric-golden/
+48. Ray Lindsey Company | Organic #48 | Pulse Score 60.7/100 (Unrated, #1 in city) | Ray Lindsey Company is a plumber in Belton, MO at 17221 Bel Ray Place, Belton, MO 64012. Phone: +18163887440. Website: https://www.raylindsey.com/. | https://registry-edge.dingalinged.workers.dev/c/ray-lindsey-company-belton/
+49. Befort Plumbing & Heating | Organic #49 | Pulse Score 60.7/100 (Unrated, #1 in city) | Befort Plumbing & Heating is a plumber in Englewood, CO at 3955 South Broadway, Englewood, CO 80113. Phone: +13033662433. Website: https://www.befortplumbingandheating.com/. | https://registry-edge.dingalinged.workers.dev/c/befort-plumbing-and-heating-englewood/
+50. Castle Pines Winwater | Organic #50 | Pulse Score 60.7/100 (Unrated, #1 in city) | Castle Pines Winwater is a plumber in Castle Rock, CO at 1419 Park Street, Castle Rock, CO 80109. Phone: +13036634500. Website: https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Waterworks-Supplies. | https://registry-edge.dingalinged.workers.dev/c/castle-pines-winwater-castle-rock/
 
-## More plumber listings (127 total; top 50 unpaid shown)
+## More plumber listings (257 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/plumber.jsonl
 - Chicago, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-chicago-il/
 - Mesquite, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-mesquite-tx/
+- Lawrence, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lawrence-ks/
+- Pittsburgh, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-pittsburgh-pa/
+- Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-indianapolis-in/
 - Madison, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-madison-wi/
+- Centennial, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-centennial-co/
+- Aurora, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-aurora-co/
 - Houston, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-houston-tx/
 - Shawnee, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-shawnee-ks/
+- Ross Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-ross-township-pa/
+- Lancaster, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lancaster-oh/
 - Plano, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-plano-tx/
+- Sterling Heights, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-sterling-heights-mi/
+- Wyandotte, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wyandotte-mi/
 - Milwaukee, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-milwaukee-wi/
+- Castle Rock, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-castle-rock-co/
+- Loveland, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-loveland-oh/
 - Marietta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-marietta-ga/
 - Cobb County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-cobb-county-ga/
+- Overland, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-overland-mo/
 - Saint Paul, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-saint-paul-mn/
 - Denton, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-denton-tx/
 - Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/
 - Garland, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-garland-tx/
 - Dallas, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-dallas-tx/
+- Lincoln Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lincoln-park-mi/
+- Detroit, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-detroit-mi/
+- Livonia, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-livonia-mi/
+- Dearborn, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-dearborn-mi/
 - Fitchburg, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-fitchburg-wi/
+- Wichita, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wichita-ks/
+- North Huntingdon Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-north-huntingdon-township-pa/
+- South Fayette Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-south-fayette-township-pa/
+- Mccandless, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-mccandless-pa/
+- Boulder, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-boulder-co/
+- Thornton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-thornton-co/
+- Littleton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-littleton-co/
 - Brookfield, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-brookfield-il/
 - West Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-west-des-moines-ia/
 - Ankeny, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-ankeny-ia/
+- Cincinnati, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-cincinnati-oh/
 - Douglasville, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-douglasville-ga/
 - Omaha, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-omaha-ne/
 - Saint Louis Park, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-saint-louis-park-mn/
@@ -97,6 +121,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Humble, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-humble-tx/
 - Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-little-elm-tx/
 - Frisco, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-frisco-tx/
+- Fraser, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-fraser-mi/
+- Shelby Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-shelby-charter-township-mi/
+- Waterford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-waterford-township-mi/
+- Southgate, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-southgate-mi/
+- Garden City, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-garden-city-mi/
+- Town Of Essex, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-town-of-essex-mi/
+- Hazel Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-hazel-park-mi/
+- Oak Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-oak-park-mi/
+- Ferndale, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-ferndale-mi/
+- Grosse Ile Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-grosse-ile-township-mi/
 - Racine, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-racine-wi/
 - Village Of Lisbon, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-village-of-lisbon-wi/
 - Town Of Waterford, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-town-of-waterford-wi/
@@ -105,7 +139,28 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Yorkville, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-yorkville-wi/
 - Wauwatosa, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wauwatosa-wi/
 - Kansas City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-kansas-city-ks/
+- Wellington, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wellington-ks/
+- Bel Aire, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bel-aire-ks/
+- Maize, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-maize-ks/
 - Overland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-overland-park-ks/
+- Murrysville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-murrysville-pa/
+- Monongahela, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-monongahela-pa/
+- Union Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-union-township-pa/
+- Bridgeville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bridgeville-pa/
+- Coraopolis, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-coraopolis-pa/
+- Bethel Park, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bethel-park-pa/
+- Washington, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-washington-pa/
+- Castle Shannon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-castle-shannon-pa/
+- Swissvale, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-swissvale-pa/
+- Irwin, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-irwin-pa/
+- Englewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-englewood-co/
+- Parker, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-parker-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-golden-co/
+- Fort Lupton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-fort-lupton-co/
+- Arvada, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-arvada-co/
+- Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-louisville-co/
+- Longmont, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-longmont-co/
+- Brighton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-brighton-co/
 - Winnetka, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-winnetka-il/
 - Bensenville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bensenville-il/
 - Willowbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-willowbrook-il/
@@ -119,29 +174,53 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lisle, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lisle-il/
 - Countryside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-countryside-il/
 - Lyons, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lyons-il/
+- Lawrence, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lawrence-in/
+- Merrillville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-merrillville-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-plainfield-in/
+- Anderson, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-anderson-in/
+- Crown Point, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-crown-point-in/
 - Des Moines, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-des-moines-ia/
 - Clive, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-clive-ia/
 - Grimes, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-grimes-ia/
+- Greenfield Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-greenfield-township-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-west-chester-township-oh/
+- Miami Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-miami-township-oh/
+- Obetz, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-obetz-oh/
+- Bridgetown, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bridgetown-oh/
+- Whitewater Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-whitewater-township-oh/
+- Cleves, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-cleves-oh/
+- Violet Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-violet-township-oh/
+- Canal Winchester, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-canal-winchester-oh/
+- Tate Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-tate-township-oh/
+- Goshen Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-goshen-township-oh/
 - Roswell, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-roswell-ga/
 - Lawrenceville, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lawrenceville-ga/
 - Alpharetta, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-alpharetta-ga/
 - Gwinnett County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-gwinnett-county-ga/
 - Dekalb County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-dekalb-county-ga/
 - Lilburn, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lilburn-ga/
+- Valley Park, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-valley-park-mo/
 - Lee'S Summit, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-lees-summit-mo/
+- Green Park, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-green-park-mo/
+- Saint Louis County, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-saint-louis-county-mo/
 - Smithville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-smithville-mo/
+- Wentzville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wentzville-mo/
 - North Kansas City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-north-kansas-city-mo/
 - Kansas City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-kansas-city-mo/
 - Belton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-belton-mo/
+- Bridgeton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-bridgeton-mo/
+- Saint Charles, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-saint-charles-mo/
 - Kearney, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-kearney-mo/
+- Newport, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-newport-ky/
+- Southgate, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-southgate-ky/
+- Independence, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-independence-ky/
+- Wilder, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-wilder-ky/
 - Burnsville, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-burnsville-mn/
 - South Saint Paul, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-south-saint-paul-mn/
 - Newport, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-newport-mn/
 - Minneapolis, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-minneapolis-mn/
 - New Brighton, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-new-brighton-mn/
 - Osseo, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-osseo-mn/
-- Merrillville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-merrillville-in/
-- Crown Point, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-crown-point-in/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber | category: Home services - Plumbing | industry benchmark: Home & Home Improvement
@@ -150,7 +229,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'plumber near me': $12.04-$81.91 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 127
+- Registry businesses competing: 257
 - Equivalent Google Ads cost per month: ~$630,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $500/month, spots 2-4 from $50/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

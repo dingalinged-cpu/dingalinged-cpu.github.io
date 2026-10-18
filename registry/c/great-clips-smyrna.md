@@ -13,7 +13,7 @@ Great Clips is a hair salon in Smyrna, GA at 2905 Atlanta Road Southeast #200, S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-18:00
-- Pulse Score: 46.6/100 — Building — top 89% of hair salons in Atlanta, #26 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 88% of hair salons in Atlanta, #26 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

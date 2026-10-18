@@ -13,7 +13,7 @@ CD One Price Cleaners is a dry cleaner in Naperville, IL at 1592 West Ogden Aven
 - Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-west/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00, Su 10:30-14:00
-- Pulse Score: 49.9/100 — Building — top 81% of dry cleaners in Chicago, #7 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 78% of dry cleaners in Chicago, #7 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

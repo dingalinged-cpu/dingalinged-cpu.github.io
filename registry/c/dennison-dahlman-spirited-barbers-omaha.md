@@ -13,7 +13,7 @@ Dennison Dahlman - Spirited Barbers is a hair salon in Omaha, NE at 8714 Pacific
 - Website: https://www.dennisondahlman.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 11% of hair salons in Omaha, NE, #7 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Omaha, NE, #7 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

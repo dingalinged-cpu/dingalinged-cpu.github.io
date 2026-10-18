@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Kansas City, MO; orthopedic surgeon near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's Mercy Kansas City | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Children's Mercy Kansas City is a pediatrician in Kansas City, MO at 501 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164132500. Website: https://www.childrensmercy.org/locations/childrens-mercy-northland/. | https://registry-edge.dingalinged.workers.dev/c/childrens-mercy-kansas-city-kansas-city/
+1. Children's Mercy Kansas City | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Children's Mercy Kansas City is a pediatrician in Kansas City, MO at 501 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164132500. Website: https://www.childrensmercy.org/locations/childrens-mercy-northland/. | https://registry-edge.dingalinged.workers.dev/c/childrens-mercy-kansas-city-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon kansas city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

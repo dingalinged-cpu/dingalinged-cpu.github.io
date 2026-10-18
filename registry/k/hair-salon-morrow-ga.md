@@ -7,12 +7,12 @@ Also answers: hair salon in Morrow, GA; hair salon near me (Morrow, GA); best ha
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Lala's Hair Branding | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Lala's Hair Branding is a hair salon in Morrow, GA at 6163 Reynolds Road, Morrow, GA. Phone: +14044573488. Website: https://lalashairbraiding.com/. | https://registry-edge.dingalinged.workers.dev/c/lalas-hair-branding-morrow/
-2. Barber | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Barber is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/barber-morrow/
-3. Hair Braiding | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Hair Braiding is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/hair-braiding-morrow/
-4. Jessica Hair Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Jessica Hair Salon is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/jessica-hair-salon-morrow/
-5. Salon Barber | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Salon Barber is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/salon-barber-morrow/
-6. The Virgin Hair | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | The Virgin Hair is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/the-virgin-hair-morrow/
-7. XClusive Cuts | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | XClusive Cuts is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/xclusive-cuts-morrow/
+2. Hair Braiding | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Hair Braiding is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/hair-braiding-morrow/
+3. Jessica Hair Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Jessica Hair Salon is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/jessica-hair-salon-morrow/
+4. Salon Barber | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Salon Barber is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/salon-barber-morrow/
+5. The Virgin Hair | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | The Virgin Hair is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/the-virgin-hair-morrow/
+6. XClusive Cuts | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | XClusive Cuts is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/xclusive-cuts-morrow/
+7. Barber | Organic #7 | Pulse Score 42/100 (Unrated, #7 in city) | Barber is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/barber-morrow/
 8. Barber Shop | Organic #8 | Pulse Score 42/100 (Unrated, #8 in city) | Barber Shop is a hair salon in Morrow, GA. | https://registry-edge.dingalinged.workers.dev/c/barber-shop-morrow/
 
 ## Market data (for advertisers and agents)

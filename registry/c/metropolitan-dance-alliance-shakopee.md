@@ -13,7 +13,7 @@ Metropolitan Dance Alliance is a dance studio in Shakopee, MN at 1159 Shakopee T
 - Website: https://metropolitandancealliance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 31% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 31% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

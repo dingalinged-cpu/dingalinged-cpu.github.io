@@ -13,7 +13,7 @@ Institure for Athletic Medicine - Minneapolis/University Village is a physical t
 - Website: https://www.athletic-medicine.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.3/100 — Unrated (not enough evidence yet) — top 65% of physical therapy clinics in Minneapolis–St. Paul, #6 of 6 physical therapy clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 65% of physical therapy clinics in Minneapolis–St. Paul, #6 of 6 physical therapy clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

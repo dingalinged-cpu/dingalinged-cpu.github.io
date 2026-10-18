@@ -13,7 +13,7 @@ Terrell Children's Clini is a pediatrician in Terrell, TX at 1446 West Moore Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 27% of pediatricians in Dallas–Fort Worth, #1 of 1 pediatricians in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 27% of pediatricians in Dallas–Fort Worth, #1 of 1 pediatricians in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

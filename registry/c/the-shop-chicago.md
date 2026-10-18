@@ -13,7 +13,7 @@ The Shop is a hair salon in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 74% of hair salons in Chicago, #191 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Chicago, #220 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

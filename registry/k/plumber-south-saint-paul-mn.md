@@ -6,7 +6,7 @@ Also answers: plumber in South Saint Paul, MN; plumber near me (South Saint Paul
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Freedom Plumbing and Water Conditioning | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/. | https://registry-edge.dingalinged.workers.dev/c/freedom-plumbing-and-water-conditioning-south-saint-paul/
+1. Freedom Plumbing and Water Conditioning | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/. | https://registry-edge.dingalinged.workers.dev/c/freedom-plumbing-and-water-conditioning-south-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber south saint paul mn | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

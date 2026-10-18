@@ -6,8 +6,8 @@ Also answers: hvac repair in Pasadena, TX; hvac repair near me (Pasadena, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insulators Local 22 | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Insulators Local 22 is a HVAC contractor in Pasadena, TX at 2210 Wichita Street, Pasadena, TX 77502. Phone: +12814792220. Website: https://insulatorslocal22.org/. | https://registry-edge.dingalinged.workers.dev/c/insulators-local-22-pasadena/
-2. Tri-City Air Conditioning | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Tri-City Air Conditioning is a HVAC contractor in Pasadena, TX at 112 Pasadena Freeway Frontage Road, Pasadena, TX 77506. Phone: +17137409500. Website: https://www.tricityac.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-city-air-conditioning-pasadena/
+1. Insulators Local 22 | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Insulators Local 22 is a HVAC contractor in Pasadena, TX at 2210 Wichita Street, Pasadena, TX 77502. Phone: +12814792220. Website: https://insulatorslocal22.org/. | https://registry-edge.dingalinged.workers.dev/c/insulators-local-22-pasadena/
+2. Tri-City Air Conditioning | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Tri-City Air Conditioning is a HVAC contractor in Pasadena, TX at 112 Pasadena Freeway Frontage Road, Pasadena, TX 77506. Phone: +17137409500. Website: https://www.tricityac.com/. | https://registry-edge.dingalinged.workers.dev/c/tri-city-air-conditioning-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair pasadena tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

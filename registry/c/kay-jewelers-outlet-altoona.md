@@ -13,7 +13,7 @@ Kay Jewelers Outlet is a jewelry store in Altoona, IA at 545 Bass Pro Drive Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 80% of jewelry stores in Des Moines, IA, #4 of 4 jewelry stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 80% of jewelry stores in Des Moines, IA, #4 of 4 jewelry stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

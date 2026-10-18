@@ -6,9 +6,9 @@ Also answers: hvac repair in Chicago, IL; hvac repair near me (Chicago, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Citywide Supply and Service | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Citywide Supply and Service is a HVAC contractor in Chicago, IL at 6101 West Montrose Avenue, Chicago, IL 60634. Phone: +17734682653. Website: https://773hotcold.com/. | https://registry-edge.dingalinged.workers.dev/c/citywide-supply-and-service-chicago/
-2. Fettes, Love & Sieben Plumbing & Heating | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Fettes, Love & Sieben Plumbing & Heating is a HVAC contractor in Chicago, IL at 4325 North Lincoln Avenue, Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/fettes-love-and-sieben-plumbing-and-heating-chicago/
-3. Chicago Cooling Heating & Refrigeration | Organic #3 | Pulse Score 53.5/100 (Unrated, #3 in city) | Chicago Cooling Heating & Refrigeration is a HVAC contractor in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/chicago-cooling-heating-and-refrigeration-chicago/
+1. Citywide Supply and Service | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Citywide Supply and Service is a HVAC contractor in Chicago, IL at 6101 West Montrose Avenue, Chicago, IL 60634. Phone: +17734682653. Website: https://773hotcold.com/. | https://registry-edge.dingalinged.workers.dev/c/citywide-supply-and-service-chicago/
+2. Fettes, Love & Sieben Plumbing & Heating | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Fettes, Love & Sieben Plumbing & Heating is a HVAC contractor in Chicago, IL at 4325 North Lincoln Avenue, Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/fettes-love-and-sieben-plumbing-and-heating-chicago/
+3. Chicago Cooling Heating & Refrigeration | Organic #3 | Pulse Score 53.6/100 (Unrated, #3 in city) | Chicago Cooling Heating & Refrigeration is a HVAC contractor in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/chicago-cooling-heating-and-refrigeration-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair chicago il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: window replacement in Coon Rapids, MN; window replacement near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modeen Company | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Modeen Company is a window installer in Coon Rapids, MN at 1285 114th Avenue Northwest #140, Coon Rapids, MN 55448. Phone: +17634253600. Website: https://modeenwindowanddoor.com/. | https://registry-edge.dingalinged.workers.dev/c/modeen-company-coon-rapids/
+1. Modeen Company | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Modeen Company is a window installer in Coon Rapids, MN at 1285 114th Avenue Northwest #140, Coon Rapids, MN 55448. Phone: +17634253600. Website: https://modeenwindowanddoor.com/. | https://registry-edge.dingalinged.workers.dev/c/modeen-company-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement coon rapids mn | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

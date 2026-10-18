@@ -7,8 +7,8 @@ Also answers: tire shop in Minneapolis, MN; tire shop near me (Minneapolis, MN);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Northwestern Tire Co | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Northwestern Tire Co is a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/. | https://registry-edge.dingalinged.workers.dev/c/northwestern-tire-co-minneapolis/
-2. Southwest Tire & Auto | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.swtireauto.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-tire-and-auto-minneapolis/
-3. Tires Plus | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Tires Plus is a tire shop in Minneapolis, MN at 1103 West Lake Street, Minneapolis, MN 55408. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-minneapolis/
+2. Southwest Tire & Auto | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.swtireauto.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-tire-and-auto-minneapolis/
+3. Tires Plus | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Tires Plus is a tire shop in Minneapolis, MN at 1103 West Lake Street, Minneapolis, MN 55408. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop minneapolis mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

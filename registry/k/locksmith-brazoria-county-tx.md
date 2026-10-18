@@ -6,7 +6,7 @@ Also answers: locksmith in Brazoria County, TX; locksmith near me (Brazoria Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Replace Lost Keys In Pearland | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Replace Lost Keys In Pearland is a locksmith in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/replace-lost-keys-in-pearland-brazoria-county/
+1. Replace Lost Keys In Pearland | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Replace Lost Keys In Pearland is a locksmith in Brazoria County, TX. | https://registry-edge.dingalinged.workers.dev/c/replace-lost-keys-in-pearland-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith brazoria county tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

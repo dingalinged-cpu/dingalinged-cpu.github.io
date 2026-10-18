@@ -13,7 +13,7 @@ Chiropractic Company is a chiropractor in Milwaukee, WI at 150 North Jefferson S
 - Website: https://www.chiropracticco.com/chiropractor-milwaukee-third-ward
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 11:00-18:00; Fr 08:00-12:30
-- Pulse Score: 49.3/100 — Building — top 87% of chiropractors in Milwaukee, #6 of 6 chiropractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 87% of chiropractors in Milwaukee, #6 of 6 chiropractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

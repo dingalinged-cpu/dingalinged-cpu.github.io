@@ -13,7 +13,7 @@ Razor Sharp Barbershop is a barber shop in La Marque, TX at 1211 1st street, La 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-18:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 36% of barber shops in Houston, #1 of 1 barber shops in La Marque (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 36% of barber shops in Houston, #1 of 1 barber shops in La Marque (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

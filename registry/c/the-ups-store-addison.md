@@ -13,7 +13,7 @@ The UPS Store is a printing service in Addison, TX. Phone: +19729807758. Website
 - Website: https://locations.theupsstore.com/tx/addison/4145-beltline-rd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 45% of printing services in Dallas–Fort Worth, #5 of 6 printing services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 44% of printing services in Dallas–Fort Worth, #5 of 6 printing services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

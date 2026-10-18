@@ -6,9 +6,9 @@ Also answers: florist in West Des Moines, IA; florist near me (West Des Moines, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hy-Vee Floral | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Hy-Vee Floral is a florist in West Des Moines, IA at 1700 Valley West Drive, West Des Moines, IA 50266. Website: https://www.hy-vee.com/. | https://registry-edge.dingalinged.workers.dev/c/hy-vee-floral-west-des-moines/
-2. Nielsen Flower Shop | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Nielsen Flower Shop is a florist in West Des Moines, IA at 1600 22nd Street, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/nielsen-flower-shop-west-des-moines/
-3. Something Chic Floral | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Something Chic Floral is a florist in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/something-chic-floral-west-des-moines/
+1. Hy-Vee Floral | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Hy-Vee Floral is a florist in West Des Moines, IA at 1700 Valley West Drive, West Des Moines, IA 50266. Website: https://www.hy-vee.com/. | https://registry-edge.dingalinged.workers.dev/c/hy-vee-floral-west-des-moines/
+2. Nielsen Flower Shop | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Nielsen Flower Shop is a florist in West Des Moines, IA at 1600 22nd Street, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/nielsen-flower-shop-west-des-moines/
+3. Something Chic Floral | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Something Chic Floral is a florist in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/something-chic-floral-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist west des moines ia | category: Events & weddings | industry benchmark: Personal Services

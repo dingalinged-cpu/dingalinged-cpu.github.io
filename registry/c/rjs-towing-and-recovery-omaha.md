@@ -13,7 +13,7 @@ RJ's Towing & Recovery is a moving company in Omaha, NE at 6328 Grover Street #1
 - Website: https://rjtowing.net/
 - Email: autoonetowing@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Omaha, NE, #3 of 3 moving companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 100% of moving companys in Omaha, NE, #3 of 3 moving companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: roofer in Downers Grove, IL; roofer near me (Downers Grove, IL); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. AmeriPro Roofing | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | AmeriPro Roofing is a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/ameripro-roofing-downers-grove/
-2. Berg Roofing and Home Improvement | Organic #2 | Pulse Score 59.7/100 (Fair, #2 in city) | Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden Avenue, Downers Grove, IL 60515. Phone: +16304152873. Website: https://www.bergext.com/. | https://registry-edge.dingalinged.workers.dev/c/berg-roofing-and-home-improvement-downers-grove/
+2. Berg Roofing and Home Improvement | Organic #2 | Pulse Score 59.6/100 (Fair, #2 in city) | Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden Avenue, Downers Grove, IL 60515. Phone: +16304152873. Website: https://www.bergext.com/. | https://registry-edge.dingalinged.workers.dev/c/berg-roofing-and-home-improvement-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer downers grove il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Adroit Talent is a staffing agency in Greenfield, WI at 4453 South 110th Street,
 - Website: https://adroittalent.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of staffing agencys in Milwaukee, #1 of 1 staffing agencys in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of staffing agencys in Milwaukee, #1 of 1 staffing agencys in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

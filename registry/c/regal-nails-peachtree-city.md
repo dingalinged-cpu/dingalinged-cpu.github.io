@@ -13,7 +13,7 @@ Regal Nails is a nail salon in Peachtree City, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 99% of nail salons in Atlanta, #2 of 2 nail salons in Peachtree City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 97% of nail salons in Atlanta, #2 of 2 nail salons in Peachtree City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

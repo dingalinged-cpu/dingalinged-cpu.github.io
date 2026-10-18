@@ -6,7 +6,7 @@ Also answers: accounting services in Magnolia, TX; accounting services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1488 Tax Service | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | 1488 Tax Service is an accountant in Magnolia, TX at 33300 Egypt Lane #L-700, Magnolia, TX 77354. Phone: +12812592434. Website: https://www.1488taxservice.com/. | https://registry-edge.dingalinged.workers.dev/c/1488-tax-service-magnolia/
+1. 1488 Tax Service | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | 1488 Tax Service is an accountant in Magnolia, TX at 33300 Egypt Lane #L-700, Magnolia, TX 77354. Phone: +12812592434. Website: https://www.1488taxservice.com/. | https://registry-edge.dingalinged.workers.dev/c/1488-tax-service-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services magnolia tx | category: professional_accounting | industry benchmark: Business Services

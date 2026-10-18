@@ -13,7 +13,7 @@ Car Spa is a car wash in Plano, TX at 5028 West Park Boulevard, Plano, TX. Phone
 - Website: https://carspa.net/locations/plano-texas-car-spa/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51/100 — Fair — top 63% of car washes in Dallas–Fort Worth, #8 of 12 car washes in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 62% of car washes in Dallas–Fort Worth, #8 of 12 car washes in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

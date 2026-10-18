@@ -13,7 +13,7 @@ Wellstar Podiatry is a podiatrist in Marietta, GA at 355 Tower Road Northwest #1
 - Website: https://www.wellstar.org/locations/medical-practice/podiatry-marietta-355-tower-road-ne-suite-103
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 39% of podiatrists in Atlanta, #3 of 3 podiatrists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 39% of podiatrists in Atlanta, #3 of 3 podiatrists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

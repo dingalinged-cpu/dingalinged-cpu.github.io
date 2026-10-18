@@ -7,10 +7,10 @@ Also answers: martial arts in Atlanta, GA; martial arts near me (Atlanta, GA); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Team Octopus Midtown | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Team Octopus Midtown is a martial arts school in Atlanta, GA at 503 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +16786663838. Website: https://mmaatl.com/midtown-location/. | https://registry-edge.dingalinged.workers.dev/c/team-octopus-midtown-atlanta/
-2. Sung Ming Shu dojo | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Sung Ming Shu dojo is a martial arts school in Atlanta, GA at 465 Boulevard Southeast, Atlanta, GA 30312. | https://registry-edge.dingalinged.workers.dev/c/sung-ming-shu-dojo-atlanta/
+2. Sung Ming Shu dojo | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Sung Ming Shu dojo is a martial arts school in Atlanta, GA at 465 Boulevard Southeast, Atlanta, GA 30312. | https://registry-edge.dingalinged.workers.dev/c/sung-ming-shu-dojo-atlanta/
 3. Buckhead Jiu-Jitsu | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Buckhead Jiu-Jitsu is a martial arts school in Atlanta, GA at 2144 Hills Avenue Northwest, Atlanta, GA 30318. | https://registry-edge.dingalinged.workers.dev/c/buckhead-jiu-jitsu-atlanta/
 4. Choke Unit BJJ | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Choke Unit BJJ is a martial arts school in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/choke-unit-bjj-atlanta/
-5. Roundhouse Kickboxing | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Roundhouse Kickboxing is a martial arts school in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/roundhouse-kickboxing-atlanta/
+5. Roundhouse Kickboxing | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Roundhouse Kickboxing is a martial arts school in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/roundhouse-kickboxing-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts atlanta ga | category: Fitness | industry benchmark: Health & Fitness

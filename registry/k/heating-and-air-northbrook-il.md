@@ -6,7 +6,7 @@ Also answers: heating and air in Northbrook, IL; heating and air near me (Northb
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roberts Heating & Air Conditioning, Inc. | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Roberts Heating & Air Conditioning, Inc. is a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/. | https://registry-edge.dingalinged.workers.dev/c/roberts-heating-and-air-conditioning-inc-northbrook/
+1. Roberts Heating & Air Conditioning, Inc. | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Roberts Heating & Air Conditioning, Inc. is a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/. | https://registry-edge.dingalinged.workers.dev/c/roberts-heating-and-air-conditioning-inc-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air northbrook il | category: Home Services | industry benchmark: Home & Home Improvement

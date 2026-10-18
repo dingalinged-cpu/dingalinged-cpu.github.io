@@ -6,7 +6,7 @@ Also answers: dance studio in Spring Valley Village, TX; dance studio near me (S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arthur Murray Dance Studio | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Arthur Murray Dance Studio is a dance studio in Spring Valley Village, TX at 8412 Katy Freeway #320, Spring Valley Village, TX. | https://registry-edge.dingalinged.workers.dev/c/arthur-murray-dance-studio-spring-valley-village/
+1. Arthur Murray Dance Studio | Organic #1 | Pulse Score 44/100 (Unrated, #1 in city) | Arthur Murray Dance Studio is a dance studio in Spring Valley Village, TX at 8412 Katy Freeway #320, Spring Valley Village, TX. | https://registry-edge.dingalinged.workers.dev/c/arthur-murray-dance-studio-spring-valley-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio spring valley village tx | category: Fitness | industry benchmark: Health & Fitness

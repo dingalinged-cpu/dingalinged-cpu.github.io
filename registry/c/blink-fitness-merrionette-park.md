@@ -13,7 +13,7 @@ Blink Fitness is a gym in Merrionette Park, IL at 3243 West 115th Street, Merrio
 - Website: https://blink-fitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 55% of gyms in Chicago, #1 of 1 gyms in Merrionette Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 54% of gyms in Chicago, #1 of 1 gyms in Merrionette Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

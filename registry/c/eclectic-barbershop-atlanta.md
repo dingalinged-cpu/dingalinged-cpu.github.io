@@ -13,7 +13,7 @@ Eclectic Barbershop is a barber shop in Atlanta, GA at 895 Peachtree Street Nort
 - Website: https://www.eclecticbarbershop.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu-Fr 08:30-19:00; Sa 08:30-18:00; Su 10:00-16:00
-- Pulse Score: 63.3/100 — Good — top 18% of barber shops in Atlanta, #3 of 8 barber shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 18% of barber shops in Atlanta, #3 of 8 barber shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

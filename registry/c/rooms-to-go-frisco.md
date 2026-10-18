@@ -13,7 +13,7 @@ Rooms To Go is a furniture store in Frisco, TX at 7660 State Highway 121, Frisco
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 70% of furniture stores in Dallas–Fort Worth, #10 of 15 furniture stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 69% of furniture stores in Dallas–Fort Worth, #10 of 15 furniture stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

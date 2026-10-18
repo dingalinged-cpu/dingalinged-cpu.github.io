@@ -7,7 +7,7 @@ Also answers: vet in Decatur, GA; vet near me (Decatur, GA); best vet Decatur, G
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Church Street Animal Hospital | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Church Street Animal Hospital is a veterinarian in Decatur, GA at 711, Decatur, GA. Website: https://churchstanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/church-street-animal-hospital-decatur/
-2. LaVista Animal Hospital | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | LaVista Animal Hospital is a veterinarian in Decatur, GA at 2804 Lavista Road, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/lavista-animal-hospital-decatur/
+2. LaVista Animal Hospital | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | LaVista Animal Hospital is a veterinarian in Decatur, GA at 2804 Lavista Road, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/lavista-animal-hospital-decatur/
 3. The Village Vets | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | The Village Vets is a veterinarian in Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/the-village-vets-decatur/
 
 ## Market data (for advertisers and agents)

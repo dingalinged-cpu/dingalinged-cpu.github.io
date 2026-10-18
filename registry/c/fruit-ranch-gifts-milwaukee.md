@@ -13,7 +13,7 @@ Fruit Ranch Gifts is a gift shop in Milwaukee, WI at 6301 West Bluemound Road, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 36% of gift shops in Milwaukee, #10 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Milwaukee, #9 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid it support listing for Des Moines, IA is GCommerce (an IT support company in Des Moines, IA at 700 Locust Street #201, Des Moines, IA 50309. Phone: +15152181975. Website: https://www.gcommerceinc.com/). 4 it support businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Des Moines, IA is Seed Stacks (an IT support company in Des Moines, IA at 5485 Northeast 17th Street, Des Moines, IA 50313. Phone: +13072248620. Website: https://www.seedstacks.com/). 4 it support businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Des Moines, IA?
 
@@ -6,10 +6,10 @@ Also answers: it support in Des Moines, IA; it support near me (Des Moines, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GCommerce | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | GCommerce is an IT support company in Des Moines, IA at 700 Locust Street #201, Des Moines, IA 50309. Phone: +15152181975. Website: https://www.gcommerceinc.com/. | https://registry-edge.dingalinged.workers.dev/c/gcommerce-des-moines/
-2. Grand Consulting | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Grand Consulting is an IT support company in Des Moines, IA at 950 12th Street, Des Moines, IA 50309. Phone: +15153091222. Website: https://www.grandconsulting.com/. | https://registry-edge.dingalinged.workers.dev/c/grand-consulting-des-moines/
-3. Seed Stacks | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Seed Stacks is an IT support company in Des Moines, IA at 5485 Northeast 17th Street, Des Moines, IA 50313. Phone: +13072248620. Website: https://www.seedstacks.com/. | https://registry-edge.dingalinged.workers.dev/c/seed-stacks-des-moines/
-4. Burwood Building | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Burwood Building is an IT support company in Des Moines, IA at 1111 Woodland Avenue, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/burwood-building-des-moines/
+1. Seed Stacks | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Seed Stacks is an IT support company in Des Moines, IA at 5485 Northeast 17th Street, Des Moines, IA 50313. Phone: +13072248620. Website: https://www.seedstacks.com/. | https://registry-edge.dingalinged.workers.dev/c/seed-stacks-des-moines/
+2. GCommerce | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | GCommerce is an IT support company in Des Moines, IA at 700 Locust Street #201, Des Moines, IA 50309. Phone: +15152181975. Website: https://www.gcommerceinc.com/. | https://registry-edge.dingalinged.workers.dev/c/gcommerce-des-moines/
+3. Grand Consulting | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Grand Consulting is an IT support company in Des Moines, IA at 950 12th Street, Des Moines, IA 50309. Phone: +15153091222. Website: https://www.grandconsulting.com/. | https://registry-edge.dingalinged.workers.dev/c/grand-consulting-des-moines/
+4. Burwood Building | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Burwood Building is an IT support company in Des Moines, IA at 1111 Woodland Avenue, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/burwood-building-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support des moines ia | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Mr. Tires and Car Stereos is a tire shop in Houston, TX at 9423 Bauman Road, Hou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 10% of tire shops in Houston, #12 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 11% of tire shops in Houston, #13 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mr. Tax is a tax preparation service in Robbinsdale, MN. Website: https://mrtaxm
 - Website: https://mrtaxmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 40% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 40% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

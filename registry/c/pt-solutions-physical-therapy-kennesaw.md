@@ -13,7 +13,7 @@ PT Solutions Physical Therapy is a physical therapy clinic in Kennesaw, GA at 27
 - Website: https://ptsolutions.com/clinics/ga/jiles-road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:00; Sa off; Su off
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 61% of physical therapy clinics in Atlanta, #4 of 4 physical therapy clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 59% of physical therapy clinics in Atlanta, #4 of 4 physical therapy clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

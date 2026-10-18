@@ -13,7 +13,7 @@ North Texas Foot & Ankle Specalists is a podiatrist in Denton, TX at 102 North L
 - Website: https://www.ntfootdocs.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-12:00,13:00-17:00; Fr 09:00-12:00,13:00-16:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of podiatrists in Dallas–Fort Worth, #1 of 1 podiatrists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of podiatrists in Dallas–Fort Worth, #1 of 1 podiatrists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

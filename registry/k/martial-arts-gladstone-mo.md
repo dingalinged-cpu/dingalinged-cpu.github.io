@@ -7,8 +7,8 @@ Also answers: martial arts in Gladstone, MO; martial arts near me (Gladstone, MO
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Pride Martial Arts | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Pride Martial Arts is a martial arts school in Gladstone, MO at 6927 North Oak Trafficway, Gladstone, MO 64118. Phone: +18164597399. Website: https://pridekarategladstone.com/. | https://registry-edge.dingalinged.workers.dev/c/pride-martial-arts-gladstone/
-2. AKKA Karate | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | AKKA Karate is a martial arts school in Gladstone, MO at 7504 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/akka-karate-gladstone/
-3. Seagull Blackbelt Academy | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Seagull Blackbelt Academy is a martial arts school in Gladstone, MO at 121 Northeast 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/seagull-blackbelt-academy-gladstone/
+2. AKKA Karate | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | AKKA Karate is a martial arts school in Gladstone, MO at 7504 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/akka-karate-gladstone/
+3. Seagull Blackbelt Academy | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Seagull Blackbelt Academy is a martial arts school in Gladstone, MO at 121 Northeast 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/seagull-blackbelt-academy-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts gladstone mo | category: Fitness | industry benchmark: Health & Fitness

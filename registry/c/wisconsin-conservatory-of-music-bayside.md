@@ -13,7 +13,7 @@ Wisconsin Conservatory of Music is a music school in Bayside, WI at 333 West Bro
 - Website: https://www.wcmusic.org/about/bayside-foxpoint/
 - Email: info@wcmusic.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 75% of music schools in Milwaukee, #1 of 1 music schools in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 75% of music schools in Milwaukee, #1 of 1 music schools in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

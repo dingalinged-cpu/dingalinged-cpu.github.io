@@ -13,7 +13,7 @@ Armor Storage is a self-storage facility in Omaha, NE at 6726 North 87th Circle,
 - Website: https://www.armorstorages.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su 06:00-22:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 11% of self-storage facilitys in Omaha, NE, #3 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 11% of self-storage facilitys in Omaha, NE, #3 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

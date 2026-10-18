@@ -6,7 +6,7 @@ Also answers: dog boarding in Town Of Burke, WI; dog boarding near me (Town Of B
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Camp K9 | Organic #1 | Pulse Score 58.5/100 (Unrated, #2 in city) | Camp K9 is a dog boarding facility in Madison, WI at 4934 Felland Road, Madison, WI 53718. Website: https://www.campk9madison.com/. | https://registry-edge.dingalinged.workers.dev/c/camp-k9-madison/
+1. Camp K9 | Organic #1 | Pulse Score 58.6/100 (Unrated, #2 in city) | Camp K9 is a dog boarding facility in Madison, WI at 4934 Felland Road, Madison, WI 53718. Website: https://www.campk9madison.com/. | https://registry-edge.dingalinged.workers.dev/c/camp-k9-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding town of burke wi | category: Pets | industry benchmark: Animals & Pets

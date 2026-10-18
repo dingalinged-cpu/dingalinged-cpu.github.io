@@ -6,7 +6,7 @@ Also answers: mechanic in Weston, MO; mechanic near me (Weston, MO); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hiatt Motors | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Hiatt Motors is an auto repair shop in Weston, MO at 401 Main Street, Weston, MO 64098. Phone: +18163862361. | https://registry-edge.dingalinged.workers.dev/c/hiatt-motors-weston/
+1. Hiatt Motors | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Hiatt Motors is an auto repair shop in Weston, MO at 401 Main Street, Weston, MO 64098. Phone: +18163862361. | https://registry-edge.dingalinged.workers.dev/c/hiatt-motors-weston/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic weston mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

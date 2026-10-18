@@ -13,7 +13,7 @@ HOP Models & Talent Agency is a marketing agency in Atlanta, GA at 3400 Peachtre
 - Website: https://hopmodels.syngency.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 62.5/100 — Good — top 12% of marketing agencys in Atlanta, #2 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 12% of marketing agencys in Atlanta, #2 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

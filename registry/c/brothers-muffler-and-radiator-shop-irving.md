@@ -13,7 +13,7 @@ Brothers Muffler & Radiator Shop is an auto repair shop in Irving, TX at 1700 We
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Dallas–Fort Worth, #8 of 21 auto repair shops in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Dallas–Fort Worth, #8 of 21 auto repair shops in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

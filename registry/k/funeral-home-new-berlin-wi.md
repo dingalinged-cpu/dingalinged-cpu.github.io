@@ -6,7 +6,7 @@ Also answers: funeral home in New Berlin, WI; funeral home near me (New Berlin, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Church and Chapel Funeral Homes | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Church and Chapel Funeral Homes is a funeral home in New Berlin, WI at 15250 West National Avenue, New Berlin, WI 53151. Phone: +12628270659. Website: https://www.churchandchapel.com/. | https://registry-edge.dingalinged.workers.dev/c/church-and-chapel-funeral-homes-new-berlin/
+1. Church and Chapel Funeral Homes | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Church and Chapel Funeral Homes is a funeral home in New Berlin, WI at 15250 West National Avenue, New Berlin, WI 53151. Phone: +12628270659. Website: https://www.churchandchapel.com/. | https://registry-edge.dingalinged.workers.dev/c/church-and-chapel-funeral-homes-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home new berlin wi | category: Professional & financial services | industry benchmark: Finance & Insurance

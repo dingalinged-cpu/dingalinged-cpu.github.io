@@ -13,7 +13,7 @@ Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https
 - Website: https://www.oakviewpetresort.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 55% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

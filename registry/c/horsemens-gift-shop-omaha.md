@@ -13,7 +13,7 @@ Horsemen's Gift Shop is a gift shop in Omaha, NE at 6303 Q Street, Omaha, NE 681
 - Website: https://www.horsemenspark.com/gift.asp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Omaha, NE, #4 of 15 gift shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Omaha, NE, #4 of 15 gift shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

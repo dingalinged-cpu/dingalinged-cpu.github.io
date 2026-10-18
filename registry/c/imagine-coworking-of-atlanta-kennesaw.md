@@ -13,7 +13,7 @@ Imagine Coworking of Atlanta is a coworking space in Kennesaw, GA at 2601 Summer
 - Website: https://imaginecoworking.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 32% of coworking spaces in Atlanta, #2 of 3 coworking spaces in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 32% of coworking spaces in Atlanta, #2 of 3 coworking spaces in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

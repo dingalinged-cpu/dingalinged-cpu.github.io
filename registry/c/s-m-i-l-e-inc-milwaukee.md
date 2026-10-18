@@ -13,7 +13,7 @@ S.M.I.L.E. Inc. is a therapy practice in Milwaukee, WI. Phone: +14142319996. Web
 - Website: https://smileincmke.org/
 - Email: info@smileincmke.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Fair — top 47% of therapy practices in Milwaukee, #14 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Fair — top 47% of therapy practices in Milwaukee, #14 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Bike World is a bike shop in West Des Moines, IA at 5003 E P True Parkway, West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Des Moines, IA, #1 of 2 bike shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Des Moines, IA, #1 of 2 bike shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

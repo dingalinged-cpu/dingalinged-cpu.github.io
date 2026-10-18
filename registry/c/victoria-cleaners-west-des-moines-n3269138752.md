@@ -13,7 +13,7 @@ Victoria Cleaners is a dry cleaner in West Des Moines, IA at 650 South 50th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 89% of dry cleaners in Des Moines, IA, #4 of 6 dry cleaners in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 83% of dry cleaners in Des Moines, IA, #3 of 6 dry cleaners in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

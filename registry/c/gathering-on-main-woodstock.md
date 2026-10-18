@@ -13,7 +13,7 @@ Gathering On Main is an event venue in Woodstock, GA at 8826 Main Street, Woodst
 - Website: https://gatheringonmainwoodstock.com/
 - Email: gatheringwoodstock@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 24% of event venues in Atlanta, #2 of 4 event venues in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 24% of event venues in Atlanta, #2 of 4 event venues in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

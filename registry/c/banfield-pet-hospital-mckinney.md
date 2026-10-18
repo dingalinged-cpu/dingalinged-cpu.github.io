@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in McKinney, TX at 7001 South Custer Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 46.5/100 — Building — top 89% of veterinarians in Dallas–Fort Worth, #10 of 11 veterinarians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 88% of veterinarians in Dallas–Fort Worth, #10 of 11 veterinarians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

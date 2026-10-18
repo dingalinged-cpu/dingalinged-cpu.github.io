@@ -6,7 +6,7 @@ Also answers: staffing agency in Cudahy, WI; staffing agency near me (Cudahy, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Masterson Staffing Solutions | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Masterson Staffing Solutions is a staffing agency in Cudahy, WI at 5656 South Packard Avenue #9, Cudahy, WI. | https://registry-edge.dingalinged.workers.dev/c/masterson-staffing-solutions-cudahy/
+1. Masterson Staffing Solutions | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Masterson Staffing Solutions is a staffing agency in Cudahy, WI at 5656 South Packard Avenue #9, Cudahy, WI. | https://registry-edge.dingalinged.workers.dev/c/masterson-staffing-solutions-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency cudahy wi | category: b2b_services | industry benchmark: Business Services

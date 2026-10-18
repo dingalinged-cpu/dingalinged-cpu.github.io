@@ -13,7 +13,7 @@ Veritech Emissions is a vehicle inspection station in Marietta, GA at 850 Sandy 
 - Website: https://veritech-emissions.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 58.9/100 — Fair — top 38% of vehicle inspection stations in Atlanta, #3 of 4 vehicle inspection stations in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 38% of vehicle inspection stations in Atlanta, #3 of 4 vehicle inspection stations in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

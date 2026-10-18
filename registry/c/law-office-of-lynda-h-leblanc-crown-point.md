@@ -13,7 +13,7 @@ Law Office of Lynda H. LeBlanc is a lawyer in Crown Point, IN. Phone: +121966108
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 65% of lawyers in Chicago, #1 of 1 lawyers in Crown Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 65% of lawyers in Chicago, #1 of 1 lawyers in Crown Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

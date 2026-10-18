@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Munster, IN is Marathon (a car wash in Munster, IN at 9451 Calumet Avenue, Munster, IN 46321). 4 car wash businesses are listed for Munster, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Munster, IN is BP (a car wash in Munster, IN at 10444 Calumet Avenue, Munster, IN 46321). 4 car wash businesses are listed for Munster, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Munster, IN?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Munster, IN; car wash near me (Munster, IN); best car 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marathon | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Marathon is a car wash in Munster, IN at 9451 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/marathon-munster/
-2. BP | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | BP is a car wash in Munster, IN at 10444 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/bp-munster/
-3. Circle K | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Circle K is a car wash in Munster, IN at 10 45th Street, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/circle-k-munster/
+1. BP | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | BP is a car wash in Munster, IN at 10444 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/bp-munster/
+2. Circle K | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Circle K is a car wash in Munster, IN at 10 45th Street, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/circle-k-munster/
+3. Marathon | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Marathon is a car wash in Munster, IN at 9451 Calumet Avenue, Munster, IN 46321. | https://registry-edge.dingalinged.workers.dev/c/marathon-munster/
 4. Speedy Wash | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Speedy Wash is a car wash in Munster, IN. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-munster/
 
 ## Market data (for advertisers and agents)

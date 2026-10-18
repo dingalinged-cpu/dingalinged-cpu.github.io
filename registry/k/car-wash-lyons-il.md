@@ -7,7 +7,7 @@ Also answers: car wash in Lyons, IL; car wash near me (Lyons, IL); best car wash
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. A - One Car Wash | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | A - One Car Wash is a car wash in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/a-one-car-wash-lyons/
-2. Buddy Bear Car Wash | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | Buddy Bear Car Wash is a car wash in Lyons, IL at 8152 Ogden Avenue, Lyons, IL 60534. | https://registry-edge.dingalinged.workers.dev/c/buddy-bear-car-wash-lyons/
+2. Buddy Bear Car Wash | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | Buddy Bear Car Wash is a car wash in Lyons, IL at 8152 Ogden Avenue, Lyons, IL 60534. | https://registry-edge.dingalinged.workers.dev/c/buddy-bear-car-wash-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lyons il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

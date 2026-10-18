@@ -13,7 +13,7 @@ Jiffy Lube is a car wash in Council Bluffs, IA at West Broadway, Council Bluffs,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 77% of car washes in Omaha, NE, #10 of 12 car washes in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 77% of car washes in Omaha, NE, #10 of 12 car washes in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: storage units in Papillion, NE; storage units near me (Papillion, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dino's Storage | Organic #1 | Pulse Score 45.4/100 (Unrated, #1 in city) | Dino's Storage is a self-storage facility in Papillion, NE at 921 Cedardale Road, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-papillion-w1235162961/
+1. Dino's Storage | Organic #1 | Pulse Score 45.3/100 (Unrated, #1 in city) | Dino's Storage is a self-storage facility in Papillion, NE at 921 Cedardale Road, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-papillion-w1235162961/
 2. Dino's Storage | Organic #2 | Pulse Score 42.9/100 (Unrated, #2 in city) | Dino's Storage is a self-storage facility in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-papillion/
 3. StorageMart | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | StorageMart is a self-storage facility in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/storagemart-papillion/
 

@@ -13,7 +13,7 @@ Drybar is a hair salon in Atlanta, GA at 60 11th Street Northeast #3B, Atlanta, 
 - Website: https://www.drybarshops.com/service/locator/detail/?slug=midtown-atlanta
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-15:00; Tu-Fr 07:00-19:00; Sa 08:00-19:00; Su off
-- Pulse Score: 50.1/100 — Fair — top 85% of hair salons in Atlanta, #80 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 84% of hair salons in Atlanta, #80 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

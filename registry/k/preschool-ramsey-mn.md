@@ -6,7 +6,7 @@ Also answers: preschool in Ramsey, MN; preschool near me (Ramsey, MN); best pres
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Horizon Academy | Organic #1 | Pulse Score 45.5/100 (Building, #1 in city) | New Horizon Academy is a preschool in Ramsey, MN at 7800 Sunwood Drive Northwest, Ramsey, MN 55303. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-ramsey/
+1. New Horizon Academy | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | New Horizon Academy is a preschool in Ramsey, MN at 7800 Sunwood Drive Northwest, Ramsey, MN 55303. | https://registry-edge.dingalinged.workers.dev/c/new-horizon-academy-ramsey/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool ramsey mn | category: Education & childcare | industry benchmark: Education & Instruction

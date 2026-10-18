@@ -6,7 +6,7 @@ Also answers: thrift store in Bonner Springs, KS; thrift store near me (Bonner S
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Goodwill is a thrift store in Bonner Springs, KS at 525 South 129th Street, Bonner Springs, KS 66012. Phone: +19134415701. Website: https://www.mokangoodwill.org/locations/goodwill-bonner-springs. | https://registry-edge.dingalinged.workers.dev/c/goodwill-bonner-springs/
+1. Goodwill | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Goodwill is a thrift store in Bonner Springs, KS at 525 South 129th Street, Bonner Springs, KS 66012. Phone: +19134415701. Website: https://www.mokangoodwill.org/locations/goodwill-bonner-springs. | https://registry-edge.dingalinged.workers.dev/c/goodwill-bonner-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store bonner springs ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: dog boarding in Waukee, IA; dog boarding near me (Waukee, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Waukee, IA at 1500 Northwest Gettysburg Lane, Waukee, IA 50263. Phone: +15152208181. Website: https://www.dogtopia.com/iowa-waukee/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-waukee/
+1. Dogtopia | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Waukee, IA at 1500 Northwest Gettysburg Lane, Waukee, IA 50263. Phone: +15152208181. Website: https://www.dogtopia.com/iowa-waukee/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-waukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding waukee ia | category: Pets | industry benchmark: Animals & Pets

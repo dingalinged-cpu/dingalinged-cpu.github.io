@@ -13,7 +13,7 @@ Petco is a pet store in Denton, TX at 2640 West University Drive #1280, Denton, 
 - Website: https://www.petco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 46.9/100 — Building — top 61% of pet stores in Dallas–Fort Worth, #3 of 4 pet stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 60% of pet stores in Dallas–Fort Worth, #3 of 4 pet stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

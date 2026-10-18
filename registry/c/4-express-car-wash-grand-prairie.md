@@ -13,7 +13,7 @@ $4 Express Car Wash is a car wash in Grand Prairie, TX at 3949 South Belt Line R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 8% of car washes in Dallas–Fort Worth, #1 of 5 car washes in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 8% of car washes in Dallas–Fort Worth, #1 of 5 car washes in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

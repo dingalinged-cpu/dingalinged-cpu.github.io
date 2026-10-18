@@ -6,7 +6,7 @@ Also answers: exterminator in De Soto, KS; exterminator near me (De Soto, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advantage Termite & Pest Control | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Advantage Termite & Pest Control is a pest control company in De Soto, KS at 34105 Commerce Drive, De Soto, KS 66018. Phone: +19137688989. Website: https://advantagetpc.com/. | https://registry-edge.dingalinged.workers.dev/c/advantage-termite-and-pest-control-de-soto/
+1. Advantage Termite & Pest Control | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Advantage Termite & Pest Control is a pest control company in De Soto, KS at 34105 Commerce Drive, De Soto, KS 66018. Phone: +19137688989. Website: https://advantagetpc.com/. | https://registry-edge.dingalinged.workers.dev/c/advantage-termite-and-pest-control-de-soto/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator de soto ks | category: Home services - Pest control | industry benchmark: Home & Home Improvement

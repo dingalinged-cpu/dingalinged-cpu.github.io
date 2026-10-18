@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in McKinney, TX at 7001 South Custer Road #500,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 71% of pilates studios in Dallas–Fort Worth, #2 of 3 pilates studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 71% of pilates studios in Dallas–Fort Worth, #2 of 3 pilates studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

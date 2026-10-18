@@ -13,7 +13,7 @@ Swiss The Greener is a dry cleaner in University Park, TX at 3030 Mockingbird La
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of dry cleaners in Dallas–Fort Worth, #1 of 1 dry cleaners in University Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of dry cleaners in Dallas–Fort Worth, #1 of 1 dry cleaners in University Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

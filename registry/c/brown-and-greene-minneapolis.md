@@ -13,7 +13,7 @@ Brown & Greene is a florist in Minneapolis, MN at 4400 Beard Avenue South, Minne
 - Website: https://www.bgfloral.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-16:00
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 49% of florists in Minneapolis–St. Paul, #8 of 18 florists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 49% of florists in Minneapolis–St. Paul, #8 of 18 florists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

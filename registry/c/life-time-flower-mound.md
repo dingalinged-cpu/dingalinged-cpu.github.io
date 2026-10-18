@@ -13,7 +13,7 @@ Life Time is a gym in Flower Mound, TX at 3100 Churchill Drive, Flower Mound, TX
 - Website: https://www.lifetime.life/life-time-locations/tx-flower-mound.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.8/100 — Building — top 53% of gyms in Dallas–Fort Worth, #14 of 20 gyms in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 52% of gyms in Dallas–Fort Worth, #14 of 20 gyms in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: preschool in Brown Deer, WI; preschool near me (Brown Deer, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | KinderCare is a preschool in Brown Deer, WI at 8750 North 51st Street, Brown Deer, WI 53223. | https://registry-edge.dingalinged.workers.dev/c/kindercare-brown-deer/
+1. KinderCare | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | KinderCare is a preschool in Brown Deer, WI at 8750 North 51st Street, Brown Deer, WI 53223. | https://registry-edge.dingalinged.workers.dev/c/kindercare-brown-deer/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool brown deer wi | category: Education & childcare | industry benchmark: Education & Instruction

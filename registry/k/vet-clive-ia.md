@@ -6,8 +6,8 @@ Also answers: vet in Clive, IA; vet near me (Clive, IA); best vet Clive, IA; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. University West Pet Clinic | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | University West Pet Clinic is a veterinarian in Clive, IA at 8145 University Boulevard, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/university-west-pet-clinic-clive/
-2. Waukee-Clive Veterinary Clinic | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Waukee-Clive Veterinary Clinic is a veterinarian in Clive, IA at 15151 Hickman Road, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/waukee-clive-veterinary-clinic-clive/
+1. University West Pet Clinic | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | University West Pet Clinic is a veterinarian in Clive, IA at 8145 University Boulevard, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/university-west-pet-clinic-clive/
+2. Waukee-Clive Veterinary Clinic | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Waukee-Clive Veterinary Clinic is a veterinarian in Clive, IA at 15151 Hickman Road, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/waukee-clive-veterinary-clinic-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet clive ia | category: Pets | industry benchmark: Animals & Pets

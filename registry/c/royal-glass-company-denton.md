@@ -13,7 +13,7 @@ Royal Glass Company is a window installer in Denton, TX at 9064 Teasley Lane, De
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 78% of window installers in Dallas–Fort Worth, #1 of 1 window installers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 78% of window installers in Dallas–Fort Worth, #1 of 1 window installers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

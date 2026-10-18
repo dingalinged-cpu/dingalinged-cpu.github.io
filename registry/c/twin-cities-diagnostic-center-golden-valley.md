@@ -13,7 +13,7 @@ Twin Cities Diagnostic Center is an IT support company in Golden Valley, MN at 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 84% of IT support companys in Minneapolis–St. Paul, #4 of 4 IT support companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 84% of IT support companys in Minneapolis–St. Paul, #4 of 4 IT support companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

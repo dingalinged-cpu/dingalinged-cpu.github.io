@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Houston, TX at 724-B Kingwood Drive, Houston
 - Website: https://locations.massageenvy.com/tx/kingwood/724-b-kingwood-drive.html
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-18:00; Mo-Fr 08:00-20:00; Sa 08:00-20:00
-- Pulse Score: 45.5/100 — Building — top 86% of massage studios in Houston, #46 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 85% of massage studios in Houston, #46 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

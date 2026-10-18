@@ -13,7 +13,7 @@ Walding Station Event Venue is an event venue in League City, TX at 100 Perkins 
 - Website: https://www.waldingstation.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 24% of event venues in Houston, #1 of 1 event venues in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 24% of event venues in Houston, #1 of 1 event venues in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

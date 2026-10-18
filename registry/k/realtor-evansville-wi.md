@@ -7,9 +7,9 @@ Also answers: realtor in Evansville, WI; realtor near me (Evansville, WI); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Berg | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Berg is a real estate agency in Evansville, WI at 102 East Main Street, Evansville, WI 53536. Phone: +16088820897. | https://registry-edge.dingalinged.workers.dev/c/berg-evansville/
-2. Evansville Realty | Organic #2 | Pulse Score 59.5/100 (Fair, #2 in city) | Evansville Realty is a real estate agency in Evansville, WI. Phone: +16088826200. | https://registry-edge.dingalinged.workers.dev/c/evansville-realty-evansville/
-3. Realty Executives | Organic #3 | Pulse Score 49.4/100 (Building, #3 in city) | Realty Executives is a real estate agency in Evansville, WI at 23 West Main Street, Evansville, WI. Phone: +16082905216. Website: https://katshomesales.com/. | https://registry-edge.dingalinged.workers.dev/c/realty-executives-evansville/
-4. Century 21 | Organic #4 | Pulse Score 47.6/100 (Building, #4 in city) | Century 21 is a real estate agency in Evansville, WI at 7 West Main Street, Evansville, WI 53536. Phone: +16088825216. | https://registry-edge.dingalinged.workers.dev/c/century-21-evansville/
+2. Evansville Realty | Organic #2 | Pulse Score 59.6/100 (Fair, #2 in city) | Evansville Realty is a real estate agency in Evansville, WI. Phone: +16088826200. | https://registry-edge.dingalinged.workers.dev/c/evansville-realty-evansville/
+3. Realty Executives | Organic #3 | Pulse Score 49.5/100 (Building, #3 in city) | Realty Executives is a real estate agency in Evansville, WI at 23 West Main Street, Evansville, WI. Phone: +16082905216. Website: https://katshomesales.com/. | https://registry-edge.dingalinged.workers.dev/c/realty-executives-evansville/
+4. Century 21 | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | Century 21 is a real estate agency in Evansville, WI at 7 West Main Street, Evansville, WI 53536. Phone: +16088825216. | https://registry-edge.dingalinged.workers.dev/c/century-21-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor evansville wi | category: real_estate | industry benchmark: Real Estate

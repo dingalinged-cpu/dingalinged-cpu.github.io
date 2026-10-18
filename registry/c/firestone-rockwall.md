@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Rockwall, TX at 760 East Interstate 30, Rock
 - Website: https://local.firestonecompleteautocare.com/texas/rockwall/760-ih-30-east/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
-- Pulse Score: 49/100 — Building — top 63% of auto repair shops in Dallas–Fort Worth, #9 of 14 auto repair shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 62% of auto repair shops in Dallas–Fort Worth, #8 of 14 auto repair shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

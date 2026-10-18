@@ -7,7 +7,7 @@ Also answers: vet in Roseville, MN; vet near me (Roseville, MN); best vet Rosevi
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Como Park Animal Hospital | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Como Park Animal Hospital is a veterinarian in Roseville, MN at 621 Larpenteur Avenue West, Roseville, MN 55113. Website: https://www.comoparkanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/como-park-animal-hospital-roseville/
-2. Banfield Pet Hospital | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Banfield Pet Hospital is a veterinarian in Roseville, MN at 1136 Larpenteur Avenue West, Roseville, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-roseville/
+2. Banfield Pet Hospital | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Banfield Pet Hospital is a veterinarian in Roseville, MN at 1136 Larpenteur Avenue West, Roseville, MN 55113. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet roseville mn | category: Pets | industry benchmark: Animals & Pets

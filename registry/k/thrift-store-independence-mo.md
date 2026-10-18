@@ -6,8 +6,8 @@ Also answers: thrift store in Independence, MO; thrift store near me (Independen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thrift World | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Thrift World is a thrift store in Independence, MO at 3848 South Noland Road, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/thrift-world-independence/
-2. The Mustard Seed Thrift Shop | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | The Mustard Seed Thrift Shop is a thrift store in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/the-mustard-seed-thrift-shop-independence/
+1. Thrift World | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Thrift World is a thrift store in Independence, MO at 3848 South Noland Road, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/thrift-world-independence/
+2. The Mustard Seed Thrift Shop | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | The Mustard Seed Thrift Shop is a thrift store in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/the-mustard-seed-thrift-shop-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store independence mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Houston Ear, Nose, Throat & Allergy Clinic is an allergist in Houston, TX at 120
 - Website: https://www.houstonent.com/
 - Email: hentweb@houstonent.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 67% of allergists in Houston, #1 of 2 allergists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 67% of allergists in Houston, #1 of 2 allergists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

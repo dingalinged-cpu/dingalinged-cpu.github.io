@@ -13,7 +13,7 @@ Great Cutz Salon is a waxing salon in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH closed
-- Pulse Score: 59.4/100 — Fair — top 21% of waxing salons in Dallas–Fort Worth, #3 of 7 waxing salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 21% of waxing salons in Dallas–Fort Worth, #3 of 7 waxing salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

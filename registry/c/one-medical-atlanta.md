@@ -13,7 +13,7 @@ One Medical is a family medicine practice in Atlanta, GA at 22 14th Street North
 - Website: https://www.onemedical.com/locations/atl/midtown/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 49.4/100 — Building — top 91% of family medicine practices in Atlanta, #4 of 4 family medicine practices in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 91% of family medicine practices in Atlanta, #4 of 4 family medicine practices in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

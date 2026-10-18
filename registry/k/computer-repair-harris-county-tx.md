@@ -6,7 +6,7 @@ Also answers: computer repair in Harris County, TX; computer repair near me (Har
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 51/100 (Fair, #3 in city) | uBreakiFix is a phone repair shop in Harris County, TX at 19250 West Lake Houston Parkway, Harris County, TX 77346. Phone: +12813187763. Website: https://ubreakifix.com/. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-harris-county/
+1. uBreakiFix | Organic #1 | Pulse Score 50.9/100 (Fair, #3 in city) | uBreakiFix is a phone repair shop in Harris County, TX at 19250 West Lake Houston Parkway, Harris County, TX 77346. Phone: +12813187763. Website: https://ubreakifix.com/. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair harris county tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

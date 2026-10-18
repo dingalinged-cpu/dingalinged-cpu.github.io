@@ -13,7 +13,7 @@ Ben Dominguez is a lawyer in Houston, TX at 4899 Montrose Boulevard #1306, Houst
 - Website: https://bendominguez.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 10:00-15:00; Su 08:00-15:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Houston, #26 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Houston, #26 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

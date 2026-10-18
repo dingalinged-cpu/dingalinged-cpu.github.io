@@ -7,7 +7,7 @@ Also answers: facial in Richmond, TX; facial near me (Richmond, TX); best facial
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Art Of Skin | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Art Of Skin is a skin care studio in Richmond, TX at 111 South 3rd Street, Richmond, TX 77469. Website: https://www.theartofskin.co/. | https://registry-edge.dingalinged.workers.dev/c/art-of-skin-richmond/
-2. Ulta Beauty | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Richmond, TX at 5458 West Grand Parkway South, Richmond, TX 77406. Phone: +18325950546. Website: https://www.ulta.com/stores/richmond-tx-567. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-richmond/
+2. Ulta Beauty | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Richmond, TX at 5458 West Grand Parkway South, Richmond, TX 77406. Phone: +18325950546. Website: https://www.ulta.com/stores/richmond-tx-567. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial richmond tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

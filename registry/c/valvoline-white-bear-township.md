@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in White Bear Township, MN at 1008 Meadowlands 
 - Website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 85% of auto repair shops in Minneapolis–St. Paul, #1 of 1 auto repair shops in White Bear Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 84% of auto repair shops in Minneapolis–St. Paul, #1 of 1 auto repair shops in White Bear Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

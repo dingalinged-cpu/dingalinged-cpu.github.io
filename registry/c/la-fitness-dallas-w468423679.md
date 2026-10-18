@@ -13,7 +13,7 @@ LA Fitness is a gym in Dallas, TX at 7211 Skillman Street, Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 83% of gyms in Dallas–Fort Worth, #59 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 83% of gyms in Dallas–Fort Worth, #58 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

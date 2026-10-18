@@ -13,7 +13,7 @@ South Milwaukee Liqour is a liquor store in South Milwaukee, WI at 309 North Chi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 09:00-21:00,Mo-Fr 08:00-21:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of liquor stores in Milwaukee, #1 of 1 liquor stores in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of liquor stores in Milwaukee, #1 of 1 liquor stores in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

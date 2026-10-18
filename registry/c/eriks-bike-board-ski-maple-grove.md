@@ -13,7 +13,7 @@ Erik's Bike Board Ski is a bike shop in Maple Grove, MN. Website: https://www.er
 - Website: https://www.eriksbikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
-- Pulse Score: 45.1/100 — Building — top 97% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 97% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 43.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

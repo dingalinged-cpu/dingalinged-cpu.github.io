@@ -6,7 +6,7 @@ Also answers: storage units in Marshall, WI; storage units near me (Marshall, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marshall Storage | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Marshall Storage is a self-storage facility in Marshall, WI at 615 West Karem Drive, Marshall, WI. Website: https://151storage.com/marshall-wi-storage. | https://registry-edge.dingalinged.workers.dev/c/marshall-storage-marshall/
+1. Marshall Storage | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Marshall Storage is a self-storage facility in Marshall, WI at 615 West Karem Drive, Marshall, WI. Website: https://151storage.com/marshall-wi-storage. | https://registry-edge.dingalinged.workers.dev/c/marshall-storage-marshall/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units marshall wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

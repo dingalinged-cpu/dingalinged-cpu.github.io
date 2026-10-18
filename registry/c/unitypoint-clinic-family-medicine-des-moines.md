@@ -13,7 +13,7 @@ UnityPoint Clinic Family Medicine is a family medicine practice in Des Moines, I
 - Website: https://www.unitypoint.org/locations/unitypoint-clinic-family-medicine---ingersoll
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:15-17:30; Fr 07:15-17:00
-- Pulse Score: 48.7/100 — Building — top 67% of family medicine practices in Des Moines, IA, #1 of 2 family medicine practices in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 67% of family medicine practices in Des Moines, IA, #1 of 2 family medicine practices in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

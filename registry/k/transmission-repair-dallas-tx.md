@@ -6,7 +6,7 @@ Also answers: transmission repair in Dallas, TX; transmission repair near me (Da
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sanchez Transmissions | Organic #1 | Pulse Score 55.9/100 (Unrated, #53 in city) | Sanchez Transmissions is an auto repair shop in Dallas, TX at 10208 Garland Road, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/sanchez-transmissions-dallas/
+1. Sanchez Transmissions | Organic #1 | Pulse Score 55.9/100 (Unrated, #52 in city) | Sanchez Transmissions is an auto repair shop in Dallas, TX at 10208 Garland Road, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/sanchez-transmissions-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

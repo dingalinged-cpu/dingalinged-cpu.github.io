@@ -13,7 +13,7 @@ Marietta Eye Clinic - Johns Creek is an eye care practice in Johns Creek, GA at 
 - Website: https://www.mariettaeye.com/our-locations/johns-creek/
 - Email: info@mariettaeye.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.8/100 — Good — top 14% of eye care practices in Atlanta, #1 of 2 eye care practices in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 14% of eye care practices in Atlanta, #1 of 2 eye care practices in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

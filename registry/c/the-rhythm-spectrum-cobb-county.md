@@ -13,7 +13,7 @@ The Rhythm Spectrum is a music school in Cobb County, GA. Phone: +16787991571. W
 - Website: https://rhythmspec.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Fair — top 44% of music schools in Atlanta, #1 of 1 music schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 44% of music schools in Atlanta, #1 of 1 music schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

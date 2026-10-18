@@ -6,7 +6,7 @@ Also answers: attorney in Saint Louis Park, MN; attorney near me (Saint Louis Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Margolis Law Firm | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Margolis Law Firm is a lawyer in Saint Louis Park, MN at 4901 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522302700. Website: https://margolislawoffice.com/. | https://registry-edge.dingalinged.workers.dev/c/margolis-law-firm-saint-louis-park/
+1. Margolis Law Firm | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Margolis Law Firm is a lawyer in Saint Louis Park, MN at 4901 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522302700. Website: https://margolislawoffice.com/. | https://registry-edge.dingalinged.workers.dev/c/margolis-law-firm-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney saint louis park mn | category: professional_legal | industry benchmark: Attorneys & Legal Services

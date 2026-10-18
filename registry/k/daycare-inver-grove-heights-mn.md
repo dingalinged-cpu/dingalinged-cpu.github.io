@@ -6,7 +6,7 @@ Also answers: daycare in Inver Grove Heights, MN; daycare near me (Inver Grove H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kindercare | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Kindercare is a daycare in Inver Grove Heights, MN at 7841 Amana Trail, Inver Grove Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/kindercare-inver-grove-heights/
+1. Kindercare | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | Kindercare is a daycare in Inver Grove Heights, MN at 7841 Amana Trail, Inver Grove Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/kindercare-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare inver grove heights mn | category: Education & childcare | industry benchmark: Education & Instruction

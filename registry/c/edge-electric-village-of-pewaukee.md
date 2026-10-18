@@ -13,7 +13,7 @@ Edge Electric is an electrician in Village of Pewaukee, WI at 1265 East Wisconsi
 - Website: https://edgeelectricwi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 20% of electricians in Milwaukee, #1 of 1 electricians in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 20% of electricians in Milwaukee, #1 of 1 electricians in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Adara dé Beauté is a nail salon in Milwaukee, WI at 1109 North Doctor Martin L
 - Website: https://adara.glossgenius.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 9% of nail salons in Milwaukee, #6 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of nail salons in Milwaukee, #5 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

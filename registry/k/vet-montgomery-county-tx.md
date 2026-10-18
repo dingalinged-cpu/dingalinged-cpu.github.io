@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Kainer Veterinary Hospital | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Kainer Veterinary Hospital is a veterinarian in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/kainer-veterinary-hospital-montgomery-county/
 3. Lone Star Animal Hospital | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Lone Star Animal Hospital is a veterinarian in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/lone-star-animal-hospital-montgomery-county/
 4. Pet Clinic | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Pet Clinic is a veterinarian in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-clinic-montgomery-county/
-5. Banfield Pet Hospital | Organic #5 | Pulse Score 43.8/100 (Building, #5 in city) | Banfield Pet Hospital is a veterinarian in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-montgomery-county/
+5. Banfield Pet Hospital | Organic #5 | Pulse Score 43.9/100 (Building, #5 in city) | Banfield Pet Hospital is a veterinarian in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet montgomery county tx | category: Pets | industry benchmark: Animals & Pets

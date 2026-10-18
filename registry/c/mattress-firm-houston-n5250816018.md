@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 6561 North Highway 6, Housto
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001019/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 78% of mattress stores in Houston, #24 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 77% of mattress stores in Houston, #24 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

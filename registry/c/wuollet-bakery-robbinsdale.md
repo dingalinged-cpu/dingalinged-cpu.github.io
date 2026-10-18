@@ -13,7 +13,7 @@ Wuollet Bakery is a bakery in Robbinsdale, MN at 4139 West Broadway Avenue, Robb
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 78% of bakerys in Minneapolis–St. Paul, #1 of 1 bakerys in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 73% of bakerys in Minneapolis–St. Paul, #1 of 1 bakerys in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

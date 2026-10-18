@@ -13,7 +13,7 @@ Bankruptcy Law Center is a lawyer in Wauwatosa, WI at 11737 West North Avenue, W
 - Website: https://blcattorney.com/
 - Email: BLCattorney@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 36% of lawyers in Milwaukee, #3 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 36% of lawyers in Milwaukee, #3 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

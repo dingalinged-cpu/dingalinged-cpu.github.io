@@ -1,4 +1,4 @@
-The top unpaid car wash listing for the United States is Take 5 Car Wash (a car wash in Cedar Hill, TX at 204 East Belt Line Road, Cedar Hill, TX 75104). 1364 car wash businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for the United States is Take 5 Car Wash (a car wash in Cedar Hill, TX at 204 East Belt Line Road, Cedar Hill, TX 75104). 2278 car wash businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in the United States?
 
@@ -11,93 +11,125 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Hometown Detailing | Organic #3 | Pulse Score 65.1/100 (Good, #1 in city) | Hometown Detailing is a car wash in Omaha, NE at 2808 South 148th Avenue Circle, Omaha, NE 68144. Phone: +14023205376. Website: https://www.hometowndetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/hometown-detailing-omaha/
 4. Jet Brite Car Wash | Organic #4 | Pulse Score 65.1/100 (Good, #1 in city) | Jet Brite Car Wash is a car wash in Chicago, IL at 7150 West 54th Street, Chicago, IL 60638. Website: https://www.jetbritecarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/jet-brite-car-wash-chicago/
 5. Cactus Car Wash | Organic #5 | Pulse Score 65/100 (Good, #1 in city) | Cactus Car Wash is a car wash in Marietta, GA at 4216 Roswell Road, Marietta, GA 30062. Phone: +16785001492. Website: https://www.cactuscarwashmarietta.com/. | https://registry-edge.dingalinged.workers.dev/c/cactus-car-wash-marietta/
-6. Metro Hand Car Wash & Detailing Centre | Organic #6 | Pulse Score 64.7/100 (Good, #1 in city) | Metro Hand Car Wash & Detailing Centre is a car wash in Milwaukee, WI at 1510 North Van Buren Street, Milwaukee, WI 53202. Phone: +14142233100. Website: https://metrocarwashanddetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-hand-car-wash-and-detailing-centre-milwaukee/
-7. Blue Penguin Car Wash | Organic #7 | Pulse Score 64.5/100 (Good, #2 in city) | Blue Penguin Car Wash is a car wash in Marietta, GA at 2204 Roswell Road, Marietta, GA 30062. Phone: +17706264708. Website: https://bluepenguincarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-penguin-car-wash-marietta/
-8. Fast Trac Car Wash | Organic #8 | Pulse Score 64.4/100 (Good, #1 in city) | Fast Trac Car Wash is a car wash in Cobb County, GA at 2870 Delk Road Southeast, Cobb County, GA. Phone: +16782309942. Website: https://www.ftcarwash.com/location-marietta/. | https://registry-edge.dingalinged.workers.dev/c/fast-trac-car-wash-cobb-county/
-9. Dirty Dog's Car Wash | Organic #9 | Pulse Score 64.3/100 (Good, #1 in city) | Dirty Dog's Car Wash is a car wash in Kennesaw, GA at 1585 Crater Lake Drive, Kennesaw, GA. Phone: +16785151690. Website: https://dirtydogscarwash.com/kennesaw-ga/. | https://registry-edge.dingalinged.workers.dev/c/dirty-dogs-car-wash-kennesaw/
-10. Hernandez Hand Car Wash | Organic #10 | Pulse Score 64.1/100 (Good, #2 in city) | Hernandez Hand Car Wash is a car wash in Cobb County, GA at 4780 Alabama Road, Cobb County, GA. Phone: +14049808553. Website: https://www.hernandezhandcarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/hernandez-hand-car-wash-cobb-county/
-11. Whitecap Car Wash | Organic #11 | Pulse Score 64.1/100 (Good, #3 in city) | Whitecap Car Wash is a car wash in Cobb County, GA at 2811 Chastain Meadows Parkway Northwest, Cobb County, GA. Phone: +18776751595. Website: https://whitecapcarwash.com/locations/mariettaga/. | https://registry-edge.dingalinged.workers.dev/c/whitecap-car-wash-cobb-county/
-12. Washen | Organic #12 | Pulse Score 64.1/100 (Unrated, #1 in city) | Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/. | https://registry-edge.dingalinged.workers.dev/c/washen-orland-park/
-13. Swifty Car Wash | Organic #13 | Pulse Score 64/100 (Good, #4 in city) | Swifty Car Wash is a car wash in Cobb County, GA at 4280 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17702851422. Website: https://swiftycarwash.com/locations/bells-ferry/. | https://registry-edge.dingalinged.workers.dev/c/swifty-car-wash-cobb-county/
-14. National Pride Car Wash | Organic #14 | Pulse Score 64/100 (Good, #2 in city) | National Pride Car Wash is a car wash in Chicago, IL at 2637 East 100th Street, Chicago, IL 60617. | https://registry-edge.dingalinged.workers.dev/c/national-pride-car-wash-chicago/
-15. Lotus Hand Car Wash And Detail | Organic #15 | Pulse Score 64/100 (Unrated, #1 in city) | Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046. | https://registry-edge.dingalinged.workers.dev/c/lotus-hand-car-wash-and-detail-arlington-heights/
-16. Auto Spa of NWI LLC | Organic #16 | Pulse Score 64/100 (Unrated, #1 in city) | Auto Spa of NWI LLC is a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245. | https://registry-edge.dingalinged.workers.dev/c/auto-spa-of-nwi-llc-gary/
-17. BlueWave Express Car Wash | Organic #17 | Pulse Score 64/100 (Unrated, #1 in city) | BlueWave Express Car Wash is a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/. | https://registry-edge.dingalinged.workers.dev/c/bluewave-express-car-wash-missouri-city/
-18. Central Car Wash | Organic #18 | Pulse Score 64/100 (Unrated, #1 in city) | Central Car Wash is a car wash in Minneapolis, MN at 1814 Central Avenue Northeast, Minneapolis, MN 55418. Phone: +16127816924. Website: https://centralcarwash.net/. | https://registry-edge.dingalinged.workers.dev/c/central-car-wash-minneapolis/
-19. Landshark Car Wash | Organic #19 | Pulse Score 63.9/100 (Good, #5 in city) | Landshark Car Wash is a car wash in Cobb County, GA at 145 Barrett Parkway, Cobb County, GA. Phone: +16789034935. Website: https://landsharkwash.com/. | https://registry-edge.dingalinged.workers.dev/c/landshark-car-wash-cobb-county/
-20. National Car Wash | Organic #20 | Pulse Score 63.9/100 (Good, #3 in city) | National Car Wash is a car wash in Chicago, IL at 4900 North Broadway, Chicago, IL 60640. | https://registry-edge.dingalinged.workers.dev/c/national-car-wash-chicago/
-21. North Shore's Finest Auto Detailing | Organic #21 | Pulse Score 63.8/100 (Unrated, #1 in city) | North Shore's Finest Auto Detailing is a car wash in Bayside, WI at 310 East Brown Deer Road, Bayside, WI 53217. Phone: +14147040816. Website: https://www.northshoresfinestautodetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/north-shores-finest-auto-detailing-bayside/
-22. Pop's Detail And Shine | Organic #22 | Pulse Score 63.5/100 (Good, #6 in city) | Pop's Detail And Shine is a car wash in Cobb County, GA at 2690 Sandy Plains Road Northeast, Cobb County, GA. Phone: +14707767964. Website: https://pops-detail-and-shine.business.site/. | https://registry-edge.dingalinged.workers.dev/c/pops-detail-and-shine-cobb-county/
-23. Choice Carwash | Organic #23 | Pulse Score 63.4/100 (Good, #3 in city) | Choice Carwash is a car wash in Marietta, GA at 1813 Addison Road Northeast, Marietta, GA. Phone: +14047919601. | https://registry-edge.dingalinged.workers.dev/c/choice-carwash-marietta/
-24. Bauman Road Car Wash | Organic #24 | Pulse Score 63.4/100 (Good, #2 in city) | Bauman Road Car Wash is a car wash in Houston, TX at 10203 Bauman Road, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/bauman-road-car-wash-houston/
-25. Carisma Car Wash | Organic #25 | Pulse Score 63.3/100 (Unrated, #3 in city) | Carisma Car Wash is a car wash in Houston, TX at 505 North Loop West, Houston, TX. Website: https://carismawash.com/. | https://registry-edge.dingalinged.workers.dev/c/carisma-car-wash-houston/
-26. Tsunami Express | Organic #26 | Pulse Score 63.3/100 (Unrated, #1 in city) | Tsunami Express is a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/tsunami-express-oak-creek/
-27. Big Peach Car Wash | Organic #27 | Pulse Score 63.2/100 (Good, #2 in city) | Big Peach Car Wash is a car wash in Kennesaw, GA at 3594 Cherokee Street Northwest, Kennesaw, GA. Phone: +17705333558. Website: https://www.bigpeachusa.com/. | https://registry-edge.dingalinged.workers.dev/c/big-peach-car-wash-kennesaw/
-28. Super Wash | Organic #28 | Pulse Score 63.2/100 (Unrated, #1 in city) | Super Wash is a car wash in Ankeny, IA at 2310 West 1st Street, Ankeny, IA 50023. Website: https://www.superwash.com/. | https://registry-edge.dingalinged.workers.dev/c/super-wash-ankeny/
-29. Tsunami Car Wash | Organic #29 | Pulse Score 63.1/100 (Unrated, #1 in city) | Tsunami Car Wash is a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/. | https://registry-edge.dingalinged.workers.dev/c/tsunami-car-wash-roseville/
-30. Calumet City Car Wash | Organic #30 | Pulse Score 63.1/100 (Unrated, #1 in city) | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/calumet-city-car-wash-calumet-city/
-31. Fort Crook Car Wash | Organic #31 | Pulse Score 63/100 (Unrated, #1 in city) | Fort Crook Car Wash is a car wash in Bellevue, NE. Phone: +14027311311. Website: https://www.russellspeeders.com/prices_fcrook.html. | https://registry-edge.dingalinged.workers.dev/c/fort-crook-car-wash-bellevue/
-32. Auto Splish Splash | Organic #32 | Pulse Score 63/100 (Unrated, #1 in city) | Auto Splish Splash is a car wash in Frisco, TX at 8300 Farm-to-Market Road 423, Frisco, TX 75034. Phone: +12146185858. Website: https://autosplishsplash.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-splish-splash-frisco/
-33. Spotfree Car Wash | Organic #33 | Pulse Score 63/100 (Unrated, #1 in city) | Spotfree Car Wash is a car wash in Des Moines, IA at 3104 Indianola Avenue, Des Moines, IA 50315. Phone: +15152550110. Website: https://www.spotfreecarwash.com/spotfree-car-wash-indianola-ave-location/. | https://registry-edge.dingalinged.workers.dev/c/spotfree-car-wash-des-moines/
-34. Clean-n-fresh | Organic #34 | Pulse Score 62.9/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-n-fresh-lewisville/
-35. 53 Touch-Free Car Wash | Organic #35 | Pulse Score 62.9/100 (Unrated, #1 in city) | 53 Touch-Free Car Wash is a car wash in Lisle, IL at 5508 Lincoln Ave, Lisle, IL 60532. Phone: +16308520053. Website: https://www.53touchfree.com/. | https://registry-edge.dingalinged.workers.dev/c/53-touch-free-car-wash-lisle/
-36. Jonathan's Han Car Wash & Auto Detail | Organic #36 | Pulse Score 62.8/100 (Good, #7 in city) | Jonathan's Han Car Wash & Auto Detail is a car wash in Cobb County, GA at 3190 Canton Road, Cobb County, GA. Phone: +14703852146. | https://registry-edge.dingalinged.workers.dev/c/jonathans-han-car-wash-and-auto-detail-cobb-county/
-37. Spirit of America Carwash | Organic #37 | Pulse Score 62.8/100 (Unrated, #1 in city) | Spirit of America Carwash is a car wash in Naperville, IL at 659 East Ogden Avenue, Naperville, IL 60563. | https://registry-edge.dingalinged.workers.dev/c/spirit-of-america-carwash-naperville/
-38. Wauconda Car Wash & Detail Center | Organic #38 | Pulse Score 62.8/100 (Unrated, #1 in city) | Wauconda Car Wash & Detail Center is a car wash in Wauconda, IL. Phone: +18475260259. Website: https://www.waucondacarcare.com/car-wash. | https://registry-edge.dingalinged.workers.dev/c/wauconda-car-wash-and-detail-center-wauconda/
-39. Car Wash - RV & Equipment | Organic #39 | Pulse Score 62.7/100 (Good, #4 in city) | Car Wash - RV & Equipment is a car wash in Marietta, GA at 1054 Shallowford Road Northeast, Marietta, GA 30066. | https://registry-edge.dingalinged.workers.dev/c/car-wash-rv-and-equipment-marietta/
-40. Wash Me | Organic #40 | Pulse Score 62.7/100 (Unrated, #2 in city) | Wash Me is a car wash in Minneapolis, MN at 4159 Hiawatha Avenue, Minneapolis, MN 55406. Website: https://www.washme.net/. | https://registry-edge.dingalinged.workers.dev/c/wash-me-minneapolis/
-41. Wash Me | Organic #41 | Pulse Score 62.7/100 (Unrated, #3 in city) | Wash Me is a car wash in Minneapolis, MN at 3957 Nicollet Avenue, Minneapolis, MN 55409. Website: https://www.washme.net/. | https://registry-edge.dingalinged.workers.dev/c/wash-me-minneapolis-w333201603/
-42. Wash n chill | Organic #42 | Pulse Score 62.7/100 (Unrated, #4 in city) | Wash n chill is a car wash in Houston, TX at Westheimer Road, Houston, TX 77063. Phone: +18327774392. Website: https://www.washchill.com/. | https://registry-edge.dingalinged.workers.dev/c/wash-n-chill-houston/
-43. Crew Carwash | Organic #43 | Pulse Score 62.7/100 (Unrated, #1 in city) | Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/. | https://registry-edge.dingalinged.workers.dev/c/crew-carwash-eden-prairie/
-44. Silverstar Car Wash | Organic #44 | Pulse Score 62.7/100 (Unrated, #1 in city) | Silverstar Car Wash is a car wash in Coon Rapids, MN at 2085 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17048700250. Website: https://www.silverstarcarwashes.com/locations/coon-rapids/mn/coon-creek/. | https://registry-edge.dingalinged.workers.dev/c/silverstar-car-wash-coon-rapids/
-45. Finesse Detailing | Organic #45 | Pulse Score 62.7/100 (Unrated, #1 in city) | Finesse Detailing is a car wash in Denton, TX. Phone: +14697760000. Website: https://fdetail.com/denton/. | https://registry-edge.dingalinged.workers.dev/c/finesse-detailing-denton/
-46. Brightside Car Wash | Organic #46 | Pulse Score 62.6/100 (Unrated, #2 in city) | Brightside Car Wash is a car wash in Naperville, IL at 1095 East 75th Street, Naperville, IL 60565. Phone: +16308573620. Website: https://www.brightsidecarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/brightside-car-wash-naperville/
-47. Midway Express Car Wash | Organic #47 | Pulse Score 62.6/100 (Unrated, #1 in city) | Midway Express Car Wash is a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/. | https://registry-edge.dingalinged.workers.dev/c/midway-express-car-wash-saint-paul/
-48. Self Car Wash | Organic #48 | Pulse Score 62.5/100 (Good, #5 in city) | Self Car Wash is a car wash in Marietta, GA at 1590 Roswell Road, Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/self-car-wash-marietta/
-49. Big Dan's Car Wash | Organic #49 | Pulse Score 62.5/100 (Unrated, #3 in city) | Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/big-dans-car-wash-kennesaw/
-50. Cowboy Express Car Wash | Organic #50 | Pulse Score 62.5/100 (Unrated, #1 in city) | Cowboy Express Car Wash is a car wash in Keller, TX at 1655 Keller Parkway, Keller, TX. Phone: +18172104110. Website: https://cowboycw.com/. | https://registry-edge.dingalinged.workers.dev/c/cowboy-express-car-wash-keller/
+6. Zips Car Wash | Organic #6 | Pulse Score 64.9/100 (Good, #1 in city) | Zips Car Wash is a car wash in Ellisville, MO at 15552 Manchester Road, Ellisville, MO 63011. | https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-ellisville/
+7. Eagle Auto Wash & Detailing Salon | Organic #7 | Pulse Score 64.7/100 (Good, #1 in city) | Eagle Auto Wash & Detailing Salon is a car wash in Topeka, KS at 2110 Southwest Chelsea Drive, Topeka, KS 66614. Phone: +17852722886. Website: https://www.eagleautowash.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-auto-wash-and-detailing-salon-topeka/
+8. Metro Hand Car Wash & Detailing Centre | Organic #8 | Pulse Score 64.7/100 (Good, #1 in city) | Metro Hand Car Wash & Detailing Centre is a car wash in Milwaukee, WI at 1510 North Van Buren Street, Milwaukee, WI 53202. Phone: +14142233100. Website: https://metrocarwashanddetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-hand-car-wash-and-detailing-centre-milwaukee/
+9. Blue Penguin Car Wash | Organic #9 | Pulse Score 64.5/100 (Good, #2 in city) | Blue Penguin Car Wash is a car wash in Marietta, GA at 2204 Roswell Road, Marietta, GA 30062. Phone: +17706264708. Website: https://bluepenguincarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-penguin-car-wash-marietta/
+10. Fast Trac Car Wash | Organic #10 | Pulse Score 64.4/100 (Good, #1 in city) | Fast Trac Car Wash is a car wash in Cobb County, GA at 2870 Delk Road Southeast, Cobb County, GA. Phone: +16782309942. Website: https://www.ftcarwash.com/location-marietta/. | https://registry-edge.dingalinged.workers.dev/c/fast-trac-car-wash-cobb-county/
+11. Splish Splash Express | Organic #11 | Pulse Score 64.4/100 (Good, #1 in city) | Splish Splash Express is a car wash in Belleville, IL at 23 South 59th Street, Belleville, IL 62223. Phone: +16183186728. Website: https://www.facebook.com/people/Splish-Splash-Car-Wash-59th-St/100063918554255/. | https://registry-edge.dingalinged.workers.dev/c/splish-splash-express-belleville/
+12. Dirty Dog's Car Wash | Organic #12 | Pulse Score 64.3/100 (Good, #1 in city) | Dirty Dog's Car Wash is a car wash in Kennesaw, GA at 1585 Crater Lake Drive, Kennesaw, GA. Phone: +16785151690. Website: https://dirtydogscarwash.com/kennesaw-ga/. | https://registry-edge.dingalinged.workers.dev/c/dirty-dogs-car-wash-kennesaw/
+13. Hernandez Hand Car Wash | Organic #13 | Pulse Score 64.1/100 (Good, #2 in city) | Hernandez Hand Car Wash is a car wash in Cobb County, GA at 4780 Alabama Road, Cobb County, GA. Phone: +14049808553. Website: https://www.hernandezhandcarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/hernandez-hand-car-wash-cobb-county/
+14. Whitecap Car Wash | Organic #14 | Pulse Score 64.1/100 (Good, #3 in city) | Whitecap Car Wash is a car wash in Cobb County, GA at 2811 Chastain Meadows Parkway Northwest, Cobb County, GA. Phone: +18776751595. Website: https://whitecapcarwash.com/locations/mariettaga/. | https://registry-edge.dingalinged.workers.dev/c/whitecap-car-wash-cobb-county/
+15. Washen | Organic #15 | Pulse Score 64.1/100 (Unrated, #1 in city) | Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/. | https://registry-edge.dingalinged.workers.dev/c/washen-orland-park/
+16. Swifty Car Wash | Organic #16 | Pulse Score 64/100 (Good, #4 in city) | Swifty Car Wash is a car wash in Cobb County, GA at 4280 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17702851422. Website: https://swiftycarwash.com/locations/bells-ferry/. | https://registry-edge.dingalinged.workers.dev/c/swifty-car-wash-cobb-county/
+17. National Pride Car Wash | Organic #17 | Pulse Score 64/100 (Good, #2 in city) | National Pride Car Wash is a car wash in Chicago, IL at 2637 East 100th Street, Chicago, IL 60617. | https://registry-edge.dingalinged.workers.dev/c/national-pride-car-wash-chicago/
+18. Lotus Hand Car Wash And Detail | Organic #18 | Pulse Score 64/100 (Unrated, #1 in city) | Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046. | https://registry-edge.dingalinged.workers.dev/c/lotus-hand-car-wash-and-detail-arlington-heights/
+19. Auto Spa of NWI LLC | Organic #19 | Pulse Score 64/100 (Unrated, #1 in city) | Auto Spa of NWI LLC is a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245. | https://registry-edge.dingalinged.workers.dev/c/auto-spa-of-nwi-llc-gary/
+20. BlueWave Express Car Wash | Organic #20 | Pulse Score 64/100 (Unrated, #1 in city) | BlueWave Express Car Wash is a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/. | https://registry-edge.dingalinged.workers.dev/c/bluewave-express-car-wash-missouri-city/
+21. Central Car Wash | Organic #21 | Pulse Score 64/100 (Unrated, #1 in city) | Central Car Wash is a car wash in Minneapolis, MN at 1814 Central Avenue Northeast, Minneapolis, MN 55418. Phone: +16127816924. Website: https://centralcarwash.net/. | https://registry-edge.dingalinged.workers.dev/c/central-car-wash-minneapolis/
+22. CleanHub Car Wash | Organic #22 | Pulse Score 64/100 (Unrated, #1 in city) | CleanHub Car Wash is a car wash in Sterling Heights, MI at 34180 Van Dyke Avenue, Sterling Heights, MI 48312. Phone: +15869839989. Website: https://cleanhubcarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/cleanhub-car-wash-sterling-heights/
+23. Landshark Car Wash | Organic #23 | Pulse Score 63.9/100 (Good, #5 in city) | Landshark Car Wash is a car wash in Cobb County, GA at 145 Barrett Parkway, Cobb County, GA. Phone: +16789034935. Website: https://landsharkwash.com/. | https://registry-edge.dingalinged.workers.dev/c/landshark-car-wash-cobb-county/
+24. National Car Wash | Organic #24 | Pulse Score 63.9/100 (Good, #3 in city) | National Car Wash is a car wash in Chicago, IL at 4900 North Broadway, Chicago, IL 60640. | https://registry-edge.dingalinged.workers.dev/c/national-car-wash-chicago/
+25. North Shore's Finest Auto Detailing | Organic #25 | Pulse Score 63.8/100 (Unrated, #1 in city) | North Shore's Finest Auto Detailing is a car wash in Bayside, WI at 310 East Brown Deer Road, Bayside, WI 53217. Phone: +14147040816. Website: https://www.northshoresfinestautodetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/north-shores-finest-auto-detailing-bayside/
+26. Hometown Wash | Organic #26 | Pulse Score 63.8/100 (Unrated, #1 in city) | Hometown Wash is a car wash in Northville, MI at 470 East Main Street, Northville, MI 48167. Phone: +12483190047. Website: https://hometownwashmi.com/northville. | https://registry-edge.dingalinged.workers.dev/c/hometown-wash-northville/
+27. Waterway Express | Organic #27 | Pulse Score 63.7/100 (Unrated, #1 in city) | Waterway Express is a car wash in Saint Louis, MO at 2269 South Kingshighway Boulevard, Saint Louis, MO 63110. Phone: +13147626516. Website: https://www.waterwayexpresscarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/waterway-express-saint-louis/
+28. GreenWay Auto Wash | Organic #28 | Pulse Score 63.7/100 (Unrated, #1 in city) | GreenWay Auto Wash is a car wash in Utica, MI at 8230 Hall Road, Utica, MI 48317. Phone: +15865802762. Website: https://www.greenwayautowash.com/. | https://registry-edge.dingalinged.workers.dev/c/greenway-auto-wash-utica/
+29. Mobile King Detailing | Organic #29 | Pulse Score 63.7/100 (Unrated, #2 in city) | Mobile King Detailing is a car wash in Sterling Heights, MI at 33187 Glengary Drive, Sterling Heights, MI 48310. Phone: +15862757628. Website: https://www.mobilekingdetailing.com/. | https://registry-edge.dingalinged.workers.dev/c/mobile-king-detailing-sterling-heights/
+30. Pop's Detail And Shine | Organic #30 | Pulse Score 63.5/100 (Good, #6 in city) | Pop's Detail And Shine is a car wash in Cobb County, GA at 2690 Sandy Plains Road Northeast, Cobb County, GA. Phone: +14707767964. Website: https://pops-detail-and-shine.business.site/. | https://registry-edge.dingalinged.workers.dev/c/pops-detail-and-shine-cobb-county/
+31. Whip Appeal | Organic #31 | Pulse Score 63.5/100 (Unrated, #1 in city) | Whip Appeal is a car wash in Pittsburgh, PA at 1927 McCague Street, Pittsburgh, PA 15218. Phone: +14124011536. | https://registry-edge.dingalinged.workers.dev/c/whip-appeal-pittsburgh/
+32. Choice Carwash | Organic #32 | Pulse Score 63.4/100 (Good, #3 in city) | Choice Carwash is a car wash in Marietta, GA at 1813 Addison Road Northeast, Marietta, GA. Phone: +14047919601. | https://registry-edge.dingalinged.workers.dev/c/choice-carwash-marietta/
+33. Bauman Road Car Wash | Organic #33 | Pulse Score 63.3/100 (Good, #2 in city) | Bauman Road Car Wash is a car wash in Houston, TX at 10203 Bauman Road, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/bauman-road-car-wash-houston/
+34. A&T Car Wash | Organic #34 | Pulse Score 63.3/100 (Unrated, #1 in city) | A&T Car Wash is a car wash in Southgate, MI at 14985 Dix-Toledo Highway, Southgate, MI 48195. | https://registry-edge.dingalinged.workers.dev/c/a-and-t-car-wash-southgate/
+35. Carwash Express by Autowash | Organic #35 | Pulse Score 63.3/100 (Unrated, #1 in city) | Carwash Express by Autowash is a car wash in Lakewood, CO at 1398 South Wadsworth Boulevard, Lakewood, CO 80232. Phone: +13039279061. Website: https://www.autowashco.com/express. | https://registry-edge.dingalinged.workers.dev/c/carwash-express-by-autowash-lakewood/
+36. Tsunami Express | Organic #36 | Pulse Score 63.3/100 (Unrated, #1 in city) | Tsunami Express is a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/. | https://registry-edge.dingalinged.workers.dev/c/tsunami-express-oak-creek/
+37. Big Peach Car Wash | Organic #37 | Pulse Score 63.2/100 (Good, #2 in city) | Big Peach Car Wash is a car wash in Kennesaw, GA at 3594 Cherokee Street Northwest, Kennesaw, GA. Phone: +17705333558. Website: https://www.bigpeachusa.com/. | https://registry-edge.dingalinged.workers.dev/c/big-peach-car-wash-kennesaw/
+38. Carisma Car Wash | Organic #38 | Pulse Score 63.2/100 (Unrated, #3 in city) | Carisma Car Wash is a car wash in Houston, TX at 505 North Loop West, Houston, TX. Website: https://carismawash.com/. | https://registry-edge.dingalinged.workers.dev/c/carisma-car-wash-houston/
+39. Utica Auto Spa | Organic #39 | Pulse Score 63.2/100 (Unrated, #2 in city) | Utica Auto Spa is a car wash in Utica, MI at 45141 Van Dyke Avenue, Utica, MI 48317. Phone: +15865802297. | https://registry-edge.dingalinged.workers.dev/c/utica-auto-spa-utica/
+40. Tsunami Car Wash | Organic #40 | Pulse Score 63.1/100 (Unrated, #1 in city) | Tsunami Car Wash is a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/. | https://registry-edge.dingalinged.workers.dev/c/tsunami-car-wash-roseville/
+41. Calumet City Car Wash | Organic #41 | Pulse Score 63.1/100 (Unrated, #1 in city) | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/calumet-city-car-wash-calumet-city/
+42. Fort Crook Car Wash | Organic #42 | Pulse Score 63/100 (Unrated, #1 in city) | Fort Crook Car Wash is a car wash in Bellevue, NE. Phone: +14027311311. Website: https://www.russellspeeders.com/prices_fcrook.html. | https://registry-edge.dingalinged.workers.dev/c/fort-crook-car-wash-bellevue/
+43. Auto Splish Splash | Organic #43 | Pulse Score 63/100 (Unrated, #1 in city) | Auto Splish Splash is a car wash in Frisco, TX at 8300 Farm-to-Market Road 423, Frisco, TX 75034. Phone: +12146185858. Website: https://autosplishsplash.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-splish-splash-frisco/
+44. County Fair Car Wash | Organic #44 | Pulse Score 63/100 (Unrated, #1 in city) | County Fair Car Wash is a car wash in Pataskala, OH at 732 Corylus Drive Southwest, Pataskala, OH 43062. Phone: +17409271144. Website: https://countyfaircarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/county-fair-car-wash-pataskala/
+45. Flying Ace Express Car Wash | Organic #45 | Pulse Score 63/100 (Unrated, #1 in city) | Flying Ace Express Car Wash is a car wash in Mason, OH at 5810 Tylersville Road, Mason, OH 45040. Phone: +15135819250. Website: https://flyingacecarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/flying-ace-express-car-wash-mason/
+46. Spotfree Car Wash | Organic #46 | Pulse Score 63/100 (Unrated, #1 in city) | Spotfree Car Wash is a car wash in Des Moines, IA at 3104 Indianola Avenue, Des Moines, IA 50315. Phone: +15152550110. Website: https://www.spotfreecarwash.com/spotfree-car-wash-indianola-ave-location/. | https://registry-edge.dingalinged.workers.dev/c/spotfree-car-wash-des-moines/
+47. Clean-n-fresh | Organic #47 | Pulse Score 62.9/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-n-fresh-lewisville/
+48. Coach Lite Car Wash | Organic #48 | Pulse Score 62.9/100 (Unrated, #1 in city) | Coach Lite Car Wash is a car wash in Valley Center, KS at 130 South Abilene Avenue, Valley Center, KS 67147. Phone: +16209832646. | https://registry-edge.dingalinged.workers.dev/c/coach-lite-car-wash-valley-center/
+49. Quality Auto Wash | Organic #49 | Pulse Score 62.9/100 (Unrated, #1 in city) | Quality Auto Wash is a car wash in Arnold, MO at 1545 Big Bill Road, Arnold, MO 63010. Phone: +16366921200. | https://registry-edge.dingalinged.workers.dev/c/quality-auto-wash-arnold/
+50. 53 Touch-Free Car Wash | Organic #50 | Pulse Score 62.9/100 (Unrated, #1 in city) | 53 Touch-Free Car Wash is a car wash in Lisle, IL at 5508 Lincoln Ave, Lisle, IL 60532. Phone: +16308520053. Website: https://www.53touchfree.com/. | https://registry-edge.dingalinged.workers.dev/c/53-touch-free-car-wash-lisle/
 
-## More car wash listings (1364 total; top 50 unpaid shown)
+## More car wash listings (2278 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/car-wash.jsonl
 - Chicago, IL: 75 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-il/
 - Houston, TX: 68 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-houston-tx/
 - Harris County, TX: 49 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-harris-county-tx/
+- Aurora, CO: 44 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-aurora-co/
+- Columbus, OH: 35 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-columbus-oh/
 - Dallas, TX: 27 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dallas-tx/
+- Detroit, MI: 27 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-detroit-mi/
+- Lakewood, CO: 23 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lakewood-co/
 - Milwaukee, WI: 23 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-milwaukee-wi/
 - Cobb County, GA: 21 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cobb-county-ga/
 - Omaha, NE: 21 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-omaha-ne/
-- Kansas City, MO: 17 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kansas-city-mo/
+- Cincinnati, OH: 18 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cincinnati-oh/
+- Kansas City, MO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kansas-city-mo/
 - Mckinney, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mckinney-tx/
 - Denton, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-denton-tx/
 - Marietta, GA: 15 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-marietta-ga/
+- Springfield, MO: 15 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-springfield-mo/
+- Indianapolis, IN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-indianapolis-in/
 - Madison, WI: 14 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-madison-wi/
 - Atlanta, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-atlanta-ga/
+- Parker, CO: 13 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-parker-co/
 - Des Moines, IA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-des-moines-ia/
+- Overland Park, KS: 13 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-overland-park-ks/
 - Plano, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-plano-tx/
 - Mesquite, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mesquite-tx/
+- Sterling Heights, MI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sterling-heights-mi/
 - Naperville, IL: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-naperville-il/
 - Council Bluffs, IA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-council-bluffs-ia/
-- Overland Park, KS: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-overland-park-ks/
+- Columbia, MO: 12 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-columbia-mo/
+- Thornton, CO: 11 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-thornton-co/
+- Saint Louis County, MO: 11 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-louis-county-mo/
 - Bellevue, NE: 11 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bellevue-ne/
+- Southgate, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-southgate-mi/
+- Douglas County, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-douglas-county-co/
+- Centennial, CO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-centennial-co/
 - Urbandale, IA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-urbandale-ia/
 - Lewisville, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lewisville-tx/
 - Carrollton, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-carrollton-tx/
+- Westminster, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-westminster-co/
+- Littleton, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-littleton-co/
+- Castle Rock, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-castle-rock-co/
 - West Des Moines, IA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-des-moines-ia/
 - Gary, IN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-gary-in/
+- Saint Peters, MO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-peters-mo/
+- Manhattan, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-manhattan-ks/
+- Wichita, KS: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wichita-ks/
 - Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-paul-mn/
 - Frisco, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-frisco-tx/
 - Arlington, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-arlington-tx/
 - Katy, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-katy-tx/
+- Pittsburgh, PA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pittsburgh-pa/
 - Gwinnett County, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-gwinnett-county-ga/
+- Lincoln Park, MI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lincoln-park-mi/
 - Ankeny, IA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ankeny-ia/
+- Saint Joseph, MO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-joseph-mo/
+- Blue Springs, MO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
 - Oak Creek, WI: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-creek-wi/
+- Lawrence, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lawrence-ks/
 - Kennesaw, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kennesaw-ga/
+- Waterford Township, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-waterford-township-mi/
 - Mokena, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mokena-il/
 - Homer Glen, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-homer-glen-il/
 - Lombard, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lombard-il/
-- Blue Springs, MO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
+- Jefferson County, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-jefferson-county-co/
+- Brighton, CO: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-brighton-co/
 - Minneapolis, MN: 7 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-minneapolis-mn/
+- Cranberry Township, PA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cranberry-township-pa/
 - Des Plaines, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-des-plaines-il/
+- Arvada, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-arvada-co/
+- Union Township, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-union-township-oh/
+- Independence, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-independence-mo/
 - Racine, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-racine-wi/
 - Kansas City, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kansas-city-ks/
 - Shawnee, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shawnee-ks/
@@ -109,19 +141,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waxahachie, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-waxahachie-tx/
 - Euless, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-euless-tx/
 - Montgomery County, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-montgomery-county-tx/
+- Rostraver Township, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-rostraver-township-pa/
 - Roswell, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-roswell-ga/
+- Troy, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-troy-mi/
+- Wyandotte, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wyandotte-mi/
+- Westland, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-westland-mi/
 - Niles, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-niles-il/
 - Arlington Heights, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-arlington-heights-il/
 - Glenview, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-glenview-il/
 - Skokie, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-skokie-il/
+- Collinsville, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-collinsville-il/
 - New Lenox, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-new-lenox-il/
 - Oak Lawn, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-lawn-il/
 - Bolingbrook, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bolingbrook-il/
 - Buffalo Grove, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-buffalo-grove-il/
+- Boulder, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-boulder-co/
+- Commerce City, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-commerce-city-co/
 - Grimes, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-grimes-ia/
-- Independence, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-independence-mo/
+- Florence, KY: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-florence-ky/
+- West Chester Township, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-chester-township-oh/
+- Noblesville, IN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-noblesville-in/
 - Mount Pleasant, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-pleasant-wi/
 - Lenexa, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lenexa-ks/
+- Topeka, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-topeka-ks/
 - Chanhassen, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chanhassen-mn/
 - Eden Prairie, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-eden-prairie-mn/
 - Eagan, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-eagan-mn/
@@ -132,7 +174,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Conroe, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-conroe-tx/
 - Flower Mound, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-flower-mound-tx/
 - Garland, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-garland-tx/
+- Ross Township, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ross-township-pa/
 - Smyrna, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-smyrna-ga/
+- Southfield, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-southfield-mi/
+- Utica, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-utica-mi/
+- Woodhaven, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-woodhaven-mi/
+- Commerce Charter Township, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-commerce-charter-township-mi/
+- Royal Oak, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-royal-oak-mi/
 - Romeoville, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-romeoville-il/
 - Evanston, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-evanston-il/
 - Cicero, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cicero-il/
@@ -148,11 +196,24 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Hoffman Estates, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hoffman-estates-il/
 - Morton Grove, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-morton-grove-il/
 - Highland Park, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-highland-park-il/
+- Golden, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-golden-co/
+- Lafayette, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lafayette-co/
+- Federal Heights, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-federal-heights-co/
+- Wheat Ridge, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wheat-ridge-co/
+- Firestone, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-firestone-co/
 - Altoona, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-altoona-ia/
 - Clive, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-clive-ia/
+- Erlanger, KY: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-erlanger-ky/
+- Deerfield Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-deerfield-township-oh/
+- Springfield Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-springfield-township-oh/
+- Orange Township, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-orange-township-oh/
+- Reynoldsburg, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-reynoldsburg-oh/
+- Grove City, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-grove-city-oh/
 - Dyer, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dyer-in/
 - Munster, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-munster-in/
+- Overland, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-overland-mo/
 - Liberty, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-liberty-mo/
+- Lee'S Summit, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lees-summit-mo/
 - Fitchburg, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fitchburg-wi/
 - Sun Prairie, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sun-prairie-wi/
 - Greenfield, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-greenfield-wi/
@@ -169,13 +230,29 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Pearland, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pearland-tx/
 - The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-the-woodlands-tx/
 - Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-irving-tx/
+- Monroeville, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-monroeville-pa/
+- Washington, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-washington-pa/
+- South Fayette Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-south-fayette-township-pa/
+- Bridgeville, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bridgeville-pa/
+- Brentwood, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-brentwood-pa/
 - Acworth, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-acworth-ga/
 - Forsyth County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-forsyth-county-ga/
 - Dekalb County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dekalb-county-ga/
 - Douglasville, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-douglasville-ga/
 - Woodstock, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-woodstock-ga/
+- Farmington, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-farmington-mi/
+- Fraser, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fraser-mi/
+- Clinton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-clinton-township-mi/
+- Brownstown Charter Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-brownstown-charter-township-mi/
+- Canton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-canton-township-mi/
+- Dearborn, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dearborn-mi/
+- Farmington Hills, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-farmington-hills-mi/
+- Rochester Hills, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-rochester-hills-mi/
+- Oak Park, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-park-mi/
+- Redford Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-redford-township-mi/
 - Lisle, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lisle-il/
 - Mount Prospect, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-prospect-il/
+- Alton, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-alton-il/
 - Wheeling, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wheeling-il/
 - Crete, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-crete-il/
 - Frankfort, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-frankfort-il/
@@ -184,15 +261,32 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Will County, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-will-county-il/
 - Wauconda, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wauconda-il/
 - Hanover Park, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hanover-park-il/
+- Edwardsville, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-edwardsville-il/
 - Elmhurst, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-elmhurst-il/
 - Tinley Park, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-tinley-park-il/
 - Rolling Meadows, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-rolling-meadows-il/
 - Orland Park, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-orland-park-il/
 - Vernon Hills, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-vernon-hills-il/
+- Erie, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-erie-co/
+- Northglenn, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-northglenn-co/
+- Louisville, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-louisville-co/
+- Liberty Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-liberty-township-oh/
+- Hamilton Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hamilton-township-oh/
+- Lancaster, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lancaster-oh/
+- Batavia Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-batavia-township-oh/
+- Colerain Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-colerain-township-oh/
+- Miami Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-miami-township-oh/
+- Delaware, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-delaware-oh/
 - Hobart, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hobart-in/
 - Merrillville, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-merrillville-in/
+- Greenwood, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-greenwood-in/
 - Hammond, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hammond-in/
-- Lee'S Summit, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lees-summit-mo/
+- Avon, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-avon-in/
+- Carmel, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-carmel-in/
+- Berkeley, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-berkeley-mo/
+- Arnold, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-arnold-mo/
+- O’Fallon, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-o-fallon-mo/
+- Fenton, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fenton-mo/
 - Platte City, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-platte-city-mo/
 - Smithville, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-smithville-mo/
 - West Bend, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-bend-wi/
@@ -203,7 +297,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukesha, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-waukesha-wi/
 - Wauwatosa, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wauwatosa-wi/
 - La Vista, NE: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-la-vista-ne/
+- Salina, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-salina-ks/
 - Leavenworth, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-leavenworth-ks/
+- Hutchinson, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hutchinson-ks/
 - Shakopee, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shakopee-mn/
 - Crystal, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-crystal-mn/
 - Minnetonka, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-minnetonka-mn/
@@ -227,15 +323,50 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Kaufman, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kaufman-tx/
 - Hurst, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/
 - Fate, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fate-tx/
+- Bentleyville, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bentleyville-pa/
+- North Versailles, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-north-versailles-pa/
+- Plum, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-plum-pa/
+- Robinson Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-robinson-township-pa/
+- Hampton Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hampton-township-pa/
+- Scott Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-scott-township-pa/
+- Mars, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mars-pa/
+- Pine Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pine-township-pa/
+- Mckees Rocks, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mckees-rocks-pa/
+- West View, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-view-pa/
+- North Strabane Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-north-strabane-township-pa/
+- Castle Shannon, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-castle-shannon-pa/
+- Murrysville, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-murrysville-pa/
+- Mccandless, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mccandless-pa/
+- Elizabeth Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-elizabeth-township-pa/
+- Buffalo Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-buffalo-township-pa/
 - Sandy Springs, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sandy-springs-ga/
 - Mableton, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mableton-ga/
 - Alpharetta, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-alpharetta-ga/
 - Lovejoy, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lovejoy-ga/
 - Lilburn, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lilburn-ga/
 - South Fulton, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-south-fulton-ga/
+- Melvindale, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-melvindale-mi/
+- Shelby Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shelby-charter-township-mi/
+- Eastpointe, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-eastpointe-mi/
+- Plymouth Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-plymouth-charter-township-mi/
+- Taylor, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-taylor-mi/
+- Ecorse, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ecorse-mi/
+- Allen Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-allen-park-mi/
+- Dearborn Heights, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dearborn-heights-mi/
+- Chesterfield Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chesterfield-township-mi/
+- Kingsville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kingsville-mi/
+- Northville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-northville-mi/
+- Northville Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-northville-charter-township-mi/
+- Lakeshore, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lakeshore-mi/
+- Trenton, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-trenton-mi/
+- Madison Heights, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-madison-heights-mi/
+- Inkster, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-inkster-mi/
+- Belleville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-belleville-mi/
 - Dolton, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dolton-il/
 - Lyons, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lyons-il/
+- East Alton, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-east-alton-il/
 - Monee, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-monee-il/
+- Pontoon Beach, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pontoon-beach-il/
 - Elmwood Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-elmwood-park-il/
 - Markham, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-markham-il/
 - Norridge, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-norridge-il/
@@ -261,12 +392,42 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Franklin Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-park-il/
 - Willowbrook, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-willowbrook-il/
 - Schiller Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-schiller-park-il/
+- Belleville, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-belleville-il/
 - Forest Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-forest-park-il/
+- Longmont, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-longmont-co/
+- Adams County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-adams-county-co/
+- Greenwood Village, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-greenwood-village-co/
+- Lone Tree, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lone-tree-co/
 - Johnston, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-johnston-ia/
+- Crescent Springs, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-crescent-springs-ky/
+- Boone County, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-boone-county-ky/
+- Walton, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-walton-ky/
+- Anderson Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-anderson-township-oh/
+- Forest Park, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-forest-park-oh/
+- Canal Winchester, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-canal-winchester-oh/
+- Columbia Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-columbia-township-oh/
+- Pataskala, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pataskala-oh/
+- Circleville Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-circleville-township-oh/
+- Mason, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mason-oh/
+- Whitehall, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-whitehall-oh/
+- Hilliard, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hilliard-oh/
+- Greenfield Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-greenfield-township-oh/
+- Bridgetown, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bridgetown-oh/
+- Westerville, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-westerville-oh/
+- Upper Arlington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-upper-arlington-oh/
+- Loveland, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-loveland-oh/
+- Symmes Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-symmes-township-oh/
+- Greenfield, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-greenfield-in/
+- Westfield, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-westfield-in/
 - Griffith, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-griffith-in/
 - Schererville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-schererville-in/
 - East Chicago, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-east-chicago-in/
+- Wentzville, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wentzville-mo/
+- Lake Saint Louis, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-saint-louis-mo/
+- Richmond Heights, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-richmond-heights-mo/
+- Sunset Hills, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sunset-hills-mo/
 - Excelsior Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-excelsior-springs-mo/
+- Jefferson City, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-jefferson-city-mo/
 - Gladstone, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-gladstone-mo/
 - Caledonia, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-caledonia-wi/
 - Mequon, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mequon-wi/
@@ -278,8 +439,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Chicago Precinct, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-precinct-ne/
 - Gardner, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-gardner-ks/
 - Basehor, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-basehor-ks/
+- Winfield, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-winfield-ks/
 - De Soto, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-de-soto-ks/
 - Bonner Springs, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bonner-springs-ks/
+- Newton, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-newton-ks/
+- Garden City, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-garden-city-ks/
 - West Saint Paul, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-saint-paul-mn/
 - White Bear Lake, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-white-bear-lake-mn/
 - Bloomington, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bloomington-mn/
@@ -327,6 +491,38 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Brookshire, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-brookshire-tx/
 - Little Elm, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-little-elm-tx/
 - Manvel, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-manvel-tx/
+- Crafton, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-crafton-pa/
+- Richland Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-richland-township-pa/
+- Canonsburg, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-canonsburg-pa/
+- South Park Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-south-park-township-pa/
+- Munhall, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-munhall-pa/
+- North Franklin Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-north-franklin-township-pa/
+- West Homestead, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-homestead-pa/
+- Irwin, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-irwin-pa/
+- South Strabane Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-south-strabane-township-pa/
+- Carnegie, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-carnegie-pa/
+- Adams Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-adams-township-pa/
+- Seven Fields, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-seven-fields-pa/
+- New Kensington, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-new-kensington-pa/
+- Shaler Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shaler-township-pa/
+- Kennedy Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kennedy-township-pa/
+- Bellevue, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bellevue-pa/
+- Chartiers Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chartiers-township-pa/
+- Wilkins Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wilkins-township-pa/
+- Collier Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-collier-township-pa/
+- Finleyville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-finleyville-pa/
+- Pleasant Hills, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pleasant-hills-pa/
+- Harmar Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-harmar-township-pa/
+- Coraopolis, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-coraopolis-pa/
+- Mckeesport, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mckeesport-pa/
+- Carroll Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-carroll-township-pa/
+- Homestead, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-homestead-pa/
+- Bethel Park, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bethel-park-pa/
+- Peters Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-peters-township-pa/
+- Franklin Park, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-park-pa/
+- Sewickley, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sewickley-pa/
+- O'Hara Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ohara-township-pa/
+- Swissvale, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-swissvale-pa/
 - Tucker, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-tucker-ga/
 - Douglas County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-douglas-county-ga/
 - Chamblee, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chamblee-ga/
@@ -346,6 +542,27 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Milton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-milton-ga/
 - Decatur, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-decatur-ga/
 - Paulding County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-paulding-county-ga/
+- Tecumseh, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-tecumseh-mi/
+- Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bloomfield-township-mi/
+- Berkley, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-berkley-mi/
+- Gibraltar, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-gibraltar-mi/
+- Wayne, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wayne-mi/
+- Birmingham, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-birmingham-mi/
+- West Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-west-bloomfield-township-mi/
+- Amherstburg, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-amherstburg-mi/
+- Town Of Essex, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-town-of-essex-mi/
+- New Baltimore, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-new-baltimore-mi/
+- Rochester, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-rochester-mi/
+- Livonia, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-livonia-mi/
+- Clawson, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-clawson-mi/
+- Ferndale, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ferndale-mi/
+- Sylvan Lake, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sylvan-lake-mi/
+- Novi, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-novi-mi/
+- Flat Rock, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-flat-rock-mi/
+- Van Buren Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-van-buren-charter-township-mi/
+- Auburn Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-auburn-hills-mi/
+- Wood River, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wood-river-il/
+- Bethalto, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bethalto-il/
 - Country Club Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-country-club-hills-il/
 - Flossmoor, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-flossmoor-il/
 - Lake Forest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-forest-il/
@@ -354,7 +571,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Richton Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-richton-park-il/
 - Robbins, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-robbins-il/
 - Broadview, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-broadview-il/
+- East Saint Louis, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-east-saint-louis-il/
 - Lincolnshire, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lincolnshire-il/
+- O'Fallon, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ofallon-il/
 - Orland Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-orland-hills-il/
 - Worth, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-worth-il/
 - Calumet Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-calumet-park-il/
@@ -368,13 +587,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Deerfield, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-deerfield-il/
 - Riverwoods, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-riverwoods-il/
 - La Grange, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-la-grange-il/
+- Glen Carbon, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-glen-carbon-il/
 - Oak Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-park-il/
 - Chicago Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-heights-il/
 - Dupage County, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dupage-county-il/
 - Glendale Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-heights-il/
 - Midlothian, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-midlothian-il/
+- Columbia, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-columbia-il/
+- Shiloh, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shiloh-il/
 - Carol Stream, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-carol-stream-il/
 - Wilmette, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-wilmette-il/
+- Caseyville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-caseyville-il/
+- Madison County, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-madison-county-il/
 - Itasca, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-itasca-il/
 - Barrington, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-barrington-il/
 - Bensenville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bensenville-il/
@@ -386,24 +610,86 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stone Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-stone-park-il/
 - Villa Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-villa-park-il/
 - Libertyville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-libertyville-il/
+- Swansea, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-swansea-il/
 - Willow Springs, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-willow-springs-il/
 - Lynwood, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lynwood-il/
 - Hillside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-hillside-il/
+- Waterloo, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-waterloo-il/
 - Bloomingdale, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bloomingdale-il/
+- Englewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-englewood-co/
+- Frederick, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-frederick-co/
+- Edgewater, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-edgewater-co/
+- Fort Lupton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-lupton-co/
+- Glendale, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-co/
+- Sheridan, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sheridan-co/
+- Superior, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-superior-co/
+- Foxfield, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-foxfield-co/
 - Indianola, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-indianola-ia/
 - Huxley, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-huxley-ia/
 - Waukee, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-waukee-ia/
+- Fort Wright, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-wright-ky/
+- Cold Spring, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cold-spring-ky/
+- Fort Thomas, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-thomas-ky/
+- Genoa Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-genoa-township-oh/
+- Blue Ash, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-ash-oh/
+- London, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-london-oh/
+- Deer Creek Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-deer-creek-township-oh/
+- Commercial Point, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-commercial-point-oh/
+- Circleville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-circleville-oh/
+- Bennington Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-bennington-township-oh/
+- Marengo, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-marengo-oh/
+- Baltimore, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-baltimore-oh/
+- Milford, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-milford-oh/
+- Springdale, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-springdale-oh/
+- Marysville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-marysville-oh/
+- Pickerington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pickerington-oh/
+- New Richmond, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-new-richmond-oh/
+- Obetz, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-obetz-oh/
+- Johnstown, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-johnstown-oh/
+- Ashville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ashville-oh/
+- Clinton Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-clinton-township-oh/
+- Deer Park, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-deer-park-oh/
+- North College Hill, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-north-college-hill-oh/
+- Delhi Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-delhi-township-oh/
+- Lebanon, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lebanon-oh/
+- Sharonville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-sharonville-oh/
+- Batavia, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-batavia-oh/
+- Fairfax, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fairfax-oh/
+- New Albany, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-new-albany-oh/
+- Johnson County, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-johnson-county-in/
+- Boone County, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-boone-county-in/
+- Speedway, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-speedway-in/
+- Franklin, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-in/
 - Highland, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-highland-in/
+- Fishers, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-fishers-in/
+- Cicero, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cicero-in/
 - Lake County, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-county-in/
+- Martinsville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-martinsville-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-plainfield-in/
 - Platte Woods, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-platte-woods-mo/
+- Brentwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-brentwood-mo/
 - Belton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-belton-mo/
+- Chesterfield, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chesterfield-mo/
+- Cottleville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cottleville-mo/
+- Rock Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-rock-township-mo/
 - Grain Valley, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-grain-valley-mo/
 - Kearney, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kearney-mo/
+- Eureka, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-eureka-mo/
+- Marlborough, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-marlborough-mo/
+- Webb City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-webb-city-mo/
 - North Kansas City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-north-kansas-city-mo/
 - Harrisonville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-harrisonville-mo/
 - Peculiar, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-peculiar-mo/
+- Maryland Heights, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-maryland-heights-mo/
+- Valley Park, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-valley-park-mo/
 - Lathrop, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lathrop-mo/
+- Green Park, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-green-park-mo/
+- Clayton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-clayton-mo/
+- Kirkwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-kirkwood-mo/
+- Shrewsbury, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-shrewsbury-mo/
+- Town And Country, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-town-and-country-mo/
 - Pleasant Hill, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pleasant-hill-mo/
+- Ellisville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-ellisville-mo/
 - Mount Horeb, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-horeb-wi/
 - Cedarburg, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-cedarburg-wi/
 - Glendale, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-wi/
@@ -439,10 +725,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Yutan, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-yutan-ne/
 - Blair, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-blair-ne/
 - Richland Iv Precinct, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-richland-iv-precinct-ne/
+- Dodge City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-dodge-city-ks/
+- Riley County, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-riley-county-ks/
 - Lansing, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-lansing-ks/
+- Valley Center, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-valley-center-ks/
 - Johnson County, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-johnson-county-ks/
+- Derby, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-derby-ks/
 - Merriam, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-merriam-ks/
 - Mission, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-mission-ks/
+- Pottawatomie County, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-pottawatomie-county-ks/
+- Oxford, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-oxford-ks/
 - Louisburg, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-louisburg-ks/
 - Centerville, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-centerville-mn/
 - Golden Valley, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-golden-valley-mn/
@@ -468,7 +760,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1364
+- Registry businesses competing: 2278
 - Equivalent Google Ads cost per month: ~$440,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

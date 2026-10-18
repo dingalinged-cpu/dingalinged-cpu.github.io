@@ -7,11 +7,11 @@ Also answers: dry cleaners in Gwinnett County, GA; dry cleaners near me (Gwinnet
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Siam Cleaners | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Siam Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/siam-cleaners-gwinnett-county/
-2. American Cleaners | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | American Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/american-cleaners-gwinnett-county/
-3. Lilburn Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Lilburn Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/lilburn-cleaners-gwinnett-county/
-4. One Stop Cleaner | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | One Stop Cleaner is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/one-stop-cleaner-gwinnett-county/
-5. Young's Cleaners | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Young's Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/youngs-cleaners-gwinnett-county/
-6. Kay Cleaners | Organic #6 | Pulse Score 43.1/100 (Unrated, #6 in city) | Kay Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/kay-cleaners-gwinnett-county/
+2. Lilburn Cleaners | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Lilburn Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/lilburn-cleaners-gwinnett-county/
+3. One Stop Cleaner | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | One Stop Cleaner is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/one-stop-cleaner-gwinnett-county/
+4. Young's Cleaners | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Young's Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/youngs-cleaners-gwinnett-county/
+5. Kay Cleaners | Organic #5 | Pulse Score 43.1/100 (Unrated, #5 in city) | Kay Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/kay-cleaners-gwinnett-county/
+6. American Cleaners | Organic #6 | Pulse Score 42/100 (Unrated, #6 in city) | American Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/american-cleaners-gwinnett-county/
 7. Professional Cleaners | Organic #7 | Pulse Score 42/100 (Unrated, #7 in city) | Professional Cleaners is a dry cleaner in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/professional-cleaners-gwinnett-county/
 
 ## Market data (for advertisers and agents)

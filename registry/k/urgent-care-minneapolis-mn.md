@@ -6,7 +6,7 @@ Also answers: urgent care in Minneapolis, MN; urgent care near me (Minneapolis, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Health Partners Riverside Urgent Care | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Health Partners Riverside Urgent Care is an urgent care clinic in Minneapolis, MN at 2220 Riverside Avenue, Minneapolis, MN 55454. Phone: +16123415000. Website: https://www.healthpartners.com/public/find-care/location-detail.html?type=medical&networkId=hp&distance=20&hpmgOnly=false&view=list&start=20&keepCmpCrit=1&locationId=280. | https://registry-edge.dingalinged.workers.dev/c/health-partners-riverside-urgent-care-minneapolis/
+1. Health Partners Riverside Urgent Care | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Health Partners Riverside Urgent Care is an urgent care clinic in Minneapolis, MN at 2220 Riverside Avenue, Minneapolis, MN 55454. Phone: +16123415000. Website: https://www.healthpartners.com/public/find-care/location-detail.html?type=medical&networkId=hp&distance=20&hpmgOnly=false&view=list&start=20&keepCmpCrit=1&locationId=280. | https://registry-edge.dingalinged.workers.dev/c/health-partners-riverside-urgent-care-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care minneapolis mn | category: Health & medical | industry benchmark: Physicians & Surgeons

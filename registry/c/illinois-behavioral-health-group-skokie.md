@@ -13,7 +13,7 @@ Illinois Behavioral Health Group is a therapy practice in Skokie, IL at 5550 Wes
 - Website: https://illinoisbhg.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 53% of therapy practices in Chicago, #1 of 1 therapy practices in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 53% of therapy practices in Chicago, #1 of 1 therapy practices in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

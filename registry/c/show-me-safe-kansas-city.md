@@ -8,7 +8,7 @@ Show Me Safe is a locksmith in Kansas City, MO at 1860 McGee Street #200, Kansas
 - City: Kansas City
 - State: MO
 - ZIP: 64108
-- Coordinates: 39.0904582, -94.5803976
+- Coordinates: 39.0904615, -94.5804577
 - Phone: +12242880300
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Show Me Safe is a locksmith in Kansas City, MO at 1860 McGee Street #200, Kansas
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/show-me-safe-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/show-me-safe-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6754136002 (license ODbL-1.0); source data as of 2026-05-31
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6754136002 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

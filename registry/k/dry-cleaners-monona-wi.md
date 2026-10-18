@@ -6,7 +6,7 @@ Also answers: dry cleaners in Monona, WI; dry cleaners near me (Monona, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Professional Cleaners | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Professional Cleaners is a dry cleaner in Monona, WI. | https://registry-edge.dingalinged.workers.dev/c/professional-cleaners-monona/
+1. Professional Cleaners | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | Professional Cleaners is a dry cleaner in Monona, WI. | https://registry-edge.dingalinged.workers.dev/c/professional-cleaners-monona/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners monona wi | category: Professional & financial services | industry benchmark: Finance & Insurance

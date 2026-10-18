@@ -6,7 +6,7 @@ Also answers: funeral home in Itasca, IL; funeral home near me (Itasca, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Oaks Funeral Home | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | The Oaks Funeral Home is a funeral home in Itasca, IL. | https://registry-edge.dingalinged.workers.dev/c/the-oaks-funeral-home-itasca/
+1. The Oaks Funeral Home | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | The Oaks Funeral Home is a funeral home in Itasca, IL. | https://registry-edge.dingalinged.workers.dev/c/the-oaks-funeral-home-itasca/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home itasca il | category: Professional & financial services | industry benchmark: Finance & Insurance

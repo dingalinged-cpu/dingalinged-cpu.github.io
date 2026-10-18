@@ -13,7 +13,7 @@ StretchLab is a gym in Fulshear, TX at 6300 FM 1463 #200, Fulshear, TX 77441.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 77% of gyms in Houston, #3 of 3 gyms in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 75% of gyms in Houston, #3 of 3 gyms in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

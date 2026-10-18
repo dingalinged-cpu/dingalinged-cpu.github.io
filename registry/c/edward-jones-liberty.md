@@ -13,12 +13,12 @@ Edward Jones is a financial advisor in Liberty, MO.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Building — top 86% of financial advisors in Kansas City, MO, #1 of 1 financial advisors in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Building — top 87% of financial advisors in Kansas City, MO, #2 of 2 financial advisors in Liberty (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-liberty/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-liberty.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10111916608 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10111916608 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

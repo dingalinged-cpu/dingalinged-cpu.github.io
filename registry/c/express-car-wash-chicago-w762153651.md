@@ -13,7 +13,7 @@ Express Car Wash is a car wash in Chicago, IL at 4550 West Addison Street, Chica
 - Website: https://mycarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 42% of car washes in Chicago, #36 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 40% of car washes in Chicago, #34 of 75 car washes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

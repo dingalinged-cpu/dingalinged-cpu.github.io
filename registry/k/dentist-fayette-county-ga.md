@@ -7,7 +7,7 @@ Also answers: dentist in Fayette County, GA; dentist near me (Fayette County, GA
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dental Traditions | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Dental Traditions is a dentist in Fayette County, GA. | https://registry-edge.dingalinged.workers.dev/c/dental-traditions-fayette-county/
-2. Heritage Dental | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Heritage Dental is a dentist in Fayette County, GA. | https://registry-edge.dingalinged.workers.dev/c/heritage-dental-fayette-county/
+2. Heritage Dental | Organic #2 | Pulse Score 41.7/100 (Unrated, #2 in city) | Heritage Dental is a dentist in Fayette County, GA. | https://registry-edge.dingalinged.workers.dev/c/heritage-dental-fayette-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fayette county ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

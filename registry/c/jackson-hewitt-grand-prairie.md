@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Grand Prairie, TX at 133 West Mai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 52% of tax preparation services in Dallas–Fort Worth, #1 of 2 tax preparation services in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 50% of tax preparation services in Dallas–Fort Worth, #1 of 2 tax preparation services in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sleep City is a mattress store in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-18:00; Su off
-- Pulse Score: 60.8/100 — Good — top 2% of mattress stores in Dallas–Fort Worth, #1 of 2 mattress stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 2% of mattress stores in Dallas–Fort Worth, #1 of 2 mattress stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

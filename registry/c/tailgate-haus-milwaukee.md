@@ -13,7 +13,7 @@ Tailgate Haus is an event venue in Milwaukee, WI. Phone: +14149024452. Website: 
 - Website: https://www.mlb.com/brewers/ballpark/events/outdoor/tailgate-haus
 - Email: event.info@brewers.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 52% of event venues in Milwaukee, #26 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 52% of event venues in Milwaukee, #26 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

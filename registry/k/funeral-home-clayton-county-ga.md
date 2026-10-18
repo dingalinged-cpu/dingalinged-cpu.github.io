@@ -6,7 +6,7 @@ Also answers: funeral home in Clayton County, GA; funeral home near me (Clayton 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ford-Stewart Funeral Home Inc | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Ford-Stewart Funeral Home Inc is a funeral home in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/ford-stewart-funeral-home-inc-clayton-county/
+1. Ford-Stewart Funeral Home Inc | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Ford-Stewart Funeral Home Inc is a funeral home in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/ford-stewart-funeral-home-inc-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home clayton county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

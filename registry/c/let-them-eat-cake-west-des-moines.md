@@ -13,7 +13,7 @@ Let Them Eat Cake is a bakery in West Des Moines, IA at 405 Maple Street, West D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Sa 09:00-15:00; Tu-Fr 09:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 23% of bakerys in Des Moines, IA, #2 of 4 bakerys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of bakerys in Des Moines, IA, #2 of 4 bakerys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

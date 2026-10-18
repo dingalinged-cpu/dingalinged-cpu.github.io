@@ -13,7 +13,7 @@ Memorial Hermann Convenient Care Center in Spring is a family medicine practice 
 - Website: https://www.memorialhermann.org/spring-ccc/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 4% of family medicine practices in Houston, #1 of 1 family medicine practices in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 4% of family medicine practices in Houston, #1 of 1 family medicine practices in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

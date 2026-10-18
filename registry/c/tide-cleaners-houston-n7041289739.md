@@ -13,7 +13,7 @@ Tide Cleaners is a dry cleaner in Houston, TX at 5240 Buffalo Speedway, Houston,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 67% of dry cleaners in Houston, #53 of 69 dry cleaners in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 65% of dry cleaners in Houston, #53 of 69 dry cleaners in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

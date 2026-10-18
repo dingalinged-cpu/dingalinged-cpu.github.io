@@ -7,8 +7,8 @@ Also answers: florist in Woodstock, GA; florist near me (Woodstock, GA); best fl
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Brenda's House Of Flowers | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Brenda's House Of Flowers is a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/brendas-house-of-flowers-woodstock/
-2. Reeves Floral | Organic #2 | Pulse Score 62.6/100 (Good, #2 in city) | Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. Phone: +17709245230. Website: https://reevesfloral.com/. | https://registry-edge.dingalinged.workers.dev/c/reeves-floral-woodstock/
-3. Woodstock Flowers | Organic #3 | Pulse Score 62.6/100 (Good, #3 in city) | Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/woodstock-flowers-woodstock/
+2. Reeves Floral | Organic #2 | Pulse Score 62.7/100 (Good, #2 in city) | Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. Phone: +17709245230. Website: https://reevesfloral.com/. | https://registry-edge.dingalinged.workers.dev/c/reeves-floral-woodstock/
+3. Woodstock Flowers | Organic #3 | Pulse Score 62.7/100 (Good, #3 in city) | Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/woodstock-flowers-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist woodstock ga | category: Events & weddings | industry benchmark: Personal Services

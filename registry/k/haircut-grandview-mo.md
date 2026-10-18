@@ -6,7 +6,7 @@ Also answers: haircut in Grandview, MO; haircut near me (Grandview, MO); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MXM Beauty Bar | Organic #1 | Pulse Score 55.1/100 (Unrated, #2 in city) | MXM Beauty Bar is a hair salon in Grandview, MO. | https://registry-edge.dingalinged.workers.dev/c/mxm-beauty-bar-grandview/
+1. MXM Beauty Bar | Organic #1 | Pulse Score 55/100 (Unrated, #2 in city) | MXM Beauty Bar is a hair salon in Grandview, MO. | https://registry-edge.dingalinged.workers.dev/c/mxm-beauty-bar-grandview/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut grandview mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

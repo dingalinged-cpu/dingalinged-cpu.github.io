@@ -7,9 +7,9 @@ Also answers: nail salon in New Hope, MN; nail salon near me (New Hope, MN); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Great Nails | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Great Nails is a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428. | https://registry-edge.dingalinged.workers.dev/c/great-nails-new-hope/
-2. V Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | V Nails is a nail salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/v-nails-new-hope/
-3. Daisy Nails | Organic #3 | Pulse Score 44.5/100 (Unrated, #3 in city) | Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-new-hope/
-4. Love Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Love Nails is a nail salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/love-nails-new-hope/
+2. Daisy Nails | Organic #2 | Pulse Score 43.4/100 (Unrated, #2 in city) | Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-new-hope/
+3. Love Nails | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Love Nails is a nail salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/love-nails-new-hope/
+4. V Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | V Nails is a nail salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/v-nails-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon new hope mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

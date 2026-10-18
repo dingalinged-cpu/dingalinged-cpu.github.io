@@ -13,7 +13,7 @@ G. Kennedy McLeod, Jr. - Attorney At Law is a lawyer in Alpharetta, GA at 11175 
 - Website: https://mcleodgalaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 23% of lawyers in Atlanta, #2 of 4 lawyers in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 24% of lawyers in Atlanta, #2 of 4 lawyers in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

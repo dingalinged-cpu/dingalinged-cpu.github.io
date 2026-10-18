@@ -13,12 +13,12 @@ NOW FITNESS+RECOVERY is a gym in Overland Park, KS at 8693 Bluejacket Street, Ov
 - Website: https://nowfitnesskc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 7% of gyms in Kansas City, MO, #2 of 17 gyms in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 6% of gyms in Kansas City, MO, #2 of 18 gyms in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/now-fitness-recovery-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/now-fitness-recovery-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/624783823 (license ODbL-1.0); source data as of 2026-07-15
+- Source: OpenStreetMap https://www.openstreetmap.org/way/624783823 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,8 +6,8 @@ Also answers: plumbing services in Dallas, TX; plumbing services near me (Dallas
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NOMI - Bathroom Remodeling Dallas Tx | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
-2. On Time Experts | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | On Time Experts is a plumber in Dallas, TX at 9947 Garland Road, Dallas, TX. Website: https://www.theontimeexperts.com/. | https://registry-edge.dingalinged.workers.dev/c/on-time-experts-dallas/
+1. NOMI - Bathroom Remodeling Dallas Tx | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | NOMI - Bathroom Remodeling Dallas Tx is a plumber in Dallas, TX at 5956 Sherry Lane ##1000, Dallas, TX 75225. Phone: +18003718970. Website: https://nomibath.com/. | https://registry-edge.dingalinged.workers.dev/c/nomi-bathroom-remodeling-dallas-tx-dallas/
+2. On Time Experts | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | On Time Experts is a plumber in Dallas, TX at 9947 Garland Road, Dallas, TX. Website: https://www.theontimeexperts.com/. | https://registry-edge.dingalinged.workers.dev/c/on-time-experts-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services dallas tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

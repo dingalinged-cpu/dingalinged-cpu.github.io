@@ -13,7 +13,7 @@ Thrive Pet Healthcare Marietta is a veterinarian in Cobb County, GA at 3460 Sand
 - Website: https://www.thrivepetcare.com/locations/georgia/marietta/sandy-plains-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 60/100 — Good — top 41% of veterinarians in Atlanta, #10 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Good — top 41% of veterinarians in Atlanta, #10 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

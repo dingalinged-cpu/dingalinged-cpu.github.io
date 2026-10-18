@@ -6,7 +6,7 @@ Also answers: storage units in Peachtree Corners, GA; storage units near me (Pea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midgard Self Storage | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Peachtree Corners, GA at 7112 Peachtree Industrial Boulevard, Peachtree Corners, GA 30071. Phone: +14047245724. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-peachtree-corners/
+1. Midgard Self Storage | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Peachtree Corners, GA at 7112 Peachtree Industrial Boulevard, Peachtree Corners, GA 30071. Phone: +14047245724. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-peachtree-corners/
 2. Public Storage | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Public Storage is a self-storage facility in Norcross, GA at 3265 Holcomb Bridge Road, Norcross, GA 30092. | https://registry-edge.dingalinged.workers.dev/c/public-storage-norcross/
 3. CubeSmart | Organic #3 | Pulse Score 45.5/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Peachtree Corners, GA at 5180 Peachtree Industrial Boulevard, Peachtree Corners, GA 30071. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-peachtree-corners/
 

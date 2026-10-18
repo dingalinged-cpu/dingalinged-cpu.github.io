@@ -6,7 +6,7 @@ Also answers: therapist in Coon Rapids, MN; therapist near me (Coon Rapids, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anoka Psychological Services | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531. | https://registry-edge.dingalinged.workers.dev/c/anoka-psychological-services-coon-rapids/
+1. Anoka Psychological Services | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531. | https://registry-edge.dingalinged.workers.dev/c/anoka-psychological-services-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist coon rapids mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: bike shop in Fox Point, WI; bike shop near me (Fox Point, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wheel & Sprocket | Organic #1 | Pulse Score 45.6/100 (Unrated, #1 in city) | Wheel & Sprocket is a bike shop in Fox Point, WI at 6940 North Santa Monica Boulevard, Fox Point, WI 53217. Phone: +14142478100. Website: https://www.wheelandsprocket.com/. | https://registry-edge.dingalinged.workers.dev/c/wheel-and-sprocket-fox-point/
+1. Wheel & Sprocket | Organic #1 | Pulse Score 45.8/100 (Unrated, #1 in city) | Wheel & Sprocket is a bike shop in Fox Point, WI at 6940 North Santa Monica Boulevard, Fox Point, WI 53217. Phone: +14142478100. Website: https://www.wheelandsprocket.com/. | https://registry-edge.dingalinged.workers.dev/c/wheel-and-sprocket-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop fox point wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

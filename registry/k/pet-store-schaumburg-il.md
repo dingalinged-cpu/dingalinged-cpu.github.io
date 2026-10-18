@@ -7,8 +7,8 @@ Also answers: pet store in Schaumburg, IL; pet store near me (Schaumburg, IL); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Golf Rose Pet Store | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Golf Rose Pet Store is a pet store in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/golf-rose-pet-store-schaumburg/
-2. PetSmart | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | PetSmart is a pet store in Schaumburg, IL at 1440 East Golf Road, Schaumburg, IL 60173. Phone: +18474130982. Website: https://www.petsmart.com/stores/us/il/schaumburg-store1181.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-schaumburg/
-3. Petco | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Petco is a pet store in Schaumburg, IL at 60 East Golf Road, Schaumburg, IL 60173. Phone: +18478848370. Website: https://stores.petco.com/il/schaumburg/pet-supplies-schaumburg-il-698.html. | https://registry-edge.dingalinged.workers.dev/c/petco-schaumburg/
+2. Petco | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Petco is a pet store in Schaumburg, IL at 60 East Golf Road, Schaumburg, IL 60173. Phone: +18478848370. Website: https://stores.petco.com/il/schaumburg/pet-supplies-schaumburg-il-698.html. | https://registry-edge.dingalinged.workers.dev/c/petco-schaumburg/
+3. PetSmart | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | PetSmart is a pet store in Schaumburg, IL at 1440 East Golf Road, Schaumburg, IL 60173. Phone: +18474130982. Website: https://www.petsmart.com/stores/us/il/schaumburg-store1181.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store schaumburg il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

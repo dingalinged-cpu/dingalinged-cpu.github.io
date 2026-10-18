@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Mattress Firm | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Mattress Firm is a mattress store in The Woodlands, TX at 1340 Lake Woodlands Drive #B, The Woodlands, TX 77380. Phone: +12813671181. Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001022/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-the-woodlands-n10252326473/
 2. Mattress Firm | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Mattress Firm is a mattress store in The Woodlands, TX at 1585 Lake Woodlands Drive, The Woodlands, TX 77380. Phone: +18325850800. Website: https://www.mattressfirm.com/en-us/stores/tx/the-woodlands/001170/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-the-woodlands/
 3. Tempur-Pedic | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Tempur-Pedic is a mattress store in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/tempur-pedic-the-woodlands/
-4. Sleep Number | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Sleep Number is a mattress store in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-the-woodlands/
+4. Sleep Number | Organic #4 | Pulse Score 41.4/100 (Building, #4 in city) | Sleep Number is a mattress store in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store the woodlands tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

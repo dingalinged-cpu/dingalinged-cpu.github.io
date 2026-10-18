@@ -13,7 +13,7 @@ Aurora Health Center is a family medicine practice in South Milwaukee, WI at 361
 - Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-16:00
-- Pulse Score: 51.9/100 — Fair — top 100% of family medicine practices in Milwaukee, #1 of 1 family medicine practices in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 68.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52/100 — Fair — top 100% of family medicine practices in Milwaukee, #1 of 1 family medicine practices in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 69.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

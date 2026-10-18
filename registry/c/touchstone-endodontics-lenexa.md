@@ -19,6 +19,6 @@ Touchstone Endodontics is a dentist in Lenexa, KS at 16971 West 94th Street, Len
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/touchstone-endodontics-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/touchstone-endodontics-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13337311098 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13337311098 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

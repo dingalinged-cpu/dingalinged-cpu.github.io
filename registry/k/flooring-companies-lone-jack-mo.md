@@ -6,7 +6,7 @@ Also answers: flooring companies in Lone Jack, MO; flooring companies near me (L
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-1 Concrete Leveling Kansas City | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | A-1 Concrete Leveling Kansas City is a flooring company in Lone Jack, MO at 12424 South Bynum Road, Lone Jack, MO 64070. Phone: +18169180841. Website: https://www.a1concretekc.com/. | https://registry-edge.dingalinged.workers.dev/c/a-1-concrete-leveling-kansas-city-lone-jack/
+1. A-1 Concrete Leveling Kansas City | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | A-1 Concrete Leveling Kansas City is a flooring company in Lone Jack, MO at 12424 South Bynum Road, Lone Jack, MO 64070. Phone: +18169180841. Website: https://www.a1concretekc.com/. | https://registry-edge.dingalinged.workers.dev/c/a-1-concrete-leveling-kansas-city-lone-jack/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lone jack mo | category: Home services - Flooring | industry benchmark: Home & Home Improvement

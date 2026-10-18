@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Mesquite, TX at 1344 North Town East Boulev
 - Website: https://www.mattressfirm.com/en-us/stores/tx/mesquite/002004/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 40% of mattress stores in Dallas–Fort Worth, #3 of 5 mattress stores in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 39% of mattress stores in Dallas–Fort Worth, #3 of 5 mattress stores in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

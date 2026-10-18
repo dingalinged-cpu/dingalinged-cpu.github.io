@@ -13,7 +13,7 @@ Flourish is a florist in Lewisville, TX at 156 West Main Street, Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-14:00; Tu-Sa 10:00-16:00; Su,PH off
-- Pulse Score: 61/100 — Good — top 26% of florists in Dallas–Fort Worth, #3 of 5 florists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 26% of florists in Dallas–Fort Worth, #3 of 5 florists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

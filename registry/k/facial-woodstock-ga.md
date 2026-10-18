@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Bailey Cosmetic Med Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Bailey Cosmetic Med Spa is a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/. | https://registry-edge.dingalinged.workers.dev/c/bailey-cosmetic-med-spa-woodstock/
 2. Ingrid's Spa & Wellness | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | Ingrid's Spa & Wellness is a skin care studio in Woodstock, GA at 8720 Main Street #120, Woodstock, GA. Phone: +17707712481. Website: https://ingridwellness.com/. | https://registry-edge.dingalinged.workers.dev/c/ingrids-spa-and-wellness-woodstock/
-3. Ulta Beauty | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Woodstock, GA at 124 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784940081. Website: https://www.ulta.com/stores/woodstock-ga-105. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-woodstock/
+3. Ulta Beauty | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Woodstock, GA at 124 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784940081. Website: https://www.ulta.com/stores/woodstock-ga-105. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial woodstock ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

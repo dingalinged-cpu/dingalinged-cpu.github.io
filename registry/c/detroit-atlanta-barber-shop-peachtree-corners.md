@@ -13,7 +13,7 @@ Detroit Atlanta Barber Shop is a barber shop in Peachtree Corners, GA at 4015 Ho
 - Website: https://www.detroit2atlantafbntattz.com/
 - Email: detroit2atlantafbntattz@yahoo.com
 - Opening hours (OSM syntax): Mo 12:00-18:00; Tu-We 10:00-18:30; Th-Fr 09:00-19:00; Sa 09:00-18:30; Su 11:00-16:30
-- Pulse Score: 64.1/100 — Good — top 8% of barber shops in Atlanta, #1 of 5 barber shops in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 8% of barber shops in Atlanta, #1 of 5 barber shops in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

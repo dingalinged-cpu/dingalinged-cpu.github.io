@@ -13,7 +13,7 @@ Kendra Scott is a jewelry store in Town of Brookfield, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.4/100 — Building — top 100% of jewelry stores in Milwaukee, #1 of 1 jewelry stores in Town of Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 38.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.4/100 — Building — top 100% of jewelry stores in Milwaukee, #1 of 1 jewelry stores in Town of Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

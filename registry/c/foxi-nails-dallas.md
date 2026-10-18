@@ -13,7 +13,7 @@ Foxi Nails is a nail salon in Dallas, TX at 17509 Coit Road #3, Dallas, TX 75252
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 12:00-18:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 30% of nail salons in Dallas–Fort Worth, #12 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 27% of nail salons in Dallas–Fort Worth, #11 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Premier Physical Therapy is a physical therapy clinic in Rockwall, TX at 3136 Ho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 29% of physical therapy clinics in Dallas–Fort Worth, #3 of 6 physical therapy clinics in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 76% of physical therapy clinics in Dallas–Fort Worth, #6 of 6 physical therapy clinics in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

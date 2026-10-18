@@ -13,7 +13,7 @@ Blue Beacon is a car wash in Atlanta, GA. Website: https://bluebeacon.com/locati
 - Website: https://bluebeacon.com/locations/listing/atlanta-west-ga
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 71% of car washes in Atlanta, #9 of 13 car washes in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 71% of car washes in Atlanta, #9 of 13 car washes in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

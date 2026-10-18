@@ -6,7 +6,7 @@ Also answers: funeral home in Saint Paul Park, MN; funeral home near me (Saint P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KOK Funeral Home | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | KOK Funeral Home is a funeral home in Saint Paul Park, MN. | https://registry-edge.dingalinged.workers.dev/c/kok-funeral-home-saint-paul-park/
+1. KOK Funeral Home | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | KOK Funeral Home is a funeral home in Saint Paul Park, MN. | https://registry-edge.dingalinged.workers.dev/c/kok-funeral-home-saint-paul-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home saint paul park mn | category: Professional & financial services | industry benchmark: Finance & Insurance

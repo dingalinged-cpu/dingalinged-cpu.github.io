@@ -13,7 +13,7 @@ SalonCentric is a hair salon in Naperville, IL at 620 East Ogden Avenue, Napervi
 - Website: https://stores.saloncentric.com/il/naperville/4123
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-18:30; Tu-Fr 08:00-18:00; Sa 08:30-16:00; Su 12:00-16:00
-- Pulse Score: 50/100 — Fair — top 77% of hair salons in Chicago, #27 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 76% of hair salons in Chicago, #27 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

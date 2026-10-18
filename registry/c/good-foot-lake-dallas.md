@@ -13,7 +13,7 @@ Good Foot is a massage studio in Lake Dallas, TX at 303 Swisher Road #Suite 220,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 43% of massage studios in Dallas–Fort Worth, #1 of 1 massage studios in Lake Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 41% of massage studios in Dallas–Fort Worth, #1 of 1 massage studios in Lake Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

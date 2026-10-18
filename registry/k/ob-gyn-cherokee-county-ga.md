@@ -6,7 +6,7 @@ Also answers: ob gyn in Cherokee County, GA; ob gyn near me (Cherokee County, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wellstar OBGYN | Organic #1 | Pulse Score 53.4/100 (Unrated, #1 in city) | Wellstar OBGYN is an OB-GYN practice in Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/wellstar-obgyn-cherokee-county/
+1. Wellstar OBGYN | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Wellstar OBGYN is an OB-GYN practice in Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/wellstar-obgyn-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn cherokee county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

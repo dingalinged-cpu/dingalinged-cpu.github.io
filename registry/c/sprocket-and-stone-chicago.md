@@ -13,7 +13,7 @@ Sprocket & Stone is a pet store in Chicago, IL at 1013 East 53rd Street, Chicago
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:30; Sa 11:00-17:00; Su 12:00-20:00
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 17% of pet stores in Chicago, #12 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 17% of pet stores in Chicago, #12 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

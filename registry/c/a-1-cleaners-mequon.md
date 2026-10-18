@@ -13,7 +13,7 @@ A-1 Cleaners is a dry cleaner in Mequon, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.5/100 — Unrated (not enough evidence yet) — top 98% of dry cleaners in Milwaukee, #2 of 2 dry cleaners in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.5/100 — Unrated (not enough evidence yet) — top 98% of dry cleaners in Milwaukee, #2 of 2 dry cleaners in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

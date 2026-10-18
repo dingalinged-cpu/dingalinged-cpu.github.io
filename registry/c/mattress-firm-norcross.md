@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Norcross, GA at 3200 Holcomb Bridge Road #5
 - Website: https://www.mattressfirm.com/en-us/stores/ga/norcross/007084/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-20:00
-- Pulse Score: 52.6/100 — Fair — top 28% of mattress stores in Atlanta, #1 of 2 mattress stores in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.6/100 — Fair — top 26% of mattress stores in Atlanta, #1 of 2 mattress stores in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: jewelry store in Tucker, GA; jewelry store near me (Tucker, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jewelry Unlimited | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Jewelry Unlimited is a jewelry store in Tucker, GA. Website: https://www.jewelryunlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/jewelry-unlimited-tucker/
+1. Jewelry Unlimited | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Jewelry Unlimited is a jewelry store in Tucker, GA. Website: https://www.jewelryunlimited.com/. | https://registry-edge.dingalinged.workers.dev/c/jewelry-unlimited-tucker/
 2. Diamond Bazaar | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Diamond Bazaar is a jewelry store in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/diamond-bazaar-tucker/
 3. Oxford Diamonds | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Oxford Diamonds is a jewelry store in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/oxford-diamonds-tucker/
 4. Kay Jewelers | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Kay Jewelers is a jewelry store in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/kay-jewelers-tucker/

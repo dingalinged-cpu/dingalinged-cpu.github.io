@@ -6,10 +6,10 @@ Also answers: car wash in Olathe, KS; car wash near me (Olathe, KS); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charlie’s Car Wash | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Charlie’s Car Wash is a car wash in Olathe, KS at 13512 South Blackbob Road, Olathe, KS 66062. Website: https://charlies.com/. | https://registry-edge.dingalinged.workers.dev/c/charlie-s-car-wash-olathe/
-2. xCel Car Wash | Organic #2 | Pulse Score 47.3/100 (Unrated, #2 in city) | xCel Car Wash is a car wash in Olathe, KS at 13751 South Blackbob Road, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/xcel-car-wash-olathe/
+1. Charlie’s Car Wash | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Charlie’s Car Wash is a car wash in Olathe, KS at 13512 South Blackbob Road, Olathe, KS 66062. Website: https://charlies.com/. | https://registry-edge.dingalinged.workers.dev/c/charlie-s-car-wash-olathe/
+2. xCel Car Wash | Organic #2 | Pulse Score 47.4/100 (Unrated, #2 in city) | xCel Car Wash is a car wash in Olathe, KS at 13751 South Blackbob Road, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/xcel-car-wash-olathe/
 3. Club Car Wash | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Club Car Wash is a car wash in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/club-car-wash-olathe/
-4. GO Car Wash | Organic #4 | Pulse Score 43.8/100 (Unrated, #4 in city) | GO Car Wash is a car wash in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-olathe/
+4. GO Car Wash | Organic #4 | Pulse Score 43.9/100 (Unrated, #4 in city) | GO Car Wash is a car wash in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash olathe ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

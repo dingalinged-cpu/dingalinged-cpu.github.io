@@ -6,9 +6,9 @@ Also answers: pediatrician in Roswell, GA; pediatrician near me (Roswell, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Pediatric Place | Organic #1 | Pulse Score 58.1/100 (Unrated, #2 in city) | The Pediatric Place is a pediatrician in Johns Creek, GA at 9570 Nesbit Ferry Road #201, Johns Creek, GA 30022. Phone: +17706408119. | https://registry-edge.dingalinged.workers.dev/c/the-pediatric-place-johns-creek/
-2. Omega Pediatrics | Organic #2 | Pulse Score 57.9/100 (Unrated, #1 in city) | Omega Pediatrics is a pediatrician in Roswell, GA at 1305 Hembree Road, Roswell, GA 30076. | https://registry-edge.dingalinged.workers.dev/c/omega-pediatrics-roswell/
-3. Lucas Pediatrics | Organic #3 | Pulse Score 54.9/100 (Unrated, #2 in city) | Lucas Pediatrics is a pediatrician in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/lucas-pediatrics-roswell/
+1. The Pediatric Place | Organic #1 | Pulse Score 58.3/100 (Unrated, #2 in city) | The Pediatric Place is a pediatrician in Johns Creek, GA at 9570 Nesbit Ferry Road #201, Johns Creek, GA 30022. Phone: +17706408119. | https://registry-edge.dingalinged.workers.dev/c/the-pediatric-place-johns-creek/
+2. Omega Pediatrics | Organic #2 | Pulse Score 58/100 (Unrated, #1 in city) | Omega Pediatrics is a pediatrician in Roswell, GA at 1305 Hembree Road, Roswell, GA 30076. | https://registry-edge.dingalinged.workers.dev/c/omega-pediatrics-roswell/
+3. Lucas Pediatrics | Organic #3 | Pulse Score 55.1/100 (Unrated, #2 in city) | Lucas Pediatrics is a pediatrician in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/lucas-pediatrics-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician roswell ga | category: Health & medical | industry benchmark: Physicians & Surgeons

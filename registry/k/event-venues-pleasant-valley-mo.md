@@ -6,7 +6,7 @@ Also answers: event venues in Pleasant Valley, MO; event venues near me (Pleasan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TamJen Hall | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | TamJen Hall is an event venue in Pleasant Valley, MO at 6512 Northeast US Highway 69, Pleasant Valley, MO 64068. Website: https://tamjenhall.com/. | https://registry-edge.dingalinged.workers.dev/c/tamjen-hall-pleasant-valley/
+1. TamJen Hall | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | TamJen Hall is an event venue in Pleasant Valley, MO at 6512 Northeast US Highway 69, Pleasant Valley, MO 64068. Website: https://tamjenhall.com/. | https://registry-edge.dingalinged.workers.dev/c/tamjen-hall-pleasant-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues pleasant valley mo | category: Events & weddings | industry benchmark: Personal Services

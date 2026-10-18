@@ -6,7 +6,7 @@ Also answers: vet in Douglasville, GA; vet near me (Douglasville, GA); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bankhead Animal Hospital | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Bankhead Animal Hospital is a veterinarian in Douglasville, GA at 11417 Veterans Memorial Highway, Douglasville, GA 30134. | https://registry-edge.dingalinged.workers.dev/c/bankhead-animal-hospital-douglasville/
+1. Bankhead Animal Hospital | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Bankhead Animal Hospital is a veterinarian in Douglasville, GA at 11417 Veterans Memorial Highway, Douglasville, GA 30134. | https://registry-edge.dingalinged.workers.dev/c/bankhead-animal-hospital-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet douglasville ga | category: Pets | industry benchmark: Animals & Pets

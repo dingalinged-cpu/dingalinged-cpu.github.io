@@ -13,12 +13,12 @@ CiCi Nails and Spa is a nail salon in Kansas City, MO at 8302 North Oxford Avenu
 - Website: https://www.cicinailsandspakc.com/contact
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 32% of nail salons in Kansas City, MO, #6 of 30 nail salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 32% of nail salons in Kansas City, MO, #6 of 30 nail salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/cici-nails-and-spa-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cici-nails-and-spa-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/573405120 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/573405120 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Milwaukee, WI at 336 North Milwaukee Street, Mi
 - Website: https://thirdward.orangetheoryfitness.com/
 - Email: studiomanager1143@orangetheoryfitness.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 67% of gyms in Milwaukee, #27 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 66% of gyms in Milwaukee, #27 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

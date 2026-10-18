@@ -6,7 +6,7 @@ Also answers: chiropractor in Bloomingdale, IL; chiropractor near me (Bloomingda
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chiro One | Organic #1 | Pulse Score 46.5/100 (Unrated, #1 in city) | Chiro One is a chiropractor in Bloomingdale, IL at 366 West Army Trail Road #Suite 330B, Bloomingdale, IL 60108. Website: https://www.chiroone.com/locations/bloomingdale-illinois/. | https://registry-edge.dingalinged.workers.dev/c/chiro-one-bloomingdale/
+1. Chiro One | Organic #1 | Pulse Score 46.6/100 (Unrated, #1 in city) | Chiro One is a chiropractor in Bloomingdale, IL at 366 West Army Trail Road #Suite 330B, Bloomingdale, IL 60108. Website: https://www.chiroone.com/locations/bloomingdale-illinois/. | https://registry-edge.dingalinged.workers.dev/c/chiro-one-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor bloomingdale il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Waterway is a car wash in Skokie, IL at 9200 Skokie Boulevard, Skokie, IL 60077.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 12% of car washes in Chicago, #1 of 5 car washes in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 63% of car washes in Chicago, #5 of 5 car washes in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

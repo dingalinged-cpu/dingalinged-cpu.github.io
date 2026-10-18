@@ -13,7 +13,7 @@ Faith Behavioral Health is a therapy practice in Frisco, TX at 4300 Punjab Way #
 - Website: https://faithbehavioralhealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 32% of therapy practices in Dallas–Fort Worth, #5 of 8 therapy practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 32% of therapy practices in Dallas–Fort Worth, #5 of 8 therapy practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

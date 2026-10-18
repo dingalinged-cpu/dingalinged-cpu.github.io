@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Frisco, TX; plastic surgeon near me (Frisco, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sculpted Contours Plastic Surgery | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Sculpted Contours Plastic Surgery is a plastic surgeon in Frisco, TX at 7044 Lebanon Road #101, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/sculpted-contours-plastic-surgery-frisco/
+1. Sculpted Contours Plastic Surgery | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Sculpted Contours Plastic Surgery is a plastic surgeon in Frisco, TX at 7044 Lebanon Road #101, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/sculpted-contours-plastic-surgery-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

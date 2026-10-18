@@ -6,8 +6,8 @@ Also answers: mattress store in Minneapolis, MN; mattress store near me (Minneap
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sleep Concepts | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Sleep Concepts is a mattress store in Minneapolis, MN at 2516 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128712255. | https://registry-edge.dingalinged.workers.dev/c/sleep-concepts-minneapolis/
-2. Online Mattress Showroom | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Online Mattress Showroom is a mattress store in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/online-mattress-showroom-minneapolis/
+1. Sleep Concepts | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Sleep Concepts is a mattress store in Minneapolis, MN at 2516 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128712255. | https://registry-edge.dingalinged.workers.dev/c/sleep-concepts-minneapolis/
+2. Online Mattress Showroom | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Online Mattress Showroom is a mattress store in Minneapolis, MN. | https://registry-edge.dingalinged.workers.dev/c/online-mattress-showroom-minneapolis/
 3. Mattress Firm | Organic #3 | Pulse Score 51.9/100 (Fair, #3 in city) | Mattress Firm is a mattress store in Minneapolis, MN at 1001 West Lake Street, Minneapolis, MN 55408. Phone: +16128279022. Website: https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-minneapolis/
 
 ## Market data (for advertisers and agents)

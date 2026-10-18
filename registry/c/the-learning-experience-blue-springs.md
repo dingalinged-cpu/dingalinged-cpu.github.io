@@ -13,12 +13,12 @@ The Learning Experience is a daycare in Blue Springs, MO at 2750 MO Hwy 7, Blue 
 - Website: https://thelearningexperience.com/centers/blue-springs-mo/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 95% of daycares in Kansas City, MO, #3 of 3 daycares in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 95% of daycares in Kansas City, MO, #3 of 3 daycares in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-learning-experience-blue-springs/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-learning-experience-blue-springs.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1389258208 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1389258208 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

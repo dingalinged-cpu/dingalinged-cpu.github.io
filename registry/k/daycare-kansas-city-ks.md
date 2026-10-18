@@ -7,7 +7,7 @@ Also answers: daycare in Kansas City, KS; daycare near me (Kansas City, KS); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Kiddi College | Organic #1 | Pulse Score 57.2/100 (Unrated, #7 in city) | Kiddi College is a daycare in Kansas City, KS. Website: https://kiddikollegechildcare.com/. | https://registry-edge.dingalinged.workers.dev/c/kiddi-college-kansas-city/
-2. Little Angels Preschool | Organic #2 | Pulse Score 56.2/100 (Unrated, #9 in city) | Little Angels Preschool is a daycare in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/little-angels-preschool-kansas-city/
+2. Little Angels Preschool | Organic #2 | Pulse Score 56.6/100 (Unrated, #8 in city) | Little Angels Preschool is a daycare in Kansas City, KS. | https://registry-edge.dingalinged.workers.dev/c/little-angels-preschool-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare kansas city ks | category: Education & childcare | industry benchmark: Education & Instruction

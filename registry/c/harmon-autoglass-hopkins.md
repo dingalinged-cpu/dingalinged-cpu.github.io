@@ -13,7 +13,7 @@ Harmon AutoGlass is an auto repair shop in Hopkins, MN at 10430 Excelsior Boulev
 - Website: https://www.harmonautoglassmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Minneapolis–St. Paul, #1 of 5 auto repair shops in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Minneapolis–St. Paul, #1 of 5 auto repair shops in Hopkins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

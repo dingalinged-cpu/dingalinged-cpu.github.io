@@ -6,7 +6,7 @@ Also answers: event venues in Blue Island, IL; event venues near me (Blue Island
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Lyric Theater | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | The Lyric Theater is an event venue in Blue Island, IL at 12952 Western Avenue, Blue Island, IL 60406. Website: https://www.lyrictheater.com/. | https://registry-edge.dingalinged.workers.dev/c/the-lyric-theater-blue-island/
+1. The Lyric Theater | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | The Lyric Theater is an event venue in Blue Island, IL at 12952 Western Avenue, Blue Island, IL 60406. Website: https://www.lyrictheater.com/. | https://registry-edge.dingalinged.workers.dev/c/the-lyric-theater-blue-island/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues blue island il | category: Events & weddings | industry benchmark: Personal Services

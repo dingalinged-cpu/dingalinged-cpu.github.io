@@ -13,7 +13,7 @@ Spirit of 76th Veterinary Clinic is a veterinarian in West Allis, WI at 7606 Sou
 - Website: https://spiritof76thveterinaryclinic.com/
 - Email: info@spirit.vet
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa,Su off
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of veterinarians in Milwaukee, #1 of 1 veterinarians in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of veterinarians in Milwaukee, #1 of 1 veterinarians in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

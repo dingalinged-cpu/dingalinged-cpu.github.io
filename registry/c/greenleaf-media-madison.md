@@ -13,7 +13,7 @@ Greenleaf Media is a marketing agency in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 72% of marketing agencys in Madison, #5 of 7 marketing agencys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 72% of marketing agencys in Madison, #5 of 7 marketing agencys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Dallas, TX at 8055 Churchill Way, Dallas, T
 - Website: https://www.costco.com/warehouse-locations/dallas-tx-1266.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
-- Pulse Score: 50.2/100 — Fair — top 50% of tire shops in Dallas–Fort Worth, #21 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 50% of tire shops in Dallas–Fort Worth, #21 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Bellevue, NE at 3512 Samson Way ##126, Bellev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-22:00; Fr-Sa 08:00-20:00; Su 10:00-19:00
-- Pulse Score: 44.7/100 — Building — top 75% of tanning salons in Omaha, NE, #2 of 2 tanning salons in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 75% of tanning salons in Omaha, NE, #2 of 2 tanning salons in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

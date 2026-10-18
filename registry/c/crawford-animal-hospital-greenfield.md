@@ -13,7 +13,7 @@ Crawford Animal Hospital is a veterinarian in Greenfield, WI at 4607 South 108th
 - Website: https://crawfordvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 51% of veterinarians in Milwaukee, #2 of 5 veterinarians in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 51% of veterinarians in Milwaukee, #2 of 5 veterinarians in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

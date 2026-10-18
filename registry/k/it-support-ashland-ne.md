@@ -6,7 +6,7 @@ Also answers: it support in Ashland, NE; it support near me (Ashland, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HelpSystems | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | HelpSystems is an IT support company in Ashland, NE at 103 South 14th Street, Ashland, NE 68003. Phone: +14029444242. Website: https://goanywhere.com/. | https://registry-edge.dingalinged.workers.dev/c/helpsystems-ashland/
+1. HelpSystems | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | HelpSystems is an IT support company in Ashland, NE at 103 South 14th Street, Ashland, NE 68003. Phone: +14029444242. Website: https://goanywhere.com/. | https://registry-edge.dingalinged.workers.dev/c/helpsystems-ashland/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support ashland ne | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

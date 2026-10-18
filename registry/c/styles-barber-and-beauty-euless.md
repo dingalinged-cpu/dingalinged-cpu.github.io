@@ -13,7 +13,7 @@ Styles Barber & Beauty is a barber shop in Euless, TX at 415 North Main Street #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 56% of barber shops in Dallas–Fort Worth, #5 of 6 barber shops in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 53% of barber shops in Dallas–Fort Worth, #4 of 6 barber shops in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Petco is a pet store in Rockwall, TX at 2689 Market Center Drive, Rockwall, TX 7
 - Website: https://stores.petco.com/tx/rockwall/pet-supplies-rockwall-tx-487.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.3/100 — Building — top 58% of pet stores in Dallas–Fort Worth, #1 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 57% of pet stores in Dallas–Fort Worth, #1 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

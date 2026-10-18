@@ -6,7 +6,7 @@ Also answers: thrift store in Lenexa, KS; thrift store near me (Lenexa, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Habitat for Humanity ReStore | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Habitat for Humanity ReStore is a thrift store in Lenexa, KS at 9605 Dice Lane, Lenexa, KS 66215. Website: https://habitatkc.org/restore/. | https://registry-edge.dingalinged.workers.dev/c/habitat-for-humanity-restore-lenexa/
+1. Habitat for Humanity ReStore | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Habitat for Humanity ReStore is a thrift store in Lenexa, KS at 9605 Dice Lane, Lenexa, KS 66215. Website: https://habitatkc.org/restore/. | https://registry-edge.dingalinged.workers.dev/c/habitat-for-humanity-restore-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store lenexa ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

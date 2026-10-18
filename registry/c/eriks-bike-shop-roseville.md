@@ -13,7 +13,7 @@ Erik's Bike Shop is a bike shop in Roseville, MN at 2059 Snelling Avenue North, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.5, Trust 41.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.5, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

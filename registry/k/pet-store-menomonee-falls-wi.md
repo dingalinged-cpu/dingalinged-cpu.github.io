@@ -6,7 +6,7 @@ Also answers: pet store in Menomonee Falls, WI; pet store near me (Menomonee Fal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Friends of Nature | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Friends of Nature is a pet store in Menomonee Falls, WI at N88W15483 Main Street, Menomonee Falls, WI 53051. Phone: +12622539889. Website: https://friendsofnaturewi.com/. | https://registry-edge.dingalinged.workers.dev/c/friends-of-nature-menomonee-falls/
+1. Friends of Nature | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Friends of Nature is a pet store in Menomonee Falls, WI at N88W15483 Main Street, Menomonee Falls, WI 53051. Phone: +12622539889. Website: https://friendsofnaturewi.com/. | https://registry-edge.dingalinged.workers.dev/c/friends-of-nature-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store menomonee falls wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Five Star Storage - Cary Street is a self-storage facility in Bellevue, NE at 80
 - Website: https://www.fivestarstorage.biz/locations/nebraska/bellevue/five-star-storage-cary-street/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 21% of self-storage facilitys in Omaha, NE, #1 of 1 self-storage facilitys in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 21% of self-storage facilitys in Omaha, NE, #1 of 1 self-storage facilitys in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

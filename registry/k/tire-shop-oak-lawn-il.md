@@ -6,8 +6,8 @@ Also answers: tire shop in Oak Lawn, IL; tire shop near me (Oak Lawn, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Discount Tire is a tire shop in Oak Lawn, IL at 6635 West 95th Street, Oak Lawn, IL 60453. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-oak-lawn/
-2. Bridgestone | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | Bridgestone is a tire shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Lawn, IL 60453. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-oak-lawn/
+1. Discount Tire | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Discount Tire is a tire shop in Oak Lawn, IL at 6635 West 95th Street, Oak Lawn, IL 60453. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-oak-lawn/
+2. Bridgestone | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Bridgestone is a tire shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Lawn, IL 60453. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop oak lawn il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

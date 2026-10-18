@@ -13,7 +13,7 @@ IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55
 - Website: https://www.ikea.com/us/en/stores/minneapolis/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-21:00; Su 09:30-20:00
-- Pulse Score: 47.8/100 — Building — top 76% of furniture stores in Minneapolis–St. Paul, #4 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 75% of furniture stores in Minneapolis–St. Paul, #4 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Collin County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 87% of auto repair shops in Dallas–Fort Worth, #2 of 2 auto repair shops in Collin County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 87% of auto repair shops in Dallas–Fort Worth, #2 of 2 auto repair shops in Collin County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

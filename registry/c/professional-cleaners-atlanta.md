@@ -13,7 +13,7 @@ Professional Cleaners is a dry cleaner in Atlanta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 89% of dry cleaners in Atlanta, #23 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 86% of dry cleaners in Atlanta, #23 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

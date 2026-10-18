@@ -13,7 +13,7 @@ ATC Income Tax is a tax preparation service in Milwaukee, WI at 3428 West Vliet 
 - Website: https://www.atcincometax.com/location/tax-service-milwaukee-3428-w-vliet-st/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 75% of tax preparation services in Milwaukee, #22 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 75% of tax preparation services in Milwaukee, #22 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

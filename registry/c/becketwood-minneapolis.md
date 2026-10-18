@@ -13,7 +13,7 @@ Becketwood is an assisted living facility in Minneapolis, MN at 4300 West River 
 - Website: https://becketwood.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 38% of assisted living facilitys in Minneapolis–St. Paul, #5 of 12 assisted living facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of assisted living facilitys in Minneapolis–St. Paul, #5 of 12 assisted living facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

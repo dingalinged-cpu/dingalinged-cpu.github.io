@@ -6,7 +6,7 @@ Also answers: preschool in Independence, MO; preschool near me (Independence, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hanthorn Early Education | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Hanthorn Early Education is a preschool in Independence, MO at 1511 South Kings Highway, Independence, MO 64055. Phone: +18165215485. Website: https://sites.isdschools.org/hanthorn. | https://registry-edge.dingalinged.workers.dev/c/hanthorn-early-education-independence/
+1. Hanthorn Early Education | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Hanthorn Early Education is a preschool in Independence, MO at 1511 South Kings Highway, Independence, MO 64055. Phone: +18165215485. Website: https://sites.isdschools.org/hanthorn. | https://registry-edge.dingalinged.workers.dev/c/hanthorn-early-education-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool independence mo | category: Education & childcare | industry benchmark: Education & Instruction

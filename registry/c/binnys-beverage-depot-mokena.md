@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Mokena, IL. Phone: +18155348980. Web
 - Website: https://www.binnys.com/store-locator/mokena/
 - Email: mokena@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 49.9/100 — Building — top 96% of liquor stores in Chicago, #1 of 1 liquor stores in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 94% of liquor stores in Chicago, #1 of 1 liquor stores in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

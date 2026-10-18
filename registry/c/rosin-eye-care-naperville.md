@@ -13,7 +13,7 @@ Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenu
 - Website: https://www.rosineyecare.com/naperville-north-eye-doctor/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-15:00; Su off
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Chicago, #2 of 3 eye care practices in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of eye care practices in Chicago, #2 of 3 eye care practices in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

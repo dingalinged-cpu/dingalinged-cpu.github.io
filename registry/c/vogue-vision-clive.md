@@ -13,7 +13,7 @@ Vogue Vision is an eye care practice in Clive, IA at 9749 University Avenue, Cli
 - Website: https://voguevision.com/
 - Email: indianhills@realopticsinc.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of eye care practices in Des Moines, IA, #1 of 1 eye care practices in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of eye care practices in Des Moines, IA, #1 of 1 eye care practices in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

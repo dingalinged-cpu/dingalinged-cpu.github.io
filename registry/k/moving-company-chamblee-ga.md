@@ -6,7 +6,7 @@ Also answers: moving company in Chamblee, GA; moving company near me (Chamblee, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Furniture Taxi Moving Company | Organic #1 | Pulse Score 59.9/100 (Unrated, #2 in city) | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-furniture-taxi-moving-company-atlanta/
+1. Atlanta Furniture Taxi Moving Company | Organic #1 | Pulse Score 59.8/100 (Unrated, #2 in city) | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-furniture-taxi-moving-company-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company chamblee ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

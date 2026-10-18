@@ -6,7 +6,7 @@ Also answers: yoga classes in Roseville, MN; yoga classes near me (Roseville, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CorePower Yoga | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | CorePower Yoga is a yoga studio in Roseville, MN at 2480 Fairview Avenue North #155, Roseville, MN. Phone: +16514194544. Website: https://www.corepoweryoga.com/yoga-studios/mn/twin-cities/rosedale. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-roseville/
+1. CorePower Yoga | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | CorePower Yoga is a yoga studio in Roseville, MN at 2480 Fairview Avenue North #155, Roseville, MN. Phone: +16514194544. Website: https://www.corepoweryoga.com/yoga-studios/mn/twin-cities/rosedale. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes roseville mn | category: Fitness | industry benchmark: Health & Fitness

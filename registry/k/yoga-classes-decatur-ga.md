@@ -6,7 +6,7 @@ Also answers: yoga classes in Decatur, GA; yoga classes near me (Decatur, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vista Yoga | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Vista Yoga is a yoga studio in Decatur, GA at 2836 Lavista Road, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/vista-yoga-decatur/
+1. Vista Yoga | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Vista Yoga is a yoga studio in Decatur, GA at 2836 Lavista Road, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/vista-yoga-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes decatur ga | category: Fitness | industry benchmark: Health & Fitness

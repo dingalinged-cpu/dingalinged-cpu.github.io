@@ -13,7 +13,7 @@ Kwik Kar is an auto repair shop in Lucas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.5/100 — Building — top 99% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Lucas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.5/100 — Building — top 98% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Lucas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

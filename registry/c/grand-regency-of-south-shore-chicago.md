@@ -13,7 +13,7 @@ Grand Regency Of South Shore is an assisted living facility in Chicago, IL at 74
 - Website: https://grandregencysouthshore.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.6/100 — Good — top 3% of assisted living facilitys in Chicago, #1 of 16 assisted living facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 3% of assisted living facilitys in Chicago, #1 of 16 assisted living facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: printing services in West Des Moines, IA; printing services near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | The UPS Store is a printing service in West Des Moines, IA at 6750 Westown Parkway, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-west-des-moines-n2663582943/
+1. The UPS Store | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | The UPS Store is a printing service in West Des Moines, IA at 6750 Westown Parkway, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-west-des-moines-n2663582943/
 2. The UPS Store | Organic #2 | Pulse Score 44.9/100 (Building, #2 in city) | The UPS Store is a printing service in West Des Moines, IA at 2800 University Avenue, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-west-des-moines/
 3. The UPS Store | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | The UPS Store is a printing service in West Des Moines, IA at 3775 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-west-des-moines-n3268103541/
 

@@ -13,7 +13,7 @@ The Law Office of Michael J Crawford - Criminal Defense Attorneys is a lawyer in
 - Website: https://www.michaeljcrawfordlaw.com/waxahachie-criminal-defense/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 52.7/100 — Fair — top 97% of lawyers in Dallas–Fort Worth, #5 of 5 lawyers in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 96% of lawyers in Dallas–Fort Worth, #5 of 5 lawyers in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

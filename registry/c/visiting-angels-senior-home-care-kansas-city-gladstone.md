@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care Kansas City is an assisted living facility in G
 - Website: https://www.visitingangels.com/kansascitynorth/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 4% of assisted living facilitys in Kansas City, MO, #1 of 1 assisted living facilitys in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 100% of assisted living facilitys in Kansas City, MO, #1 of 1 assisted living facilitys in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

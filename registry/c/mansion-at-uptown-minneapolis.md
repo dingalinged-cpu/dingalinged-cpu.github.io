@@ -13,7 +13,7 @@ Mansion at Uptown is an event venue in Minneapolis, MN at 2901 Hennepin Avenue S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 5% of event venues in Minneapolis–St. Paul, #2 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 5% of event venues in Minneapolis–St. Paul, #2 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

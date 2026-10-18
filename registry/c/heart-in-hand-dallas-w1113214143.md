@@ -13,7 +13,7 @@ Heart in Hand is a tattoo shop in Dallas, TX at 2614 Elm Street ##120, Dallas, T
 - Website: n/a
 - Email: heartinhandgallery@gmail.com
 - Opening hours (OSM syntax): Su-We 11:00-21:00; Th-Sa 11:00-24:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Dallas–Fort Worth, #4 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of tattoo shops in Dallas–Fort Worth, #4 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

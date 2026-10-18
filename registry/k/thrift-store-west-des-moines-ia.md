@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. 9 Lives Thrift Shop | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | 9 Lives Thrift Shop is a thrift store in West Des Moines, IA at 409 Walnut Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/9-lives-thrift-shop-west-des-moines/
 2. C'est Bon | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | C'est Bon is a thrift store in West Des Moines, IA at 510 Elm Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/cest-bon-west-des-moines/
 3. Found Treasures | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Found Treasures is a thrift store in West Des Moines, IA at 817 Grand Avenue, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/found-treasures-west-des-moines/
-4. Goodwill | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Goodwill is a thrift store in West Des Moines, IA at 1600 Valley West Drive, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/goodwill-west-des-moines/
+4. Goodwill | Organic #4 | Pulse Score 47.3/100 (Building, #4 in city) | Goodwill is a thrift store in West Des Moines, IA at 1600 Valley West Drive, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/goodwill-west-des-moines/
 5. Goodwill | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Goodwill is a thrift store in West Des Moines, IA at 6630 Mills Civic Parkway, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/goodwill-west-des-moines-w251862204/
 
 ## Market data (for advertisers and agents)

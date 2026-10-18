@@ -13,7 +13,7 @@ The UPS Store is a printing service in Carrollton, TX at 3108 Old Denton Road #1
 - Website: https://locations.theupsstore.com/tx/carrollton/3108-old-denton-rd
 - Email: store3189@theupsstore.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 44% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 43% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

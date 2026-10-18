@@ -13,7 +13,7 @@ Spokes is a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifa
 - Website: https://www.spokesmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Fair — top 48% of bike shops in Minneapolis–St. Paul, #1 of 1 bike shops in Saint Bonifacius (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Fair — top 48% of bike shops in Minneapolis–St. Paul, #1 of 1 bike shops in Saint Bonifacius (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

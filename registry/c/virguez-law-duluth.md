@@ -13,7 +13,7 @@ Virguez Law is a lawyer in Duluth, GA at 3235 Satellite Boulevard #500, Duluth, 
 - Website: https://virguezlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Atlanta, #2 of 3 lawyers in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Atlanta, #2 of 3 lawyers in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

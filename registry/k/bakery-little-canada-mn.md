@@ -6,7 +6,7 @@ Also answers: bakery in Little Canada, MN; bakery near me (Little Canada, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Donut Hut | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Donut Hut is a bakery in Little Canada, MN at 31 Little Canada Road East, Little Canada, MN 55117. Phone: +16514810079. | https://registry-edge.dingalinged.workers.dev/c/donut-hut-little-canada/
+1. Donut Hut | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Donut Hut is a bakery in Little Canada, MN at 31 Little Canada Road East, Little Canada, MN 55117. Phone: +16514810079. | https://registry-edge.dingalinged.workers.dev/c/donut-hut-little-canada/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery little canada mn | category: Events & weddings | industry benchmark: Personal Services

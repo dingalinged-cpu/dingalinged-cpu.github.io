@@ -13,7 +13,7 @@ Liquor is a liquor store in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 58% of liquor stores in Houston, #18 of 37 liquor stores in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 99% of liquor stores in Houston, #36 of 37 liquor stores in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Texas City, TX at 2020 Gulf Freeway Frontage Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 89% of dentists in Houston, #2 of 2 dentists in Texas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 87% of dentists in Houston, #2 of 2 dentists in Texas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

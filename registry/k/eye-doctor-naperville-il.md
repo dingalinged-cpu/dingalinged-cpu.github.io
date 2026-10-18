@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Eye Encounters | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-encounters-naperville/
 2. Rosin Eye Care | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://registry-edge.dingalinged.workers.dev/c/rosin-eye-care-naperville/
-3. MyEyeDr. | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://registry-edge.dingalinged.workers.dev/c/myeyedr-naperville/
+3. MyEyeDr. | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://registry-edge.dingalinged.workers.dev/c/myeyedr-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

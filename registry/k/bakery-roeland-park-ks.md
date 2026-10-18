@@ -6,7 +6,7 @@ Also answers: bakery in Roeland Park, KS; bakery near me (Roeland Park, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Einstein Bros. Bagels | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Einstein Bros. Bagels is a bakery in Roeland Park, KS at 4050 Shawnee Mission Parkway #36, Roeland Park, KS 66205. Phone: +19133841900. Website: https://locations.einsteinbros.com/us/ks/fairway/4050-shawnee-mission-pkwy. | https://registry-edge.dingalinged.workers.dev/c/einstein-bros-bagels-roeland-park/
+1. Einstein Bros. Bagels | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Einstein Bros. Bagels is a bakery in Roeland Park, KS at 4050 Shawnee Mission Parkway #36, Roeland Park, KS 66205. Phone: +19133841900. Website: https://locations.einsteinbros.com/us/ks/fairway/4050-shawnee-mission-pkwy. | https://registry-edge.dingalinged.workers.dev/c/einstein-bros-bagels-roeland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery roeland park ks | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ The Helm ABA is a therapy practice in Lewisville, TX. Phone: +14694586832. Websi
 - Website: https://www.thehelaba.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su closed; PH closed
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 20% of therapy practices in Dallas–Fort Worth, #1 of 4 therapy practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 20% of therapy practices in Dallas–Fort Worth, #1 of 4 therapy practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

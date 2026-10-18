@@ -13,7 +13,7 @@ Nail Care Spa is a nail salon in Smyrna, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 92% of nail salons in Atlanta, #10 of 11 nail salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Atlanta, #10 of 11 nail salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

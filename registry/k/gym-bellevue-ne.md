@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hot Wrx | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Hot Wrx is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/hot-wrx-bellevue/
 2. Latitude41 Fitness Center | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Latitude41 Fitness Center is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/latitude41-fitness-center-bellevue/
-3. Blue Moon | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Blue Moon is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/blue-moon-bellevue/
-4. Bob's | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Bob's is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/bobs-bellevue/
-5. Molly Logic | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Molly Logic is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/molly-logic-bellevue/
+3. Blue Moon | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Blue Moon is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/blue-moon-bellevue/
+4. Bob's | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Bob's is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/bobs-bellevue/
+5. Molly Logic | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Molly Logic is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/molly-logic-bellevue/
 6. Planet Fitness | Organic #6 | Pulse Score 43/100 (Building, #6 in city) | Planet Fitness is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-bellevue/
 7. Farrell’s eXtreme Bodyshaping | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Farrell’s eXtreme Bodyshaping is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/farrell-s-extreme-bodyshaping-bellevue/
 

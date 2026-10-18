@@ -6,8 +6,8 @@ Also answers: spa in Maple Grove, MN; spa near me (Maple Grove, MN); best spa Ma
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simmonson's Salon and Spa | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Simmonson's Salon and Spa is a spa in Maple Grove, MN at 13950 Grove Drive North #300, Maple Grove, MN 55311. Phone: +17634944863. Website: https://www.simonsons.com/locations/maple-grove/. | https://registry-edge.dingalinged.workers.dev/c/simmonsons-salon-and-spa-maple-grove/
-2. Kalla Lily | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Kalla Lily is a spa in Maple Grove, MN at 9851 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17634161700. Website: https://www.kallalily.com/home. | https://registry-edge.dingalinged.workers.dev/c/kalla-lily-maple-grove/
+1. Simmonson's Salon and Spa | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Simmonson's Salon and Spa is a spa in Maple Grove, MN at 13950 Grove Drive North #300, Maple Grove, MN 55311. Phone: +17634944863. Website: https://www.simonsons.com/locations/maple-grove/. | https://registry-edge.dingalinged.workers.dev/c/simmonsons-salon-and-spa-maple-grove/
+2. Kalla Lily | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Kalla Lily is a spa in Maple Grove, MN at 9851 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17634161700. Website: https://www.kallalily.com/home. | https://registry-edge.dingalinged.workers.dev/c/kalla-lily-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa maple grove mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Precision Acupuncture is an acupuncture clinic in Minneapolis, MN at 1829 Rivers
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 77% of acupuncture clinics in Minneapolis–St. Paul, #3 of 5 acupuncture clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 77% of acupuncture clinics in Minneapolis–St. Paul, #3 of 5 acupuncture clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

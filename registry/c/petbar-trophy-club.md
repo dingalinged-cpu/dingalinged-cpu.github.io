@@ -13,7 +13,7 @@ Petbar is a dog groomer in Trophy Club, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Dallas–Fort Worth, #1 of 1 dog groomers in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Dallas–Fort Worth, #1 of 1 dog groomers in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

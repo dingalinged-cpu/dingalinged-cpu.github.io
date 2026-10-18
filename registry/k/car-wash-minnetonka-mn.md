@@ -6,7 +6,7 @@ Also answers: car wash in Minnetonka, MN; car wash near me (Minnetonka, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-minnetonka/
+1. Mister Car Wash | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-minnetonka/
 2. Speedy Wash | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Speedy Wash is a car wash in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-minnetonka/
 3. Speedy Wash | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Speedy Wash is a car wash in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/speedy-wash-minnetonka-w413449072/
 

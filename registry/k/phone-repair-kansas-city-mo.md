@@ -6,8 +6,8 @@ Also answers: phone repair in Kansas City, MO; phone repair near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TXK Repair Services | Organic #1 | Pulse Score 57.6/100 (Unrated, #2 in city) | TXK Repair Services is a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/. | https://registry-edge.dingalinged.workers.dev/c/txk-repair-services-kansas-city/
-2. uBreakiFix | Organic #2 | Pulse Score 42.1/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-kansas-city/
+1. TXK Repair Services | Organic #1 | Pulse Score 57.3/100 (Unrated, #2 in city) | TXK Repair Services is a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/. | https://registry-edge.dingalinged.workers.dev/c/txk-repair-services-kansas-city/
+2. uBreakiFix | Organic #2 | Pulse Score 42/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair kansas city mo | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

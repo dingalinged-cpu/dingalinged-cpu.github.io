@@ -7,7 +7,7 @@ Also answers: insurance agency in Brookfield, IL; insurance agency near me (Broo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Get Covered Insurance Agency | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Get Covered Insurance Agency is an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513. | https://registry-edge.dingalinged.workers.dev/c/get-covered-insurance-agency-brookfield/
-2. Scheer's | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Scheer's is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/scheers-brookfield/
+2. Scheer's | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Scheer's is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/scheers-brookfield/
 3. State Farm | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | State Farm is an insurance agent in Brookfield, IL at 3633 Hollywood Avenue, Brookfield, IL 60513. | https://registry-edge.dingalinged.workers.dev/c/state-farm-brookfield-n10733645345/
 4. Allstate | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | Allstate is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/allstate-brookfield/
 5. Allstate | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | Allstate is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/allstate-brookfield-n9793717168/

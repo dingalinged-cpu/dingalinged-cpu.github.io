@@ -13,7 +13,7 @@ Top Turf Lawn Care and Pest Management is a landscaping company in Cobb County, 
 - Website: https://www.topturf.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-13:00; Su off
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of landscaping companys in Atlanta, #4 of 5 landscaping companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 50% of landscaping companys in Atlanta, #4 of 5 landscaping companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: realtor in West Milwaukee, WI; realtor near me (West Milwaukee, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jason Scott Realty & Management, LLC | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Jason Scott Realty & Management, LLC is a real estate agency in West Milwaukee, WI at 4931 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14144678665. Website: https://jsrm.net/about/. | https://registry-edge.dingalinged.workers.dev/c/jason-scott-realty-and-management-llc-west-milwaukee/
+1. Jason Scott Realty & Management, LLC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Jason Scott Realty & Management, LLC is a real estate agency in West Milwaukee, WI at 4931 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14144678665. Website: https://jsrm.net/about/. | https://registry-edge.dingalinged.workers.dev/c/jason-scott-realty-and-management-llc-west-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor west milwaukee wi | category: real_estate | industry benchmark: Real Estate

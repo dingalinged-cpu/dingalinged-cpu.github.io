@@ -13,7 +13,7 @@ Gustafson Gervasi Law Office is a lawyer in Madison, WI at 5555 Odana Road, Madi
 - Website: https://gustafsonlegal.com/
 - Email: melinda@gustafsonlegal.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Madison, #2 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Madison, #2 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

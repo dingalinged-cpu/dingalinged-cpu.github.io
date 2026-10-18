@@ -6,7 +6,7 @@ Also answers: furniture store in Oakview, MO; furniture store near me (Oakview, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Design by Exchange | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Design by Exchange is a furniture store in Oakview, MO at 6259 North Oak Trafficway, Oakview, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/design-by-exchange-oakview/
+1. Design by Exchange | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Design by Exchange is a furniture store in Oakview, MO at 6259 North Oak Trafficway, Oakview, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/design-by-exchange-oakview/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store oakview mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

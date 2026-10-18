@@ -6,7 +6,7 @@ Also answers: bakery in Roswell, GA; bakery near me (Roswell, GA); best bakery R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doodle Pies | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | Doodle Pies is a bakery in Roswell, GA at 1105 Woodstock Road #140, Roswell, GA. Website: https://doodlepies.net/. | https://registry-edge.dingalinged.workers.dev/c/doodle-pies-roswell/
+1. Doodle Pies | Organic #1 | Pulse Score 59.5/100 (Fair, #1 in city) | Doodle Pies is a bakery in Roswell, GA at 1105 Woodstock Road #140, Roswell, GA. Website: https://doodlepies.net/. | https://registry-edge.dingalinged.workers.dev/c/doodle-pies-roswell/
 2. Theo's Brother's Bakery | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Theo's Brother's Bakery is a bakery in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/theos-brothers-bakery-roswell/
 3. Panaderia | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Panaderia is a bakery in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/panaderia-roswell/
 

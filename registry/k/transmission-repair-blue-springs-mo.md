@@ -7,7 +7,7 @@ Also answers: transmission repair in Blue Springs, MO; transmission repair near 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. MAC's Auto Repair & Sales | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | MAC's Auto Repair & Sales is an auto repair shop in Blue Springs, MO at 5225 US-40 #Unit 5, Blue Springs, MO 64015. Phone: +18164660606. Website: https://www.macsautorepairsales.com/. | https://registry-edge.dingalinged.workers.dev/c/macs-auto-repair-and-sales-blue-springs/
-2. AAMCO Transmissions & Total Car Care | Organic #2 | Pulse Score 46.5/100 (Building, #8 in city) | AAMCO Transmissions & Total Car Care is an auto repair shop in Blue Springs, MO at 1200 Southwest Quarry Road, Blue Springs, MO 64015. | https://registry-edge.dingalinged.workers.dev/c/aamco-transmissions-and-total-car-care-blue-springs/
+2. AAMCO Transmissions & Total Car Care | Organic #2 | Pulse Score 46.3/100 (Building, #8 in city) | AAMCO Transmissions & Total Car Care is an auto repair shop in Blue Springs, MO at 1200 Southwest Quarry Road, Blue Springs, MO 64015. | https://registry-edge.dingalinged.workers.dev/c/aamco-transmissions-and-total-car-care-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair blue springs mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ PetSmart is a pet store in Wylie, TX at 800, Wylie, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 44.1/100 — Building — top 77% of pet stores in Dallas–Fort Worth, #2 of 2 pet stores in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 76% of pet stores in Dallas–Fort Worth, #2 of 2 pet stores in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

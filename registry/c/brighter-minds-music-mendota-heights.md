@@ -13,7 +13,7 @@ Brighter Minds Music is a music school in Mendota Heights, MN at 770 North Plaza
 - Website: https://www.brightermindsmusic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Fair — top 40% of music schools in Minneapolis–St. Paul, #1 of 1 music schools in Mendota Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Fair — top 40% of music schools in Minneapolis–St. Paul, #1 of 1 music schools in Mendota Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

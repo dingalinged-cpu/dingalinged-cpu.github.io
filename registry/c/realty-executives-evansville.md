@@ -13,7 +13,7 @@ Realty Executives is a real estate agency in Evansville, WI at 23 West Main Stre
 - Website: https://katshomesales.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.4/100 — Building — top 89% of real estate agencys in Madison, #3 of 4 real estate agencys in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 89% of real estate agencys in Madison, #3 of 4 real estate agencys in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

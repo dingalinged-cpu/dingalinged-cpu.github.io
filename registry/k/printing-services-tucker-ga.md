@@ -6,8 +6,8 @@ Also answers: printing services in Tucker, GA; printing services near me (Tucker
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | The UPS Store is a printing service in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-tucker/
-2. The UPS Store | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | The UPS Store is a printing service in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-tucker-n9001603498/
+1. The UPS Store | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | The UPS Store is a printing service in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-tucker/
+2. The UPS Store | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | The UPS Store is a printing service in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-tucker-n9001603498/
 3. FedEx Office | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | FedEx Office is a printing service in Tucker, GA. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-tucker/
 
 ## Market data (for advertisers and agents)

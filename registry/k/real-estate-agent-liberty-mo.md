@@ -6,7 +6,7 @@ Also answers: real estate agent in Liberty, MO; real estate agent near me (Liber
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RE/MAX | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | RE/MAX is a real estate agency in Liberty, MO at 2 Victory Drive, Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/re-max-liberty/
+1. RE/MAX | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | RE/MAX is a real estate agency in Liberty, MO at 2 Victory Drive, Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/re-max-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent liberty mo | category: Professional & financial services | industry benchmark: Finance & Insurance

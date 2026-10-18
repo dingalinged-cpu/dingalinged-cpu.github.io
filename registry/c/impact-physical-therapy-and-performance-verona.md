@@ -13,7 +13,7 @@ Impact Physical Therapy & Performance is a physical therapy clinic in Verona, WI
 - Website: https://www.impactptmsn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Madison, #1 of 1 physical therapy clinics in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of physical therapy clinics in Madison, #1 of 1 physical therapy clinics in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

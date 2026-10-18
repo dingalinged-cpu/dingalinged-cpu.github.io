@@ -13,7 +13,7 @@ TNK NaiLux is a nail salon in Des Moines, IA at 1905 Ingersoll Avenue #102, Des 
 - Website: https://tnknailux.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-16:30
-- Pulse Score: 63.7/100 — Good — top 12% of nail salons in Des Moines, IA, #2 of 4 nail salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 12% of nail salons in Des Moines, IA, #2 of 4 nail salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mega Shad Rehab Center is a physical therapy clinic in Dallas, TX at 13601 Prest
 - Website: https://www.megashad.com/
 - Email: megashadfitstaff@gmail.com
 - Opening hours (OSM syntax): Mo,Tu,Fr 06:00-19:00; We 06:00-15:00; Th 08:00-19:00; Sa 08:00-14:00; Su 09:00-13:00
-- Pulse Score: 64.9/100 — Good — top 2% of physical therapy clinics in Dallas–Fort Worth, #1 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 65.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 2% of physical therapy clinics in Dallas–Fort Worth, #1 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

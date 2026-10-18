@@ -1,4 +1,4 @@
-The top unpaid chiropractor listing for Grimes, IA is Back to Health Chiropractic (a chiropractor in Grimes, IA). 2 chiropractor businesses are listed for Grimes, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Grimes, IA is Williamson Family Chiropractic (a chiropractor in Grimes, IA). 2 chiropractor businesses are listed for Grimes, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Grimes, IA?
 
@@ -6,8 +6,8 @@ Also answers: chiropractor in Grimes, IA; chiropractor near me (Grimes, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Back to Health Chiropractic | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Back to Health Chiropractic is a chiropractor in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/back-to-health-chiropractic-grimes/
-2. Williamson Family Chiropractic | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Williamson Family Chiropractic is a chiropractor in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/williamson-family-chiropractic-grimes/
+1. Williamson Family Chiropractic | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Williamson Family Chiropractic is a chiropractor in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/williamson-family-chiropractic-grimes/
+2. Back to Health Chiropractic | Organic #2 | Pulse Score 42.2/100 (Unrated, #2 in city) | Back to Health Chiropractic is a chiropractor in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/back-to-health-chiropractic-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor grimes ia | category: Health & medical | industry benchmark: Physicians & Surgeons

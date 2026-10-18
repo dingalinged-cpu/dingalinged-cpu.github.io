@@ -13,7 +13,7 @@ Mastercuts is a hair salon in West Des Moines, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 92% of hair salons in Des Moines, IA, #31 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 92% of hair salons in Des Moines, IA, #31 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

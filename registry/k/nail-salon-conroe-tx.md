@@ -7,9 +7,9 @@ Also answers: nail salon in Conroe, TX; nail salon near me (Conroe, TX); best na
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Vivid Nails | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Vivid Nails is a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/vivid-nails-conroe/
-2. Elegant Nails | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Elegant Nails is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-nails-conroe/
-3. Nationwide Nails & Spa | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Nationwide Nails & Spa is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-nails-and-spa-conroe/
-4. Premier Nail Bar | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Premier Nail Bar is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/premier-nail-bar-conroe/
+2. Nationwide Nails & Spa | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Nationwide Nails & Spa is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/nationwide-nails-and-spa-conroe/
+3. Premier Nail Bar | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Premier Nail Bar is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/premier-nail-bar-conroe/
+4. Elegant Nails | Organic #4 | Pulse Score 45.4/100 (Building, #4 in city) | Elegant Nails is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-nails-conroe/
 5. Nails of America | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Nails of America is a nail salon in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-of-america-conroe/
 
 ## Market data (for advertisers and agents)

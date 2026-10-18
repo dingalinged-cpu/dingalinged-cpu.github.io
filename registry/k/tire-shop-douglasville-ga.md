@@ -13,8 +13,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. GTR Tire | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | GTR Tire is a tire shop in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/gtr-tire-douglasville/
 6. Express Oil Change & Tire Engineers | Organic #6 | Pulse Score 48.3/100 (Building, #6 in city) | Express Oil Change & Tire Engineers is a tire shop in Douglasville, GA at 6851 Douglas Boulevard, Douglasville, GA 30135. Phone: +16787157007. Website: https://www.expressoil.com/stores/douglasville/ga/1506/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-douglasville/
 7. Express Oil Change & Tire Engineers | Organic #7 | Pulse Score 45.9/100 (Building, #7 in city) | Express Oil Change & Tire Engineers is a tire shop in Douglasville, GA at 650 Thornton Road, Douglasville, GA 30122. Phone: +17709447696. Website: https://www.expressoil.com/stores/lithia-springs/ga/1541/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-douglasville-w1010685776/
-8. Discount Tire | Organic #8 | Pulse Score 42.3/100 (Building, #8 in city) | Discount Tire is a tire shop in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-douglasville/
-9. Tires Plus | Organic #9 | Pulse Score 42.3/100 (Building, #9 in city) | Tires Plus is a tire shop in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-douglasville/
+8. Discount Tire | Organic #8 | Pulse Score 42.4/100 (Building, #8 in city) | Discount Tire is a tire shop in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-douglasville/
+9. Tires Plus | Organic #9 | Pulse Score 42.4/100 (Building, #9 in city) | Tires Plus is a tire shop in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop douglasville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

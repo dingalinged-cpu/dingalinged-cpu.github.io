@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Dallas, TX at 5959 Alpha Road, Dall
 - Website: https://www.publicstorage.com/self-storage-tx-dallas/5641.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
-- Pulse Score: 50.2/100 — Fair — top 35% of self-storage facilitys in Dallas–Fort Worth, #12 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 33% of self-storage facilitys in Dallas–Fort Worth, #10 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ King & Spalding is a lawyer in Atlanta, GA at 1180 Peachtree Street Northeast #1
 - Website: https://www.kslaw.com/offices/Atlanta
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Fair — top 47% of lawyers in Atlanta, #29 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 46% of lawyers in Atlanta, #28 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

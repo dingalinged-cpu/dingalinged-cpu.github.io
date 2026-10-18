@@ -13,7 +13,7 @@ Allstate Insurance Agent: Todd Bellview is an insurance agent in Pearland, TX at
 - Website: https://agents.allstate.com/todd-bellview-pearland-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.3/100 — Good — top 4% of insurance agents in Houston, #2 of 3 insurance agents in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 4% of insurance agents in Houston, #2 of 3 insurance agents in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

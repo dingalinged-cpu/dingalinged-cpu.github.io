@@ -50,9 +50,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 42. Vie Nails SPA | Organic #42 | Pulse Score 55.1/100 (Unrated, #42 in city) | Vie Nails SPA is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/vie-nails-spa-harris-county/
 43. Hollywood Nails | Organic #43 | Pulse Score 44.7/100 (Unrated, #43 in city) | Hollywood Nails is a nail salon in Harris County, TX at 7410 Fairbanks North Houston Road, Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/hollywood-nails-harris-county/
 44. Love Nails | Organic #44 | Pulse Score 44.7/100 (Unrated, #44 in city) | Love Nails is a nail salon in Harris County, TX at 7422 Fairbanks North Houston Road, Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/love-nails-harris-county/
-45. Nails of America | Organic #45 | Pulse Score 43.4/100 (Unrated, #45 in city) | Nails of America is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-of-america-harris-county/
-46. Regal Nails | Organic #46 | Pulse Score 43.3/100 (Building, #46 in city) | Regal Nails is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-harris-county/
-47. Sola Salons | Organic #47 | Pulse Score 43.3/100 (Building, #47 in city) | Sola Salons is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-harris-county/
+45. Regal Nails | Organic #45 | Pulse Score 43.4/100 (Building, #45 in city) | Regal Nails is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-harris-county/
+46. Sola Salons | Organic #46 | Pulse Score 43.4/100 (Building, #46 in city) | Sola Salons is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-harris-county/
+47. Nails of America | Organic #47 | Pulse Score 43.4/100 (Unrated, #47 in city) | Nails of America is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-of-america-harris-county/
 48. Luxury Nails & Spa | Organic #48 | Pulse Score 42.3/100 (Unrated, #48 in city) | Luxury Nails & Spa is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-and-spa-harris-county/
 49. Royal Nails | Organic #49 | Pulse Score 42.3/100 (Unrated, #49 in city) | Royal Nails is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/royal-nails-harris-county/
 

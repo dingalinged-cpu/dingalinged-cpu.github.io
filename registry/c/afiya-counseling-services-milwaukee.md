@@ -13,7 +13,7 @@ Afiya Counseling Services is a therapy practice in Milwaukee, WI at 8018 West Ca
 - Website: https://www.afiya-counselingservices.com/
 - Email: afiyacounselingservicesllc@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 29% of therapy practices in Milwaukee, #8 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 29% of therapy practices in Milwaukee, #8 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: pet store in Wood Dale, IL; pet store near me (Wood Dale, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Petco is a pet store in Wood Dale, IL at 391 West Irving Park Road, Wood Dale, IL 60191. Phone: +16307667387. Website: https://stores.petco.com/il/wooddale/pet-supplies-wooddale-il-672.html. | https://registry-edge.dingalinged.workers.dev/c/petco-wood-dale/
+1. Petco | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Petco is a pet store in Wood Dale, IL at 391 West Irving Park Road, Wood Dale, IL 60191. Phone: +16307667387. Website: https://stores.petco.com/il/wooddale/pet-supplies-wooddale-il-672.html. | https://registry-edge.dingalinged.workers.dev/c/petco-wood-dale/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store wood dale il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

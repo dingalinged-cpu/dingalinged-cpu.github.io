@@ -13,7 +13,7 @@ Jon English Hairspa: Advanced Training & Development Center is a hair salon in M
 - Website: https://www.jonenglishproducts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 38% of hair salons in Minneapolis–St. Paul, #59 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 38% of hair salons in Minneapolis–St. Paul, #58 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

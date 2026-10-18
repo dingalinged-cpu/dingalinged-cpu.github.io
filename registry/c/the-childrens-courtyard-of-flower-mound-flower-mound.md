@@ -13,7 +13,7 @@ The Children's Courtyard of Flower Mound is a daycare in Flower Mound, TX at 250
 - Website: https://www.childrenscourtyard.com/your-local-school/flower-mound-tx-3017/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of daycares in Dallas–Fort Worth, #1 of 2 daycares in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of daycares in Dallas–Fort Worth, #1 of 2 daycares in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

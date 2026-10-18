@@ -13,7 +13,7 @@ O’Brien-Staley Partners is a financial advisor in Edina, MN at 5050 France Ave
 - Website: https://osp-group.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 28% of financial advisors in Minneapolis–St. Paul, #2 of 4 financial advisors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 28% of financial advisors in Minneapolis–St. Paul, #2 of 4 financial advisors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

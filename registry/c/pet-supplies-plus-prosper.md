@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Prosper, TX at 4580 West University Drive #1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 80% of pet stores in Dallas–Fort Worth, #1 of 3 pet stores in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 79% of pet stores in Dallas–Fort Worth, #1 of 3 pet stores in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

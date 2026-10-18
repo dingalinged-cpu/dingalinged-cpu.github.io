@@ -13,7 +13,7 @@ Orland Toyota is an used car dealer in Tinley Park, IL at 8505 West 159th Street
 - Website: https://www.orlandtoyota.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 56% of used car dealers in Chicago, #1 of 3 used car dealers in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 56% of used car dealers in Chicago, #1 of 3 used car dealers in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

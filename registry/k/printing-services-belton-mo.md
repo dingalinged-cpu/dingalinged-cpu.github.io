@@ -6,8 +6,8 @@ Also answers: printing services in Belton, MO; printing services near me (Belton
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fletcher's Forms | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Fletcher's Forms is a printing service in Belton, MO at 505 Main Street, Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/fletchers-forms-belton/
-2. The UPS Store 4004 | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | The UPS Store 4004 is a printing service in Belton, MO at 8426 Clint Drive, Belton, MO 64012. Phone: +18163184500. Website: https://locations.theupsstore.com/mo/belton/8426-clint-drive. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-4004-belton/
+1. Fletcher's Forms | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Fletcher's Forms is a printing service in Belton, MO at 505 Main Street, Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/fletchers-forms-belton/
+2. The UPS Store 4004 | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | The UPS Store 4004 is a printing service in Belton, MO at 8426 Clint Drive, Belton, MO 64012. Phone: +18163184500. Website: https://locations.theupsstore.com/mo/belton/8426-clint-drive. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-4004-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services belton mo | category: Professional & financial services | industry benchmark: Finance & Insurance

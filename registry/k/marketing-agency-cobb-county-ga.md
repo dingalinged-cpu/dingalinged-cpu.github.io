@@ -6,7 +6,7 @@ Also answers: marketing agency in Cobb County, GA; marketing agency near me (Cob
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sinirio Design | Organic #1 | Pulse Score 58.8/100 (Fair, #1 in city) | Sinirio Design is a marketing agency in Cobb County, GA at 3595 Canton Road #332, Cobb County, GA. Website: https://sinirio.com/. | https://registry-edge.dingalinged.workers.dev/c/sinirio-design-cobb-county/
+1. Sinirio Design | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Sinirio Design is a marketing agency in Cobb County, GA at 3595 Canton Road #332, Cobb County, GA. Website: https://sinirio.com/. | https://registry-edge.dingalinged.workers.dev/c/sinirio-design-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency cobb county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

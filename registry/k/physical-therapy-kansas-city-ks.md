@@ -6,7 +6,7 @@ Also answers: physical therapy in Kansas City, KS; physical therapy near me (Kan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Empowered Physical Therapy | Organic #1 | Pulse Score 59.5/100 (Unrated, #2 in city) | Empowered Physical Therapy is a physical therapy clinic in Kansas City, KS. Phone: +19139120069. Website: https://www.empoweredpt-kc.com/. | https://registry-edge.dingalinged.workers.dev/c/empowered-physical-therapy-kansas-city/
+1. Empowered Physical Therapy | Organic #1 | Pulse Score 59.3/100 (Unrated, #2 in city) | Empowered Physical Therapy is a physical therapy clinic in Kansas City, KS. Phone: +19139120069. Website: https://www.empoweredpt-kc.com/. | https://registry-edge.dingalinged.workers.dev/c/empowered-physical-therapy-kansas-city/
 2. PT Solutions Physical Therapy | Organic #2 | Pulse Score 49.4/100 (Building, #5 in city) | PT Solutions Physical Therapy is a physical therapy clinic in Kansas City, KS at 7652 State Avenue, Kansas City, KS 66112. Phone: +19136324775. Website: https://ptsolutions.com/clinics/ks/kansas-city-piper/. | https://registry-edge.dingalinged.workers.dev/c/pt-solutions-physical-therapy-kansas-city/
 
 ## Market data (for advertisers and agents)

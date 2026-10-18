@@ -13,7 +13,7 @@ Ellis Law Offices is a lawyer in Indianola, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Des Moines, IA, #1 of 2 lawyers in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 38.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Des Moines, IA, #1 of 2 lawyers in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 38.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Schneider Storage is a self-storage facility in Town of Springfield, WI at 6814 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Madison, #1 of 1 self-storage facilitys in Town of Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 50% of self-storage facilitys in Madison, #1 of 1 self-storage facilitys in Town of Springfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

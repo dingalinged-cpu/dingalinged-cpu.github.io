@@ -13,7 +13,7 @@ VisAbility Solutions Corporation is an IT support company in Houston, TX at 3663
 - Website: https://www.visability.io/
 - Email: sales@visability.io
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 20% of IT support companys in Houston, #3 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 20% of IT support companys in Houston, #3 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

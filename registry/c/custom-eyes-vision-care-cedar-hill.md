@@ -13,7 +13,7 @@ Custom Eyes Vision Care is an eye care practice in Cedar Hill, TX at 105 East Be
 - Website: https://www.customeyesvisioncare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-18:00; Tu,Fr 07:30-16:00; Th 10:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 11% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Minneapolis Insulation is an insulation contractor in Minneapolis, MN at 2400 No
 - Website: https://www.minneapolisinsulation.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 25% of insulation contractors in Minneapolis–St. Paul, #1 of 3 insulation contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 25% of insulation contractors in Minneapolis–St. Paul, #1 of 3 insulation contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

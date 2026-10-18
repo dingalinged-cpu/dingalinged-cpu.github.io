@@ -13,7 +13,7 @@ Wellstar Kennesaw Medical Center is a family medicine practice in Kennesaw, GA a
 - Website: https://www.wellstar.org/locations/medical-practice/kennesaw-medical-center-kennesaw-3805-cherokee-street-nw
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.7/100 — Fair — top 20% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 20% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

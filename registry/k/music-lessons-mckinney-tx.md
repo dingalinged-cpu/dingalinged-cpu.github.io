@@ -6,8 +6,8 @@ Also answers: music lessons in Mckinney, TX; music lessons near me (Mckinney, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 4/4 School of Music | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | 4/4 School of Music is a music school in McKinney, TX at 4610 Eldorado Parkway #400, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/4-4-school-of-music-mckinney/
-2. Bach to Rock | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Bach to Rock is a music school in McKinney, TX at 3041 South Custer Road #200, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/bach-to-rock-mckinney/
+1. 4/4 School of Music | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | 4/4 School of Music is a music school in McKinney, TX at 4610 Eldorado Parkway #400, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/4-4-school-of-music-mckinney/
+2. Bach to Rock | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Bach to Rock is a music school in McKinney, TX at 3041 South Custer Road #200, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/bach-to-rock-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons mckinney tx | category: Education & childcare | industry benchmark: Education & Instruction

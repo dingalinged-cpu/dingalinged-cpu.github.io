@@ -6,7 +6,7 @@ Also answers: concrete contractor in New Brighton, MN; concrete contractor near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cascade Stone | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Cascade Stone is a concrete contractor in New Brighton, MN. Website: https://www.cascadestone.com/. | https://registry-edge.dingalinged.workers.dev/c/cascade-stone-new-brighton/
+1. Cascade Stone | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Cascade Stone is a concrete contractor in New Brighton, MN. Website: https://www.cascadestone.com/. | https://registry-edge.dingalinged.workers.dev/c/cascade-stone-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor new brighton mn | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

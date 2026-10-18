@@ -13,7 +13,7 @@ Rebel Ridge Tattoo Company is a tattoo shop in Marietta, GA at 1477 Roswell Road
 - Website: https://www.rebelridgetattoo.com/
 - Email: Rebelridgetattoo@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 12:00-20:00
-- Pulse Score: 64.3/100 — Good — top 4% of tattoo shops in Atlanta, #1 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 4% of tattoo shops in Atlanta, #1 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

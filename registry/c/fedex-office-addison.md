@@ -13,7 +13,7 @@ FedEx Office is a printing service in Addison, TX at 4568 Belt Line Road, Addiso
 - Website: https://local.fedex.com/tx/addison/office-3112/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-23:00; Sa-Su 09:00-21:00
-- Pulse Score: 50.1/100 — Fair — top 25% of printing services in Dallas–Fort Worth, #4 of 6 printing services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 24% of printing services in Dallas–Fort Worth, #4 of 6 printing services in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

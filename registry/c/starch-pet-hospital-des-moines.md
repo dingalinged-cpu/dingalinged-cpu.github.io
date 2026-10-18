@@ -13,7 +13,7 @@ Starch Pet Hospital is a veterinarian in Des Moines, IA at 2222 University Avenu
 - Website: https://www.starchpethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in Des Moines, IA, #2 of 8 veterinarians in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in Des Moines, IA, #2 of 8 veterinarians in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

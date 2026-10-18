@@ -13,7 +13,7 @@ Walmart Tire & Lube is a tire shop in Frisco, TX. Phone: +14693626317.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 14% of tire shops in Dallas–Fort Worth, #1 of 3 tire shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 94% of tire shops in Dallas–Fort Worth, #3 of 3 tire shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

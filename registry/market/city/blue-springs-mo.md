@@ -1,4 +1,4 @@
-Keyword market for Blue Springs, MO: 54 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Kansas City, MO-KS metro (US volume x population share).
+Keyword market for Blue Springs, MO: 55 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Kansas City, MO-KS metro (US volume x population share).
 
 # Top keywords in Blue Springs, MO
 
@@ -6,10 +6,10 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By monthly searches
 1. massage blue springs mo | searches/mo 33,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $150,000 | Google Ads equiv $8,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-blue-springs-mo/
-2. car wash blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
-3. dentist blue springs mo | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/dentist-blue-springs-mo/
-4. gym blue springs mo | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-blue-springs-mo/
-5. oil change blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-blue-springs-mo/
+2. car wash blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
+3. dentist blue springs mo | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-blue-springs-mo/
+4. gym blue springs mo | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-blue-springs-mo/
+5. oil change blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-blue-springs-mo/
 6. hair salon blue springs mo | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-blue-springs-mo/
 7. nail salon blue springs mo | searches/mo 6,600 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-blue-springs-mo/
 8. mechanic blue springs mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-blue-springs-mo/
@@ -40,10 +40,10 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By value (searches x CPC)
 1. massage blue springs mo | searches/mo 33,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $150,000 | Google Ads equiv $8,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-blue-springs-mo/
-2. dentist blue springs mo | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/dentist-blue-springs-mo/
-3. car wash blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
-4. oil change blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-blue-springs-mo/
-5. gym blue springs mo | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-blue-springs-mo/
+2. dentist blue springs mo | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-blue-springs-mo/
+3. car wash blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/car-wash-blue-springs-mo/
+4. oil change blue springs mo | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-blue-springs-mo/
+5. gym blue springs mo | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-blue-springs-mo/
 6. mechanic blue springs mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-blue-springs-mo/
 7. electrician blue springs mo | searches/mo 1,600 (est) | CPC $12.18 | value $19,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-blue-springs-mo/
 8. tire shop blue springs mo | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-blue-springs-mo/

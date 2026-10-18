@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Kwik Star | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Kwik Star is a car wash in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/kwik-star-grimes/
 3. Diamond Car Wash | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Diamond Car Wash is a car wash in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/diamond-car-wash-grimes/
 4. Mister Car Wash | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | Mister Car Wash is a car wash in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-grimes/
-5. Mister Car Wash | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Mister Car Wash is a car wash in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-grimes-w1135718288/
+5. Mister Car Wash | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | Mister Car Wash is a car wash in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-grimes-w1135718288/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash grimes ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

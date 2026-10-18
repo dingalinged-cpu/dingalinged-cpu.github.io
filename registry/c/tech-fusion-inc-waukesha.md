@@ -13,7 +13,7 @@ Tech Fusion, Inc is an IT support company in Waukesha, WI at 20900 Swenson Drive
 - Website: https://www.tech-fusion.us/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 48% of IT support companys in Milwaukee, #1 of 2 IT support companys in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 48% of IT support companys in Milwaukee, #1 of 2 IT support companys in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 50.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

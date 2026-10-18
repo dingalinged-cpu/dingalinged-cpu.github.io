@@ -13,7 +13,7 @@ New Leaf Chiropractic is a chiropractor in Houston, TX at 23830 Highway 59 North
 - Website: https://www.newleafchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 10:00-13:00,15:00-18:00; We 10:00-13:00,15:00-19:00
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 28% of chiropractors in Houston, #9 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 28% of chiropractors in Houston, #9 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Des Plaines, IL at 609 West Dempster Str
 - Website: https://centralusa.salvationarmy.org/desplaines/contact-us/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 53% of thrift stores in Chicago, #1 of 2 thrift stores in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 51% of thrift stores in Chicago, #1 of 2 thrift stores in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

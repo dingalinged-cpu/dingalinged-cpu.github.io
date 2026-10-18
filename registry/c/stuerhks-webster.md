@@ -13,7 +13,7 @@ Stuerhk's is an auto repair shop in Webster, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 44% of auto repair shops in Houston, #2 of 4 auto repair shops in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 43% of auto repair shops in Houston, #2 of 4 auto repair shops in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

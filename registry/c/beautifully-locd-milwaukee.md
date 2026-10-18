@@ -13,7 +13,7 @@ Beautifully Loc'd is a hair salon in Milwaukee, WI at 7212 West Appleton Avenue,
 - Website: https://www.beautifullylocd.com/
 - Email: BEAUTIFULLYLOCDCK@gmail.com
 - Opening hours (OSM syntax): Mo-Fr off; Sa 09:00-18:00 open "by appointment"; Su 09:00-14:00 open "by appointment"
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Milwaukee, #37 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Milwaukee, #36 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

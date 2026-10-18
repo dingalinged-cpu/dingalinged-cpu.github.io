@@ -13,7 +13,7 @@ Whalen Law Office - Criminal Defense Lawyers is a lawyer in Frisco, TX at 9300 J
 - Website: https://www.whalenlawoffice.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 64.1/100 — Good — top 1% of lawyers in Dallas–Fort Worth, #1 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 1% of lawyers in Dallas–Fort Worth, #1 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

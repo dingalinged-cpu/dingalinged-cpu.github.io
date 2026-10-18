@@ -13,7 +13,7 @@ FedEx Office is a printing service in Lewisville, TX at 603 I-35E Frontage Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-18:00; PH closed; Su 12:00-18:00
-- Pulse Score: 47.7/100 — Building — top 44% of printing services in Dallas–Fort Worth, #4 of 5 printing services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 44% of printing services in Dallas–Fort Worth, #4 of 5 printing services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

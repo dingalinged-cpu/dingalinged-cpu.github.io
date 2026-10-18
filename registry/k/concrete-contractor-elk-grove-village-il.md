@@ -6,7 +6,7 @@ Also answers: concrete contractor in Elk Grove Village, IL; concrete contractor 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bart Tuckpointing & Masonry Restoration Contractors | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Bart Tuckpointing & Masonry Restoration Contractors is a concrete contractor in Elk Grove Village, IL. Phone: +17085572807. Website: https://barttuckpointingchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/bart-tuckpointing-and-masonry-restoration-contractors-elk-grove-village/
+1. Bart Tuckpointing & Masonry Restoration Contractors | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Bart Tuckpointing & Masonry Restoration Contractors is a concrete contractor in Elk Grove Village, IL. Phone: +17085572807. Website: https://barttuckpointingchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/bart-tuckpointing-and-masonry-restoration-contractors-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor elk grove village il | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

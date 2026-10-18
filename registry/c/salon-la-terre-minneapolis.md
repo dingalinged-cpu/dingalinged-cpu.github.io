@@ -13,7 +13,7 @@ Salon La Terre is a hair salon in Minneapolis, MN at 3338 Hennepin Avenue South,
 - Website: https://www.salonlaterre.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,Fr 16:00-19:00; We 16:00-18:00+; Sa 10:00-14:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Minneapolis–St. Paul, #20 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Minneapolis–St. Paul, #19 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

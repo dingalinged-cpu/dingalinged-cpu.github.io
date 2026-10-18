@@ -7,7 +7,7 @@ Also answers: facial in Denton, TX; facial near me (Denton, TX); best facial Den
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Ulta | Organic #1 | Pulse Score 59.1/100 (Fair, #1 in city) | Ulta is a skin care studio in Denton, TX at 2314 West University Drive, Denton, TX 76201. Phone: +19407587486. Website: https://www.ulta.com/stores/denton-tx-1704. | https://registry-edge.dingalinged.workers.dev/c/ulta-denton/
-2. Ulta Beauty | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Denton, TX at 1800 South Loop 288 #300, Denton, TX 76205. Phone: +19405665170. Website: https://www.ulta.com/stores/denton-tx-446. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-denton/
+2. Ulta Beauty | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Denton, TX at 1800 South Loop 288 #300, Denton, TX 76205. Phone: +19405665170. Website: https://www.ulta.com/stores/denton-tx-446. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial denton tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

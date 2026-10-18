@@ -13,7 +13,7 @@ Code42 is an IT support company in Minneapolis, MN at 100 Washington Square Wash
 - Website: https://code42.com/
 - Email: support@code42.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of IT support companys in Minneapolis–St. Paul, #1 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of IT support companys in Minneapolis–St. Paul, #1 of 10 IT support companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

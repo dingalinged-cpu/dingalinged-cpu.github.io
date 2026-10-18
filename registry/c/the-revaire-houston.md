@@ -13,7 +13,7 @@ The Revaire is an event venue in Houston, TX at 7122 Old Katy Road, Houston, TX 
 - Website: https://therevaire.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of event venues in Houston, #5 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of event venues in Houston, #5 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

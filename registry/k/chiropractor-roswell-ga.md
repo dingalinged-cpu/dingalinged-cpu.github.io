@@ -14,7 +14,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 6. Chiropractic Health Clinics, PC | Organic #6 | Pulse Score 53.8/100 (Unrated, #6 in city) | Chiropractic Health Clinics, PC is a chiropractor in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/chiropractic-health-clinics-pc-roswell/
 7. Hovey Chiropractic Clinic | Organic #7 | Pulse Score 53.8/100 (Unrated, #7 in city) | Hovey Chiropractic Clinic is a chiropractor in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/hovey-chiropractic-clinic-roswell/
 8. Northeast Chiropractic | Organic #8 | Pulse Score 53.8/100 (Unrated, #8 in city) | Northeast Chiropractic is a chiropractor in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/northeast-chiropractic-roswell/
-9. The Joint Chiropractic | Organic #9 | Pulse Score 41.1/100 (Building, #9 in city) | The Joint Chiropractic is a chiropractor in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-roswell/
+9. The Joint Chiropractic | Organic #9 | Pulse Score 41.2/100 (Building, #9 in city) | The Joint Chiropractic is a chiropractor in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor roswell ga | category: Health & medical | industry benchmark: Physicians & Surgeons

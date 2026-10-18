@@ -13,7 +13,7 @@ Fastsigns is a printing service in Minneapolis, MN at 110 South 8th Street #101,
 - Website: https://www.fastsigns.com/minneapolis-mn
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 49.7/100 — Building — top 30% of printing services in Minneapolis–St. Paul, #4 of 12 printing services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 30% of printing services in Minneapolis–St. Paul, #4 of 12 printing services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

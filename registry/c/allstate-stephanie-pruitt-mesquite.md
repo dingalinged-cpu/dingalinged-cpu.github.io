@@ -13,7 +13,7 @@ Allstate-Stephanie Pruitt is an insurance agent in Mesquite, TX at 2585 Faithon 
 - Website: https://agents.allstate.com/stephanie-pruitt-mesquite-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 48.8/100 — Building — top 47% of insurance agents in Dallas–Fort Worth, #3 of 12 insurance agents in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 46% of insurance agents in Dallas–Fort Worth, #3 of 12 insurance agents in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

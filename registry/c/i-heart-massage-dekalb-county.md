@@ -13,7 +13,7 @@ I Heart Massage is a massage studio in DeKalb County, GA at 1248 Clairmont Road 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Fair — top 40% of massage studios in Atlanta, #2 of 2 massage studios in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Fair — top 39% of massage studios in Atlanta, #2 of 2 massage studios in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: attorney in Ankeny, IA; attorney near me (Ankeny, IA); best attorn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hope Law FIrm | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Hope Law FIrm is a lawyer in Ankeny, IA at 207 Northeast Delaware Avenue, Ankeny, IA 50023. Website: https://www.hopelawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/hope-law-firm-ankeny/
-2. Takekawa & Green | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Takekawa & Green is a lawyer in Ankeny, IA at 1610 Southwest Main Street, Ankeny, IA 50023. | https://registry-edge.dingalinged.workers.dev/c/takekawa-and-green-ankeny/
+1. Hope Law FIrm | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Hope Law FIrm is a lawyer in Ankeny, IA at 207 Northeast Delaware Avenue, Ankeny, IA 50023. Website: https://www.hopelawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/hope-law-firm-ankeny/
+2. Takekawa & Green | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Takekawa & Green is a lawyer in Ankeny, IA at 1610 Southwest Main Street, Ankeny, IA 50023. | https://registry-edge.dingalinged.workers.dev/c/takekawa-and-green-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney ankeny ia | category: professional_legal | industry benchmark: Attorneys & Legal Services

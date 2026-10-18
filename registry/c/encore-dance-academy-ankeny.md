@@ -13,7 +13,7 @@ Encore Dance Academy is a dance studio in Ankeny, IA at 801 South Ankeny Bouleva
 - Website: https://1eda.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 15:00-22:00; We,Th 15:00-21:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of dance studios in Des Moines, IA, #2 of 3 dance studios in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of dance studios in Des Moines, IA, #2 of 3 dance studios in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

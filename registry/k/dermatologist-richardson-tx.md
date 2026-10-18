@@ -6,7 +6,7 @@ Also answers: dermatologist in Richardson, TX; dermatologist near me (Richardson
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dermatology Specialists | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Dermatology Specialists is a dermatologist in Richardson, TX at 3005 East Renner Road #100, Richardson, TX 75082. Phone: +19726990000. | https://registry-edge.dingalinged.workers.dev/c/dermatology-specialists-richardson/
+1. Dermatology Specialists | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Dermatology Specialists is a dermatologist in Richardson, TX at 3005 East Renner Road #100, Richardson, TX 75082. Phone: +19726990000. | https://registry-edge.dingalinged.workers.dev/c/dermatology-specialists-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist richardson tx | category: Health & medical | industry benchmark: Physicians & Surgeons

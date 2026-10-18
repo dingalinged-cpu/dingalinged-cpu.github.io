@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Lewisville, TX at 2403 South Stemmons Freew
 - Website: https://www.mattressfirm.com/en-us/stores/tx/lewisville/002104/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr,Su 10:00-20:00; Su 10:00-18:00; PH closed
-- Pulse Score: 53.3/100 — Fair — top 16% of mattress stores in Dallas–Fort Worth, #2 of 2 mattress stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.8, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.3/100 — Fair — top 15% of mattress stores in Dallas–Fort Worth, #2 of 2 mattress stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

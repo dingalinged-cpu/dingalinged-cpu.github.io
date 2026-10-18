@@ -6,7 +6,7 @@ Also answers: liquor store in Maple Bluff, WI; liquor store near me (Maple Bluff
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vic Pierce Wine & Liquor | Organic #1 | Pulse Score 61.6/100 (Unrated, #5 in city) | Vic Pierce Wine & Liquor is a liquor store in Madison, WI at 609 North Sherman Avenue, Madison, WI 53704. | https://registry-edge.dingalinged.workers.dev/c/vic-pierce-wine-and-liquor-madison/
+1. Vic Pierce Wine & Liquor | Organic #1 | Pulse Score 61.7/100 (Unrated, #5 in city) | Vic Pierce Wine & Liquor is a liquor store in Madison, WI at 609 North Sherman Avenue, Madison, WI 53704. | https://registry-edge.dingalinged.workers.dev/c/vic-pierce-wine-and-liquor-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store maple bluff wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

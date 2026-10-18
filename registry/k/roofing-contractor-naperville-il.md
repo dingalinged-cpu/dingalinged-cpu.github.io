@@ -6,7 +6,7 @@ Also answers: roofing contractor in Naperville, IL; roofing contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salvo Architectural Roofing | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Salvo Architectural Roofing is a roofer in Naperville, IL at 566 West 5th Avenue, Naperville, IL 60563. Phone: +16308573631. Website: https://www.sarcinc.com/. | https://registry-edge.dingalinged.workers.dev/c/salvo-architectural-roofing-naperville/
+1. Salvo Architectural Roofing | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Salvo Architectural Roofing is a roofer in Naperville, IL at 566 West 5th Avenue, Naperville, IL 60563. Phone: +16308573631. Website: https://www.sarcinc.com/. | https://registry-edge.dingalinged.workers.dev/c/salvo-architectural-roofing-naperville/
 2. Naperville Roof Repair | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Naperville Roof Repair is a roofer in Naperville, IL at 1212 South Naper Boulevard, Naperville, IL 60540. Phone: +16303000844. Website: https://www.napervilleroofrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/naperville-roof-repair-naperville/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: printing services in Gardner, KS; printing services near me (Gardn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 51/100 (Fair, #1 in city) | The UPS Store is a printing service in Gardner, KS at 814 East Main Street, Gardner, KS. Phone: +19138564501. Website: https://locations.theupsstore.com/ks/gardner/814-e-main-st. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-gardner/
+1. The UPS Store | Organic #1 | Pulse Score 50.8/100 (Fair, #1 in city) | The UPS Store is a printing service in Gardner, KS at 814 East Main Street, Gardner, KS. Phone: +19138564501. Website: https://locations.theupsstore.com/ks/gardner/814-e-main-st. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-gardner/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services gardner ks | category: Professional & financial services | industry benchmark: Finance & Insurance

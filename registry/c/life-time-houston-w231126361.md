@@ -13,7 +13,7 @@ Life Time is a gym in Houston, TX at 1 Health Way, Houston, TX 77046. Phone: +12
 - Website: https://www.lifetime.life/life-time-locations/tx-greenway-houston.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 54% of gyms in Houston, #41 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 52% of gyms in Houston, #39 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

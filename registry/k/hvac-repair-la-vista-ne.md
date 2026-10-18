@@ -6,7 +6,7 @@ Also answers: hvac repair in La Vista, NE; hvac repair near me (La Vista, NE); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fred's Heating and air | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Fred's Heating and air is a HVAC contractor in La Vista, NE at 8817 South 117th Street, La Vista, NE 68128. | https://registry-edge.dingalinged.workers.dev/c/freds-heating-and-air-la-vista/
+1. Fred's Heating and air | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Fred's Heating and air is a HVAC contractor in La Vista, NE at 8817 South 117th Street, La Vista, NE 68128. | https://registry-edge.dingalinged.workers.dev/c/freds-heating-and-air-la-vista/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair la vista ne | category: Home services - HVAC | industry benchmark: Home & Home Improvement

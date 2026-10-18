@@ -13,7 +13,7 @@ Tom Tom Tamale & Bakery Company is a bakery in Chicago, IL at 4750 South Washten
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 67% of bakerys in Chicago, #256 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 66% of bakerys in Chicago, #254 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

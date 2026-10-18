@@ -13,7 +13,7 @@ Easy Clean Car Wash is a car wash in Griffith, IN at 1637 45th Street, Griffith,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-20:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 7% of car washes in Chicago, #1 of 2 car washes in Griffith (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 6% of car washes in Chicago, #1 of 2 car washes in Griffith (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

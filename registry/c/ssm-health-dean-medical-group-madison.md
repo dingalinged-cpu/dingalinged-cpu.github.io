@@ -13,7 +13,7 @@ SSM Health Dean Medical Group is a family medicine practice in Madison, WI at 13
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; PH off
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Madison, #1 of 2 family medicine practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Madison, #1 of 2 family medicine practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Franklin, WI at 2818 West Rawson Avenue, Franklin, W
 - Website: https://www.anytimefitness.com/gyms/663/franklin-wi-53132/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.1/100 — Fair — top 51% of gyms in Milwaukee, #2 of 4 gyms in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 50% of gyms in Milwaukee, #2 of 4 gyms in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

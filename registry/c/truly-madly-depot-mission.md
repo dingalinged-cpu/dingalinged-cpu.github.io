@@ -19,6 +19,6 @@ Truly Madly Depot is a gift shop in Mission, KS at 5727 Johnson Drive, Mission, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/truly-madly-depot-mission/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/truly-madly-depot-mission.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9264581080 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9264581080 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

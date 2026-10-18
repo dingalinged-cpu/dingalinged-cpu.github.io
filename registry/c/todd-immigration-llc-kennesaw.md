@@ -13,7 +13,7 @@ Todd Immigration, LLC. is a lawyer in Kennesaw, GA at 3745 Cherokee Street North
 - Website: https://toddlaw.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.5/100 — Fair — top 35% of lawyers in Atlanta, #1 of 2 lawyers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 35% of lawyers in Atlanta, #1 of 2 lawyers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

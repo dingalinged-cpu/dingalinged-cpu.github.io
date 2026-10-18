@@ -13,7 +13,7 @@ Petco is a pet store in League City, TX at 2895 South Gulf Freeway, League City,
 - Website: https://stores.petco.com/tx/leaguecity/pet-supplies-leaguecity-tx-1461.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 46.7/100 — Building — top 52% of pet stores in Houston, #1 of 2 pet stores in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 52% of pet stores in Houston, #1 of 2 pet stores in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

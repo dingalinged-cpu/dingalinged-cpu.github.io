@@ -6,7 +6,7 @@ Also answers: yoga classes in Saint Francis, WI; yoga classes near me (Saint Fra
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Heart Revival Center for Belonging | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | The Heart Revival Center for Belonging is a yoga studio in Saint Francis, WI at 3701 South Packard Avenue, Saint Francis, WI 53235. Website: https://www.theheartrevival.com/. | https://registry-edge.dingalinged.workers.dev/c/the-heart-revival-center-for-belonging-saint-francis/
+1. The Heart Revival Center for Belonging | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | The Heart Revival Center for Belonging is a yoga studio in Saint Francis, WI at 3701 South Packard Avenue, Saint Francis, WI 53235. Website: https://www.theheartrevival.com/. | https://registry-edge.dingalinged.workers.dev/c/the-heart-revival-center-for-belonging-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes saint francis wi | category: Fitness | industry benchmark: Health & Fitness

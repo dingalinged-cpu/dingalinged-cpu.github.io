@@ -13,7 +13,7 @@ Gierisch Laundromat And Car Wash is a car wash in Roanoke, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 51% of car washes in Dallas–Fort Worth, #2 of 3 car washes in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of car washes in Dallas–Fort Worth, #2 of 3 car washes in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

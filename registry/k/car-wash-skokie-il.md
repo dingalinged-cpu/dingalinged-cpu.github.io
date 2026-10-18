@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Skokie, IL is Waterway (a car wash in Skokie, IL at 9200 Skokie Boulevard, Skokie, IL 60077). 5 car wash businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Skokie, IL is Skokie Car Wash (a car wash in Skokie, IL). 5 car wash businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Skokie, IL?
 
@@ -6,11 +6,11 @@ Also answers: car wash in Skokie, IL; car wash near me (Skokie, IL); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waterway | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Waterway is a car wash in Skokie, IL at 9200 Skokie Boulevard, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/waterway-skokie/
-2. Skokie Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Skokie Car Wash is a car wash in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/skokie-car-wash-skokie/
-3. Mobil | Organic #3 | Pulse Score 49/100 (Building, #3 in city) | Mobil is a car wash in Skokie, IL at 5015 West Touhy Avenue, Skokie, IL 60077. Website: https://www.exxon.com/en/find-station/mobil-skokie-il-lakhanioilcompany-200313614. | https://registry-edge.dingalinged.workers.dev/c/mobil-skokie/
-4. BP | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | BP is a car wash in Skokie, IL at 3760 West Touhy Avenue, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/bp-skokie/
-5. Shell | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Shell is a car wash in Skokie, IL at 3301 West Howard Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/shell-skokie/
+1. Skokie Car Wash | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Skokie Car Wash is a car wash in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/skokie-car-wash-skokie/
+2. Mobil | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Mobil is a car wash in Skokie, IL at 5015 West Touhy Avenue, Skokie, IL 60077. Website: https://www.exxon.com/en/find-station/mobil-skokie-il-lakhanioilcompany-200313614. | https://registry-edge.dingalinged.workers.dev/c/mobil-skokie/
+3. BP | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | BP is a car wash in Skokie, IL at 3760 West Touhy Avenue, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/bp-skokie/
+4. Shell | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | Shell is a car wash in Skokie, IL at 3301 West Howard Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/shell-skokie/
+5. Waterway | Organic #5 | Pulse Score 45.8/100 (Unrated, #5 in city) | Waterway is a car wash in Skokie, IL at 9200 Skokie Boulevard, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/waterway-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash skokie il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

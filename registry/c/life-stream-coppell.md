@@ -13,7 +13,7 @@ Life Stream is a spa in Coppell, TX. Phone: +19723046400. Website: https://www.l
 - Website: https://www.lifestreammed.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa-Su off
-- Pulse Score: 62/100 — Good — top 10% of spas in Dallas–Fort Worth, #1 of 2 spas in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 10% of spas in Dallas–Fort Worth, #1 of 2 spas in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

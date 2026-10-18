@@ -11,8 +11,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Windy Hill Veterinary Hospital | Organic #3 | Pulse Score 61/100 (Unrated, #3 in city) | Windy Hill Veterinary Hospital is a veterinarian in Smyrna, GA at 2170 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +17703339030. Website: https://www.windyhillvet.com/. | https://registry-edge.dingalinged.workers.dev/c/windy-hill-veterinary-hospital-smyrna/
 4. Good Dog Veterinary Care | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Good Dog Veterinary Care is a veterinarian in Smyrna, GA at 1302 Concord Road Southeast, Smyrna, GA. Phone: +17708638712. | https://registry-edge.dingalinged.workers.dev/c/good-dog-veterinary-care-smyrna/
 5. Veterinary Care At Belmont | Organic #5 | Pulse Score 57.2/100 (Unrated, #5 in city) | Veterinary Care At Belmont is a veterinarian in Smyrna, GA at 2450 Atlanta Road Southeast #100, Smyrna, GA. Phone: +16785814055. | https://registry-edge.dingalinged.workers.dev/c/veterinary-care-at-belmont-smyrna/
-6. Animal Care Center | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Animal Care Center is a veterinarian in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/animal-care-center-smyrna/
-7. Apex Animal Hospital | Organic #7 | Pulse Score 54.1/100 (Unrated, #7 in city) | Apex Animal Hospital is a veterinarian in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/apex-animal-hospital-smyrna/
+6. Apex Animal Hospital | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Apex Animal Hospital is a veterinarian in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/apex-animal-hospital-smyrna/
+7. Animal Care Center | Organic #7 | Pulse Score 41.3/100 (Unrated, #7 in city) | Animal Care Center is a veterinarian in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/animal-care-center-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet smyrna ga | category: Pets | industry benchmark: Animals & Pets

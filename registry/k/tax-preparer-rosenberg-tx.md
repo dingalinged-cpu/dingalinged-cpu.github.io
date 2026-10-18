@@ -6,7 +6,7 @@ Also answers: tax preparer in Rosenberg, TX; tax preparer near me (Rosenberg, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | H&R Block is a tax preparation service in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-rosenberg/
+1. H&R Block | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Rosenberg, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer rosenberg tx | category: professional_accounting | industry benchmark: Business Services

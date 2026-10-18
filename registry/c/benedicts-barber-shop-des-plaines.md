@@ -13,7 +13,7 @@ Benedict's Barber Shop is a barber shop in Des Plaines, IL at 1938 East Touhy Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-18:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 49% of barber shops in Chicago, #1 of 1 barber shops in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 49% of barber shops in Chicago, #1 of 1 barber shops in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

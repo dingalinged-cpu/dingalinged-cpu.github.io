@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Barrett Accounting & Tax LLC | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Barrett Accounting & Tax LLC is an accountant in Lake Zurich, IL. Phone: +18475500788. Website: https://barrettaccountingandtax.com/. | https://registry-edge.dingalinged.workers.dev/c/barrett-accounting-and-tax-llc-lake-zurich/
 2. Farmer, Poklop, Hoppa & Co | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Farmer, Poklop, Hoppa & Co is an accountant in Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/farmer-poklop-hoppa-and-co-lake-zurich/
-3. Kaizen CPAs + Advisors | Organic #3 | Pulse Score 49.9/100 (Unrated, #3 in city) | Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/. | https://registry-edge.dingalinged.workers.dev/c/kaizen-cpas-advisors-lake-zurich/
+3. Kaizen CPAs + Advisors | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/. | https://registry-edge.dingalinged.workers.dev/c/kaizen-cpas-advisors-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services lake zurich il | category: professional_accounting | industry benchmark: Business Services

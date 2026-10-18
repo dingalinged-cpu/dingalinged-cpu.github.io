@@ -6,8 +6,8 @@ Also answers: therapist in Olathe, KS; therapist near me (Olathe, KS); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnson County Mental Health Center - Olathe Office | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Johnson County Mental Health Center - Olathe Office is a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-mental-health-center-olathe-office-olathe/
-2. Johnson County Adolescent Treatment | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Johnson County Adolescent Treatment is a therapy practice in Olathe, KS at 301 North Monroe Street, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-adolescent-treatment-olathe/
+1. Johnson County Mental Health Center - Olathe Office | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Johnson County Mental Health Center - Olathe Office is a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-mental-health-center-olathe-office-olathe/
+2. Johnson County Adolescent Treatment | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Johnson County Adolescent Treatment is a therapy practice in Olathe, KS at 301 North Monroe Street, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-adolescent-treatment-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist olathe ks | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

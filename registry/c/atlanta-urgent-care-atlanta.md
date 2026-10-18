@@ -13,7 +13,7 @@ Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2738 Clairmont Ro
 - Website: https://www.atlantaurgentcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): M-Th 8am-8pm, F 8am-7pm, S-S 9am-6pm
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of urgent care clinics in Atlanta, #1 of 3 urgent care clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of urgent care clinics in Atlanta, #1 of 3 urgent care clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Snap Fitness is a gym in Cleveland, TX at 1715 East Houston Street, Cleveland, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 73% of gyms in Houston, #1 of 1 gyms in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 71% of gyms in Houston, #1 of 1 gyms in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

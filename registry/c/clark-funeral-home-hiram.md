@@ -13,7 +13,7 @@ Clark Funeral Home is a funeral home in Hiram, GA at 4373 Atlanta Highway, Hiram
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 71% of funeral homes in Atlanta, #1 of 1 funeral homes in Hiram (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 71% of funeral homes in Atlanta, #1 of 1 funeral homes in Hiram (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

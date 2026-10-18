@@ -13,7 +13,7 @@ Valdez Tailors Alterations is a tailor in Spring, TX at 25170 I-45 #1A, Spring, 
 - Website: https://valdeztailorsalterations.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:30-19:00; Tu-Sa 09:00-19:00; Su 10:00-15:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 21% of tailors in Houston, #1 of 2 tailors in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 21% of tailors in Houston, #1 of 2 tailors in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

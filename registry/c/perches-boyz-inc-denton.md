@@ -13,7 +13,7 @@ Perches Boyz Inc is a lawyer in Denton, TX at 4213 Mesa Drive, Denton, TX 76207.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of lawyers in Dallas–Fort Worth, #8 of 8 lawyers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 79% of lawyers in Dallas–Fort Worth, #8 of 8 lawyers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

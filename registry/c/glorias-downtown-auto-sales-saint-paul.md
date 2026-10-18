@@ -13,7 +13,7 @@ Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 74% of used car dealers in Minneapolis–St. Paul, #3 of 3 used car dealers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 74% of used car dealers in Minneapolis–St. Paul, #3 of 3 used car dealers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

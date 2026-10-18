@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Wauwatosa, WI at 6207 West North Ave
 - Website: https://www.take5.com/locations/oil-change/wisconsin/wauwatosa/30578/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 09:00-17:00
-- Pulse Score: 48.9/100 — Building — top 78% of auto repair shops in Milwaukee, #5 of 5 auto repair shops in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 77% of auto repair shops in Milwaukee, #5 of 5 auto repair shops in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

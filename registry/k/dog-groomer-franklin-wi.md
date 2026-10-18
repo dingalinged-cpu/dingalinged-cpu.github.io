@@ -6,7 +6,7 @@ Also answers: dog groomer in Franklin, WI; dog groomer near me (Franklin, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lulu's Dog Pawlour | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Lulu's Dog Pawlour is a dog groomer in Franklin, WI at 7129 South 76th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/lulus-dog-pawlour-franklin/
+1. Lulu's Dog Pawlour | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Lulu's Dog Pawlour is a dog groomer in Franklin, WI at 7129 South 76th Street, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/lulus-dog-pawlour-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer franklin wi | category: Pets | industry benchmark: Animals & Pets

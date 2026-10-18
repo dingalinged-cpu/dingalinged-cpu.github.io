@@ -13,7 +13,7 @@ Farmers Insurance - Bradley Gohsman is an insurance agent in Newnan, GA at 3150 
 - Website: https://www.farmersagent.com/bgohsman
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 55% of insurance agents in Atlanta, #2 of 2 insurance agents in Newnan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 54% of insurance agents in Atlanta, #2 of 2 insurance agents in Newnan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

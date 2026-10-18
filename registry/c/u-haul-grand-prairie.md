@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Grand Prairie, TX at 2455 West Tarrant Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 64% of self-storage facilitys in Dallas–Fort Worth, #2 of 3 self-storage facilitys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 62% of self-storage facilitys in Dallas–Fort Worth, #2 of 3 self-storage facilitys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

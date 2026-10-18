@@ -13,7 +13,7 @@ rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 70% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in South Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 70% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in South Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Colt Melrose Photography is a photographer in Houston, TX at 805 Rhode Place, Ho
 - Website: https://www.coltmelrosephotography.com/
 - Email: colt@coltmelrosephotography.com
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-16:00
-- Pulse Score: 63.2/100 — Good — top 12% of photographers in Houston, #2 of 12 photographers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 6% of photographers in Houston, #1 of 12 photographers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

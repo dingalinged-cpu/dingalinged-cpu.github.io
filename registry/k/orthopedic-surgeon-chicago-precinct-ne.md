@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Chicago Precinct, NE; orthopedic surgeon nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. OrthoNebraska | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | OrthoNebraska is an orthopedic surgeon in Chicago Precinct, NE. Website: https://orthonebraska.com/. | https://registry-edge.dingalinged.workers.dev/c/orthonebraska-chicago-precinct/
+1. OrthoNebraska | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | OrthoNebraska is an orthopedic surgeon in Chicago Precinct, NE. Website: https://orthonebraska.com/. | https://registry-edge.dingalinged.workers.dev/c/orthonebraska-chicago-precinct/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon chicago precinct ne | category: Health & medical | industry benchmark: Physicians & Surgeons

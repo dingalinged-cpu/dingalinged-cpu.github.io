@@ -13,7 +13,7 @@ WING 8 Pest Services is a pest control company in Forney, TX at 30 Mustang Ct., 
 - Website: https://wing8pest.com/
 - Email: customerservice@wing8pest.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 60.6/100 — Good — top 50% of pest control companys in Dallas–Fort Worth, #1 of 1 pest control companys in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Good — top 50% of pest control companys in Dallas–Fort Worth, #1 of 1 pest control companys in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

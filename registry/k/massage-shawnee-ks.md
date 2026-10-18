@@ -6,7 +6,7 @@ Also answers: massage in Shawnee, KS; massage near me (Shawnee, KS); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Vita Bella Day Spa | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | La Vita Bella Day Spa is a massage studio in Shawnee, KS at 5416 Roberts Street, Shawnee, KS 66226. Phone: +19134419090. Website: https://www.lavitabelladayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/la-vita-bella-day-spa-shawnee/
+1. La Vita Bella Day Spa | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | La Vita Bella Day Spa is a massage studio in Shawnee, KS at 5416 Roberts Street, Shawnee, KS 66226. Phone: +19134419090. Website: https://www.lavitabelladayspa.com/. | https://registry-edge.dingalinged.workers.dev/c/la-vita-bella-day-spa-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage shawnee ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Cross Roads, TX at 11980 Highway 380, Cross 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 88% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Cross Roads (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 87% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Cross Roads (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

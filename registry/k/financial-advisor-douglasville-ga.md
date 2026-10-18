@@ -7,7 +7,7 @@ Also answers: financial advisor in Douglasville, GA; financial advisor near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. 1st Franklin Financial | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | 1st Franklin Financial is a financial advisor in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/1st-franklin-financial-douglasville/
-2. World Finance | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | World Finance is a financial advisor in Douglasville, GA. Website: https://www.loansbyworld.com/branches/branch-184. | https://registry-edge.dingalinged.workers.dev/c/world-finance-douglasville/
+2. World Finance | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | World Finance is a financial advisor in Douglasville, GA. Website: https://www.loansbyworld.com/branches/branch-184. | https://registry-edge.dingalinged.workers.dev/c/world-finance-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor douglasville ga | category: Professional & financial services | industry benchmark: Finance & Insurance

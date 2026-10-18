@@ -6,10 +6,10 @@ Also answers: haircut in Liberty, MO; haircut near me (Liberty, MO); best haircu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Connection | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Hair Connection is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/hair-connection-liberty/
-2. Sole Salon & Boutique | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Sole Salon & Boutique is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/sole-salon-and-boutique-liberty/
-3. Great Clips | Organic #3 | Pulse Score 43.7/100 (Building, #3 in city) | Great Clips is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-liberty/
-4. Sport Clips | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Sport Clips is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-liberty/
+1. Hair Connection | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Hair Connection is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/hair-connection-liberty/
+2. Sole Salon & Boutique | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Sole Salon & Boutique is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/sole-salon-and-boutique-liberty/
+3. Great Clips | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Great Clips is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-liberty/
+4. Sport Clips | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | Sport Clips is a hair salon in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut liberty mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

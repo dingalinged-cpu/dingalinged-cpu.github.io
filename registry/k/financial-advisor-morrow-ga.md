@@ -6,7 +6,7 @@ Also answers: financial advisor in Morrow, GA; financial advisor near me (Morrow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. World Finance | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | World Finance is a financial advisor in Morrow, GA. Website: https://www.loansbyworld.com/branches/branch-190. | https://registry-edge.dingalinged.workers.dev/c/world-finance-morrow/
+1. World Finance | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | World Finance is a financial advisor in Morrow, GA. Website: https://www.loansbyworld.com/branches/branch-190. | https://registry-edge.dingalinged.workers.dev/c/world-finance-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor morrow ga | category: Professional & financial services | industry benchmark: Finance & Insurance

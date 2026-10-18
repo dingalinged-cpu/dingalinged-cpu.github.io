@@ -13,7 +13,7 @@ Nationwide is an insurance agent in Tucker, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 87% of insurance agents in Atlanta, #3 of 3 insurance agents in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 86% of insurance agents in Atlanta, #3 of 3 insurance agents in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

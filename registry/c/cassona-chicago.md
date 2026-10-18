@@ -13,7 +13,7 @@ Cassona is a furniture store in Chicago, IL at 5241 North Clark Street, Chicago,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-17:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 17% of furniture stores in Chicago, #14 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 16% of furniture stores in Chicago, #13 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

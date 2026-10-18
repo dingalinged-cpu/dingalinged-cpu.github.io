@@ -6,9 +6,9 @@ Also answers: massage in Omaha, NE; massage near me (Omaha, NE); best massage Om
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Omaha School Of Massage Therapy | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Omaha School Of Massage Therapy is a massage studio in Omaha, NE at 5406 S 99th Street, Omaha, NE 68127. Phone: +14023313694. Website: https://osmt.com/. | https://registry-edge.dingalinged.workers.dev/c/omaha-school-of-massage-therapy-omaha/
+1. Omaha School Of Massage Therapy | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Omaha School Of Massage Therapy is a massage studio in Omaha, NE at 5406 S 99th Street, Omaha, NE 68127. Phone: +14023313694. Website: https://osmt.com/. | https://registry-edge.dingalinged.workers.dev/c/omaha-school-of-massage-therapy-omaha/
 2. A Plus Massage | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | A Plus Massage is a massage studio in Omaha, NE at 7517 Pacific Street, Omaha, NE 68114. | https://registry-edge.dingalinged.workers.dev/c/a-plus-massage-omaha/
-3. Crossroads Massage Clinic | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Crossroads Massage Clinic is a massage studio in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/crossroads-massage-clinic-omaha/
+3. Crossroads Massage Clinic | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Crossroads Massage Clinic is a massage studio in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/crossroads-massage-clinic-omaha/
 4. Massage Envy | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Massage Envy is a massage studio in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-omaha/
 
 ## Market data (for advertisers and agents)

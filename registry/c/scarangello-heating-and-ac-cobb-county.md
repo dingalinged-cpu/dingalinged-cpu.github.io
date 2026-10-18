@@ -13,7 +13,7 @@ Scarangello Heating & AC is a HVAC contractor in Cobb County, GA at 2389 Canton 
 - Website: https://scarangellohvac.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 72% of HVAC contractors in Atlanta, #2 of 3 HVAC contractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 72% of HVAC contractors in Atlanta, #2 of 3 HVAC contractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: insurance agents in Grand Prairie, TX; insurance agents near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medicare Coverage Center | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Medicare Coverage Center is an insurance agent in Grand Prairie, TX at 2030 North State Highway 360, Grand Prairie, TX 75050. Phone: +19722045855. | https://registry-edge.dingalinged.workers.dev/c/medicare-coverage-center-grand-prairie/
+1. Medicare Coverage Center | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Medicare Coverage Center is an insurance agent in Grand Prairie, TX at 2030 North State Highway 360, Grand Prairie, TX 75050. Phone: +19722045855. | https://registry-edge.dingalinged.workers.dev/c/medicare-coverage-center-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents grand prairie tx | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Sprint Print Inc is a printing service in Des Moines, IA at 210 Euclid Avenue, D
 - Website: https://www.sprint-print.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-15:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 6% of printing services in Des Moines, IA, #1 of 4 printing services in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 6% of printing services in Des Moines, IA, #1 of 4 printing services in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Shinebox is a graphic designer in Minneapolis, MN at 401 North 1st Avenue #100, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 67% of graphic designers in Minneapolis–St. Paul, #2 of 2 graphic designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 67% of graphic designers in Minneapolis–St. Paul, #2 of 2 graphic designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

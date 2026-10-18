@@ -6,8 +6,8 @@ Also answers: dog groomer in Sugar Land, TX; dog groomer near me (Sugar Land, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Splash and Dash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard #B900, Sugar Land, TX 77479. Phone: +13465214010. Website: https://splashanddashfordogs.com/sugarland/. | https://registry-edge.dingalinged.workers.dev/c/splash-and-dash-sugar-land/
-2. Zoom Room Dog Training -Sugar land | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Zoom Room Dog Training -Sugar land is a dog groomer in Sugar Land, TX at 16322A Southwest Freeway, Sugar Land, TX 77479. Phone: +18329874524. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-sugar-land-sugar-land/
+1. Splash and Dash | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard #B900, Sugar Land, TX 77479. Phone: +13465214010. Website: https://splashanddashfordogs.com/sugarland/. | https://registry-edge.dingalinged.workers.dev/c/splash-and-dash-sugar-land/
+2. Zoom Room Dog Training -Sugar land | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Zoom Room Dog Training -Sugar land is a dog groomer in Sugar Land, TX at 16322A Southwest Freeway, Sugar Land, TX 77479. Phone: +18329874524. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-sugar-land-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer sugar land tx | category: Pets | industry benchmark: Animals & Pets

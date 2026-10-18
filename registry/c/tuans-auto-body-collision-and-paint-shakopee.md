@@ -13,7 +13,7 @@ Tuan's Auto Body. Collision & Paint is an auto repair shop in Shakopee, MN at 98
 - Website: https://tuansautobody.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of auto repair shops in Minneapolis–St. Paul, #1 of 8 auto repair shops in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Minneapolis–St. Paul, #1 of 8 auto repair shops in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

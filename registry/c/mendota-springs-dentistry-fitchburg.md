@@ -13,7 +13,7 @@ Mendota Springs Dentistry is a dentist in Fitchburg, WI at 6317 McKee Road #500,
 - Website: https://www.mendotaspringsdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:01; Tu 08:00-18:00; We-Th 07:30-16:30; Fr 07:30-14:30
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of dentists in Madison, #1 of 5 dentists in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of dentists in Madison, #1 of 5 dentists in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

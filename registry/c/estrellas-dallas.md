@@ -13,7 +13,7 @@ Estrella's is a florist in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 73% of florists in Dallas–Fort Worth, #6 of 10 florists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 73% of florists in Dallas–Fort Worth, #6 of 10 florists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 42.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

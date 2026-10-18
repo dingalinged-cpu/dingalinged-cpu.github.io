@@ -18,9 +18,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 10. Dino's Storage | Organic #10 | Pulse Score 50.6/100 (Unrated, #10 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 5328 Center Street, Omaha, NE 68106. Phone: +14025044600. Website: https://www.dinosstorage.com/. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-omaha-w806248583/
 11. Dino's Storage | Organic #11 | Pulse Score 47.4/100 (Unrated, #11 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 4876 South 192nd Street, Omaha, NE 68135. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-omaha-w703239671/
 12. StorageMart | Organic #12 | Pulse Score 46.9/100 (Building, #12 in city) | StorageMart is a self-storage facility in Omaha, NE at 9815 Redick Avenue, Omaha, NE 68134. Phone: +14023345625. | https://registry-edge.dingalinged.workers.dev/c/storagemart-omaha/
-13. Dino's Storage | Organic #13 | Pulse Score 45.4/100 (Unrated, #13 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 4412 Dodge Street, Omaha, NE 68132. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-omaha/
+13. Dino's Storage | Organic #13 | Pulse Score 45.3/100 (Unrated, #13 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 4412 Dodge Street, Omaha, NE 68132. | https://registry-edge.dingalinged.workers.dev/c/dinos-storage-omaha/
 14. U-Haul | Organic #14 | Pulse Score 44.7/100 (Building, #14 in city) | U-Haul is a self-storage facility in Omaha, NE at 8920 Maple Street, Omaha, NE 68134. | https://registry-edge.dingalinged.workers.dev/c/u-haul-omaha/
-15. Extra Space Storage | Organic #15 | Pulse Score 44.3/100 (Unrated, #15 in city) | Extra Space Storage is a self-storage facility in Omaha, NE at 19025 Edna Street, Omaha, NE 68136. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-omaha/
+15. Extra Space Storage | Organic #15 | Pulse Score 44.2/100 (Unrated, #15 in city) | Extra Space Storage is a self-storage facility in Omaha, NE at 19025 Edna Street, Omaha, NE 68136. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units omaha ne | category: Home services - Moving | industry benchmark: Home & Home Improvement

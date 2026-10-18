@@ -6,7 +6,7 @@ Also answers: used cars for sale in Maplewood, MN; used cars for sale near me (M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carmax | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | Carmax is an used car dealer in Maplewood, MN. Website: https://www.carmax.com/stores/7633. | https://registry-edge.dingalinged.workers.dev/c/carmax-maplewood/
+1. Carmax | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Carmax is an used car dealer in Maplewood, MN. Website: https://www.carmax.com/stores/7633. | https://registry-edge.dingalinged.workers.dev/c/carmax-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale maplewood mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

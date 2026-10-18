@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Maple Grove, MN. Website: https://store.vioc
 - Website: https://store.vioc.com/mn/maplegrove/oil-change-010015.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 89% of auto repair shops in Minneapolis–St. Paul, #7 of 7 auto repair shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 88% of auto repair shops in Minneapolis–St. Paul, #7 of 7 auto repair shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Gamma Piercing is a piercing studio in Milwaukee, WI at 2260 South Kinnickinnic 
 - Website: https://gammapiercing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 100% of piercing studios in Milwaukee, #1 of 1 piercing studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 100% of piercing studios in Milwaukee, #1 of 1 piercing studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

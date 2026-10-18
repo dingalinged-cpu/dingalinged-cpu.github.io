@@ -13,7 +13,7 @@ Honeysuckle Biscuits & Bakery is a bakery in Kennesaw, GA at 2825 South Main Str
 - Website: https://www.honeysucklebiscuits.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 07:30-17:00; Fr-Sa 07:30-19:00
-- Pulse Score: 63/100 — Good — top 11% of bakerys in Atlanta, #3 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.8, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 11% of bakerys in Atlanta, #3 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

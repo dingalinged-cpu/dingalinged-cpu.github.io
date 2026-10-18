@@ -19,6 +19,6 @@ Marcellas is a gift shop in Belton, MO at 423 Main Street, Belton, MO 64012. Web
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/marcellas-belton/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/marcellas-belton.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/569436279 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/569436279 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

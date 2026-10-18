@@ -13,7 +13,7 @@ Fitness Connection is a gym in Houston, TX at 12032 East Freeway, Houston, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 07:00-19:00; Mo-Th 05:00-24:00; Fr 05:00-22:00
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 65% of gyms in Houston, #49 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 62% of gyms in Houston, #47 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

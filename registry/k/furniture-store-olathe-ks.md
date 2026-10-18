@@ -6,7 +6,7 @@ Also answers: furniture store in Olathe, KS; furniture store near me (Olathe, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Furniture Mall Of Kansas | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Furniture Mall Of Kansas is a furniture store in Olathe, KS at 2125 East Kansas City Road, Olathe, KS 66061. Phone: +19138398654. Website: https://www.thefurnituremall.com/. | https://registry-edge.dingalinged.workers.dev/c/furniture-mall-of-kansas-olathe/
+1. Furniture Mall Of Kansas | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Furniture Mall Of Kansas is a furniture store in Olathe, KS at 2125 East Kansas City Road, Olathe, KS 66061. Phone: +19138398654. Website: https://www.thefurnituremall.com/. | https://registry-edge.dingalinged.workers.dev/c/furniture-mall-of-kansas-olathe/
 2. Aaron's | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | Aaron's is a furniture store in Olathe, KS at 113 South Parker Street, Olathe, KS 66061. Phone: +19132540476. Website: https://locations.aarons.com/us/ks/olathe/113-s-parker-st. | https://registry-edge.dingalinged.workers.dev/c/aarons-olathe/
 
 ## Market data (for advertisers and agents)

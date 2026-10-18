@@ -13,7 +13,7 @@ Atlas Heating & Sheet Metal is a HVAC contractor in Milwaukee, WI at 1414 West F
 - Website: https://atlas-works.com/
 - Email: atlasheatingmike@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 43% of HVAC contractors in Milwaukee, #3 of 6 HVAC contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 43% of HVAC contractors in Milwaukee, #3 of 6 HVAC contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

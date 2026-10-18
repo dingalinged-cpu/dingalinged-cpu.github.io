@@ -13,7 +13,7 @@ Monarchy Cleaners is a dry cleaner in Southlake, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30; Sa 09:00-13:00; Su off
-- Pulse Score: 61.6/100 — Good — top 17% of dry cleaners in Dallas–Fort Worth, #1 of 1 dry cleaners in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 17% of dry cleaners in Dallas–Fort Worth, #1 of 1 dry cleaners in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

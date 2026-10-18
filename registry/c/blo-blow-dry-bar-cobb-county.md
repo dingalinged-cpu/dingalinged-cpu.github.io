@@ -13,7 +13,7 @@ Blo Blow Dry Bar is a hair salon in Cobb County, GA at 1311 Johnson Ferry Road N
 - Website: https://blomedry.com/east-cobb-marietta-ga/
 - Email: bloeastcobb@bloblowdrybar.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
-- Pulse Score: 51/100 — Fair — top 84% of hair salons in Atlanta, #63 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 83% of hair salons in Atlanta, #63 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

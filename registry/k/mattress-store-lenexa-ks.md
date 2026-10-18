@@ -6,8 +6,8 @@ Also answers: mattress store in Lenexa, KS; mattress store near me (Lenexa, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SleepOne Mattress Superstore | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | SleepOne Mattress Superstore is a mattress store in Lenexa, KS at 95th Street Lenexa, KS, Lenexa, KS 66215. | https://registry-edge.dingalinged.workers.dev/c/sleepone-mattress-superstore-lenexa/
-2. Mattress Firm | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Mattress Firm is a mattress store in Lenexa, KS at 11926 West 95th Street, Lenexa, KS 66215. Phone: +19135412545. Website: https://www.mattressfirm.com/en-us/stores/ks/lenexa/009035/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-lenexa/
+1. SleepOne Mattress Superstore | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | SleepOne Mattress Superstore is a mattress store in Lenexa, KS at 95th Street Lenexa, KS, Lenexa, KS 66215. | https://registry-edge.dingalinged.workers.dev/c/sleepone-mattress-superstore-lenexa/
+2. Mattress Firm | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Mattress Firm is a mattress store in Lenexa, KS at 11926 West 95th Street, Lenexa, KS 66215. Phone: +19135412545. Website: https://www.mattressfirm.com/en-us/stores/ks/lenexa/009035/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store lenexa ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

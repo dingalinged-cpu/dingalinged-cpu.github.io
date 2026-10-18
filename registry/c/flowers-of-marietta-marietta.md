@@ -13,7 +13,7 @@ Flowers of Marietta is a florist in Marietta, GA at 1100 Johnson Ferry Road #250
 - Website: n/a
 - Email: flowersofmarietta@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00; Sa 07:00-15:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 39% of florists in Atlanta, #3 of 5 florists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 39% of florists in Atlanta, #3 of 5 florists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

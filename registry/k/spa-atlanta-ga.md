@@ -7,7 +7,7 @@ Also answers: spa in Atlanta, GA; spa near me (Atlanta, GA); best spa Atlanta, G
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Indigo Wellness | Organic #1 | Pulse Score 62.1/100 (Unrated, #11 in city) | Indigo Wellness is a nail salon in Atlanta, GA at 1963 Hosea L Williams Drive Southeast #R107, Atlanta, GA 30317. Phone: +14043701151. Website: https://indigowellnessatl.com/. | https://registry-edge.dingalinged.workers.dev/c/indigo-wellness-atlanta/
-2. LeHua Spa | Organic #2 | Pulse Score 61.5/100 (Unrated, #1 in city) | LeHua Spa is a spa in Atlanta, GA at 2980 Cobb Parkway South, Atlanta, GA 30339. Phone: +17708508688. Website: https://lehua-spa.com/. | https://registry-edge.dingalinged.workers.dev/c/lehua-spa-atlanta/
+2. LeHua Spa | Organic #2 | Pulse Score 61.3/100 (Unrated, #1 in city) | LeHua Spa is a spa in Atlanta, GA at 2980 Cobb Parkway South, Atlanta, GA 30339. Phone: +17708508688. Website: https://lehua-spa.com/. | https://registry-edge.dingalinged.workers.dev/c/lehua-spa-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa atlanta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

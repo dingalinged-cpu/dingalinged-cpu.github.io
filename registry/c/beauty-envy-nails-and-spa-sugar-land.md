@@ -13,7 +13,7 @@ Beauty Envy Nails & Spa is a nail salon in Sugar Land, TX at 16535 Lexington Bou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-18:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of nail salons in Houston, #2 of 10 nail salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of nail salons in Houston, #2 of 10 nail salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

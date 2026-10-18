@@ -6,7 +6,7 @@ Also answers: urgent care in Cedar Hill, TX; urgent care near me (Cedar Hill, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CareNow | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | CareNow is an urgent care clinic in Cedar Hill, TX at 345 North Highway 67, Cedar Hill, TX 75104. Phone: +19729565300. Website: https://www.carenow.com/locations/dallas-fort-worth/cedar-hill/. | https://registry-edge.dingalinged.workers.dev/c/carenow-cedar-hill/
+1. CareNow | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | CareNow is an urgent care clinic in Cedar Hill, TX at 345 North Highway 67, Cedar Hill, TX 75104. Phone: +19729565300. Website: https://www.carenow.com/locations/dallas-fort-worth/cedar-hill/. | https://registry-edge.dingalinged.workers.dev/c/carenow-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care cedar hill tx | category: Health & medical | industry benchmark: Physicians & Surgeons

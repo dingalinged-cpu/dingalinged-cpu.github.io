@@ -6,7 +6,7 @@ Also answers: massage in North Kansas City, MO; massage near me (North Kansas Ci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Freckled Stone Bodywork & Massage | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Freckled Stone Bodywork & Massage is a massage studio in North Kansas City, MO at 420 Armour Road, North Kansas City, MO 64116. | https://registry-edge.dingalinged.workers.dev/c/freckled-stone-bodywork-and-massage-north-kansas-city/
+1. Freckled Stone Bodywork & Massage | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Freckled Stone Bodywork & Massage is a massage studio in North Kansas City, MO at 420 Armour Road, North Kansas City, MO 64116. | https://registry-edge.dingalinged.workers.dev/c/freckled-stone-bodywork-and-massage-north-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage north kansas city mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ State Farm is an insurance agent in Sharpsburg, GA at 3441 Highway 34 East #A, S
 - Website: https://insurancebybrain.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 49/100 — Building — top 51% of insurance agents in Atlanta, #1 of 1 insurance agents in Sharpsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 50% of insurance agents in Atlanta, #1 of 1 insurance agents in Sharpsburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

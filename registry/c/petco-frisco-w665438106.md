@@ -13,7 +13,7 @@ Petco is a pet store in Frisco, TX at 5177 Eldorado Parkway, Frisco, TX 75033. P
 - Website: https://stores.petco.com/tx/frisco/pet-supplies-frisco-tx-1486.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 44% of pet stores in Dallas–Fort Worth, #1 of 5 pet stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 43% of pet stores in Dallas–Fort Worth, #1 of 5 pet stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

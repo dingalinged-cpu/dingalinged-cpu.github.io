@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Irving, TX; orthopedic surgeon near me (Irvi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orthopedic Spine Center: Dr. Jamie Gottlieb | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Orthopedic Spine Center: Dr. Jamie Gottlieb is an orthopedic surgeon in Irving, TX at 6121 State Highway 161 #225, Irving, TX 75038. Phone: +14695281169. Website: https://gottliebspine.com/. | https://registry-edge.dingalinged.workers.dev/c/orthopedic-spine-center-dr-jamie-gottlieb-irving/
+1. Orthopedic Spine Center: Dr. Jamie Gottlieb | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Orthopedic Spine Center: Dr. Jamie Gottlieb is an orthopedic surgeon in Irving, TX at 6121 State Highway 161 #225, Irving, TX 75038. Phone: +14695281169. Website: https://gottliebspine.com/. | https://registry-edge.dingalinged.workers.dev/c/orthopedic-spine-center-dr-jamie-gottlieb-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon irving tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Total Wine is a liquor store in Eagan, MN at 1440 Central Park Commons Drive, Ea
 - Website: https://www.totalwine.com/store-info/1607
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 11:00-18:00
-- Pulse Score: 51.2/100 — Fair — top 86% of liquor stores in Minneapolis–St. Paul, #4 of 4 liquor stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 68.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 86% of liquor stores in Minneapolis–St. Paul, #4 of 4 liquor stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

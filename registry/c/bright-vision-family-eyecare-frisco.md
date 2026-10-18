@@ -13,7 +13,7 @@ Bright Vision Family Eyecare is an eye care practice in Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 64% of eye care practices in Dallas–Fort Worth, #4 of 5 eye care practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 64% of eye care practices in Dallas–Fort Worth, #4 of 5 eye care practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 38.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

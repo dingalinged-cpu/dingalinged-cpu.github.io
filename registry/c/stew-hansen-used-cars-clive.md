@@ -13,7 +13,7 @@ Stew Hansen Used Cars is an used car dealer in Clive, IA at 2159 Northwest 114th
 - Website: https://www.stewhansenhyundai.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr-Sa 08:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 30% of used car dealers in Des Moines, IA, #1 of 2 used car dealers in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

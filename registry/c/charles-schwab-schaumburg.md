@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Schaumburg, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Building — top 84% of financial advisors in Chicago, #4 of 4 financial advisors in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 84% of financial advisors in Chicago, #4 of 4 financial advisors in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

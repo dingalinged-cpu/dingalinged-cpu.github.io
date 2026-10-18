@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Little Elm, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 81% of tax preparation services in Dallas–Fort Worth, #1 of 1 tax preparation services in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 81% of tax preparation services in Dallas–Fort Worth, #1 of 1 tax preparation services in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

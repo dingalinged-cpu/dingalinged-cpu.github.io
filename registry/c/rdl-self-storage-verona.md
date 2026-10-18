@@ -13,7 +13,7 @@ RDL Self Storage is a self-storage facility in Verona, WI at 408-B South Nine Mo
 - Website: https://www.veronaselfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Madison, #1 of 1 self-storage facilitys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Madison, #1 of 1 self-storage facilitys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

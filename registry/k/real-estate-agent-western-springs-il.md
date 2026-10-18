@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Dixon Realtors | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Dixon Realtors is a real estate agency in Western Springs, IL at 820 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17087841000. | https://registry-edge.dingalinged.workers.dev/c/dixon-realtors-western-springs/
 2. Berkshire Hathaway HomeServices | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Berkshire Hathaway HomeServices is a real estate agency in Western Springs, IL at 824 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17084084352. | https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-homeservices-western-springs/
-3. Re/Max Properties | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | Re/Max Properties is a real estate agency in Western Springs, IL at 819 Burlington Avenue, Western Springs, IL 60558. Website: https://www.remaxproperties.illinoisproperty.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-properties-western-springs/
+3. Re/Max Properties | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Re/Max Properties is a real estate agency in Western Springs, IL at 819 Burlington Avenue, Western Springs, IL 60558. Website: https://www.remaxproperties.illinoisproperty.com/. | https://registry-edge.dingalinged.workers.dev/c/re-max-properties-western-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent western springs il | category: Professional & financial services | industry benchmark: Finance & Insurance

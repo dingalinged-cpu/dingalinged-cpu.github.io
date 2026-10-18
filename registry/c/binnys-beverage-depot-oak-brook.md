@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Oak Brook, IL at 1500 16th Street, O
 - Website: https://www.binnys.com/store-locator/oak-brook/
 - Email: oakbrook@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 50.5/100 — Fair — top 93% of liquor stores in Chicago, #2 of 2 liquor stores in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 91% of liquor stores in Chicago, #2 of 2 liquor stores in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

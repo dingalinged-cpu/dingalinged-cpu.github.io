@@ -6,8 +6,8 @@ Also answers: haircut in Shorewood Hills, WI; haircut near me (Shorewood Hills, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | Organic #1 | Pulse Score 48.1/100 (Building, #47 in city) | Sport Clips is a hair salon in Madison, WI at 4020 University Avenue, Madison, WI 53705. Phone: +16082189800. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-madison/
-2. Great Clips | Organic #2 | Pulse Score 46.6/100 (Building, #49 in city) | Great Clips is a hair salon in Madison, WI at 2860 University Avenue, Madison, WI 53705. | https://registry-edge.dingalinged.workers.dev/c/great-clips-madison-n11501441439/
+1. Sport Clips | Organic #1 | Pulse Score 48.1/100 (Building, #46 in city) | Sport Clips is a hair salon in Madison, WI at 4020 University Avenue, Madison, WI 53705. Phone: +16082189800. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-madison/
+2. Great Clips | Organic #2 | Pulse Score 46.6/100 (Building, #48 in city) | Great Clips is a hair salon in Madison, WI at 2860 University Avenue, Madison, WI 53705. | https://registry-edge.dingalinged.workers.dev/c/great-clips-madison-n11501441439/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut shorewood hills wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

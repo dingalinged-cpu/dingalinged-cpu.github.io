@@ -7,7 +7,7 @@ Also answers: daycare in Ankeny, IA; daycare near me (Ankeny, IA); best daycare 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Generation Next: Prairie Trail | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Generation Next: Prairie Trail is a daycare in Ankeny, IA. | https://registry-edge.dingalinged.workers.dev/c/generation-next-prairie-trail-ankeny/
-2. New Creations Child Care & Learning Center | Ankeny | Organic #2 | Pulse Score 53.1/100 (Unrated, #2 in city) | New Creations Child Care & Learning Center | Ankeny is a daycare in Ankeny, IA at 3004 Northwest 18th Street, Ankeny, IA 50023. Phone: +15158000029. Website: https://www.newcreationschildcare.com/ankeny. | https://registry-edge.dingalinged.workers.dev/c/new-creations-child-care-and-learning-center-ankeny-ankeny/
+2. New Creations Child Care & Learning Center | Ankeny | Organic #2 | Pulse Score 53.2/100 (Unrated, #2 in city) | New Creations Child Care & Learning Center | Ankeny is a daycare in Ankeny, IA at 3004 Northwest 18th Street, Ankeny, IA 50023. Phone: +15158000029. Website: https://www.newcreationschildcare.com/ankeny. | https://registry-edge.dingalinged.workers.dev/c/new-creations-child-care-and-learning-center-ankeny-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare ankeny ia | category: Education & childcare | industry benchmark: Education & Instruction

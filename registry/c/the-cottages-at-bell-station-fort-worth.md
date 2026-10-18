@@ -13,7 +13,7 @@ The Cottages at Bell Station is a property management company in Fort Worth, TX.
 - Website: https://theblacksandlegacy.com/properties/the-cottages-at-bell-station/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 35% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 35% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

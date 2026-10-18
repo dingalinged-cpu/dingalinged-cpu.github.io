@@ -13,7 +13,7 @@ Willie's Repair is an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazom
 - Website: https://shop.autovaluestores.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Madison, #1 of 1 auto repair shops in Mazomanie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Madison, #1 of 1 auto repair shops in Mazomanie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

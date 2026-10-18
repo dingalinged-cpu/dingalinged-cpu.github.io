@@ -13,7 +13,7 @@ Affordable Dentures is a dentist in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 42% of dentists in Madison, #17 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 98% of dentists in Madison, #37 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

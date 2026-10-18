@@ -6,7 +6,7 @@ Also answers: tire shop in Midlothian, IL; tire shop near me (Midlothian, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bridgestone | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Bridgestone is a tire shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-midlothian/
+1. Bridgestone | Organic #1 | Pulse Score 43.9/100 (Building, #1 in city) | Bridgestone is a tire shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445. | https://registry-edge.dingalinged.workers.dev/c/bridgestone-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop midlothian il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

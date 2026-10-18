@@ -13,7 +13,7 @@ Wellstar Psychological Services is a therapy practice in Marietta, GA at 355 Tow
 - Website: https://www.wellstar.org/locations/medical-practice/psychological-services-marietta-355-tower-road-ne-suite-203
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 55% of therapy practices in Atlanta, #2 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 55% of therapy practices in Atlanta, #2 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

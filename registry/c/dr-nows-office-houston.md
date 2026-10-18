@@ -13,7 +13,7 @@ Dr. Now's Office is an OB-GYN practice in Houston, TX at 4009 Bellaire Boulevard
 - Website: https://drnowfoundation.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 40% of OB-GYN practices in Houston, #1 of 2 OB-GYN practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 40% of OB-GYN practices in Houston, #1 of 2 OB-GYN practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

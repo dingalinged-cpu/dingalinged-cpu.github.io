@@ -13,7 +13,7 @@ Nails is a nail salon in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Sa 10:00-19:00; Tu,PH off; Su "By appointment"
-- Pulse Score: 62.2/100 — Good — top 15% of nail salons in Dallas–Fort Worth, #4 of 12 nail salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 83% of nail salons in Dallas–Fort Worth, #10 of 12 nail salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.7, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

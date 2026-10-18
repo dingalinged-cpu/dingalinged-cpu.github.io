@@ -13,7 +13,7 @@ Steinhafels is a furniture store in Harwood Heights, IL at 7304 West Lawrence Av
 - Website: https://www.steinhafels.com/store/furniture-store/IL/Harwood-Heights/7304-West-Lawrence-Avenue
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.4/100 — Building — top 47% of furniture stores in Chicago, #1 of 1 furniture stores in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 45% of furniture stores in Chicago, #1 of 1 furniture stores in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

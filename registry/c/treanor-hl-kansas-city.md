@@ -13,12 +13,12 @@ Treanor HL is an architect in Kansas City, MO at 1811 Baltimore Avenue, Kansas C
 - Website: https://www.treanorhl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 22% of architects in Kansas City, MO, #2 of 19 architects in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 22% of architects in Kansas City, MO, #2 of 19 architects in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/treanor-hl-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/treanor-hl-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10220496873 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10220496873 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

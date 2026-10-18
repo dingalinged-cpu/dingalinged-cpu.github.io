@@ -6,7 +6,7 @@ Also answers: dog groomer in Simonton, TX; dog groomer near me (Simonton, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sittin Pretty Pet Salon | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Sittin Pretty Pet Salon is a dog groomer in Simonton, TX at 9605 1/2 FM 1489, Simonton, TX 77476. | https://registry-edge.dingalinged.workers.dev/c/sittin-pretty-pet-salon-simonton/
+1. Sittin Pretty Pet Salon | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Sittin Pretty Pet Salon is a dog groomer in Simonton, TX at 9605 1/2 FM 1489, Simonton, TX 77476. | https://registry-edge.dingalinged.workers.dev/c/sittin-pretty-pet-salon-simonton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer simonton tx | category: Pets | industry benchmark: Animals & Pets

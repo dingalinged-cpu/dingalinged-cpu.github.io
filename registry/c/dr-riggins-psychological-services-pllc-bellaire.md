@@ -13,7 +13,7 @@ Dr. Riggins Psychological Services, PLLC is a physical therapy clinic in Bellair
 - Website: https://www.drrigginspllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 24% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Bellaire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 24% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Bellaire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Perez Tax Group is an accountant in Porter, TX at 24361 FM 1314, Porter, TX 
 - Website: https://pereztaxgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 13:00-18:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of accountants in Houston, #1 of 1 accountants in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 23% of accountants in Houston, #1 of 1 accountants in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

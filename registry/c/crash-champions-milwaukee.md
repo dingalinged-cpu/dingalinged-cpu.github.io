@@ -13,7 +13,7 @@ Crash Champions is an auto repair shop in Milwaukee, WI at 4930 South 6th Street
 - Website: https://crashchampions.com/locations/crash-champions-milwaukee
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49.3/100 — Building — top 76% of auto repair shops in Milwaukee, #89 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 75% of auto repair shops in Milwaukee, #87 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

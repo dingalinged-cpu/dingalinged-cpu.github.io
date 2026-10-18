@@ -13,7 +13,7 @@ The Little Gym is a gym in Marietta, GA at 1205 Johnson Ferry Road Northeast, Ma
 - Website: https://www.thelittlegym.com/georgia-marietta/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 63% of gyms in Atlanta, #18 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 63% of gyms in Atlanta, #17 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

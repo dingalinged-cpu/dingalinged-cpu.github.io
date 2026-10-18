@@ -16,7 +16,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 8. Soap Hand Car Wash | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Soap Hand Car Wash is a car wash in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/soap-hand-car-wash-atlanta/
 9. Blue Beacon | Organic #9 | Pulse Score 47.4/100 (Building, #9 in city) | Blue Beacon is a car wash in Atlanta, GA. Website: https://bluebeacon.com/locations/listing/atlanta-west-ga. | https://registry-edge.dingalinged.workers.dev/c/blue-beacon-atlanta/
 10. Caliber Car Wash | Organic #10 | Pulse Score 46.9/100 (Unrated, #10 in city) | Caliber Car Wash is a car wash in Atlanta, GA at 2764 Chamblee Tucker Road, Atlanta, GA 30341. | https://registry-edge.dingalinged.workers.dev/c/caliber-car-wash-atlanta/
-11. Whistle Express Car Wash | Organic #11 | Pulse Score 45.9/100 (Unrated, #11 in city) | Whistle Express Car Wash is a car wash in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/whistle-express-car-wash-atlanta/
+11. Whistle Express Car Wash | Organic #11 | Pulse Score 44.8/100 (Building, #11 in city) | Whistle Express Car Wash is a car wash in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/whistle-express-car-wash-atlanta/
 12. Mister Car Wash | Organic #12 | Pulse Score 42.6/100 (Unrated, #12 in city) | Mister Car Wash is a car wash in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/mister-car-wash-atlanta/
 13. BP | Organic #13 | Pulse Score 42.5/100 (Building, #13 in city) | BP is a car wash in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/bp-atlanta/
 

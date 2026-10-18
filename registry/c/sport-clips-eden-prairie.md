@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Eden Prairie, MN at 8045 Flying Cloud Drive #120,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 89% of hair salons in Minneapolis–St. Paul, #8 of 11 hair salons in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 88% of hair salons in Minneapolis–St. Paul, #8 of 11 hair salons in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

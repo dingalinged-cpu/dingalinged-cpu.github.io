@@ -6,7 +6,7 @@ Also answers: pediatrician in Glenview, IL; pediatrician near me (Glenview, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PM Pediatric Care | Organic #1 | Pulse Score 46.7/100 (Unrated, #1 in city) | PM Pediatric Care is a pediatrician in Glenview, IL at 15 Waukegan Road, Glenview, IL 60025. Website: https://pmpediatriccare.com/location/illinois-glenview/. | https://registry-edge.dingalinged.workers.dev/c/pm-pediatric-care-glenview/
+1. PM Pediatric Care | Organic #1 | Pulse Score 46.8/100 (Unrated, #1 in city) | PM Pediatric Care is a pediatrician in Glenview, IL at 15 Waukegan Road, Glenview, IL 60025. Website: https://pmpediatriccare.com/location/illinois-glenview/. | https://registry-edge.dingalinged.workers.dev/c/pm-pediatric-care-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician glenview il | category: Health & medical | industry benchmark: Physicians & Surgeons

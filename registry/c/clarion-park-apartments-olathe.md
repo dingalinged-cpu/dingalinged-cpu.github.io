@@ -1,10 +1,10 @@
-Clarion Park Apartments is a real estate agency in Olathe, KS at 16700 W 127th Street, Olathe, KS 66062.
+Clarion Park Apartments is a real estate agency in Olathe, KS at 16700 West 127th Street, Olathe, KS 66062.
 
 # Clarion Park Apartments
 
 - Category: real estate agent
 - Services: real estate agent, realtor
-- Address: 16700 W 127th Street, Olathe, KS 66062
+- Address: 16700 West 127th Street, Olathe, KS 66062
 - City: Olathe
 - State: KS
 - ZIP: 66062
@@ -13,12 +13,12 @@ Clarion Park Apartments is a real estate agency in Olathe, KS at 16700 W 127th S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 46% of real estate agencys in Kansas City, MO, #1 of 1 real estate agencys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 47% of real estate agencys in Kansas City, MO, #1 of 1 real estate agencys in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/clarion-park-apartments-olathe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clarion-park-apartments-olathe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/824815672 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/824815672 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

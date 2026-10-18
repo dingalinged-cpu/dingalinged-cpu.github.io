@@ -13,7 +13,7 @@ Streamlined Storage - Ankeny is a self-storage facility in Ankeny, IA at 1519 So
 - Website: https://www.streamlinedstorage.com/pages/ankeny
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of self-storage facilitys in Des Moines, IA, #1 of 5 self-storage facilitys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of self-storage facilitys in Des Moines, IA, #1 of 5 self-storage facilitys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

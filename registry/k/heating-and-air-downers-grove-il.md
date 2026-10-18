@@ -6,7 +6,7 @@ Also answers: heating and air in Downers Grove, IL; heating and air near me (Dow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kats Heating and Cooling | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Kats Heating and Cooling is a HVAC contractor in Downers Grove, IL at 1509 Ogden Avenue, Downers Grove, IL 60515. Phone: +17087106719. Website: https://www.katsheating.com/. | https://registry-edge.dingalinged.workers.dev/c/kats-heating-and-cooling-downers-grove/
+1. Kats Heating and Cooling | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Kats Heating and Cooling is a HVAC contractor in Downers Grove, IL at 1509 Ogden Avenue, Downers Grove, IL 60515. Phone: +17087106719. Website: https://www.katsheating.com/. | https://registry-edge.dingalinged.workers.dev/c/kats-heating-and-cooling-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air downers grove il | category: Home Services | industry benchmark: Home & Home Improvement

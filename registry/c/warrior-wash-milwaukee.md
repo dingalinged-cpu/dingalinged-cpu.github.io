@@ -13,7 +13,7 @@ Warrior Wash is a car wash in Milwaukee, WI at 640 South 70th Street, Milwaukee,
 - Website: https://www.warriormke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of car washes in Milwaukee, #2 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of car washes in Milwaukee, #2 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

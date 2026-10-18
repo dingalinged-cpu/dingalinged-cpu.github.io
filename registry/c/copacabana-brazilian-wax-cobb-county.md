@@ -13,7 +13,7 @@ Copacabana Brazilian Wax is a waxing salon in Cobb County, GA at 4401 Shallowfor
 - Website: https://www.copacabanawax.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su off
-- Pulse Score: 46.6/100 — Building — top 96% of waxing salons in Atlanta, #10 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 96% of waxing salons in Atlanta, #10 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

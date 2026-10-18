@@ -13,7 +13,7 @@ Moler Barber School is a barber shop in Columbia Heights, MN at 4801 Central Ave
 - Website: https://www.molerbarberschoolmn.com/
 - Email: mbsofminnesota@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 31% of barber shops in Minneapolis–St. Paul, #1 of 1 barber shops in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 31% of barber shops in Minneapolis–St. Paul, #1 of 1 barber shops in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Texas Title is a lawyer in Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 95% of lawyers in Dallas–Fort Worth, #9 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 94% of lawyers in Dallas–Fort Worth, #9 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

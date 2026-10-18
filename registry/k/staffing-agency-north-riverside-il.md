@@ -6,7 +6,7 @@ Also answers: staffing agency in North Riverside, IL; staffing agency near me (N
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Accurate Personnel | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Accurate Personnel is a staffing agency in North Riverside, IL. | https://registry-edge.dingalinged.workers.dev/c/accurate-personnel-north-riverside/
+1. Accurate Personnel | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Accurate Personnel is a staffing agency in North Riverside, IL. | https://registry-edge.dingalinged.workers.dev/c/accurate-personnel-north-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency north riverside il | category: b2b_services | industry benchmark: Business Services

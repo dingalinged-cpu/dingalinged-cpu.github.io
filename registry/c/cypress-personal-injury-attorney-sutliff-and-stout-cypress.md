@@ -13,7 +13,7 @@ Cypress Personal Injury Attorney Sutliff & Stout is a lawyer in Cypress, TX at 1
 - Website: https://www.sutliffstout.com/cypress-car-accident-lawyer/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Houston, #3 of 3 lawyers in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Houston, #3 of 3 lawyers in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: facial in Harris County, TX; facial near me (Harris County, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sola Salons | Organic #1 | Pulse Score 43.3/100 (Building, #47 in city) | Sola Salons is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-harris-county/
+1. Sola Salons | Organic #1 | Pulse Score 43.4/100 (Building, #46 in city) | Sola Salons is a nail salon in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

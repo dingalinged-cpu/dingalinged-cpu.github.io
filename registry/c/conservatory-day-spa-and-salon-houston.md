@@ -13,7 +13,7 @@ Conservatory Day Spa & Salon is a spa in Houston, TX at 2665 Royal Forest Drive,
 - Website: https://conservatorydayspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 40% of spas in Houston, #2 of 3 spas in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 40% of spas in Houston, #2 of 3 spas in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

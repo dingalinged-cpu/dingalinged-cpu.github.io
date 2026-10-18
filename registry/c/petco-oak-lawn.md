@@ -13,7 +13,7 @@ Petco is a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 6045
 - Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 62% of pet stores in Chicago, #1 of 2 pet stores in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 61% of pet stores in Chicago, #1 of 2 pet stores in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

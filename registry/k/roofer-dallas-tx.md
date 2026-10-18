@@ -6,7 +6,7 @@ Also answers: roofer in Dallas, TX; roofer near me (Dallas, TX); best roofer Dal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salis Roofing | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Salis Roofing is a roofer in Dallas, TX. Phone: +14696770239. Website: https://salisroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/salis-roofing-dallas/
+1. Salis Roofing | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Salis Roofing is a roofer in Dallas, TX. Phone: +14696770239. Website: https://salisroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/salis-roofing-dallas/
 2. Outback Roofing | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Outback Roofing is a roofer in Dallas, TX at 17618 Davenport Road #3, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/outback-roofing-dallas/
 3. Texas General Constructors | Organic #3 | Pulse Score 53.5/100 (Unrated, #3 in city) | Texas General Constructors is a roofer in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-general-constructors-dallas/
 4. American Pride Roofing | Organic #4 | Pulse Score 51/100 (Unrated, #4 in city) | American Pride Roofing is a roofer in Dallas, TX at 4100 Spring Valley Road #600, Dallas, TX 75244. Phone: +12147616742. Website: https://americanprideroofing.com/dallas-tx-roofing-company/. | https://registry-edge.dingalinged.workers.dev/c/american-pride-roofing-dallas/

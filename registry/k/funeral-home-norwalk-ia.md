@@ -6,7 +6,7 @@ Also answers: funeral home in Norwalk, IA; funeral home near me (Norwalk, IA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Iles Norwalk Chapel | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Iles Norwalk Chapel is a funeral home in Norwalk, IA at 1020 Main Street, Norwalk, IA 50211. Phone: +15159810700. | https://registry-edge.dingalinged.workers.dev/c/iles-norwalk-chapel-norwalk/
+1. Iles Norwalk Chapel | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Iles Norwalk Chapel is a funeral home in Norwalk, IA at 1020 Main Street, Norwalk, IA 50211. Phone: +15159810700. | https://registry-edge.dingalinged.workers.dev/c/iles-norwalk-chapel-norwalk/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home norwalk ia | category: Professional & financial services | industry benchmark: Finance & Insurance

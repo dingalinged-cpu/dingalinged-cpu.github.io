@@ -13,7 +13,7 @@ Iwin Foot Massage is a massage studio in DeKalb County, GA at 2566 Shallowford R
 - Website: https://iwinfootmassage.wixsite.com/30345
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-22:00; Su 11:00-19:00
-- Pulse Score: 63/100 — Good — top 9% of massage studios in Atlanta, #1 of 2 massage studios in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 8% of massage studios in Atlanta, #1 of 2 massage studios in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

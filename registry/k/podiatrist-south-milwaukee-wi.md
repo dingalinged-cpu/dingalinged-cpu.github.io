@@ -6,7 +6,7 @@ Also answers: podiatrist in South Milwaukee, WI; podiatrist near me (South Milwa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aurora Health Center | Organic #1 | Pulse Score 51.9/100 (Fair, #1 in city) | Aurora Health Center is a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee. | https://registry-edge.dingalinged.workers.dev/c/aurora-health-center-south-milwaukee/
+1. Aurora Health Center | Organic #1 | Pulse Score 52/100 (Fair, #1 in city) | Aurora Health Center is a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee. | https://registry-edge.dingalinged.workers.dev/c/aurora-health-center-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist south milwaukee wi | category: Health & medical | industry benchmark: Physicians & Surgeons

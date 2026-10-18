@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Milwaukee, WI at 1131 North 8t
 - Website: https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/1000000919/
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 50.6/100 — Fair — top 66% of self-storage facilitys in Milwaukee, #10 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 62% of self-storage facilitys in Milwaukee, #9 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

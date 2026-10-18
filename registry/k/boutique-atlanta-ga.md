@@ -6,7 +6,7 @@ Also answers: boutique in Atlanta, GA; boutique near me (Atlanta, GA); best bout
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Pink Zebra Botique | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | The Pink Zebra Botique is a boutique in Atlanta, GA at 177 Peters Street Southwest #C, Atlanta, GA 30313. | https://registry-edge.dingalinged.workers.dev/c/the-pink-zebra-botique-atlanta/
+1. The Pink Zebra Botique | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | The Pink Zebra Botique is a boutique in Atlanta, GA at 177 Peters Street Southwest #C, Atlanta, GA 30313. | https://registry-edge.dingalinged.workers.dev/c/the-pink-zebra-botique-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique atlanta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

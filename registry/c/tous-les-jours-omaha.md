@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Omaha, NE at 7538 Dodge Street, Omaha, NE 68114. P
 - Website: https://www.tljus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
-- Pulse Score: 48.9/100 — Building — top 96% of bakerys in Omaha, NE, #16 of 17 bakerys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 91% of bakerys in Omaha, NE, #15 of 17 bakerys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

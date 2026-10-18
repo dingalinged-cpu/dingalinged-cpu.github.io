@@ -7,7 +7,7 @@ Also answers: tire shop in Lake Zurich, IL; tire shop near me (Lake Zurich, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Lake Zurich Tire & Auto | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Lake Zurich Tire & Auto is a tire shop in Lake Zurich, IL at 526 West Main Street, Lake Zurich, IL 60047. | https://registry-edge.dingalinged.workers.dev/c/lake-zurich-tire-and-auto-lake-zurich/
-2. Just Tires | Organic #2 | Pulse Score 45.4/100 (Unrated, #2 in city) | Just Tires is a tire shop in Lake Zurich, IL at 175 Quentin Road, Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/just-tires-lake-zurich/
+2. Just Tires | Organic #2 | Pulse Score 45.5/100 (Unrated, #2 in city) | Just Tires is a tire shop in Lake Zurich, IL at 175 Quentin Road, Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/just-tires-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop lake zurich il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

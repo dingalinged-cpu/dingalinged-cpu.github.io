@@ -13,7 +13,7 @@ Mt Kicks TaeKwonDo is a martial arts school in Frisco, TX at 12255 Teel Parkway 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 46% of martial arts schools in Dallas–Fort Worth, #5 of 7 martial arts schools in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 46% of martial arts schools in Dallas–Fort Worth, #5 of 7 martial arts schools in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

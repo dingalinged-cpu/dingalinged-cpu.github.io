@@ -13,7 +13,7 @@ Goodwill is a thrift store in Tucker, GA at 4400 Hugh Howell Rd, Tucker, GA 3008
 - Website: https://goodwillng.org/gw-locations/tucker-store-donation-center-30084/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 67% of thrift stores in Atlanta, #2 of 3 thrift stores in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 66% of thrift stores in Atlanta, #2 of 3 thrift stores in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

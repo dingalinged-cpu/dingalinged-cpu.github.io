@@ -13,7 +13,7 @@ Northwoods is a marketing agency in Shorewood, WI at 1572 East Capitol Drive, Sh
 - Website: https://www.nwsdigital.com/
 - Email: info@nwsdigital.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of marketing agencys in Milwaukee, #1 of 1 marketing agencys in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of marketing agencys in Milwaukee, #1 of 1 marketing agencys in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

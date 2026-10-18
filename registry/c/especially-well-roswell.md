@@ -13,7 +13,7 @@ Especially Well is a chiropractor in Roswell, GA at 1460 Woodstock Road, Roswell
 - Website: https://www.especiallywell.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Fair — top 41% of chiropractors in Atlanta, #4 of 9 chiropractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 41% of chiropractors in Atlanta, #4 of 9 chiropractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

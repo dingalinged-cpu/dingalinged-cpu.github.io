@@ -13,7 +13,7 @@ Summit Manor is an event venue in Saint Paul, MN at 275 Summit Avenue, Saint Pau
 - Website: https://summitmanor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 24% of event venues in Minneapolis–St. Paul, #3 of 6 event venues in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 24% of event venues in Minneapolis–St. Paul, #3 of 6 event venues in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

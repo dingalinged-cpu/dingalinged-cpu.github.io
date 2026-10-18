@@ -6,7 +6,7 @@ Also answers: furniture store in Webster, TX; furniture store near me (Webster, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Furniture Warehouse | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | American Furniture Warehouse is a furniture store in Webster, TX at 21501 Gulf Freeway, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/american-furniture-warehouse-webster/
+1. American Furniture Warehouse | Organic #1 | Pulse Score 47/100 (Unrated, #1 in city) | American Furniture Warehouse is a furniture store in Webster, TX at 21501 Gulf Freeway, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/american-furniture-warehouse-webster/
 2. IKEA | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | IKEA is a furniture store in Webster, TX. | https://registry-edge.dingalinged.workers.dev/c/ikea-webster/
 
 ## Market data (for advertisers and agents)

@@ -6,9 +6,9 @@ Also answers: photographer in Saint Paul, MN; photographer near me (Saint Paul, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charlie & Violet Photography | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Charlie & Violet Photography is a photographer in Saint Paul, MN at 550 Vandalia Street ##204, Saint Paul, MN 55114. Phone: +17636568731. Website: https://www.charlieandviolet.com/. | https://registry-edge.dingalinged.workers.dev/c/charlie-and-violet-photography-saint-paul/
-2. Image Studios | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Image Studios is a photographer in Saint Paul, MN at 550 Vandalia Street ##213, Saint Paul, MN 55114. Phone: +16127013697. Website: https://imagempls.com/. | https://registry-edge.dingalinged.workers.dev/c/image-studios-saint-paul/
-3. Kidus Studio | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Kidus Studio is a photographer in Saint Paul, MN at 1032 Cleveland Avenue, Saint Paul, MN 55116. Phone: +16129998364. Website: https://kidusstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/kidus-studio-saint-paul/
+1. Charlie & Violet Photography | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Charlie & Violet Photography is a photographer in Saint Paul, MN at 550 Vandalia Street ##204, Saint Paul, MN 55114. Phone: +17636568731. Website: https://www.charlieandviolet.com/. | https://registry-edge.dingalinged.workers.dev/c/charlie-and-violet-photography-saint-paul/
+2. Kidus Studio | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Kidus Studio is a photographer in Saint Paul, MN at 1032 Cleveland Avenue, Saint Paul, MN 55116. Phone: +16129998364. Website: https://kidusstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/kidus-studio-saint-paul/
+3. Image Studios | Organic #3 | Pulse Score 46.5/100 (Unrated, #3 in city) | Image Studios is a photographer in Saint Paul, MN at 550 Vandalia Street ##213, Saint Paul, MN 55114. Phone: +16127013697. Website: https://imagempls.com/. | https://registry-edge.dingalinged.workers.dev/c/image-studios-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer saint paul mn | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Unique Ink Tattoo Studio is a tattoo shop in Marietta, GA at 772 Allgood Road No
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 73% of tattoo shops in Atlanta, #9 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 73% of tattoo shops in Atlanta, #9 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

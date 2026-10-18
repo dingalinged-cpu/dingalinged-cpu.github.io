@@ -13,7 +13,7 @@ Children's at Town Center Urgent Care is a pediatrician in Cobb County, GA at 62
 - Website: https://www.choa.org/locations/childrens-urgent-care-at-town-center
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-21:00; Sa-Su 09:00-19:00
-- Pulse Score: 62.5/100 — Good — top 16% of pediatricians in Atlanta, #1 of 2 pediatricians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 16% of pediatricians in Atlanta, #1 of 2 pediatricians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: storage units in Town Of Middleton, WI; storage units near me (Tow
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Point Self-Stor | Organic #1 | Pulse Score 61.3/100 (Unrated, #2 in city) | Point Self-Stor is a self-storage facility in Madison, WI at 3690 Commerce Drive, Madison, WI 53719. Phone: +16088339090. Website: https://pointselfstor.com/. | https://registry-edge.dingalinged.workers.dev/c/point-self-stor-madison/
-2. Extra Space Storage | Organic #2 | Pulse Score 42.3/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Town of Middleton, WI. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-town-of-middleton/
+2. Extra Space Storage | Organic #2 | Pulse Score 42.4/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Town of Middleton, WI. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-town-of-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units town of middleton wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

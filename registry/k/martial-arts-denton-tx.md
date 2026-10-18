@@ -6,8 +6,8 @@ Also answers: martial arts in Denton, TX; martial arts near me (Denton, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reding Martial Arts | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Reding Martial Arts is a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/reding-martial-arts-denton/
-2. Total Fitness Kickboxing | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Total Fitness Kickboxing is a martial arts school in Denton, TX at 1800 Brinker Road #Suite 260, Denton, TX 76208. Phone: +19402304398. Website: https://tfkfitness.com/denton. | https://registry-edge.dingalinged.workers.dev/c/total-fitness-kickboxing-denton/
+1. Reding Martial Arts | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Reding Martial Arts is a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/reding-martial-arts-denton/
+2. Total Fitness Kickboxing | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Total Fitness Kickboxing is a martial arts school in Denton, TX at 1800 Brinker Road #Suite 260, Denton, TX 76208. Phone: +19402304398. Website: https://tfkfitness.com/denton. | https://registry-edge.dingalinged.workers.dev/c/total-fitness-kickboxing-denton/
 3. Tae Kwon Do | Organic #3 | Pulse Score 47.3/100 (Unrated, #3 in city) | Tae Kwon Do is a martial arts school in Denton, TX at 2324 San Jacinto Boulevard #Suite 217, Denton, TX 76205. Phone: +19407997326. | https://registry-edge.dingalinged.workers.dev/c/tae-kwon-do-denton/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Law Office of William Teitelbaum is a lawyer in Dallas, TX at 4925 Greenville Av
 - Website: n/a
 - Email: wjtlaw@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59/100 — Fair — top 40% of lawyers in Dallas–Fort Worth, #25 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 40% of lawyers in Dallas–Fort Worth, #25 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

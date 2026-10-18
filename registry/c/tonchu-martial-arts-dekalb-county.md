@@ -13,7 +13,7 @@ Tonchu Martial Arts is a martial arts school in DeKalb County, GA at 1248 Clairm
 - Website: https://www.tonchumartialarts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Good — top 41% of martial arts schools in Atlanta, #1 of 2 martial arts schools in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 41% of martial arts schools in Atlanta, #1 of 2 martial arts schools in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

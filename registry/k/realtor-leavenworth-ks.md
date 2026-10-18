@@ -6,9 +6,9 @@ Also answers: realtor in Leavenworth, KS; realtor near me (Leavenworth, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maintenance Department, Frontier Heritage Communities | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Maintenance Department, Frontier Heritage Communities is a real estate agency in Leavenworth, KS at 800 West Warehouse Road, Leavenworth, KS 66027. Phone: +19136826300. Website: https://tmo.com/michaels-management-services/communities/fort-leavenworth-frontier-heritage-communities. | https://registry-edge.dingalinged.workers.dev/c/maintenance-department-frontier-heritage-communities-leavenworth/
-2. G&W Properties | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | G&W Properties is a real estate agency in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/g-and-w-properties-leavenworth/
-3. Wiggin Property Management | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Wiggin Property Management is a real estate agency in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/wiggin-property-management-leavenworth/
+1. Maintenance Department, Frontier Heritage Communities | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Maintenance Department, Frontier Heritage Communities is a real estate agency in Leavenworth, KS at 800 West Warehouse Road, Leavenworth, KS 66027. Phone: +19136826300. Website: https://tmo.com/michaels-management-services/communities/fort-leavenworth-frontier-heritage-communities. | https://registry-edge.dingalinged.workers.dev/c/maintenance-department-frontier-heritage-communities-leavenworth/
+2. G&W Properties | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | G&W Properties is a real estate agency in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/g-and-w-properties-leavenworth/
+3. Wiggin Property Management | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Wiggin Property Management is a real estate agency in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/wiggin-property-management-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor leavenworth ks | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ Clauss Recreation Center is a gym in Roselle, IL at 555 West Bryn Mawr Avenue, R
 - Website: https://www.rparks.org/parks-and-facilities/clauss-recreation-center
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 56% of gyms in Chicago, #1 of 1 gyms in Roselle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 55% of gyms in Chicago, #1 of 1 gyms in Roselle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

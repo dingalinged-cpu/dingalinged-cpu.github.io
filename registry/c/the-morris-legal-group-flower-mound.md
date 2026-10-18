@@ -13,7 +13,7 @@ The Morris Legal Group is a lawyer in Flower Mound, TX at Parker Square #610, Fl
 - Website: https://www.morris-law.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa open "By appointment"; PH closed
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 35% of lawyers in Dallas–Fort Worth, #2 of 4 lawyers in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of lawyers in Dallas–Fort Worth, #2 of 4 lawyers in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

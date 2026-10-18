@@ -6,8 +6,8 @@ Also answers: vet in Suwanee, GA; vet near me (Suwanee, GA); best vet Suwanee, G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laurel Springs Animal Hospital | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Laurel Springs Animal Hospital is a veterinarian in Suwanee, GA at 3592 Old Atlanta Road #103, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/laurel-springs-animal-hospital-suwanee/
-2. Suwanee Animal Hospital | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Suwanee Animal Hospital is a veterinarian in Suwanee, GA at 85 Buford Highway North West, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/suwanee-animal-hospital-suwanee/
+1. Laurel Springs Animal Hospital | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Laurel Springs Animal Hospital is a veterinarian in Suwanee, GA at 3592 Old Atlanta Road #103, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/laurel-springs-animal-hospital-suwanee/
+2. Suwanee Animal Hospital | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Suwanee Animal Hospital is a veterinarian in Suwanee, GA at 85 Buford Highway North West, Suwanee, GA 30024. | https://registry-edge.dingalinged.workers.dev/c/suwanee-animal-hospital-suwanee/
 3. Heart of Suwanee Animal Hospital | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Heart of Suwanee Animal Hospital is a veterinarian in Suwanee, GA. | https://registry-edge.dingalinged.workers.dev/c/heart-of-suwanee-animal-hospital-suwanee/
 
 ## Market data (for advertisers and agents)

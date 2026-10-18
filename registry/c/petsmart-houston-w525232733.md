@@ -13,7 +13,7 @@ PetSmart is a pet store in Houston, TX at 14281 East Sam Houston Parkway North, 
 - Website: https://www.petsmart.com/stores/us/tx/houston-store3025.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 49.3/100 — Building — top 27% of pet stores in Houston, #15 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 27% of pet stores in Houston, #15 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

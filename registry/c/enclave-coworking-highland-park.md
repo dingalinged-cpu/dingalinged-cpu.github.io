@@ -13,7 +13,7 @@ Enclave Coworking is a coworking space in Highland Park, IL at 1849 Green Bay Ro
 - Website: https://enclavecoworking.com/locations/highland-park
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of coworking spaces in Chicago, #1 of 1 coworking spaces in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of coworking spaces in Chicago, #1 of 1 coworking spaces in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

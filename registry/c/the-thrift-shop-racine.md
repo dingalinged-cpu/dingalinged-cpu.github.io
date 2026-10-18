@@ -13,7 +13,7 @@ The Thrift Shop is a thrift store in Racine, WI at 1222 Lathrop Avenue, Racine, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 28% of thrift stores in Milwaukee, #4 of 5 thrift stores in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 28% of thrift stores in Milwaukee, #4 of 5 thrift stores in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

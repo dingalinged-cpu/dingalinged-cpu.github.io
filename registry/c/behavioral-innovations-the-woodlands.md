@@ -13,7 +13,7 @@ Behavioral Innovations is an occupational therapist in The Woodlands, TX at 8101
 - Website: https://behavioral-innovations.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Houston, #2 of 2 occupational therapists in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Houston, #2 of 2 occupational therapists in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

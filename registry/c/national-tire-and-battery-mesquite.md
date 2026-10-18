@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Mesquite, TX at 3619 Towne C
 - Website: https://www.ntb.com/store/tx/mesquite/3619-towne-crossing-blvd-75150/4495
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 73% of auto repair shops in Dallas–Fort Worth, #41 of 56 auto repair shops in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 72% of auto repair shops in Dallas–Fort Worth, #41 of 56 auto repair shops in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

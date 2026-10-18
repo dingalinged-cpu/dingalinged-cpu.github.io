@@ -6,7 +6,7 @@ Also answers: vet in Franklin, WI; vet near me (Franklin, WI); best vet Franklin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brentwood Animal Campus | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Brentwood Animal Campus is a veterinarian in Franklin, WI. Phone: +14144272700. | https://registry-edge.dingalinged.workers.dev/c/brentwood-animal-campus-franklin/
+1. Brentwood Animal Campus | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Brentwood Animal Campus is a veterinarian in Franklin, WI. Phone: +14144272700. | https://registry-edge.dingalinged.workers.dev/c/brentwood-animal-campus-franklin/
 2. American Veterinary Hospital | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | American Veterinary Hospital is a veterinarian in Franklin, WI at 2735C,2735A,2735B West Rawson Avenue, Franklin, WI 53132. | https://registry-edge.dingalinged.workers.dev/c/american-veterinary-hospital-franklin/
 
 ## Market data (for advertisers and agents)

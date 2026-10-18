@@ -6,7 +6,7 @@ Also answers: bike shop in Skokie, IL; bike shop near me (Skokie, IL); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Al's Cycle Shop | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Al's Cycle Shop is a bike shop in Skokie, IL at 8118 Lincoln Avenue, Skokie, IL 60077. Phone: +18476730135. Website: https://alscycleshop.com/. | https://registry-edge.dingalinged.workers.dev/c/als-cycle-shop-skokie/
+1. Al's Cycle Shop | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Al's Cycle Shop is a bike shop in Skokie, IL at 8118 Lincoln Avenue, Skokie, IL 60077. Phone: +18476730135. Website: https://alscycleshop.com/. | https://registry-edge.dingalinged.workers.dev/c/als-cycle-shop-skokie/
 2. Erik's | Organic #2 | Pulse Score 46.1/100 (Unrated, #2 in city) | Erik's is a bike shop in Skokie, IL at 3801 Oakton Street, Skokie, IL 60076. Phone: +18473245134. Website: https://www.eriksbikeshop.com/store/skokie-il-60076/Skok. | https://registry-edge.dingalinged.workers.dev/c/eriks-skokie/
 
 ## Market data (for advertisers and agents)

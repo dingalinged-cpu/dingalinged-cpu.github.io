@@ -6,7 +6,7 @@ Also answers: tire shop in Powder Springs, GA; tire shop near me (Powder Springs
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tires Plus | Organic #1 | Pulse Score 42.3/100 (Building, #1 in city) | Tires Plus is a tire shop in Powder Springs, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-powder-springs/
+1. Tires Plus | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Tires Plus is a tire shop in Powder Springs, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-powder-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop powder springs ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

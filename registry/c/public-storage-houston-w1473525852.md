@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Houston, TX at 11900 Katy Freeway, 
 - Website: https://publicstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
-- Pulse Score: 50.7/100 — Fair — top 42% of self-storage facilitys in Houston, #22 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 40% of self-storage facilitys in Houston, #22 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

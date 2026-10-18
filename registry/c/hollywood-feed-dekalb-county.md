@@ -13,7 +13,7 @@ Hollywood Feed is a pet store in DeKalb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41/100 — Building — top 88% of pet stores in Atlanta, #2 of 2 pet stores in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41/100 — Building — top 88% of pet stores in Atlanta, #2 of 2 pet stores in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

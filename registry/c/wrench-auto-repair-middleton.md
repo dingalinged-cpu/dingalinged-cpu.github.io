@@ -13,7 +13,7 @@ Wrench Auto Repair is an auto repair shop in Middleton, WI at 3113 Laura Lane, M
 - Website: https://wrenchauto.com/
 - Email: wrenchautoserviceinc@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Madison, #3 of 6 auto repair shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Madison, #3 of 6 auto repair shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

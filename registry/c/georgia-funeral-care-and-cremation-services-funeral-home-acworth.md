@@ -13,7 +13,7 @@ Georgia Funeral Care and Cremation Services Funeral Home is a funeral home in Ac
 - Website: https://www.georgiafuneralcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 23% of funeral homes in Atlanta, #1 of 1 funeral homes in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 23% of funeral homes in Atlanta, #1 of 1 funeral homes in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

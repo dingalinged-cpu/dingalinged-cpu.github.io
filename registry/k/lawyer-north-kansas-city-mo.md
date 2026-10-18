@@ -7,8 +7,8 @@ Also answers: lawyer in North Kansas City, MO; lawyer near me (North Kansas City
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. BH&P Law Firm | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | BH&P Law Firm is a lawyer in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/bh-and-p-law-firm-north-kansas-city/
-2. Law Office | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Law Office is a lawyer in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/law-office-north-kansas-city/
-3. McCrummen Immigration Law Group | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | McCrummen Immigration Law Group is a lawyer in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/mccrummen-immigration-law-group-north-kansas-city/
+2. McCrummen Immigration Law Group | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | McCrummen Immigration Law Group is a lawyer in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/mccrummen-immigration-law-group-north-kansas-city/
+3. Law Office | Organic #3 | Pulse Score 41.3/100 (Unrated, #3 in city) | Law Office is a lawyer in North Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/law-office-north-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer north kansas city mo | category: Legal | industry benchmark: Attorneys & Legal Services

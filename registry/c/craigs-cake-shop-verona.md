@@ -13,7 +13,7 @@ Craig's Cake Shop is a bakery in Verona, WI at 604 West Verona Avenue, Verona, W
 - Website: https://craigscakeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-12:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 26% of bakerys in Madison, #1 of 2 bakerys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 26% of bakerys in Madison, #1 of 2 bakerys in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

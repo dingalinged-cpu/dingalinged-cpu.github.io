@@ -13,7 +13,7 @@ Solidcore is a gym in Chicago, IL at 1642 West Division Street, Chicago, IL 6062
 - Website: https://www.solidcore.co/il/chicago/wicker-park/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 71% of gyms in Chicago, #127 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 70% of gyms in Chicago, #126 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

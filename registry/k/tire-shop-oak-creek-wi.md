@@ -7,7 +7,7 @@ Also answers: tire shop in Oak Creek, WI; tire shop near me (Oak Creek, WI); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. OC Automotive | Organic #1 | Pulse Score 62.4/100 (Unrated, #2 in city) | OC Automotive is an auto repair shop in Oak Creek, WI at 9310 South 27th Street, Oak Creek, WI 53154. Phone: +14143014702. Website: https://www.ocautomotivewefixcars.com/. | https://registry-edge.dingalinged.workers.dev/c/oc-automotive-oak-creek/
-2. Tires Plus | Organic #2 | Pulse Score 44.4/100 (Building, #1 in city) | Tires Plus is a tire shop in Oak Creek, WI at 6746 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-oak-creek/
+2. Tires Plus | Organic #2 | Pulse Score 44.6/100 (Building, #1 in city) | Tires Plus is a tire shop in Oak Creek, WI at 6746 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop oak creek wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

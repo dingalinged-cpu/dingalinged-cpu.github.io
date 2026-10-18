@@ -6,7 +6,7 @@ Also answers: preschool in Saint Francis, WI; preschool near me (Saint Francis, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | KinderCare is a preschool in Saint Francis, WI at 4692 South Whitnall Avenue, Saint Francis, WI 53235. | https://registry-edge.dingalinged.workers.dev/c/kindercare-saint-francis/
+1. KinderCare | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | KinderCare is a preschool in Saint Francis, WI at 4692 South Whitnall Avenue, Saint Francis, WI 53235. | https://registry-edge.dingalinged.workers.dev/c/kindercare-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool saint francis wi | category: Education & childcare | industry benchmark: Education & Instruction

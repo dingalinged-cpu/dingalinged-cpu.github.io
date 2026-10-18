@@ -13,7 +13,7 @@ PMA Martial Arts is a martial arts school in Plano, TX at 1101 Ohio Drive #118, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 59% of martial arts schools in Dallas–Fort Worth, #5 of 7 martial arts schools in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 59% of martial arts schools in Dallas–Fort Worth, #5 of 7 martial arts schools in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

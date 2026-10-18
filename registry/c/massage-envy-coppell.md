@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Coppell, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 09:00-19:00; We,Fr 09:00-20:00; PH closed; Sa 09:00-17:00; Su 10:00-18:00
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 83% of massage studios in Dallas–Fort Worth, #6 of 6 massage studios in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 81% of massage studios in Dallas–Fort Worth, #6 of 6 massage studios in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

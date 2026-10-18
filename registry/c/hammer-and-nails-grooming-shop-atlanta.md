@@ -13,7 +13,7 @@ Hammer & Nails Grooming Shop is a barber shop in Atlanta, GA at 915 West Peachtr
 - Website: https://hammerandnailsgrooming.com/location/midtown-atlanta-ga/
 - Email: midtownatlanta@hngrooming.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 63.8/100 — Good — top 11% of barber shops in Atlanta, #2 of 8 barber shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 11% of barber shops in Atlanta, #2 of 8 barber shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

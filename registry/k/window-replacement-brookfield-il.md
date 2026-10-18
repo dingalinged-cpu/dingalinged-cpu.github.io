@@ -6,7 +6,7 @@ Also answers: window replacement in Brookfield, IL; window replacement near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valdicass | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Valdicass is a window installer in Brookfield, IL at 8920 47th Street, Brookfield, IL 60513. Phone: +17082555231. Website: https://www.valdicass.com/. | https://registry-edge.dingalinged.workers.dev/c/valdicass-brookfield/
+1. Valdicass | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Valdicass is a window installer in Brookfield, IL at 8920 47th Street, Brookfield, IL 60513. Phone: +17082555231. Website: https://www.valdicass.com/. | https://registry-edge.dingalinged.workers.dev/c/valdicass-brookfield/
 2. Glass Replacement | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Glass Replacement is a window installer in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/glass-replacement-brookfield/
 3. Novy's | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Novy's is a window installer in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/novys-brookfield/
 4. Panel Window | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Panel Window is a window installer in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/panel-window-brookfield/

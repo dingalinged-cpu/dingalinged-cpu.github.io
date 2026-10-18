@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Columbia Heights, MN at 4639 Cent
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/mn/columbia-heights/4639-central-ave/19798
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 66% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 66% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

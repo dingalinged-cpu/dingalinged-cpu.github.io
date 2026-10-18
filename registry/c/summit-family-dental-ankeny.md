@@ -13,7 +13,7 @@ Summit Family Dental is a dentist in Ankeny, IA at 1705 North Ankeny Boulevard, 
 - Website: https://summitsmilesiowa.com/ankeny
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of dentists in Des Moines, IA, #3 of 14 dentists in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 89% of dentists in Des Moines, IA, #13 of 14 dentists in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.8, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

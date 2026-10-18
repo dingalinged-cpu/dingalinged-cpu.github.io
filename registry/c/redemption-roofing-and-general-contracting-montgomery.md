@@ -13,7 +13,7 @@ Redemption Roofing and General Contracting is a roofer in Montgomery, TX at 2114
 - Website: https://www.redemptionroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 63% of roofers in Houston, #1 of 1 roofers in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 63% of roofers in Houston, #1 of 1 roofers in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Venue Craig Ranch is a property management company in McKinney, TX at 4651 S
 - Website: https://www.thevenuecraigranch.com/?doorway=schedule
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of property management companys in Dallas–Fort Worth, #2 of 5 property management companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of property management companys in Dallas–Fort Worth, #2 of 5 property management companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

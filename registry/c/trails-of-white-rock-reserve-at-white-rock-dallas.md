@@ -13,7 +13,7 @@ Trails of White Rock/Reserve at White Rock is a property management company in D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 91% of property management companys in Dallas–Fort Worth, #34 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 91% of property management companys in Dallas–Fort Worth, #34 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

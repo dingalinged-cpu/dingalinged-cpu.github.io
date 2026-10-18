@@ -6,7 +6,7 @@ Also answers: staffing agency in Lilburn, GA; staffing agency near me (Lilburn, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Snelling Staffing | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Snelling Staffing is a staffing agency in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/snelling-staffing-lilburn/
+1. Snelling Staffing | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Snelling Staffing is a staffing agency in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/snelling-staffing-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency lilburn ga | category: b2b_services | industry benchmark: Business Services

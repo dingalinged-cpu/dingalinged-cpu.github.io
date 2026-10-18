@@ -6,7 +6,7 @@ Also answers: drywall repair in Garland, TX; drywall repair near me (Garland, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garland Commercial Contractors | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Garland Commercial Contractors is a drywall contractor in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/garland-commercial-contractors-garland/
+1. Garland Commercial Contractors | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Garland Commercial Contractors is a drywall contractor in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/garland-commercial-contractors-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: drywall repair garland tx | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ You Lucky Dog Pet Resort is a dog boarding facility in Houston, TX at 11403 Chim
 - Website: n/a
 - Email: info@youluckydoghouston.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of dog boarding facilitys in Houston, #1 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of dog boarding facilitys in Houston, #1 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

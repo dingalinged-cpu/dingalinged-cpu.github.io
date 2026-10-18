@@ -13,7 +13,7 @@ Texas Department of Public Safety is a driving school in Houston, TX at 11039 Ea
 - Website: https://www.dps.texas.gov/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 08:00-17:00; Tu 08:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of driving schools in Houston, #1 of 4 driving schools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of driving schools in Houston, #1 of 4 driving schools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

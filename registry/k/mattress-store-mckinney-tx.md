@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Mckinney, TX is Mattress by Appointment (a mattress store in McKinney, TX at 1502 West University Drive #105, McKinney, TX 75069). 3 mattress store businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Mckinney, TX is Mattress Firm (a mattress store in McKinney, TX at 1980 North Central Expressway #100, McKinney, TX 75070. Phone: +19725620707. Website: https://www.mattressfirm.com/en-us/stores/tx/mckinney/002124/). 3 mattress store businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Mckinney, TX?
 
@@ -6,9 +6,9 @@ Also answers: mattress store in Mckinney, TX; mattress store near me (Mckinney, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress by Appointment | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Mattress by Appointment is a mattress store in McKinney, TX at 1502 West University Drive #105, McKinney, TX 75069. | https://registry-edge.dingalinged.workers.dev/c/mattress-by-appointment-mckinney/
-2. Mattress Firm | Organic #2 | Pulse Score 50.3/100 (Fair, #2 in city) | Mattress Firm is a mattress store in McKinney, TX at 1980 North Central Expressway #100, McKinney, TX 75070. Phone: +19725620707. Website: https://www.mattressfirm.com/en-us/stores/tx/mckinney/002124/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mckinney-n9281658701/
-3. Mattress Firm | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Mattress Firm is a mattress store in McKinney, TX at 2050 West University Drive #110, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mckinney/
+1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in McKinney, TX at 1980 North Central Expressway #100, McKinney, TX 75070. Phone: +19725620707. Website: https://www.mattressfirm.com/en-us/stores/tx/mckinney/002124/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mckinney-n9281658701/
+2. Mattress Firm | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Mattress Firm is a mattress store in McKinney, TX at 2050 West University Drive #110, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-mckinney/
+3. Mattress by Appointment | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Mattress by Appointment is a mattress store in McKinney, TX at 1502 West University Drive #105, McKinney, TX 75069. | https://registry-edge.dingalinged.workers.dev/c/mattress-by-appointment-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mckinney tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

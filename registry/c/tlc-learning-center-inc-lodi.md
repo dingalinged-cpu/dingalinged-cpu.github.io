@@ -13,7 +13,7 @@ TLC Learning Center, Inc. is a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 
 - Website: https://tlclearningcenterwi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of daycares in Madison, #1 of 1 daycares in Lodi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of daycares in Madison, #1 of 1 daycares in Lodi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: architect in Shawnee, KS; architect near me (Shawnee, KS); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lickel Architecture | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Lickel Architecture is an architect in Shawnee, KS at 16200 Midland Drive, Shawnee, KS 66217. Phone: +19133897888. Website: https://www.lickelarchitecture.com/. | https://registry-edge.dingalinged.workers.dev/c/lickel-architecture-shawnee/
+1. Lickel Architecture | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Lickel Architecture is an architect in Shawnee, KS at 16200 Midland Drive, Shawnee, KS 66217. Phone: +19133897888. Website: https://www.lickelarchitecture.com/. | https://registry-edge.dingalinged.workers.dev/c/lickel-architecture-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect shawnee ks | category: Home services - Design | industry benchmark: Home & Home Improvement

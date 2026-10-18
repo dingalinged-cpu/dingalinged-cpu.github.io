@@ -6,9 +6,9 @@ Also answers: used cars for sale in Rogers, MN; used cars for sale near me (Roge
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bedrock Motors | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Bedrock Motors is an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374. | https://registry-edge.dingalinged.workers.dev/c/bedrock-motors-rogers/
+1. Bedrock Motors | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bedrock Motors is an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374. | https://registry-edge.dingalinged.workers.dev/c/bedrock-motors-rogers/
 2. Freeway Motors | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Freeway Motors is an used car dealer in Rogers, MN at 14080 Main Street, Rogers, MN 55374. | https://registry-edge.dingalinged.workers.dev/c/freeway-motors-rogers/
-3. Ellingson Motorcars | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Ellingson Motorcars is an used car dealer in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/ellingson-motorcars-rogers/
+3. Ellingson Motorcars | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Ellingson Motorcars is an used car dealer in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/ellingson-motorcars-rogers/
 4. Ultimate Golf Carts | Organic #4 | Pulse Score 44.6/100 (Unrated, #4 in city) | Ultimate Golf Carts is an used car dealer in Rogers, MN at 14295 James Road #Suite 100, Rogers, MN 55374. | https://registry-edge.dingalinged.workers.dev/c/ultimate-golf-carts-rogers/
 
 ## Market data (for advertisers and agents)

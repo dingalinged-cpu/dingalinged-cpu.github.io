@@ -6,7 +6,7 @@ Also answers: attorney in West Allis, WI; attorney near me (West Allis, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Layde & Parra S.C. | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Layde & Parra S.C. is a lawyer in West Allis, WI at 6737 West Washington Street #Suite 1111, West Allis, WI 53214. Phone: +14144881200. Website: https://laydeimmigration.com/. | https://registry-edge.dingalinged.workers.dev/c/layde-and-parra-s-c-west-allis/
+1. Layde & Parra S.C. | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Layde & Parra S.C. is a lawyer in West Allis, WI at 6737 West Washington Street #Suite 1111, West Allis, WI 53214. Phone: +14144881200. Website: https://laydeimmigration.com/. | https://registry-edge.dingalinged.workers.dev/c/layde-and-parra-s-c-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney west allis wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

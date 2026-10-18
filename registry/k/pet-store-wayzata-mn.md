@@ -6,7 +6,7 @@ Also answers: pet store in Wayzata, MN; pet store near me (Wayzata, MN); best pe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chuck and Don's | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Chuck and Don's is a pet store in Wayzata, MN. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-wayzata/
+1. Chuck and Don's | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Chuck and Don's is a pet store in Wayzata, MN. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-wayzata/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store wayzata mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Undies for Everyone is a thrift store in Houston, TX at 3610 Willowbend Blvd, Ho
 - Website: https://undiesforeveryone.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-15:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 5% of thrift stores in Houston, #2 of 44 thrift stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Houston, #2 of 44 thrift stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

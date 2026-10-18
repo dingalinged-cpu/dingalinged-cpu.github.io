@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Greenfield, WI at 7440 West Holmes Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 67% of phone repair shops in Milwaukee, #1 of 1 phone repair shops in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 67% of phone repair shops in Milwaukee, #1 of 1 phone repair shops in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

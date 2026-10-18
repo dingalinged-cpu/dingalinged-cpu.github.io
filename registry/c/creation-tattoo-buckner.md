@@ -19,6 +19,6 @@ Creation Tattoo is a tattoo shop in Buckner, MO at 323 South Hudson Street, Buck
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/creation-tattoo-buckner/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/creation-tattoo-buckner.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/543014889 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/543014889 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

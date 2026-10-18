@@ -6,8 +6,8 @@ Also answers: plumbers in Saint Louis Park, MN; plumbers near me (Saint Louis Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Onyx Plumbing | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/. | https://registry-edge.dingalinged.workers.dev/c/onyx-plumbing-minneapolis/
-2. Paladin Plumbing | Organic #2 | Pulse Score 58.6/100 (Unrated, #1 in city) | Paladin Plumbing is a plumber in Saint Louis Park, MN at 3230 Gorham Avenue #1, Saint Louis Park, MN 55426. Phone: +17634325260. Website: https://paladinplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/paladin-plumbing-saint-louis-park/
+1. Onyx Plumbing | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/. | https://registry-edge.dingalinged.workers.dev/c/onyx-plumbing-minneapolis/
+2. Paladin Plumbing | Organic #2 | Pulse Score 58.9/100 (Unrated, #1 in city) | Paladin Plumbing is a plumber in Saint Louis Park, MN at 3230 Gorham Avenue #1, Saint Louis Park, MN 55426. Phone: +17634325260. Website: https://paladinplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/paladin-plumbing-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers saint louis park mn | category: Home Services | industry benchmark: Home & Home Improvement

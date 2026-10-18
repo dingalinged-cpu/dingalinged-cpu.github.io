@@ -19,6 +19,6 @@ The Village Gardens is a florist in Blue Springs, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-village-gardens-blue-springs/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-village-gardens-blue-springs.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/565553851 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/565553851 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

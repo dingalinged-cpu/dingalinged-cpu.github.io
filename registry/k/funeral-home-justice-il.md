@@ -6,7 +6,7 @@ Also answers: funeral home in Justice, IL; funeral home near me (Justice, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peter Troost Monument Company | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Peter Troost Monument Company is a funeral home in Justice, IL at 7200 Archer Road, Justice, IL 60458. Phone: +17085630501. Website: https://www.troost.com/contact-us/locations/troost-justice-showroom/. | https://registry-edge.dingalinged.workers.dev/c/peter-troost-monument-company-justice/
+1. Peter Troost Monument Company | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Peter Troost Monument Company is a funeral home in Justice, IL at 7200 Archer Road, Justice, IL 60458. Phone: +17085630501. Website: https://www.troost.com/contact-us/locations/troost-justice-showroom/. | https://registry-edge.dingalinged.workers.dev/c/peter-troost-monument-company-justice/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home justice il | category: Professional & financial services | industry benchmark: Finance & Insurance

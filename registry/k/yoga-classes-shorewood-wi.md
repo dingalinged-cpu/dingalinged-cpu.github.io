@@ -7,7 +7,7 @@ Also answers: yoga classes in Shorewood, WI; yoga classes near me (Shorewood, WI
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Milwaukee Yoga Center | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Milwaukee Yoga Center is a yoga studio in Shorewood, WI at 3948 North Maryland Avenue, Shorewood, WI 53211. Phone: +14143323551. Website: https://www.mycmke.com/. | https://registry-edge.dingalinged.workers.dev/c/milwaukee-yoga-center-shorewood/
-2. Move More Yoga | Organic #2 | Pulse Score 58.5/100 (Fair, #2 in city) | Move More Yoga is a yoga studio in Shorewood, WI at 2223 East Capitol Drive, Shorewood, WI 53211. Website: https://www.movemoreyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/move-more-yoga-shorewood/
+2. Move More Yoga | Organic #2 | Pulse Score 58.6/100 (Fair, #2 in city) | Move More Yoga is a yoga studio in Shorewood, WI at 2223 East Capitol Drive, Shorewood, WI 53211. Website: https://www.movemoreyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/move-more-yoga-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes shorewood wi | category: Fitness | industry benchmark: Health & Fitness

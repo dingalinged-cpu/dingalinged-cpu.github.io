@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Houston, TX at 14275 East Sam Houston Parkw
 - Website: https://www.ulta.com/stores/houston-tx-1239
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 46.4/100 — Building — top 62% of skin care studios in Houston, #8 of 13 skin care studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 62% of skin care studios in Houston, #8 of 13 skin care studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: lawyer in Kansas City, KS; lawyer near me (Kansas City, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schilling Law | Organic #1 | Pulse Score 60.7/100 (Unrated, #11 in city) | Schilling Law is a lawyer in Kansas City, KS at 1321 Central Avenue, Kansas City, KS 66102. Phone: +19133534021. Website: https://www.schillinglawkc.com/. | https://registry-edge.dingalinged.workers.dev/c/schilling-law-kansas-city/
+1. Schilling Law | Organic #1 | Pulse Score 60.7/100 (Unrated, #9 in city) | Schilling Law is a lawyer in Kansas City, KS at 1321 Central Avenue, Kansas City, KS 66102. Phone: +19133534021. Website: https://www.schillinglawkc.com/. | https://registry-edge.dingalinged.workers.dev/c/schilling-law-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer kansas city ks | category: Legal | industry benchmark: Attorneys & Legal Services

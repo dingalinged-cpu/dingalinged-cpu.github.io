@@ -13,7 +13,7 @@ Massage Heights is a massage studio in Houston, TX at 13410 Briar Forest Drive #
 - Website: https://www.massageheights.com/parkway-village/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
-- Pulse Score: 49.4/100 — Building — top 74% of massage studios in Houston, #40 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 72% of massage studios in Houston, #39 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

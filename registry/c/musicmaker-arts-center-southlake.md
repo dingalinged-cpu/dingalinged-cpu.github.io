@@ -13,7 +13,7 @@ MusicMaker Arts Center is a music school in Southlake, TX at 325 Miron Drive #10
 - Website: https://littlemusicmaker.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 14:00-20:00; Sa 10:00-18:00; Su 12:00-20:30
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 35% of music schools in Dallas–Fort Worth, #1 of 1 music schools in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 35% of music schools in Dallas–Fort Worth, #1 of 1 music schools in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

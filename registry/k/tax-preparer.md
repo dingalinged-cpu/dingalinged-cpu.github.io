@@ -1,4 +1,4 @@
-The top unpaid tax preparer listing for the United States is Dr. Fahrenheit HVAC (a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/). 600 tax preparer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for the United States is Dr. Fahrenheit HVAC (a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/). 992 tax preparer businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in the United States?
 
@@ -11,74 +11,89 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Anez Tax Services | Organic #3 | Pulse Score 64.4/100 (Good, #1 in city) | Anez Tax Services is a tax preparation service in Houston, TX at 16360 Park Ten Place #109, Houston, TX 77084. Phone: +13466040461. | https://registry-edge.dingalinged.workers.dev/c/anez-tax-services-houston/
 4. Audra's Tax Center | Organic #4 | Pulse Score 64.2/100 (Good, #1 in city) | Audra's Tax Center is a tax preparation service in Fort Worth, TX at 1201 Downshill Court #1205, Fort Worth, TX 76112. Phone: +16822132122. Website: https://kcamp1611.wixsite.com/audrastaxservice. | https://registry-edge.dingalinged.workers.dev/c/audras-tax-center-fort-worth/
 5. Taxman 365 | Organic #5 | Pulse Score 64.2/100 (Unrated, #1 in city) | Taxman 365 is a tax preparation service in Schaumburg, IL at 953 North Plum Grove Road, Schaumburg, IL 60173. Phone: +18472787305. Website: https://taxman365.com/. | https://registry-edge.dingalinged.workers.dev/c/taxman-365-schaumburg/
-6. Advance Tax Relief LLC | Organic #6 | Pulse Score 64/100 (Unrated, #3 in city) | Advance Tax Relief LLC is a tax preparation service in Houston, TX at 12941 North Freeway #226, Houston, TX 77060. Phone: +17133003965. Website: https://advancetaxrelief.com/north-houston-office. | https://registry-edge.dingalinged.workers.dev/c/advance-tax-relief-llc-houston/
-7. Strategic Tax & Accounting | Organic #7 | Pulse Score 63.9/100 (Good, #1 in city) | Strategic Tax & Accounting is a tax preparation service in Cobb County, GA at 3650 Canton Road Northeast, Cobb County, GA. Phone: +16788528781. Website: https://www.ourtaxman.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-tax-and-accounting-cobb-county/
-8. Seven Tax Services | Organic #8 | Pulse Score 63.7/100 (Good, #2 in city) | Seven Tax Services is a tax preparation service in Cobb County, GA at 3000 Windy Hill Road Southeast #172, Cobb County, GA. Phone: +16784032130. | https://registry-edge.dingalinged.workers.dev/c/seven-tax-services-cobb-county/
-9. Daniel J. Hoffman & Associates | Organic #9 | Pulse Score 63.7/100 (Unrated, #1 in city) | Daniel J. Hoffman & Associates is a tax preparation service in The Woodlands, TX at 719 Sawdust Road #117, The Woodlands, TX 77380. Phone: +12813679550. Website: https://www.dhoffman.com/. | https://registry-edge.dingalinged.workers.dev/c/daniel-j-hoffman-and-associates-the-woodlands/
-10. Tax Services of Houston | Organic #10 | Pulse Score 63.6/100 (Unrated, #4 in city) | Tax Services of Houston is a tax preparation service in Houston, TX at 363 North Sam Houston Parkway East #610, Houston, TX. Phone: +17138046695. Website: https://www.taxservicesofhouston.com/. | https://registry-edge.dingalinged.workers.dev/c/tax-services-of-houston-houston/
-11. Wellington Tax & Accounting Service | Organic #11 | Pulse Score 63.4/100 (Good, #3 in city) | Wellington Tax & Accounting Service is a tax preparation service in Cobb County, GA at 3595 Canton Road #A7, Cobb County, GA. Phone: +17705922577. Website: https://www.wellingtontax.com/. | https://registry-edge.dingalinged.workers.dev/c/wellington-tax-and-accounting-service-cobb-county/
-12. S Kathryn Kucera, CPA | Organic #12 | Pulse Score 63.1/100 (Unrated, #5 in city) | S Kathryn Kucera, CPA is a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/. | https://registry-edge.dingalinged.workers.dev/c/s-kathryn-kucera-cpa-houston/
-13. Quigley Tax Service | Organic #13 | Pulse Score 63/100 (Unrated, #1 in city) | Quigley Tax Service is a tax preparation service in Milwaukee, WI at 5822 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144611800. Website: https://www.quigleytaxserv.com/fond-du-lac-ave-location. | https://registry-edge.dingalinged.workers.dev/c/quigley-tax-service-milwaukee/
-14. Vargas Financial Incorporated | Organic #14 | Pulse Score 63/100 (Unrated, #1 in city) | Vargas Financial Incorporated is a tax preparation service in Chicago, IL at 4009 West Armitage Avenue, Chicago, IL 60639. Phone: +17733843824. Website: https://vargasfinancialincorporated.com/. | https://registry-edge.dingalinged.workers.dev/c/vargas-financial-incorporated-chicago/
-15. M.R. International Income Tax Service | Organic #15 | Pulse Score 62.8/100 (Unrated, #2 in city) | M.R. International Income Tax Service is a tax preparation service in Chicago, IL at 2340 West Fullerton Avenue, Chicago, IL. Phone: +17732764259. Website: https://www.rojastaxes.com/. | https://registry-edge.dingalinged.workers.dev/c/m-r-international-income-tax-service-chicago/
-16. Liberty Tax | Organic #16 | Pulse Score 62.7/100 (Good, #1 in city) | Liberty Tax is a tax preparation service in Stafford, TX at 508 FM 1092 Road #Suite B, Stafford, TX 77477. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-stafford/
-17. Best Choice Resale Tax & Multiservice | Organic #17 | Pulse Score 62.7/100 (Unrated, #6 in city) | Best Choice Resale Tax & Multiservice is a tax preparation service in Houston, TX at 10300 Fulton Street, Houston, TX. Phone: +17134939317. | https://registry-edge.dingalinged.workers.dev/c/best-choice-resale-tax-and-multiservice-houston/
-18. Law Office of Mark D. Foster | Organic #18 | Pulse Score 62.6/100 (Unrated, #1 in city) | Law Office of Mark D. Foster is a tax preparation service in Dallas, TX at 4835 Lyndon B. Johnson Fwy, Suite 424, Dallas, TX 75244. Phone: +12143639599. Website: https://mdfoster.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-mark-d-foster-dallas/
-19. Nella Consulting Inc | Organic #19 | Pulse Score 62.6/100 (Unrated, #1 in city) | Nella Consulting Inc is a tax preparation service in Glenview, IL at 755 Milwaukee Avenue, Glenview, IL 60025. Phone: +18474864112. Website: https://nellatax.com/. | https://registry-edge.dingalinged.workers.dev/c/nella-consulting-inc-glenview/
-20. Prime Accounting Solutions | Organic #20 | Pulse Score 62.6/100 (Unrated, #1 in city) | Prime Accounting Solutions is a tax preparation service in Shawnee, KS at 10405 West 75th Street, Shawnee, KS 66214. Phone: +19139628297. Website: https://www.primeaccounting.net/locations/shawnee. | https://registry-edge.dingalinged.workers.dev/c/prime-accounting-solutions-shawnee/
-21. Prepare + Prosper | Organic #21 | Pulse Score 62.5/100 (Good, #1 in city) | Prepare + Prosper is a tax preparation service in Saint Paul, MN at 2610 University Avenue West ##450, Saint Paul, MN 55114. Phone: +16512870187. Website: https://www.prepareandprosper.org/. | https://registry-edge.dingalinged.workers.dev/c/prepare-prosper-saint-paul/
-22. Hooper & Rodgers PC | Organic #22 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://registry-edge.dingalinged.workers.dev/c/hooper-and-rodgers-pc-rockwall/
-23. B3 XChange | Organic #23 | Pulse Score 62.5/100 (Unrated, #1 in city) | B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/b3-xchange-downers-grove/
-24. AGM Tax Business Center | Organic #24 | Pulse Score 62.4/100 (Good, #4 in city) | AGM Tax Business Center is a tax preparation service in Cobb County, GA at 2769 Chastain Meadows Parkway Northwest #50, Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/agm-tax-business-center-cobb-county/
-25. Victory Income Tax | Organic #25 | Pulse Score 62.4/100 (Unrated, #7 in city) | Victory Income Tax is a tax preparation service in Houston, TX at 250 Turner Drive, Houston, TX 77076. Phone: +17136948194. | https://registry-edge.dingalinged.workers.dev/c/victory-income-tax-houston/
-26. MD Income Tax & Services | Organic #26 | Pulse Score 62.4/100 (Unrated, #3 in city) | MD Income Tax & Services is a tax preparation service in Chicago, IL at 4846 South Pulaski Road, Chicago, IL 60632. Phone: +18883721891. | https://registry-edge.dingalinged.workers.dev/c/md-income-tax-and-services-chicago/
-27. KE Andrews | Organic #27 | Pulse Score 62.4/100 (Unrated, #2 in city) | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://registry-edge.dingalinged.workers.dev/c/ke-andrews-rockwall/
-28. Fast Tax Service | Organic #28 | Pulse Score 62.3/100 (Good, #1 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/fast-tax-service-atlanta-n13547393571/
-29. Century Tax Services | Organic #29 | Pulse Score 62.3/100 (Unrated, #1 in city) | Century Tax Services is a tax preparation service in Oakdale, MN at 5691 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517778300. Website: https://centurytaxservicesmn.com/. | https://registry-edge.dingalinged.workers.dev/c/century-tax-services-oakdale/
-30. Dance, Bigelow & Co. PC | Organic #30 | Pulse Score 62.1/100 (Good, #1 in city) | Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942 Churchill Drive #100, Flower Mound, TX 75022. | https://registry-edge.dingalinged.workers.dev/c/dance-bigelow-and-co-pc-flower-mound/
-31. Ramirez Accounting & Notary | Organic #31 | Pulse Score 62/100 (Unrated, #2 in city) | Ramirez Accounting & Notary is a tax preparation service in Flower Mound, TX at 3415 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ramirez-accounting-and-notary-flower-mound/
-32. Tax by Lonestar | Organic #32 | Pulse Score 62/100 (Unrated, #1 in city) | Tax by Lonestar is a tax preparation service in Allen, TX at 825 Watters Creek Boulevard, Allen, TX 75013. Phone: +14698888492. Website: https://taxlonestar.com/. | https://registry-edge.dingalinged.workers.dev/c/tax-by-lonestar-allen/
-33. GP Tax Solutions | Organic #33 | Pulse Score 61.9/100 (Unrated, #1 in city) | GP Tax Solutions is a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/. | https://registry-edge.dingalinged.workers.dev/c/gp-tax-solutions-kennesaw/
-34. Taxes On The Go | Organic #34 | Pulse Score 61.8/100 (Unrated, #4 in city) | Taxes On The Go is a tax preparation service in Chicago, IL at 5102 South Archer Avenue, Chicago, IL 60632. Phone: +17732496673. Website: https://taxesonthegoinc.com/. | https://registry-edge.dingalinged.workers.dev/c/taxes-on-the-go-chicago/
-35. Tax Master | Organic #35 | Pulse Score 61.7/100 (Good, #1 in city) | Tax Master is a tax preparation service in Lewisville, TX at 150 West Main Street, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/tax-master-lewisville/
-36. Franklin Financial Planning | Organic #36 | Pulse Score 61.6/100 (Good, #1 in city) | Franklin Financial Planning is a tax preparation service in Greenfield, WI at 4811 South 76th Street #Suite 315, Greenfield, WI 53220. Phone: +14148179344. Website: https://www.carlbaehr.com/. | https://registry-edge.dingalinged.workers.dev/c/franklin-financial-planning-greenfield/
-37. Accounting and Tax Time Services LLC | Organic #37 | Pulse Score 61.6/100 (Unrated, #1 in city) | Accounting and Tax Time Services LLC is a tax preparation service in Des Moines, IA at 6311 Hickman Road, Des Moines, IA 50322. Phone: +15152820946. Website: https://www.accountingandtaxtime.com/. | https://registry-edge.dingalinged.workers.dev/c/accounting-and-tax-time-services-llc-des-moines/
-38. BW Bookkeeping & Taxes | Organic #38 | Pulse Score 61.6/100 (Unrated, #1 in city) | BW Bookkeeping & Taxes is a tax preparation service in Elmhurst, IL at 319 East Butterfield Road, Elmhurst, IL 60126. Phone: +16303418612. Website: https://bwatmb.com/. | https://registry-edge.dingalinged.workers.dev/c/bw-bookkeeping-and-taxes-elmhurst/
-39. Charlotte DeVito Ltd | Organic #39 | Pulse Score 61.6/100 (Unrated, #1 in city) | Charlotte DeVito Ltd is a tax preparation service in Roselle, IL at 230 West Devon Avenue, Roselle, IL 60172. Phone: +16308943101. Website: https://www.charlottedevitoltd-il.com/. | https://registry-edge.dingalinged.workers.dev/c/charlotte-devito-ltd-roselle/
-40. All Star Tax Services | Organic #40 | Pulse Score 61.3/100 (Unrated, #8 in city) | All Star Tax Services is a tax preparation service in Houston, TX at 10616 Northwest Freeway, Houston, TX 77092. | https://registry-edge.dingalinged.workers.dev/c/all-star-tax-services-houston/
-41. Hardy Hill Tax Services | Organic #41 | Pulse Score 61.3/100 (Unrated, #1 in city) | Hardy Hill Tax Services is a tax preparation service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/hardy-hill-tax-services-harris-county/
-42. Agencia Delgado Inc. | Organic #42 | Pulse Score 61.2/100 (Unrated, #5 in city) | Agencia Delgado Inc. is a tax preparation service in Chicago, IL at 10112 South Ewing Avenue, Chicago, IL 60617. Phone: +17733757475. | https://registry-edge.dingalinged.workers.dev/c/agencia-delgado-inc-chicago/
-43. Patty's Professional Services | Organic #43 | Pulse Score 60.8/100 (Unrated, #2 in city) | Patty's Professional Services is a tax preparation service in Kennesaw, GA at 2716 Summers Street Northwest, Kennesaw, GA. Phone: +16782329354. | https://registry-edge.dingalinged.workers.dev/c/pattys-professional-services-kennesaw/
-44. Munoz Tax Services LLC (Alejandro Munoz) | Organic #44 | Pulse Score 60.8/100 (Unrated, #1 in city) | Munoz Tax Services LLC (Alejandro Munoz) is a tax preparation service in Omaha, NE at 3515 South 50th Street, Omaha, NE 68106. Phone: +14029325300. | https://registry-edge.dingalinged.workers.dev/c/munoz-tax-services-llc-alejandro-munoz-omaha/
-45. Fox Tax | Organic #45 | Pulse Score 60.6/100 (Unrated, #1 in city) | Fox Tax is a tax preparation service in Minneapolis, MN at 1400 Northeast 12th Avenue, Minneapolis, MN 55413. Phone: +16128242829. Website: https://foxtaxservice.com/. | https://registry-edge.dingalinged.workers.dev/c/fox-tax-minneapolis/
-46. Frederick & Rosen Ltd | Organic #46 | Pulse Score 60.6/100 (Unrated, #1 in city) | Frederick & Rosen Ltd is a tax preparation service in Saint Louis Park, MN at 5922 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529298557. Website: https://www.fr-cpa.com/. | https://registry-edge.dingalinged.workers.dev/c/frederick-and-rosen-ltd-saint-louis-park/
-47. Tax Shop | Organic #47 | Pulse Score 60.6/100 (Unrated, #2 in city) | Tax Shop is a tax preparation service in Saint Louis Park, MN at 2316 Louisiana Avenue South, Saint Louis Park, MN 55426. Phone: +19525414858. Website: https://taxshopmn.com/. | https://registry-edge.dingalinged.workers.dev/c/tax-shop-saint-louis-park/
-48. Saigon Income Tax | Organic #48 | Pulse Score 60.6/100 (Unrated, #2 in city) | Saigon Income Tax is a tax preparation service in Minneapolis, MN at 2424 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128700652. | https://registry-edge.dingalinged.workers.dev/c/saigon-income-tax-minneapolis/
-49. Ubani & Associates | Organic #49 | Pulse Score 60.6/100 (Unrated, #2 in city) | Ubani & Associates is a tax preparation service in Saint Paul, MN at 2147 University Avenue ##206, Saint Paul, MN 55114. Phone: +16519172090. | https://registry-edge.dingalinged.workers.dev/c/ubani-and-associates-saint-paul/
-50. Super Tax | Organic #50 | Pulse Score 60.5/100 (Unrated, #1 in city) | Super Tax is a tax preparation service in Smyrna, GA at 1270 Concord Road Southeast #200, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/super-tax-smyrna/
+6. Strategic Tax & Accounting | Organic #6 | Pulse Score 64/100 (Good, #1 in city) | Strategic Tax & Accounting is a tax preparation service in Cobb County, GA at 3650 Canton Road Northeast, Cobb County, GA. Phone: +16788528781. Website: https://www.ourtaxman.com/. | https://registry-edge.dingalinged.workers.dev/c/strategic-tax-and-accounting-cobb-county/
+7. Advance Tax Relief LLC | Organic #7 | Pulse Score 64/100 (Unrated, #3 in city) | Advance Tax Relief LLC is a tax preparation service in Houston, TX at 12941 North Freeway #226, Houston, TX 77060. Phone: +17133003965. Website: https://advancetaxrelief.com/north-houston-office. | https://registry-edge.dingalinged.workers.dev/c/advance-tax-relief-llc-houston/
+8. Unlimited Taxes and More Michigan | Organic #8 | Pulse Score 64/100 (Unrated, #1 in city) | Unlimited Taxes and More Michigan is a tax preparation service in Sterling Heights, MI at 8220 Irving Road, Sterling Heights, MI 48312. Phone: +17346440376. Website: https://the-tax-goddess.ueniweb.com/. | https://registry-edge.dingalinged.workers.dev/c/unlimited-taxes-and-more-michigan-sterling-heights/
+9. Seven Tax Services | Organic #9 | Pulse Score 63.7/100 (Good, #2 in city) | Seven Tax Services is a tax preparation service in Cobb County, GA at 3000 Windy Hill Road Southeast #172, Cobb County, GA. Phone: +16784032130. | https://registry-edge.dingalinged.workers.dev/c/seven-tax-services-cobb-county/
+10. Daniel J. Hoffman & Associates | Organic #10 | Pulse Score 63.7/100 (Unrated, #1 in city) | Daniel J. Hoffman & Associates is a tax preparation service in The Woodlands, TX at 719 Sawdust Road #117, The Woodlands, TX 77380. Phone: +12813679550. Website: https://www.dhoffman.com/. | https://registry-edge.dingalinged.workers.dev/c/daniel-j-hoffman-and-associates-the-woodlands/
+11. Tax Services of Houston | Organic #11 | Pulse Score 63.6/100 (Unrated, #4 in city) | Tax Services of Houston is a tax preparation service in Houston, TX at 363 North Sam Houston Parkway East #610, Houston, TX. Phone: +17138046695. Website: https://www.taxservicesofhouston.com/. | https://registry-edge.dingalinged.workers.dev/c/tax-services-of-houston-houston/
+12. Eagle Accounting & Tax | Organic #12 | Pulse Score 63.5/100 (Unrated, #2 in city) | Eagle Accounting & Tax is a tax preparation service in Sterling Heights, MI at 2009 15 Mile Road, Sterling Heights, MI 48310. Phone: +12483011040. Website: https://eagleacctgtax.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-accounting-and-tax-sterling-heights/
+13. Wellington Tax & Accounting Service | Organic #13 | Pulse Score 63.4/100 (Good, #3 in city) | Wellington Tax & Accounting Service is a tax preparation service in Cobb County, GA at 3595 Canton Road #A7, Cobb County, GA. Phone: +17705922577. Website: https://www.wellingtontax.com/. | https://registry-edge.dingalinged.workers.dev/c/wellington-tax-and-accounting-service-cobb-county/
+14. Great Northern Tax | Organic #14 | Pulse Score 63.4/100 (Unrated, #3 in city) | Great Northern Tax is a tax preparation service in Sterling Heights, MI at 39850 Van Dyke Avenue, Sterling Heights, MI 48313. Phone: +12488569000. Website: https://tax.4great.com/. | https://registry-edge.dingalinged.workers.dev/c/great-northern-tax-sterling-heights/
+15. S Kathryn Kucera, CPA | Organic #15 | Pulse Score 63.1/100 (Unrated, #5 in city) | S Kathryn Kucera, CPA is a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/. | https://registry-edge.dingalinged.workers.dev/c/s-kathryn-kucera-cpa-houston/
+16. Quigley Tax Service | Organic #16 | Pulse Score 63/100 (Unrated, #1 in city) | Quigley Tax Service is a tax preparation service in Milwaukee, WI at 5822 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144611800. Website: https://www.quigleytaxserv.com/fond-du-lac-ave-location. | https://registry-edge.dingalinged.workers.dev/c/quigley-tax-service-milwaukee/
+17. TotTax | Organic #17 | Pulse Score 63/100 (Unrated, #1 in city) | TotTax is a tax preparation service in Denver, CO at 3934 W 14th Ave, Denver, CO 80204. Phone: +13035361757. Website: https://tottax.com/. | https://registry-edge.dingalinged.workers.dev/c/tottax-denver/
+18. Vargas Financial Incorporated | Organic #18 | Pulse Score 63/100 (Unrated, #1 in city) | Vargas Financial Incorporated is a tax preparation service in Chicago, IL at 4009 West Armitage Avenue, Chicago, IL 60639. Phone: +17733843824. Website: https://vargasfinancialincorporated.com/. | https://registry-edge.dingalinged.workers.dev/c/vargas-financial-incorporated-chicago/
+19. David A. Sprecace, P.C. | Organic #19 | Pulse Score 62.9/100 (Unrated, #2 in city) | David A. Sprecace, P.C. is a tax preparation service in Denver, CO at 600 17th Street ##2800S, Denver, CO 80202. Phone: +13034548260. Website: https://www.mytaxlex.com/. | https://registry-edge.dingalinged.workers.dev/c/david-a-sprecace-p-c-denver/
+20. Best Choice Resale Tax & Multiservice | Organic #20 | Pulse Score 62.8/100 (Unrated, #6 in city) | Best Choice Resale Tax & Multiservice is a tax preparation service in Houston, TX at 10300 Fulton Street, Houston, TX. Phone: +17134939317. | https://registry-edge.dingalinged.workers.dev/c/best-choice-resale-tax-and-multiservice-houston/
+21. Andrews & Associates | Organic #21 | Pulse Score 62.8/100 (Unrated, #1 in city) | Andrews & Associates is a tax preparation service in Rochester, MI at 289 South Street #G, Rochester, MI 48307. Phone: +12486519330. Website: https://andrewsassociate.com/. | https://registry-edge.dingalinged.workers.dev/c/andrews-and-associates-rochester/
+22. M.R. International Income Tax Service | Organic #22 | Pulse Score 62.8/100 (Unrated, #2 in city) | M.R. International Income Tax Service is a tax preparation service in Chicago, IL at 2340 West Fullerton Avenue, Chicago, IL. Phone: +17732764259. Website: https://www.rojastaxes.com/. | https://registry-edge.dingalinged.workers.dev/c/m-r-international-income-tax-service-chicago/
+23. Liberty Tax | Organic #23 | Pulse Score 62.7/100 (Good, #1 in city) | Liberty Tax is a tax preparation service in Stafford, TX at 508 FM 1092 Road #Suite B, Stafford, TX 77477. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-stafford/
+24. Sure Tax | Organic #24 | Pulse Score 62.7/100 (Unrated, #1 in city) | Sure Tax is a tax preparation service in Fraser, MI at 32811 Utica Road #Suite A, Fraser, MI 48026. Phone: +15862858300. | https://registry-edge.dingalinged.workers.dev/c/sure-tax-fraser/
+25. Flash Tax | Organic #25 | Pulse Score 62.7/100 (Unrated, #1 in city) | Flash Tax is a tax preparation service in Covington, KY at 1424 Scott Boulevard, Covington, KY 41011. Phone: +18594315750. Website: https://www.flashtaxonline.com/. | https://registry-edge.dingalinged.workers.dev/c/flash-tax-covington/
+26. Law Office of Mark D. Foster | Organic #26 | Pulse Score 62.6/100 (Unrated, #1 in city) | Law Office of Mark D. Foster is a tax preparation service in Dallas, TX at 4835 Lyndon B. Johnson Fwy, Suite 424, Dallas, TX 75244. Phone: +12143639599. Website: https://mdfoster.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-mark-d-foster-dallas/
+27. Nella Consulting Inc | Organic #27 | Pulse Score 62.6/100 (Unrated, #1 in city) | Nella Consulting Inc is a tax preparation service in Glenview, IL at 755 Milwaukee Avenue, Glenview, IL 60025. Phone: +18474864112. Website: https://nellatax.com/. | https://registry-edge.dingalinged.workers.dev/c/nella-consulting-inc-glenview/
+28. Prime Accounting Solutions | Organic #28 | Pulse Score 62.6/100 (Unrated, #1 in city) | Prime Accounting Solutions is a tax preparation service in Shawnee, KS at 10405 West 75th Street, Shawnee, KS 66214. Phone: +19139628297. Website: https://www.primeaccounting.net/locations/shawnee. | https://registry-edge.dingalinged.workers.dev/c/prime-accounting-solutions-shawnee/
+29. Prepare + Prosper | Organic #29 | Pulse Score 62.5/100 (Good, #1 in city) | Prepare + Prosper is a tax preparation service in Saint Paul, MN at 2610 University Avenue West ##450, Saint Paul, MN 55114. Phone: +16512870187. Website: https://www.prepareandprosper.org/. | https://registry-edge.dingalinged.workers.dev/c/prepare-prosper-saint-paul/
+30. Victory Income Tax | Organic #30 | Pulse Score 62.5/100 (Unrated, #7 in city) | Victory Income Tax is a tax preparation service in Houston, TX at 250 Turner Drive, Houston, TX 77076. Phone: +17136948194. | https://registry-edge.dingalinged.workers.dev/c/victory-income-tax-houston/
+31. Hooper & Rodgers PC | Organic #31 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://registry-edge.dingalinged.workers.dev/c/hooper-and-rodgers-pc-rockwall/
+32. American Eagle Tax | Organic #32 | Pulse Score 62.5/100 (Unrated, #1 in city) | American Eagle Tax is a tax preparation service in Topeka, KS at 1940 Southwest Gage Boulevard #A, Topeka, KS 66604. Phone: +17852720004. Website: https://ameagletax.com/. | https://registry-edge.dingalinged.workers.dev/c/american-eagle-tax-topeka/
+33. B3 XChange | Organic #33 | Pulse Score 62.5/100 (Unrated, #1 in city) | B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/b3-xchange-downers-grove/
+34. AGM Tax Business Center | Organic #34 | Pulse Score 62.4/100 (Good, #4 in city) | AGM Tax Business Center is a tax preparation service in Cobb County, GA at 2769 Chastain Meadows Parkway Northwest #50, Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/agm-tax-business-center-cobb-county/
+35. Fast Tax Service | Organic #35 | Pulse Score 62.4/100 (Good, #1 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/fast-tax-service-atlanta-n13547393571/
+36. MD Income Tax & Services | Organic #36 | Pulse Score 62.4/100 (Unrated, #3 in city) | MD Income Tax & Services is a tax preparation service in Chicago, IL at 4846 South Pulaski Road, Chicago, IL 60632. Phone: +18883721891. | https://registry-edge.dingalinged.workers.dev/c/md-income-tax-and-services-chicago/
+37. KE Andrews | Organic #37 | Pulse Score 62.4/100 (Unrated, #2 in city) | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://registry-edge.dingalinged.workers.dev/c/ke-andrews-rockwall/
+38. London City Building;Thompson Tax & Accounting Service | Organic #38 | Pulse Score 62.4/100 (Unrated, #1 in city) | London City Building;Thompson Tax & Accounting Service is a tax preparation service in London, OH at 54 South Main Street, London, OH 43140. Phone: +16148798992. Website: https://thompsontaxandaccounting.com/. | https://registry-edge.dingalinged.workers.dev/c/london-city-building-thompson-tax-and-accounting-service-london/
+39. Century Tax Services | Organic #39 | Pulse Score 62.3/100 (Unrated, #1 in city) | Century Tax Services is a tax preparation service in Oakdale, MN at 5691 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517778300. Website: https://centurytaxservicesmn.com/. | https://registry-edge.dingalinged.workers.dev/c/century-tax-services-oakdale/
+40. Dance, Bigelow & Co. PC | Organic #40 | Pulse Score 62.2/100 (Good, #1 in city) | Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942 Churchill Drive #100, Flower Mound, TX 75022. | https://registry-edge.dingalinged.workers.dev/c/dance-bigelow-and-co-pc-flower-mound/
+41. Terri's Tax Service | Organic #41 | Pulse Score 62.1/100 (Unrated, #1 in city) | Terri's Tax Service is a tax preparation service in Saint Clair Shores, MI at 31325 Harper Avenue, Saint Clair Shores, MI 48082. Phone: +15867783774. Website: https://www.terris-tax.com/. | https://registry-edge.dingalinged.workers.dev/c/terris-tax-service-saint-clair-shores/
+42. Hicks & Mann | Organic #42 | Pulse Score 62.1/100 (Unrated, #1 in city) | Hicks & Mann is a tax preparation service in Cincinnati, OH at 1333 Main Street, Cincinnati, OH 45202. Phone: +15137449000. Website: https://hicksandmann.org/. | https://registry-edge.dingalinged.workers.dev/c/hicks-and-mann-cincinnati/
+43. Ramirez Accounting & Notary | Organic #43 | Pulse Score 62/100 (Unrated, #2 in city) | Ramirez Accounting & Notary is a tax preparation service in Flower Mound, TX at 3415 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ramirez-accounting-and-notary-flower-mound/
+44. Tax by Lonestar | Organic #44 | Pulse Score 62/100 (Unrated, #1 in city) | Tax by Lonestar is a tax preparation service in Allen, TX at 825 Watters Creek Boulevard, Allen, TX 75013. Phone: +14698888492. Website: https://taxlonestar.com/. | https://registry-edge.dingalinged.workers.dev/c/tax-by-lonestar-allen/
+45. BBTA Tax Advisors | Organic #45 | Pulse Score 61.9/100 (Unrated, #4 in city) | BBTA Tax Advisors is a tax preparation service in Sterling Heights, MI at 3603 East 14 Mile Road, Sterling Heights, MI 48310. Phone: +15862760720. Website: https://www.bbtainc.com/. | https://registry-edge.dingalinged.workers.dev/c/bbta-tax-advisors-sterling-heights/
+46. Bosler & Company | Organic #46 | Pulse Score 61.9/100 (Unrated, #1 in city) | Bosler & Company is a tax preparation service in Bloomfield Hills, MI at 43494 Woodward Avenue #212, Bloomfield Hills, MI 48302. Phone: +12483353115. Website: https://www.boslerco.com/. | https://registry-edge.dingalinged.workers.dev/c/bosler-and-company-bloomfield-hills/
+47. GP Tax Solutions | Organic #47 | Pulse Score 61.9/100 (Unrated, #1 in city) | GP Tax Solutions is a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/. | https://registry-edge.dingalinged.workers.dev/c/gp-tax-solutions-kennesaw/
+48. Taxes On The Go | Organic #48 | Pulse Score 61.8/100 (Unrated, #4 in city) | Taxes On The Go is a tax preparation service in Chicago, IL at 5102 South Archer Avenue, Chicago, IL 60632. Phone: +17732496673. Website: https://taxesonthegoinc.com/. | https://registry-edge.dingalinged.workers.dev/c/taxes-on-the-go-chicago/
+49. In And Out Tax Service of Eastpointe | Organic #49 | Pulse Score 61.8/100 (Unrated, #1 in city) | In And Out Tax Service of Eastpointe is a tax preparation service in Eastpointe, MI at 20913 South Gratiot Avenue, Eastpointe, MI 48021. Phone: +15862415300. Website: https://inandouteastpointe.com/. | https://registry-edge.dingalinged.workers.dev/c/in-and-out-tax-service-of-eastpointe-eastpointe/
+50. Tax Master | Organic #50 | Pulse Score 61.7/100 (Good, #1 in city) | Tax Master is a tax preparation service in Lewisville, TX at 150 West Main Street, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/tax-master-lewisville/
 
-## More tax preparer listings (600 total; top 50 unpaid shown)
+## More tax preparer listings (992 total; top 50 unpaid shown)
 - Chicago, IL: 87 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-chicago-il/
 - Houston, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-houston-tx/
 - Milwaukee, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-milwaukee-wi/
+- Columbus, OH: 22 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-columbus-oh/
 - Dallas, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-dallas-tx/
 - Kansas City, MO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-kansas-city-mo/
+- Detroit, MI: 16 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-detroit-mi/
+- Aurora, CO: 16 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-aurora-co/
+- Indianapolis, IN: 15 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-indianapolis-in/
 - Harris County, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-harris-county-tx/
+- Pittsburgh, PA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pittsburgh-pa/
 - Minneapolis, MN: 14 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-minneapolis-mn/
 - Madison, WI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-madison-wi/
+- Dearborn, MI: 12 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-dearborn-mi/
 - Saint Paul, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-paul-mn/
 - Cobb County, GA: 10 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-cobb-county-ga/
+- Lincoln Park, MI: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lincoln-park-mi/
 - Lewisville, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lewisville-tx/
+- Sterling Heights, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-sterling-heights-mi/
 - Clayton County, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-clayton-county-ga/
 - Atlanta, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-atlanta-ga/
 - Smyrna, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-smyrna-ga/
 - Kansas City, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-kansas-city-ks/
+- Taylor, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-taylor-mi/
 - Wauwatosa, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wauwatosa-wi/
 - Mesquite, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-mesquite-tx/
+- Southgate, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-southgate-mi/
 - Gwinnett County, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gwinnett-county-ga/
+- Cincinnati, OH: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-cincinnati-oh/
 - Racine, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-racine-wi/
-- Denton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-denton-tx/
 - Gary, IN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gary-in/
+- Denton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-denton-tx/
+- Olathe, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-olathe-ks/
+- Lawrence, KS: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lawrence-ks/
+- Independence, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-independence-mo/
+- Ross Township, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-ross-township-pa/
 - Roswell, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roswell-ga/
 - Marietta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-marietta-ga/
 - Forest Park, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-forest-park-ga/
@@ -86,8 +101,17 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Euless, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-euless-tx/
 - Carrollton, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-carrollton-tx/
 - Arlington, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arlington-tx/
+- Columbia, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-columbia-mo/
 - West Saint Paul, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-saint-paul-mn/
+- Wheat Ridge, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wheat-ridge-co/
+- Wyandotte, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wyandotte-mi/
+- Westland, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-westland-mi/
+- Hazel Park, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hazel-park-mi/
+- Saint Clair Shores, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-clair-shores-mi/
 - Morrow, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-morrow-ga/
+- Lancaster, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lancaster-oh/
+- Union Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-union-township-oh/
+- Whitehall, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-whitehall-oh/
 - West Allis, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-allis-wi/
 - Irving, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-irving-tx/
 - Flower Mound, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-flower-mound-tx/
@@ -95,23 +119,53 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Frisco, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-frisco-tx/
 - North Richland Hills, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-north-richland-hills-tx/
 - Rockwall, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rockwall-tx/
-- Olathe, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-olathe-ks/
+- Manhattan, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-manhattan-ks/
+- Saint Louis County, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-louis-county-mo/
 - Gladstone, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gladstone-mo/
-- Independence, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-independence-mo/
+- Springfield, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-springfield-mo/
+- Stowe Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-stowe-township-pa/
+- Bellevue, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-pa/
 - Saint Louis Park, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-louis-park-mn/
 - New Hope, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-new-hope-mn/
+- Parker, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-parker-co/
+- Boulder, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-boulder-co/
+- Lakewood, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lakewood-co/
+- Longmont, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-longmont-co/
+- Florence, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-florence-ky/
+- Alexandria, KY: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-alexandria-ky/
 - Omaha, NE: 3 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-omaha-ne/
+- Allen Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-allen-park-mi/
+- Novi, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-novi-mi/
+- Fraser, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fraser-mi/
+- Essex County, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-essex-county-mi/
+- Ferndale, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-ferndale-mi/
+- Flat Rock, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-flat-rock-mi/
+- Livonia, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-livonia-mi/
+- Van Buren Charter Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-van-buren-charter-township-mi/
+- Warren, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-warren-mi/
+- Woodhaven, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodhaven-mi/
 - Woodstock, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodstock-ga/
 - Kennesaw, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-kennesaw-ga/
 - Douglasville, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-douglasville-ga/
 - Fulton County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fulton-county-ga/
 - Tucker, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-tucker-ga/
 - Lilburn, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lilburn-ga/
+- Marysville, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-marysville-oh/
+- Colerain Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-colerain-township-oh/
+- Symmes Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-symmes-township-oh/
+- Franklin Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-township-oh/
+- Hilliard, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hilliard-oh/
+- Springdale, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-springdale-oh/
+- Westerville, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-westerville-oh/
 - Brookfield, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brookfield-wi/
 - Greenfield, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-greenfield-wi/
 - Middleton, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-middleton-wi/
 - Waunakee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-waunakee-wi/
 - West Milwaukee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-milwaukee-wi/
+- Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-greenwood-in/
+- Hammond, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hammond-in/
+- Noblesville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-noblesville-in/
+- Plainfield, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-plainfield-in/
 - Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-des-moines-ia/
 - West Des Moines, IA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-des-moines-ia/
 - Richardson, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-richardson-tx/
@@ -132,12 +186,61 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Skokie, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-skokie-il/
 - South Holland, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-south-holland-il/
 - Schaumburg, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-schaumburg-il/
+- Topeka, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-topeka-ks/
+- Overland Park, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-overland-park-ks/
+- Derby, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-derby-ks/
 - Leavenworth, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-leavenworth-ks/
 - Lenexa, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lenexa-ks/
+- Wichita, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wichita-ks/
 - Shawnee, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-shawnee-ks/
+- Arnold, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arnold-mo/
 - Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-blue-springs-mo/
-- Hammond, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hammond-in/
+- Overland, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-overland-mo/
+- Saint Joseph, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-joseph-mo/
+- Saint Peters, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-saint-peters-mo/
+- Ambridge, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-ambridge-pa/
+- Bethel Park, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bethel-park-pa/
+- Canonsburg, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-canonsburg-pa/
+- Mckees Rocks, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-mckees-rocks-pa/
+- Monroeville, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-monroeville-pa/
+- Washington, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-washington-pa/
+- Jefferson County, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-jefferson-county-co/
+- Arvada, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arvada-co/
+- Centennial, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-centennial-co/
+- Greenwood Village, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-greenwood-village-co/
+- Thornton, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-thornton-co/
+- Westminster, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-westminster-co/
+- Erlanger, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-erlanger-ky/
+- Independence, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-independence-ky/
 - Bellevue, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-ne/
+- Utica, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-utica-mi/
+- Rochester, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rochester-mi/
+- Inkster, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-inkster-mi/
+- Birmingham, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-birmingham-mi/
+- Southfield, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-southfield-mi/
+- Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bloomfield-township-mi/
+- Bloomfield Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bloomfield-hills-mi/
+- Amherstburg, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-amherstburg-mi/
+- Canton Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-canton-township-mi/
+- Clawson, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-clawson-mi/
+- Commerce Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-commerce-charter-township-mi/
+- Dearborn Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-dearborn-heights-mi/
+- Garden City, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-garden-city-mi/
+- Lathrup Village, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lathrup-village-mi/
+- Madison Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-madison-heights-mi/
+- Redford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-redford-township-mi/
+- Rochester Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rochester-hills-mi/
+- Royal Oak, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-royal-oak-mi/
+- Troy, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-troy-mi/
+- Waterford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-waterford-township-mi/
+- West Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-bloomfield-township-mi/
+- Town Of Essex, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-town-of-essex-mi/
+- Eastpointe, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-eastpointe-mi/
+- Wayne, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wayne-mi/
+- Shelby Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-shelby-charter-township-mi/
+- Clinton Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-clinton-township-mi/
+- Riverview, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-riverview-mi/
+- Ecorse, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-ecorse-mi/
 - Acworth, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-acworth-ga/
 - Dekalb County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-dekalb-county-ga/
 - East Point, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-east-point-ga/
@@ -147,6 +250,26 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Powder Springs, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-powder-springs-ga/
 - Lawrenceville, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lawrenceville-ga/
 - Mableton, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-mableton-ga/
+- Miami Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-miami-township-oh/
+- Milford, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-milford-oh/
+- Baltimore, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-baltimore-oh/
+- Blue Ash, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-blue-ash-oh/
+- Canal Winchester, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-canal-winchester-oh/
+- Delaware, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-delaware-oh/
+- Grove City, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-grove-city-oh/
+- Hamilton, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hamilton-oh/
+- Hamilton Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hamilton-township-oh/
+- Johnstown, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-johnstown-oh/
+- Liberty Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-liberty-township-oh/
+- Pataskala, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pataskala-oh/
+- Pickerington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pickerington-oh/
+- Gahanna, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gahanna-oh/
+- Anderson Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-anderson-township-oh/
+- Clinton Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-clinton-township-oh/
+- Prairie Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-prairie-township-oh/
+- London, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-london-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-chester-township-oh/
+- Sycamore Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-sycamore-township-oh/
 - Burlington, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-burlington-wi/
 - New Berlin, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-new-berlin-wi/
 - Oak Creek, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oak-creek-wi/
@@ -159,6 +282,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Hales Corners, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hales-corners-wi/
 - Franklin, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-wi/
 - Cedarburg, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-cedarburg-wi/
+- Warren Park, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-warren-park-in/
+- Brownsburg, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brownsburg-in/
+- Carmel, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-carmel-in/
+- East Chicago, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-east-chicago-in/
+- Griffith, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-griffith-in/
+- Merrillville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-merrillville-in/
+- Pendleton, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pendleton-in/
+- Franklin, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-in/
+- Lawrenceburg, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lawrenceburg-in/
 - Ankeny, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-ankeny-ia/
 - Johnston, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-johnston-ia/
 - Urbandale, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-urbandale-ia/
@@ -204,6 +336,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Crestwood, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-crestwood-il/
 - Des Plaines, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-des-plaines-il/
 - Elk Grove Village, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-elk-grove-village-il/
+- Fairview Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fairview-heights-il/
 - Hazel Crest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hazel-crest-il/
 - Hickory Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-hills-il/
 - Homewood, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-homewood-il/
@@ -218,10 +351,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Riverdale, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-riverdale-il/
 - Romeoville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-romeoville-il/
 - Steger, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-steger-il/
+- Swansea, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-swansea-il/
 - Tinley Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-tinley-park-il/
 - Wauconda, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wauconda-il/
 - Westchester, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-westchester-il/
 - Willowbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-willowbrook-il/
+- Wood River, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wood-river-il/
 - Woodridge, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodridge-il/
 - Bolingbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bolingbrook-il/
 - Burbank, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-burbank-il/
@@ -237,12 +372,39 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Summit, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-summit-il/
 - Arlington Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arlington-heights-il/
 - La Grange, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-la-grange-il/
-- Overland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-overland-park-ks/
+- Salina, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-salina-ks/
+- Jefferson City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-jefferson-city-mo/
 - Liberty, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-liberty-mo/
+- Maryland Heights, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-maryland-heights-mo/
 - Oakview, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oakview-mo/
 - Platte City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-platte-city-mo/
+- St. Ann, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-st-ann-mo/
+- Wentzville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-wentzville-mo/
+- O’Fallon, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-o-fallon-mo/
 - Peculiar, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-peculiar-mo/
 - Belton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-belton-mo/
+- Hampton Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hampton-township-pa/
+- Center Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-center-township-pa/
+- Charleroi, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-charleroi-pa/
+- Collier Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-collier-township-pa/
+- Coraopolis, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-coraopolis-pa/
+- Cranberry Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-cranberry-township-pa/
+- Dormont, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-dormont-pa/
+- Etna, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-etna-pa/
+- Frazer Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-frazer-township-pa/
+- Homestead, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-homestead-pa/
+- Monongahela, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-monongahela-pa/
+- Moon Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-moon-township-pa/
+- Mt. Lebanon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-mt-lebanon-pa/
+- North Versailles, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-north-versailles-pa/
+- Pleasant Hills, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pleasant-hills-pa/
+- Richland Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-richland-township-pa/
+- Robinson Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-robinson-township-pa/
+- Rostraver Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rostraver-township-pa/
+- Scott Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-scott-township-pa/
+- Versailles, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-versailles-pa/
+- Brentwood, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brentwood-pa/
+- Castle Shannon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-castle-shannon-pa/
 - Rockford, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rockford-mn/
 - Champlin, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-champlin-mn/
 - Oakdale, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oakdale-mn/
@@ -262,9 +424,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Falcon Heights, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-falcon-heights-mn/
 - Robbinsdale, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-robbinsdale-mn/
 - New Brighton, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-new-brighton-mn/
-- East Chicago, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-east-chicago-in/
-- Griffith, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-griffith-in/
-- Merrillville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-merrillville-in/
+- Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-louisville-co/
+- Commerce City, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-commerce-city-co/
+- Douglas County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-douglas-county-co/
+- Firestone, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-firestone-co/
+- Fort Lupton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fort-lupton-co/
+- Glendale, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-glendale-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-golden-co/
+- Lafayette, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lafayette-co/
+- Federal Heights, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-federal-heights-co/
+- Littleton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-littleton-co/
+- Covington, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-covington-ky/
+- Boone County, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-boone-county-ky/
 - Bellevue Second Iv Precinct, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-second-iv-precinct-ne/
 - Plattsmouth Precinct, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparer-plattsmouth-precinct-ne/
 
@@ -274,7 +445,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.58, median $5.87, high $5.87 (Business Services median CPC 2026 $5.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Business Services median CPC 2025 $5.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 600
+- Registry businesses competing: 992
 - Equivalent Google Ads cost per month: ~$20,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

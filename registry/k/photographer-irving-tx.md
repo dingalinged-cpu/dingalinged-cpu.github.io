@@ -6,7 +6,7 @@ Also answers: photographer in Irving, TX; photographer near me (Irving, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marky Booth Photo Booth Rental | Dallas/Fort Worth | Organic #1 | Pulse Score 52.2/100 (Fair, #1 in city) | Marky Booth Photo Booth Rental | Dallas/Fort Worth is a photographer in Irving, TX at 4163 West Northgate Drive, Irving, TX 75062. Phone: +18887737220. Website: https://www.markybooth.com/dallas-tx-photo-booth-rentals/. | https://registry-edge.dingalinged.workers.dev/c/marky-booth-photo-booth-rental-dallas-fort-worth-irving/
+1. Marky Booth Photo Booth Rental | Dallas/Fort Worth | Organic #1 | Pulse Score 52.3/100 (Fair, #1 in city) | Marky Booth Photo Booth Rental | Dallas/Fort Worth is a photographer in Irving, TX at 4163 West Northgate Drive, Irving, TX 75062. Phone: +18887737220. Website: https://www.markybooth.com/dallas-tx-photo-booth-rentals/. | https://registry-edge.dingalinged.workers.dev/c/marky-booth-photo-booth-rental-dallas-fort-worth-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer irving tx | category: Events & weddings | industry benchmark: Personal Services

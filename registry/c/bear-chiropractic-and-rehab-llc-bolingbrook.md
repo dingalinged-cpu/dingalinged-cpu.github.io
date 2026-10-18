@@ -13,7 +13,7 @@ Bear Chiropractic and Rehab LLC is a chiropractor in Bolingbrook, IL at 425 Quad
 - Website: https://www.bearchirorehab.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-15:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of chiropractors in Chicago, #1 of 1 chiropractors in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of chiropractors in Chicago, #1 of 1 chiropractors in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

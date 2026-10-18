@@ -6,7 +6,7 @@ Also answers: photographer in Saint Francis, WI; photographer near me (Saint Fra
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. IN-FOCUS Photography | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | IN-FOCUS Photography is a photographer in Saint Francis, WI at 4160 South Kinnickinnic Avenue, Saint Francis, WI 53235. Phone: +14144832526. Website: https://infocusphotography.org/. | https://registry-edge.dingalinged.workers.dev/c/in-focus-photography-saint-francis/
+1. IN-FOCUS Photography | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | IN-FOCUS Photography is a photographer in Saint Francis, WI at 4160 South Kinnickinnic Avenue, Saint Francis, WI 53235. Phone: +14144832526. Website: https://infocusphotography.org/. | https://registry-edge.dingalinged.workers.dev/c/in-focus-photography-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer saint francis wi | category: Events & weddings | industry benchmark: Personal Services

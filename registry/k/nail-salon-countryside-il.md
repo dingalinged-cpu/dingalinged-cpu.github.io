@@ -9,9 +9,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. J.Nails | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | J.Nails is a nail salon in Countryside, IL at 5432 South La Grange Road, Countryside, IL 60525. | https://registry-edge.dingalinged.workers.dev/c/j-nails-countryside/
 2. Glossy Nails | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Glossy Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/glossy-nails-countryside/
 3. Lena's Nails | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Lena's Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/lenas-nails-countryside/
-4. Magic Nails | Organic #4 | Pulse Score 43.3/100 (Unrated, #4 in city) | Magic Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-countryside/
-5. Magic Nails | Organic #5 | Pulse Score 43.3/100 (Unrated, #5 in city) | Magic Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-countryside-n10005177440/
-6. Lee Nails | Organic #6 | Pulse Score 42.2/100 (Unrated, #6 in city) | Lee Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/lee-nails-countryside/
+4. Lee Nails | Organic #4 | Pulse Score 42.2/100 (Unrated, #4 in city) | Lee Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/lee-nails-countryside/
+5. Magic Nails | Organic #5 | Pulse Score 42.2/100 (Unrated, #5 in city) | Magic Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-countryside/
+6. Magic Nails | Organic #6 | Pulse Score 42.2/100 (Unrated, #6 in city) | Magic Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-countryside-n10005177440/
 7. T Nails | Organic #7 | Pulse Score 42.2/100 (Unrated, #7 in city) | T Nails is a nail salon in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/t-nails-countryside/
 
 ## Market data (for advertisers and agents)

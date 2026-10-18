@@ -13,7 +13,7 @@ Crystal Nails is a nail salon in Cleveland, TX at 1823 East Houston Street, Clev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Houston, #2 of 2 nail salons in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 92% of nail salons in Houston, #2 of 2 nail salons in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

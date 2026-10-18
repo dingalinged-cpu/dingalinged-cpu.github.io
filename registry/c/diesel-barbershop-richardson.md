@@ -13,7 +13,7 @@ Diesel Barbershop is a barber shop in Richardson, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 49% of barber shops in Dallas–Fort Worth, #4 of 4 barber shops in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 97% of barber shops in Dallas–Fort Worth, #4 of 4 barber shops in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

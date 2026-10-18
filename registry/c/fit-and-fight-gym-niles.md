@@ -13,7 +13,7 @@ Fit & Fight Gym is a martial arts school in Niles, IL at 9517 North Milwaukee Av
 - Website: https://fitandfightgym.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 16:00-21:00; Sa 09:30-14:00
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of martial arts schools in Chicago, #1 of 1 martial arts schools in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 6% of martial arts schools in Chicago, #1 of 1 martial arts schools in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

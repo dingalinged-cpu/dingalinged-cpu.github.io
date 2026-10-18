@@ -7,7 +7,7 @@ Also answers: hair salon in Vadnais Heights, MN; hair salon near me (Vadnais Hei
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Afro Waves | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Afro Waves is a hair salon in Vadnais Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/afro-waves-vadnais-heights/
-2. Great Clips | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Great Clips is a hair salon in Vadnais Heights, MN at 1054 Highway 96, Vadnais Heights, MN 55127. | https://registry-edge.dingalinged.workers.dev/c/great-clips-vadnais-heights-w1137118408/
+2. Great Clips | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | Great Clips is a hair salon in Vadnais Heights, MN at 1054 Highway 96, Vadnais Heights, MN 55127. | https://registry-edge.dingalinged.workers.dev/c/great-clips-vadnais-heights-w1137118408/
 3. Great Clips | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Great Clips is a hair salon in Vadnais Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/great-clips-vadnais-heights/
 4. Sport Clips | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Sport Clips is a hair salon in Vadnais Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-vadnais-heights/
 

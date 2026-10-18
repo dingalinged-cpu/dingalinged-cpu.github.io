@@ -13,7 +13,7 @@ Tires Plus is a tire shop in White Bear Lake, MN at 4612 Centerville Road, White
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 66% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 66% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

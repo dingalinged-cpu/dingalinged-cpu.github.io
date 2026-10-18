@@ -19,6 +19,6 @@ Pride Cleaners is a dry cleaner in Prairie Village, KS.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-prairie-village/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pride-cleaners-prairie-village.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/4973022247 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4973022247 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Eden Prairie, MN at 11611 Leona Road
 - Website: https://cpr-edenprairie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
-- Pulse Score: 48.8/100 — Building — top 60% of phone repair shops in Minneapolis–St. Paul, #1 of 1 phone repair shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 40% of phone repair shops in Minneapolis–St. Paul, #1 of 1 phone repair shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

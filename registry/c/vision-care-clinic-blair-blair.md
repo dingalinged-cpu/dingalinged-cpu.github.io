@@ -13,7 +13,7 @@ Vision Care Clinic Blair is an eye care practice in Blair, NE at 1526 Washington
 - Website: https://visionsource-blair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 08:30-17:30; We 08:30-13:00; Th 08:30-19:00; Fr 08:30-17:00; Sa "By appointment"
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 34% of eye care practices in Omaha, NE, #1 of 2 eye care practices in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 34% of eye care practices in Omaha, NE, #1 of 2 eye care practices in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

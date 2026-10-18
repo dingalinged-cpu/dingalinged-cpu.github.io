@@ -13,7 +13,7 @@ Elegant Nails is a nail salon in Conroe, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 39% of nail salons in Houston, #2 of 5 nail salons in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 92% of nail salons in Houston, #4 of 5 nail salons in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

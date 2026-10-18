@@ -13,7 +13,7 @@ Old St. Anthony Chiropractic and Rehabilitation is a chiropractor in Minneapolis
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 08:30-12:00; Mo,We,Fr 13:00-18:00; Tu 13:00-17:00; PH closed
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 48% of chiropractors in Minneapolis–St. Paul, #9 of 18 chiropractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 48% of chiropractors in Minneapolis–St. Paul, #9 of 18 chiropractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

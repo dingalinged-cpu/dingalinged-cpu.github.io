@@ -13,7 +13,7 @@ Dr. Thomas Sudela Gynecology and Women’s Health is an OB-GYN practice in Rockw
 - Website: https://www.sudelacare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-12:00
-- Pulse Score: 63.5/100 — Good — top 10% of OB-GYN practices in Dallas–Fort Worth, #1 of 1 OB-GYN practices in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 10% of OB-GYN practices in Dallas–Fort Worth, #1 of 1 OB-GYN practices in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: printing services in Alpharetta, GA; printing services near me (Al
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 42.1/100 (Building, #1 in city) | The UPS Store is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-alpharetta/
-2. The UPS Store | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | The UPS Store is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-alpharetta-n10226749605/
+1. The UPS Store | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | The UPS Store is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-alpharetta/
+2. The UPS Store | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | The UPS Store is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-alpharetta-n10226749605/
 3. FedEx Office | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | FedEx Office is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-alpharetta/
 4. FedEx Office | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | FedEx Office is a printing service in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-alpharetta-n7993772714/
 

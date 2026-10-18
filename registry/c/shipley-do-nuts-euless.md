@@ -13,7 +13,7 @@ Shipley Do-Nuts is a bakery in Euless, TX at 925 North Industrial Boulevard, Eul
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 87% of bakerys in Dallas–Fort Worth, #1 of 1 bakerys in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 86% of bakerys in Dallas–Fort Worth, #1 of 1 bakerys in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

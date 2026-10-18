@@ -13,7 +13,7 @@ Acworth Primary Healthcare is a family medicine practice in Acworth, GA at 5473 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 58% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 58% of family medicine practices in Atlanta, #1 of 1 family medicine practices in Acworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

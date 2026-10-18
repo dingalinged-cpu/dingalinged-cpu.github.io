@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Roseville, MN at 1673 West County Road
 - Website: https://www.hrblock.com/local-tax-offices/minnesota/roseville/rosedale-square-south/23048/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50/100 — Fair — top 60% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 60% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Minuteman Press is a printing service in New Brighton, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.6/100 — Building — top 100% of printing services in Minneapolis–St. Paul, #4 of 4 printing services in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.1, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.6/100 — Building — top 100% of printing services in Minneapolis–St. Paul, #4 of 4 printing services in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.2, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

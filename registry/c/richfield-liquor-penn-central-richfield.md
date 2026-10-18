@@ -13,7 +13,7 @@ Richfield Liquor - Penn Central is a liquor store in Richfield, MN at 6444 Penn 
 - Website: https://www.richfieldmn.gov/departments/liquor_stores/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of liquor stores in Minneapolis–St. Paul, #3 of 4 liquor stores in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of liquor stores in Minneapolis–St. Paul, #3 of 4 liquor stores in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

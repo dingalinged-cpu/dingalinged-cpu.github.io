@@ -6,7 +6,7 @@ Also answers: roofer in Lee'S Summit, MO; roofer near me (Lee'S Summit, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Good Roofing Company | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Good Roofing Company is a roofer in Lee's Summit, MO at 17 Northeast Skyline Drive, Lee's Summit, MO 64086. Phone: +18162073993. Website: https://www.goodroofingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/good-roofing-company-lees-summit/
+1. Good Roofing Company | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Good Roofing Company is a roofer in Lee's Summit, MO at 17 Northeast Skyline Drive, Lee's Summit, MO 64086. Phone: +18162073993. Website: https://www.goodroofingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/good-roofing-company-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer lee's summit mo | category: Home services - Roofing | industry benchmark: Home & Home Improvement

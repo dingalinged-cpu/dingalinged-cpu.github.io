@@ -13,7 +13,7 @@ Peter Francis Geraci is a lawyer in Oak Park, IL at 7015 West North Avenue, Oak 
 - Website: https://www.infotapes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 59% of lawyers in Chicago, #2 of 3 lawyers in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 59% of lawyers in Chicago, #2 of 3 lawyers in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

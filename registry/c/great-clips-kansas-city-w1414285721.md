@@ -13,12 +13,12 @@ Great Clips is a hair salon in Kansas City, KS at 10814 Parallel Parkway, Kansas
 - Website: https://salons.greatclips.com/us/ks/kansas-city/10814-parallel-pkwy
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su off
-- Pulse Score: 49.3/100 — Building — top 77% of hair salons in Kansas City, MO, #100 of 114 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 75% of hair salons in Kansas City, MO, #97 of 115 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-kansas-city-w1414285721/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-kansas-city-w1414285721.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1414285721 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1414285721 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ LA Fitness is a gym in Kennesaw, GA at 1185 Ernest W. Barrett Parkway Northwest,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 81% of gyms in Atlanta, #8 of 8 gyms in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 81% of gyms in Atlanta, #8 of 8 gyms in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

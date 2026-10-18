@@ -13,7 +13,7 @@ Allstate is an insurance agent in Trophy Club, TX at 2550 Bobcat Boulevard, Trop
 - Website: https://agents.allstate.com/josh-house-trophy-club-tx1.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 51% of insurance agents in Dallas–Fort Worth, #1 of 2 insurance agents in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 50% of insurance agents in Dallas–Fort Worth, #1 of 2 insurance agents in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

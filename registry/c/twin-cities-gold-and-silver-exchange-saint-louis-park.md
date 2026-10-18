@@ -13,7 +13,7 @@ Twin Cities Gold & Silver Exchange is a jewelry store in Saint Louis Park, MN at
 - Website: https://www.tcgoldsilvermn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-14:00; PH closed
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Minneapolis–St. Paul, #2 of 8 jewelry stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of jewelry stores in Minneapolis–St. Paul, #2 of 8 jewelry stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

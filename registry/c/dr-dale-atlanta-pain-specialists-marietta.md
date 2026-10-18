@@ -13,7 +13,7 @@ Dr. Dale Atlanta Pain Specialists is a lawyer in Marietta, GA at 2900 Delk Road 
 - Website: https://www.drdale.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 10:00-17:00; Tu,Th 10:00-20:00; Fr 10:00-15:00
-- Pulse Score: 45.7/100 — Building — top 100% of lawyers in Atlanta, #14 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of lawyers in Atlanta, #14 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

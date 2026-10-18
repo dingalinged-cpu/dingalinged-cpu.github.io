@@ -13,7 +13,7 @@ Northwestern Mutual is a financial advisor in Ankeny, IA at 1810 Southwest Plaza
 - Website: https://www.bensonwealthmanagement.nm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa off; Su off
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 7% of financial advisors in Des Moines, IA, #1 of 2 financial advisors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 67% of financial advisors in Des Moines, IA, #2 of 2 financial advisors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

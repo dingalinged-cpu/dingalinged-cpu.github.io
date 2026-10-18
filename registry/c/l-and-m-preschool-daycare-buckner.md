@@ -13,12 +13,12 @@ L&M Preschool-Daycare is a daycare in Buckner, MO at 215 South Sibley Street, Bu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 44% of daycares in Kansas City, MO, #1 of 1 daycares in Buckner (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 43% of daycares in Kansas City, MO, #1 of 1 daycares in Buckner (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/l-and-m-preschool-daycare-buckner/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/l-and-m-preschool-daycare-buckner.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/543020161 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/543020161 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

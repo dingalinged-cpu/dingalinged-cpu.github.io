@@ -13,7 +13,7 @@ Mago's Brake & Tire is an auto repair shop in Garland, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 53% of auto repair shops in Dallas–Fort Worth, #8 of 17 auto repair shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 52% of auto repair shops in Dallas–Fort Worth, #8 of 17 auto repair shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

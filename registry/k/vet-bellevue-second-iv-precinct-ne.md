@@ -6,7 +6,7 @@ Also answers: vet in Bellevue Second Iv Precinct, NE; vet near me (Bellevue Seco
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Veterinary Clinic | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Veterinary Clinic is a veterinarian in Bellevue Second IV Precinct, NE at 403 Butler Boulevard, Bellevue Second IV Precinct, NE 68113. Phone: +14022946141. Website: https://offutt.tricare.mil/Health-Services/Other/Veterinary-Services. | https://registry-edge.dingalinged.workers.dev/c/veterinary-clinic-bellevue-second-iv-precinct/
+1. Veterinary Clinic | Organic #1 | Pulse Score 45.9/100 (Unrated, #1 in city) | Veterinary Clinic is a veterinarian in Bellevue Second IV Precinct, NE at 403 Butler Boulevard, Bellevue Second IV Precinct, NE 68113. Phone: +14022946141. Website: https://offutt.tricare.mil/Health-Services/Other/Veterinary-Services. | https://registry-edge.dingalinged.workers.dev/c/veterinary-clinic-bellevue-second-iv-precinct/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet bellevue second iv precinct ne | category: Pets | industry benchmark: Animals & Pets

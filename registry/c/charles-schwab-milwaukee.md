@@ -13,7 +13,7 @@ Charles Schwab is a financial advisor in Milwaukee, WI. Phone: +14143195411. Web
 - Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1125
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.6/100 — Building — top 63% of financial advisors in Milwaukee, #4 of 5 financial advisors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 55.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 63% of financial advisors in Milwaukee, #4 of 5 financial advisors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

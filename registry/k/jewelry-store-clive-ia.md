@@ -6,7 +6,7 @@ Also answers: jewelry store in Clive, IA; jewelry store near me (Clive, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anglo | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Anglo is a jewelry store in Clive, IA at 12851 University Avenue, Clive, IA 50325. Website: https://www.anglodiamond.com/. | https://registry-edge.dingalinged.workers.dev/c/anglo-clive/
+1. Anglo | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Anglo is a jewelry store in Clive, IA at 12851 University Avenue, Clive, IA 50325. Website: https://www.anglodiamond.com/. | https://registry-edge.dingalinged.workers.dev/c/anglo-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store clive ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

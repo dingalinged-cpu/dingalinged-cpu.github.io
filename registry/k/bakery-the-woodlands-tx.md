@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Forest Cafe and Bakery | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Forest Cafe and Bakery is a bakery in The Woodlands, TX at 3091 College Park Drive #245, The Woodlands, TX 77384. | https://registry-edge.dingalinged.workers.dev/c/forest-cafe-and-bakery-the-woodlands/
 2. Carlo's Bakery | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Carlo's Bakery is a bakery in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/carlos-bakery-the-woodlands/
-3. Woops! | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | Woops! is a bakery in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/woops-the-woodlands/
+3. Woops! | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Woops! is a bakery in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/woops-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery the woodlands tx | category: Events & weddings | industry benchmark: Personal Services

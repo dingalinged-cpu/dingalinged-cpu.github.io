@@ -13,7 +13,7 @@ GrandLux Nail Salon is a nail salon in McKinney, TX at 6405 Eldorado Parkway #40
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 88% of nail salons in Dallas–Fort Worth, #11 of 12 nail salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 85% of nail salons in Dallas–Fort Worth, #11 of 12 nail salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: crossfit in Marietta, GA; crossfit near me (Marietta, GA); best cr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Strength & Conditioning | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Atlanta Strength & Conditioning is a CrossFit gym in Marietta, GA at 1642 Powers Ferry Road Southeast #100, Marietta, GA 30067. | https://registry-edge.dingalinged.workers.dev/c/atlanta-strength-and-conditioning-marietta/
+1. Atlanta Strength & Conditioning | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Atlanta Strength & Conditioning is a CrossFit gym in Marietta, GA at 1642 Powers Ferry Road Southeast #100, Marietta, GA 30067. | https://registry-edge.dingalinged.workers.dev/c/atlanta-strength-and-conditioning-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit marietta ga | category: Fitness | industry benchmark: Health & Fitness

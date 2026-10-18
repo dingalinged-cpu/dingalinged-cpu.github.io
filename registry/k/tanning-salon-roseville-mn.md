@@ -6,7 +6,7 @@ Also answers: tanning salon in Roseville, MN; tanning salon near me (Roseville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Roseville, MN at 2708 Lincoln Drive, Roseville, MN. Phone: +16516398266. Website: https://palmbeachtan.com/locations/MN/Roseville-Lincoln-Drive. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-roseville/
+1. Palm Beach Tan | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Roseville, MN at 2708 Lincoln Drive, Roseville, MN. Phone: +16516398266. Website: https://palmbeachtan.com/locations/MN/Roseville-Lincoln-Drive. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon roseville mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

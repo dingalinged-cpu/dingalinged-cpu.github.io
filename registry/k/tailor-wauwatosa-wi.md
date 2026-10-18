@@ -7,7 +7,7 @@ Also answers: tailor in Wauwatosa, WI; tailor near me (Wauwatosa, WI); best tail
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Raisa's Tailoring & Alterations | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Raisa's Tailoring & Alterations is a tailor in Wauwatosa, WI at 12201 West North Avenue #Suite 203, Wauwatosa, WI 53226. Phone: +14143020170. | https://registry-edge.dingalinged.workers.dev/c/raisas-tailoring-and-alterations-wauwatosa/
-2. Hyde Park | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Hyde Park is a tailor in Wauwatosa, WI at 6738 West Wells Street, Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/hyde-park-wauwatosa/
+2. Hyde Park | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Hyde Park is a tailor in Wauwatosa, WI at 6738 West Wells Street, Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/hyde-park-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor wauwatosa wi | category: Professional & financial services | industry benchmark: Finance & Insurance

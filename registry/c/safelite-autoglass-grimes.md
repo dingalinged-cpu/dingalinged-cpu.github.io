@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Grimes, IA at 1300 Southeast Gatewa
 - Website: https://www.safelite.com/stores/grimes
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 49/100 — Building — top 74% of auto repair shops in Des Moines, IA, #3 of 4 auto repair shops in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 72% of auto repair shops in Des Moines, IA, #3 of 4 auto repair shops in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

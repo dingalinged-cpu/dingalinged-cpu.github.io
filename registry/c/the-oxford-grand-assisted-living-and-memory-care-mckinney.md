@@ -13,7 +13,7 @@ The Oxford Grand Assisted Living & Memory Care is an assisted living facility in
 - Website: https://www.oxfordseniorliving.com/senior-living/tx/mckinney/orchid-drive/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of assisted living facilitys in Dallas–Fort Worth, #2 of 3 assisted living facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of assisted living facilitys in Dallas–Fort Worth, #2 of 3 assisted living facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

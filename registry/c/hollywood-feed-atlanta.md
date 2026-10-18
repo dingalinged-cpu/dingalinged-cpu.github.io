@@ -13,7 +13,7 @@ Hollywood Feed is a pet store in Atlanta, GA at 5001 Peachtree Boulevard, Atlant
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 10:00-18:30
-- Pulse Score: 42.9/100 — Unrated (not enough evidence yet) — top 82% of pet stores in Atlanta, #18 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 82% of pet stores in Atlanta, #18 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

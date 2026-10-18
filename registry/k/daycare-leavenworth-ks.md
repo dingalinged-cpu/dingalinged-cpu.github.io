@@ -6,9 +6,9 @@ Also answers: daycare in Leavenworth, KS; daycare near me (Leavenworth, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Main Child Development Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Main Child Development Center is a daycare in Leavenworth, KS at 120 Dickman Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/main-child-development-center-leavenworth/
-2. Osage School Age Center | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Osage School Age Center is a daycare in Leavenworth, KS at 130 Dickman Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/osage-school-age-center-leavenworth/
-3. Santa Fe Child Day Care | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Santa Fe Child Day Care is a daycare in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/santa-fe-child-day-care-leavenworth/
+1. Main Child Development Center | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Main Child Development Center is a daycare in Leavenworth, KS at 120 Dickman Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/main-child-development-center-leavenworth/
+2. Osage School Age Center | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Osage School Age Center is a daycare in Leavenworth, KS at 130 Dickman Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/osage-school-age-center-leavenworth/
+3. Santa Fe Child Day Care | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Santa Fe Child Day Care is a daycare in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/santa-fe-child-day-care-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare leavenworth ks | category: Education & childcare | industry benchmark: Education & Instruction

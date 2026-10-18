@@ -19,6 +19,6 @@ Mayfair Cleaners is a dry cleaner in Platte City, MO at 1306 Platte Falls Road, 
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mayfair-cleaners-platte-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mayfair-cleaners-platte-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8067992165 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8067992165 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

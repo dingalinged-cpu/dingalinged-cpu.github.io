@@ -13,7 +13,7 @@ Villiage Insurance Agency is an insurance agent in Brown Deer, WI at 6051 West B
 - Website: https://villageinsurancewi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 11% of insurance agents in Milwaukee, #1 of 1 insurance agents in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 11% of insurance agents in Milwaukee, #1 of 1 insurance agents in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

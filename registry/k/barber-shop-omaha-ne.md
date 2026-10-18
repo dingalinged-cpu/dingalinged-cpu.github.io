@@ -6,8 +6,8 @@ Also answers: barber shop in Omaha, NE; barber shop near me (Omaha, NE); best ba
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fadytimes Barbershop | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Fadytimes Barbershop is a barber shop in Omaha, NE at 14135 S Street, Omaha, NE 68137. Phone: +14029178141. Website: https://www.fadytimesbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/fadytimes-barbershop-omaha/
-2. Detah Barbers | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Detah Barbers is a barber shop in Omaha, NE at 4383 Izard Street, Omaha, NE 68104. | https://registry-edge.dingalinged.workers.dev/c/detah-barbers-omaha/
+1. Fadytimes Barbershop | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Fadytimes Barbershop is a barber shop in Omaha, NE at 14135 S Street, Omaha, NE 68137. Phone: +14029178141. Website: https://www.fadytimesbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/fadytimes-barbershop-omaha/
+2. Detah Barbers | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Detah Barbers is a barber shop in Omaha, NE at 4383 Izard Street, Omaha, NE 68104. | https://registry-edge.dingalinged.workers.dev/c/detah-barbers-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop omaha ne | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Wisconsin Conservatory of Music is a music school in Milwaukee, WI at 1584 North
 - Website: https://www.wcmusic.org/
 - Email: info@wcmusic.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Good — top 50% of music schools in Milwaukee, #2 of 3 music schools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 50% of music schools in Milwaukee, #2 of 3 music schools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

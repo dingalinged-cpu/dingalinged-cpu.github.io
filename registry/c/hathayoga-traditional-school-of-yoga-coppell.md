@@ -13,7 +13,7 @@ Hathayoga Traditional School of Yoga is a yoga studio in Coppell, TX at 568 Sout
 - Website: https://www.hathavidya.us/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 30% of yoga studios in Dallas–Fort Worth, #1 of 1 yoga studios in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 30% of yoga studios in Dallas–Fort Worth, #1 of 1 yoga studios in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

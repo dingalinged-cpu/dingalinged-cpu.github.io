@@ -13,7 +13,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. MBM of Decatur | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | MBM of Decatur is an auto repair shop in Decatur, GA at 2868 Lavista Road, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/mbm-of-decatur-decatur/
 6. Volmaz | Organic #6 | Pulse Score 57.3/100 (Unrated, #6 in city) | Volmaz is an auto repair shop in Decatur, GA at 1652 Church Street, Decatur, GA 30033. | https://registry-edge.dingalinged.workers.dev/c/volmaz-decatur/
 7. Goodyear | Organic #7 | Pulse Score 46.3/100 (Building, #7 in city) | Goodyear is an auto repair shop in Decatur, GA at 307 Clairemont Avenue, Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/goodyear-decatur/
-8. Pep Boys | Organic #8 | Pulse Score 46.1/100 (Building, #8 in city) | Pep Boys is an auto repair shop in Decatur, GA at 5380 Covington Highway, Decatur, GA 30035. Website: https://www.pepboys.com/. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-decatur/
+8. Pep Boys | Organic #8 | Pulse Score 46.2/100 (Building, #8 in city) | Pep Boys is an auto repair shop in Decatur, GA at 5380 Covington Highway, Decatur, GA 30035. Website: https://www.pepboys.com/. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair decatur ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

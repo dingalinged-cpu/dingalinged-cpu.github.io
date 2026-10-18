@@ -8,12 +8,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Discount Rustic Furniture | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Discount Rustic Furniture is a furniture store in Humble, TX at 5346 FM 1960 East, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/discount-rustic-furniture-humble/
 2. Furniture Town Outlet | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Furniture Town Outlet is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/furniture-town-outlet-humble/
-3. Living Spaces | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Living Spaces is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/living-spaces-humble/
-4. Exclusive Furniture | Organic #4 | Pulse Score 50.9/100 (Unrated, #4 in city) | Exclusive Furniture is a furniture store in Humble, TX at 19300 Eastex Freeway, Humble, TX 77336. Phone: +18327771159. Website: https://exclusivefurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/exclusive-furniture-humble/
-5. La-Z-Boy | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Humble, TX at 20155 Eastex Freeway, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-humble/
-6. Chair King Backyard Store | Organic #6 | Pulse Score 44.5/100 (Unrated, #6 in city) | Chair King Backyard Store is a furniture store in Humble, TX at 20407 Eastex Freeway, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/chair-king-backyard-store-humble/
-7. Bel Furniture | Organic #7 | Pulse Score 43.2/100 (Unrated, #7 in city) | Bel Furniture is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/bel-furniture-humble/
-8. Rooms To Go | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Rooms To Go is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-humble/
+3. Exclusive Furniture | Organic #3 | Pulse Score 50.9/100 (Unrated, #3 in city) | Exclusive Furniture is a furniture store in Humble, TX at 19300 Eastex Freeway, Humble, TX 77336. Phone: +18327771159. Website: https://exclusivefurniture.com/. | https://registry-edge.dingalinged.workers.dev/c/exclusive-furniture-humble/
+4. La-Z-Boy | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | La-Z-Boy is a furniture store in Humble, TX at 20155 Eastex Freeway, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-humble/
+5. Chair King Backyard Store | Organic #5 | Pulse Score 44.5/100 (Unrated, #5 in city) | Chair King Backyard Store is a furniture store in Humble, TX at 20407 Eastex Freeway, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/chair-king-backyard-store-humble/
+6. Bel Furniture | Organic #6 | Pulse Score 43.2/100 (Unrated, #6 in city) | Bel Furniture is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/bel-furniture-humble/
+7. Rooms To Go | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Rooms To Go is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-humble/
+8. Living Spaces | Organic #8 | Pulse Score 42.1/100 (Unrated, #8 in city) | Living Spaces is a furniture store in Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/living-spaces-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store humble tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

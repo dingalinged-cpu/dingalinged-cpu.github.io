@@ -7,9 +7,9 @@ Also answers: bakery in Wauwatosa, WI; bakery near me (Wauwatosa, WI); best bake
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Rocket Baby Bakery | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Rocket Baby Bakery is a bakery in Wauwatosa, WI at 6822 West North Avenue, Wauwatosa, WI 53213. Phone: +14145027323. Website: https://www.rocketbabybakery.com/. | https://registry-edge.dingalinged.workers.dev/c/rocket-baby-bakery-wauwatosa/
-2. Simma's Bakery | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Simma's Bakery is a bakery in Wauwatosa, WI at 817 North 68th Street, Wauwatosa, WI 53213. Website: https://www.simmasbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/simmas-bakery-wauwatosa/
+2. Simma's Bakery | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Simma's Bakery is a bakery in Wauwatosa, WI at 817 North 68th Street, Wauwatosa, WI 53213. Website: https://www.simmasbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/simmas-bakery-wauwatosa/
 3. Black Twig Bakery | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Black Twig Bakery is a bakery in Wauwatosa, WI at 1455 Underwood Avenue, Wauwatosa, WI 53213. | https://registry-edge.dingalinged.workers.dev/c/black-twig-bakery-wauwatosa/
-4. Breadsmith | Organic #4 | Pulse Score 44.2/100 (Unrated, #4 in city) | Breadsmith is a bakery in Wauwatosa, WI at 1417 North Wauwatosa Avenue, Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/breadsmith-wauwatosa/
+4. Breadsmith | Organic #4 | Pulse Score 44.3/100 (Unrated, #4 in city) | Breadsmith is a bakery in Wauwatosa, WI at 1417 North Wauwatosa Avenue, Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/breadsmith-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery wauwatosa wi | category: Events & weddings | industry benchmark: Personal Services

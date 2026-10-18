@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Cobb County, GA at 1281 Johnson Ferry R
 - Website: https://locations.waxcenter.com/ga/marietta/east-cobb-0668.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 09:00-16:00
-- Pulse Score: 47.7/100 — Building — top 92% of waxing salons in Atlanta, #9 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 92% of waxing salons in Atlanta, #9 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

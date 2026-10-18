@@ -6,10 +6,10 @@ Also answers: assisted living in Flower Mound, TX; assisted living near me (Flow
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Magnolia Assisted Living and Memory Care | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Magnolia Assisted Living and Memory Care is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/magnolia-assisted-living-and-memory-care-flower-mound/
-2. Mustang Creek | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Mustang Creek is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mustang-creek-flower-mound/
-3. Riverwalk Flats | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Riverwalk Flats is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/riverwalk-flats-flower-mound/
-4. Rosewood Assisted Living | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | Rosewood Assisted Living is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/rosewood-assisted-living-flower-mound/
+1. Magnolia Assisted Living and Memory Care | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Magnolia Assisted Living and Memory Care is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/magnolia-assisted-living-and-memory-care-flower-mound/
+2. Mustang Creek | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Mustang Creek is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/mustang-creek-flower-mound/
+3. Riverwalk Flats | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Riverwalk Flats is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/riverwalk-flats-flower-mound/
+4. Rosewood Assisted Living | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Rosewood Assisted Living is an assisted living facility in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/rosewood-assisted-living-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living flower mound tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

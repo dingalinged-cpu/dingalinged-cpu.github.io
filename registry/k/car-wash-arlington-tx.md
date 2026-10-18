@@ -11,9 +11,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Jerry's | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Jerry's is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/jerrys-arlington/
 4. Kwik Car Wash | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Kwik Car Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-car-wash-arlington/
 5. Wash Masters Car Wash | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Wash Masters Car Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/wash-masters-car-wash-arlington/
-6. Zips Car Wash | Organic #6 | Pulse Score 43/100 (Unrated, #6 in city) | Zips Car Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-arlington/
-7. Circle K | Organic #7 | Pulse Score 42.6/100 (Building, #7 in city) | Circle K is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/circle-k-arlington/
-8. Kwik Kar Wash | Organic #8 | Pulse Score 41.9/100 (Unrated, #8 in city) | Kwik Kar Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-wash-arlington/
+6. Circle K | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | Circle K is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/circle-k-arlington/
+7. Kwik Kar Wash | Organic #7 | Pulse Score 41.9/100 (Unrated, #7 in city) | Kwik Kar Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/kwik-kar-wash-arlington/
+8. Zips Car Wash | Organic #8 | Pulse Score 41.9/100 (Unrated, #8 in city) | Zips Car Wash is a car wash in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/zips-car-wash-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash arlington tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

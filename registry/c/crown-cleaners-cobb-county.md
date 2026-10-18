@@ -13,7 +13,7 @@ Crown Cleaners is a dry cleaner in Cobb County, GA at 3162 Johnson Ferry Road #5
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30; Sa 08:00-16:00
-- Pulse Score: 63.3/100 — Good — top 13% of dry cleaners in Atlanta, #4 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 78% of dry cleaners in Atlanta, #20 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

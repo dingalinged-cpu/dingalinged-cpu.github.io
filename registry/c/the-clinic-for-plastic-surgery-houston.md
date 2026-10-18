@@ -13,7 +13,7 @@ The Clinic for Plastic Surgery is a plastic surgeon in Houston, TX at Aesthetic 
 - Website: https://www.clinicforplasticsurgery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-17:00, Tu 08:00-16:30, We-Th 08:00-17:00, Fr 09:00-15:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 53% of plastic surgeons in Houston, #7 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 53% of plastic surgeons in Houston, #7 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

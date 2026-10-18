@@ -6,7 +6,7 @@ Also answers: gym in Parkville, MO; gym near me (Parkville, MO); best gym Parkvi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Parkville Athletic Complex | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Parkville Athletic Complex is a gym in Parkville, MO at 6014 Missouri Route 9, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/parkville-athletic-complex-parkville/
+1. Parkville Athletic Complex | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Parkville Athletic Complex is a gym in Parkville, MO at 6014 Missouri Route 9, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/parkville-athletic-complex-parkville/
 2. Anytime Fitness | Organic #2 | Pulse Score 50.7/100 (Fair, #2 in city) | Anytime Fitness is a gym in Parkville, MO at 15279 Brink Meyers Road, Parkville, MO 64152. Phone: +18167102800. Website: https://www.anytimefitness.com/gyms/5031/parkville-mo-64152/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-parkville/
 
 ## Market data (for advertisers and agents)

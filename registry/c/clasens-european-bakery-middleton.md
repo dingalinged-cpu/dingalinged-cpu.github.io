@@ -13,7 +13,7 @@ Clasen's European Bakery is a bakery in Middleton, WI at 7610 Donna Drive, Middl
 - Website: https://www.clasensbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 52% of bakerys in Madison, #1 of 1 bakerys in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 52% of bakerys in Madison, #1 of 1 bakerys in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

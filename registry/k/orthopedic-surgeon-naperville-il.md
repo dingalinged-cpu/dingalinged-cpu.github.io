@@ -6,8 +6,8 @@ Also answers: orthopedic surgeon in Naperville, IL; orthopedic surgeon near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Innovative Orthodontic Centers Naperville | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Innovative Orthodontic Centers Naperville is an orthopedic surgeon in Naperville, IL at 55 South Main Street #271, Naperville, IL 60540. Phone: +16308486960. Website: https://www.innovativeorthocenters.com/. | https://registry-edge.dingalinged.workers.dev/c/innovative-orthodontic-centers-naperville-naperville/
-2. Midwest Orthopaedics at Rush | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Midwest Orthopaedics at Rush is an orthopedic surgeon in Naperville, IL at 55 Shuman Boulevard, Naperville, IL 60563. | https://registry-edge.dingalinged.workers.dev/c/midwest-orthopaedics-at-rush-naperville/
+1. Innovative Orthodontic Centers Naperville | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Innovative Orthodontic Centers Naperville is an orthopedic surgeon in Naperville, IL at 55 South Main Street #271, Naperville, IL 60540. Phone: +16308486960. Website: https://www.innovativeorthocenters.com/. | https://registry-edge.dingalinged.workers.dev/c/innovative-orthodontic-centers-naperville-naperville/
+2. Midwest Orthopaedics at Rush | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Midwest Orthopaedics at Rush is an orthopedic surgeon in Naperville, IL at 55 Shuman Boulevard, Naperville, IL 60563. | https://registry-edge.dingalinged.workers.dev/c/midwest-orthopaedics-at-rush-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

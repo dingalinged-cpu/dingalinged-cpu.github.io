@@ -6,7 +6,7 @@ Also answers: acupuncture in Oakbrook Terrace, IL; acupuncture near me (Oakbrook
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Healing Acupuncture | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Life Healing Acupuncture is an acupuncture clinic in Oakbrook Terrace, IL at 17W697 Butterfield Road #F, Oakbrook Terrace, IL 60181. Phone: +16304530646. Website: https://www.lifehealingacu.com/. | https://registry-edge.dingalinged.workers.dev/c/life-healing-acupuncture-oakbrook-terrace/
+1. Life Healing Acupuncture | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Life Healing Acupuncture is an acupuncture clinic in Oakbrook Terrace, IL at 17W697 Butterfield Road #F, Oakbrook Terrace, IL 60181. Phone: +16304530646. Website: https://www.lifehealingacu.com/. | https://registry-edge.dingalinged.workers.dev/c/life-healing-acupuncture-oakbrook-terrace/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture oakbrook terrace il | category: Health & medical | industry benchmark: Physicians & Surgeons

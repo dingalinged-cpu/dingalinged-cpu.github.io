@@ -13,12 +13,12 @@ Country Hill Motors Service Center is an auto repair shop in Merriam, KS at 9701
 - Website: https://countryhill.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Kansas City, MO, #1 of 28 auto repair shops in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Kansas City, MO, #1 of 28 auto repair shops in Merriam (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/country-hill-motors-service-center-merriam/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/country-hill-motors-service-center-merriam.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/621344777 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/621344777 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Chapel at Riverwalk | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Chapel at Riverwalk is an event venue in Flower Mound, TX at 4040 River Walk Drive, Flower Mound, TX 75028. Website: https://waltersweddingestates.com/venues/chapel-at-riverwalk-flower-mound/. | https://registry-edge.dingalinged.workers.dev/c/chapel-at-riverwalk-flower-mound/
 2. River Walk Event Center | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | River Walk Event Center is an event venue in Flower Mound, TX at 4040 River Walk Drive, Flower Mound, TX 75028. | https://registry-edge.dingalinged.workers.dev/c/river-walk-event-center-flower-mound/
-3. Enchanted Events | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Enchanted Events is an event venue in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/enchanted-events-flower-mound/
+3. Enchanted Events | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Enchanted Events is an event venue in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/enchanted-events-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues flower mound tx | category: Events & weddings | industry benchmark: Personal Services

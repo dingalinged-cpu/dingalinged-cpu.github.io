@@ -13,7 +13,7 @@ GHI Catering Co. is a caterer in Atlanta, GA at 132 Mitchell Street Southwest #C
 - Website: https://www.ghifood.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 72% of caterers in Atlanta, #2 of 3 caterers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 44.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 72% of caterers in Atlanta, #2 of 3 caterers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Wax Thread & Scissors is a waxing salon in Cobb County, GA at 125 Barrett Parkwa
 - Website: https://www.waxthreadandscissors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 60.8/100 — Good — top 20% of waxing salons in Atlanta, #3 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 20% of waxing salons in Atlanta, #3 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

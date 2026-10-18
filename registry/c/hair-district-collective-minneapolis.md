@@ -13,7 +13,7 @@ Hair District Collective is a hair salon in Minneapolis, MN at 802 West Lake Str
 - Website: https://thehairdistrict.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00+
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Minneapolis–St. Paul, #22 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Minneapolis–St. Paul, #21 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

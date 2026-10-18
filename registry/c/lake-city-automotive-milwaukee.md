@@ -13,7 +13,7 @@ Lake City Automotive is an used car dealer in Milwaukee, WI at 2202 West Greenfi
 - Website: https://www.lakecityautomotive.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of used car dealers in Milwaukee, #2 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of used car dealers in Milwaukee, #2 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

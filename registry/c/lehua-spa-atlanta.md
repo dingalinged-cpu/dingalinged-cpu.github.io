@@ -13,7 +13,7 @@ LeHua Spa is a spa in Atlanta, GA at 2980 Cobb Parkway South, Atlanta, GA 30339.
 - Website: https://lehua-spa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-22:00; Su 12:00-22:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 50% of spas in Atlanta, #1 of 1 spas in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 50% of spas in Atlanta, #1 of 1 spas in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Bespoke Hair Artisans is a hair salon in Edina, MN. Website: https://bespokehair
 - Website: https://bespokehairartisans.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Minneapolis–St. Paul, #4 of 10 hair salons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Minneapolis–St. Paul, #4 of 10 hair salons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

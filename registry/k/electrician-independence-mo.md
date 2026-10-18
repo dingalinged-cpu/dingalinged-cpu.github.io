@@ -6,7 +6,7 @@ Also answers: electrician in Independence, MO; electrician near me (Independence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 3 Phase Electrical Services | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | 3 Phase Electrical Services is an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/. | https://registry-edge.dingalinged.workers.dev/c/3-phase-electrical-services-independence/
+1. 3 Phase Electrical Services | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | 3 Phase Electrical Services is an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/. | https://registry-edge.dingalinged.workers.dev/c/3-phase-electrical-services-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician independence mo | category: Home services - Electrical | industry benchmark: Home & Home Improvement

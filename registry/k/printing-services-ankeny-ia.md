@@ -6,7 +6,7 @@ Also answers: printing services in Ankeny, IA; printing services near me (Ankeny
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | The UPS Store is a printing service in Ankeny, IA at 2310 Southeast Delaware Avenue #Suite G, Ankeny, IA. Phone: +15159658412. Website: https://ankeny-ia-4842.theupsstorelocal.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-ankeny/
+1. The UPS Store | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | The UPS Store is a printing service in Ankeny, IA at 2310 Southeast Delaware Avenue #Suite G, Ankeny, IA. Phone: +15159658412. Website: https://ankeny-ia-4842.theupsstorelocal.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services ankeny ia | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,7 +6,7 @@ Also answers: storage units in Milton, GA; storage units near me (Milton, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midgard Self Storage | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Milton, GA at 13700 Alpharetta Highway, Milton, GA 30004. Phone: +17703468582. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-milton/
+1. Midgard Self Storage | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Milton, GA at 13700 Alpharetta Highway, Milton, GA 30004. Phone: +17703468582. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-milton/
 2. Extra Space Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Milton, GA. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-milton/
 3. Public Storage | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Public Storage is a self-storage facility in Milton, GA. | https://registry-edge.dingalinged.workers.dev/c/public-storage-milton/
 

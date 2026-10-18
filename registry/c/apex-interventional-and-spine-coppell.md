@@ -13,7 +13,7 @@ Apex Interventional & Spine is a chiropractor in Coppell, TX at 149 West State H
 - Website: https://www.needpainrelief.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Pulse Score: 63.5/100 — Good — top 6% of chiropractors in Dallas–Fort Worth, #1 of 3 chiropractors in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 6% of chiropractors in Dallas–Fort Worth, #1 of 3 chiropractors in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

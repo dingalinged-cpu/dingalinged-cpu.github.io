@@ -13,7 +13,7 @@ Goodwill is a thrift store in Tomball, TX at 25201 Kuykendahl Road #250, Tomball
 - Website: https://www.goodwillhouston.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 49% of thrift stores in Houston, #3 of 3 thrift stores in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 49% of thrift stores in Houston, #3 of 3 thrift stores in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

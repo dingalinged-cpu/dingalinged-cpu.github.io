@@ -13,7 +13,7 @@ RE/MAX Hilltop is a real estate agency in Bondurant, IA at 102 1st Street Southe
 - Website: https://www.soldbyhilltop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 54% of real estate agencys in Des Moines, IA, #1 of 1 real estate agencys in Bondurant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 50% of real estate agencys in Des Moines, IA, #1 of 1 real estate agencys in Bondurant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

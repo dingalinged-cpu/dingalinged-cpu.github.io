@@ -6,7 +6,7 @@ Also answers: used cars for sale in Village Of Cross Plains, WI; used cars for s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Incredible Cars | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Incredible Cars is an used car dealer in Village of Cross Plains, WI at 2563 Main Street, Village of Cross Plains, WI 53528. | https://registry-edge.dingalinged.workers.dev/c/incredible-cars-village-of-cross-plains/
+1. Incredible Cars | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Incredible Cars is an used car dealer in Village of Cross Plains, WI at 2563 Main Street, Village of Cross Plains, WI 53528. | https://registry-edge.dingalinged.workers.dev/c/incredible-cars-village-of-cross-plains/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale village of cross plains wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Wellness Massage is a massage studio in Cobb County, GA at 125 Barrett Parkway #
 - Website: https://wellnessmassagega.wixsite.com/30066
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-21:00
-- Pulse Score: 64.1/100 — Good — top 4% of massage studios in Atlanta, #2 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 79% of massage studios in Atlanta, #16 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

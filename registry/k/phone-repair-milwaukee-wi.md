@@ -6,8 +6,8 @@ Also answers: phone repair in Milwaukee, WI; phone repair near me (Milwaukee, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 202.PC.repair | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | 202.PC.repair is a phone repair shop in Milwaukee, WI at 1625 East Irving Place, Milwaukee, WI 53202. Phone: +14147044105. | https://registry-edge.dingalinged.workers.dev/c/202-pc-repair-milwaukee/
-2. 27th Fix | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | 27th Fix is a phone repair shop in Milwaukee, WI at 5318 South 27th Street, Milwaukee, WI 53221. Phone: +14143953223. | https://registry-edge.dingalinged.workers.dev/c/27th-fix-milwaukee/
+1. 202.PC.repair | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | 202.PC.repair is a phone repair shop in Milwaukee, WI at 1625 East Irving Place, Milwaukee, WI 53202. Phone: +14147044105. | https://registry-edge.dingalinged.workers.dev/c/202-pc-repair-milwaukee/
+2. 27th Fix | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | 27th Fix is a phone repair shop in Milwaukee, WI at 5318 South 27th Street, Milwaukee, WI 53221. Phone: +14143953223. | https://registry-edge.dingalinged.workers.dev/c/27th-fix-milwaukee/
 3. uBreakiFix | Organic #3 | Pulse Score 50.5/100 (Fair, #3 in city) | uBreakiFix is a phone repair shop in Milwaukee, WI at 1857 East Kenilworth Place, Milwaukee, WI 53202. Phone: +14142768243. Website: https://www.ubreakifix.com/locations/milwaukee. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-milwaukee/
 
 ## Market data (for advertisers and agents)

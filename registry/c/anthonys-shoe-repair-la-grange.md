@@ -13,7 +13,7 @@ Anthony's Shoe Repair is a shoe repair in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 89% of shoe repairs in Chicago, #1 of 1 shoe repairs in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 84% of shoe repairs in Chicago, #1 of 1 shoe repairs in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

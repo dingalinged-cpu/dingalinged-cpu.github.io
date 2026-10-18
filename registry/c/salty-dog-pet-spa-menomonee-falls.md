@@ -13,7 +13,7 @@ Salty Dog Pet Spa is a dog groomer in Menomonee Falls, WI at N86W16392 Appleton 
 - Website: https://www.saltydogpetsspa.com/
 - Email: Saltydogfalls@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00
-- Pulse Score: 65/100 — Good — top 12% of dog groomers in Milwaukee, #1 of 1 dog groomers in Menomonee Falls (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 12% of dog groomers in Milwaukee, #1 of 1 dog groomers in Menomonee Falls (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Magnolia, TX at 6519 FM 1488 #509, Magnolia
 - Website: https://www.mattressfirm.com/en-us/stores/tx/magnolia/001135/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 69% of mattress stores in Houston, #2 of 2 mattress stores in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 67% of mattress stores in Houston, #2 of 2 mattress stores in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

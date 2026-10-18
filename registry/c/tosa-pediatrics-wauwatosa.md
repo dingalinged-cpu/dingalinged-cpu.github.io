@@ -13,7 +13,7 @@ Tosa Pediatrics is a pediatrician in Wauwatosa, WI at 8651 West North Avenue, Wa
 - Website: https://www.tosapediatrics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 08:00-10:00; Su off
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 60% of pediatricians in Milwaukee, #2 of 2 pediatricians in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 60% of pediatricians in Milwaukee, #2 of 2 pediatricians in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

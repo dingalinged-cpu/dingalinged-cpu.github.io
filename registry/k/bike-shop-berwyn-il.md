@@ -6,7 +6,7 @@ Also answers: bike shop in Berwyn, IL; bike shop near me (Berwyn, IL); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Art's Cycling & Fitness | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Art's Cycling & Fitness is a bike shop in Berwyn, IL at 6212 West Cermak Road, Berwyn, IL 60402. Phone: +17087880943. Website: https://artscycling.com/. | https://registry-edge.dingalinged.workers.dev/c/arts-cycling-and-fitness-berwyn/
+1. Art's Cycling & Fitness | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Art's Cycling & Fitness is a bike shop in Berwyn, IL at 6212 West Cermak Road, Berwyn, IL 60402. Phone: +17087880943. Website: https://artscycling.com/. | https://registry-edge.dingalinged.workers.dev/c/arts-cycling-and-fitness-berwyn/
 2. Dan's Bike Shop | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Dan's Bike Shop is a bike shop in Berwyn, IL. | https://registry-edge.dingalinged.workers.dev/c/dans-bike-shop-berwyn/
 
 ## Market data (for advertisers and agents)

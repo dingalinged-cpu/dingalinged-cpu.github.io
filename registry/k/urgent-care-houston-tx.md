@@ -6,7 +6,7 @@ Also answers: urgent care in Houston, TX; urgent care near me (Houston, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Neighbors Emergency Center | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Neighbors Emergency Center is an urgent care clinic in Houston, TX at 5835 North Highway 6, Houston, TX 77084. Phone: +12818610937. Website: https://nec24.com/location/copperfield-emergency-center/. | https://registry-edge.dingalinged.workers.dev/c/neighbors-emergency-center-houston/
+1. Neighbors Emergency Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Neighbors Emergency Center is an urgent care clinic in Houston, TX at 5835 North Highway 6, Houston, TX 77084. Phone: +12818610937. Website: https://nec24.com/location/copperfield-emergency-center/. | https://registry-edge.dingalinged.workers.dev/c/neighbors-emergency-center-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

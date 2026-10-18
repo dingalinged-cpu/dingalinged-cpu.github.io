@@ -6,7 +6,7 @@ Also answers: thrift store in Cherokee County, GA; thrift store near me (Cheroke
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mostly Mutts Market | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Mostly Mutts Market is a thrift store in Cherokee County, GA at 5505 Bells Ferry Road, Cherokee County, GA. Phone: +17705395918. Website: https://mostlymutts.org/. | https://registry-edge.dingalinged.workers.dev/c/mostly-mutts-market-cherokee-county/
+1. Mostly Mutts Market | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Mostly Mutts Market is a thrift store in Cherokee County, GA at 5505 Bells Ferry Road, Cherokee County, GA. Phone: +17705395918. Website: https://mostlymutts.org/. | https://registry-edge.dingalinged.workers.dev/c/mostly-mutts-market-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store cherokee county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

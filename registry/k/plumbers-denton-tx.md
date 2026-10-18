@@ -6,7 +6,7 @@ Also answers: plumbers in Denton, TX; plumbers near me (Denton, TX); best plumbe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A & M Plumbing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | A & M Plumbing is a plumber in Denton, TX at 710 South Elm Street, Denton, TX 76201. Phone: +19403821780. Website: https://betterplumber.com/. | https://registry-edge.dingalinged.workers.dev/c/a-and-m-plumbing-denton/
+1. A & M Plumbing | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | A & M Plumbing is a plumber in Denton, TX at 710 South Elm Street, Denton, TX 76201. Phone: +19403821780. Website: https://betterplumber.com/. | https://registry-edge.dingalinged.workers.dev/c/a-and-m-plumbing-denton/
 2. Ferguson Plumbing Supply | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Ferguson Plumbing Supply is a plumber in Denton, TX at 1021 Shady Oaks Drive, Denton, TX 76205. | https://registry-edge.dingalinged.workers.dev/c/ferguson-plumbing-supply-denton/
 
 ## Market data (for advertisers and agents)

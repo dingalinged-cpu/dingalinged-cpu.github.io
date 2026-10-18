@@ -13,7 +13,7 @@ Great Midwest Foot and Ankle is a podiatrist in Bayside, WI at 320 West Brown De
 - Website: https://www.greatmidwestfootandankle.com/Podiatrist/MilwaukeeFootClinicContact
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of podiatrists in Milwaukee, #1 of 1 podiatrists in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 40% of podiatrists in Milwaukee, #1 of 1 podiatrists in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: brake repair in Raytown, MO; brake repair near me (Raytown, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Auto Express | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | A Auto Express is an auto repair shop in Raytown, MO at 6140 Blue Ridge Boulevard, Raytown, MO 64133. Phone: +18165036153. Website: https://www.raytownautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/a-auto-express-raytown/
+1. A Auto Express | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | A Auto Express is an auto repair shop in Raytown, MO at 6140 Blue Ridge Boulevard, Raytown, MO 64133. Phone: +18165036153. Website: https://www.raytownautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/a-auto-express-raytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair raytown mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

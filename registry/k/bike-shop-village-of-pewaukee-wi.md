@@ -6,7 +6,7 @@ Also answers: bike shop in Village Of Pewaukee, WI; bike shop near me (Village O
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VéloCity | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | VéloCity is a bike shop in Village of Pewaukee, WI at 203 West Wisconsin Avenue, Village of Pewaukee, WI 53072. Phone: +12626957433. Website: https://www.vcitycycling.com/. | https://registry-edge.dingalinged.workers.dev/c/v-locity-village-of-pewaukee/
+1. VéloCity | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | VéloCity is a bike shop in Village of Pewaukee, WI at 203 West Wisconsin Avenue, Village of Pewaukee, WI 53072. Phone: +12626957433. Website: https://www.vcitycycling.com/. | https://registry-edge.dingalinged.workers.dev/c/v-locity-village-of-pewaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop village of pewaukee wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

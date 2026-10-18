@@ -13,7 +13,7 @@ Yahara Counseling Center LLC is a therapy practice in Monona, WI at 6320 Monona 
 - Website: https://yaharacounseling.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Sa 09:00-13:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of therapy practices in Madison, #1 of 1 therapy practices in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of therapy practices in Madison, #1 of 1 therapy practices in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

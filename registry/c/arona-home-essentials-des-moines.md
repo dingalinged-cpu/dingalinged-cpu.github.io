@@ -13,7 +13,7 @@ Arona Home Essentials is a furniture store in Des Moines, IA at 3225 Southeast 1
 - Website: https://www.aronarents.com/des-moines-ia
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-16:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of furniture stores in Des Moines, IA, #2 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of furniture stores in Des Moines, IA, #2 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

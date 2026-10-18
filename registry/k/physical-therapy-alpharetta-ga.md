@@ -6,7 +6,7 @@ Also answers: physical therapy in Alpharetta, GA; physical therapy near me (Alph
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benchmark Physical Therapy | Organic #1 | Pulse Score 44.3/100 (Unrated, #1 in city) | Benchmark Physical Therapy is a physical therapy clinic in Alpharetta, GA at 2850 Holcomb Bridge Road #120, Alpharetta, GA 30022. | https://registry-edge.dingalinged.workers.dev/c/benchmark-physical-therapy-alpharetta/
+1. Benchmark Physical Therapy | Organic #1 | Pulse Score 43.2/100 (Unrated, #1 in city) | Benchmark Physical Therapy is a physical therapy clinic in Alpharetta, GA at 2850 Holcomb Bridge Road #120, Alpharetta, GA 30022. | https://registry-edge.dingalinged.workers.dev/c/benchmark-physical-therapy-alpharetta/
 2. Children's Healthcare of Atlanta | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Children's Healthcare of Atlanta is a physical therapy clinic in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/childrens-healthcare-of-atlanta-alpharetta/
 
 ## Market data (for advertisers and agents)

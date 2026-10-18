@@ -13,7 +13,7 @@ Brake Bread is a bakery in Saint Paul, MN at 1174 7th Street West, Saint Paul, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 08:00-13:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of bakerys in Minneapolis–St. Paul, #5 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 31% of bakerys in Minneapolis–St. Paul, #5 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

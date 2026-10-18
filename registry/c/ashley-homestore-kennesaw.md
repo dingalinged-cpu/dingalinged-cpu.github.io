@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Kennesaw, GA at 840 Ernest W. Barrett P
 - Website: https://stores.ashleyfurniture.com/store/us/georgia/kennesaw/840-ernest-w-barrett-pkwy-nw
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-19:00
-- Pulse Score: 50.4/100 — Fair — top 54% of furniture stores in Atlanta, #7 of 10 furniture stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 54% of furniture stores in Atlanta, #7 of 10 furniture stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

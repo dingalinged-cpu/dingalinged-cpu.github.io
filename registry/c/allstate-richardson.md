@@ -13,7 +13,7 @@ Allstate is an insurance agent in Richardson, TX at 2201 North Central Expresswa
 - Website: https://agents.allstate.com/shannon-dean-richardson-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 52% of insurance agents in Dallas–Fort Worth, #3 of 10 insurance agents in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 51% of insurance agents in Dallas–Fort Worth, #3 of 10 insurance agents in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Coon Rapids, MN. Phone: +17633239949.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 78% of dry cleaners in Minneapolis–St. Paul, #1 of 1 dry cleaners in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 74% of dry cleaners in Minneapolis–St. Paul, #1 of 1 dry cleaners in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

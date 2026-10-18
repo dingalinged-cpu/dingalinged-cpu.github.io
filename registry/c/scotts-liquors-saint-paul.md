@@ -13,7 +13,7 @@ Scott's Liquors is a liquor store in Saint Paul, MN at 1464 Saint Clair Avenue, 
 - Website: https://scottsliquor.com/
 - Email: contact@scottsliquor.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Minneapolis–St. Paul, #9 of 27 liquor stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Minneapolis–St. Paul, #8 of 27 liquor stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

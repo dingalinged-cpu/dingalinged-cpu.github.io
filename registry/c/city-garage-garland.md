@@ -13,7 +13,7 @@ City Garage is an auto repair shop in Garland, TX at 6246 West Campbell Road, Ga
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 75% of auto repair shops in Dallas–Fort Worth, #10 of 17 auto repair shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.5, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 74% of auto repair shops in Dallas–Fort Worth, #10 of 17 auto repair shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.5, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

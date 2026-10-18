@@ -6,7 +6,7 @@ Also answers: drug rehab in Chicago, IL; drug rehab near me (Chicago, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SunCloud Health | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | SunCloud Health is an addiction treatment center in Chicago, IL at 1840 North Clybourn Avenue #500;520;530, Chicago, IL. Phone: +18667291012. Website: https://suncloudhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/suncloud-health-chicago/
+1. SunCloud Health | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | SunCloud Health is an addiction treatment center in Chicago, IL at 1840 North Clybourn Avenue #500;520;530, Chicago, IL. Phone: +18667291012. Website: https://suncloudhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/suncloud-health-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: drug rehab chicago il | category: Health & medical - Addiction treatment | industry benchmark: Physicians & Surgeons

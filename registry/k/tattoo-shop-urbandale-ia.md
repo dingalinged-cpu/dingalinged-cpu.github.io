@@ -6,7 +6,7 @@ Also answers: tattoo shop in Urbandale, IA; tattoo shop near me (Urbandale, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Revival Tattoo Studio | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Revival Tattoo Studio is a tattoo shop in Urbandale, IA at 5911 Meredith Drive #Ste. A, Urbandale, IA 50322. Phone: +15157770600. Website: https://www.revivaltattoostudios.com/. | https://registry-edge.dingalinged.workers.dev/c/revival-tattoo-studio-urbandale/
+1. Revival Tattoo Studio | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Revival Tattoo Studio is a tattoo shop in Urbandale, IA at 5911 Meredith Drive #Ste. A, Urbandale, IA 50322. Phone: +15157770600. Website: https://www.revivaltattoostudios.com/. | https://registry-edge.dingalinged.workers.dev/c/revival-tattoo-studio-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop urbandale ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

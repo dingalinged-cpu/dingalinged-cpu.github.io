@@ -6,8 +6,8 @@ Also answers: business consultant in Lewisville, TX; business consultant near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paramount Consulting | Organic #1 | Pulse Score 57.2/100 (Fair, #1 in city) | Paramount Consulting is a business consultant in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #602, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/paramount-consulting-lewisville/
-2. Slim4Life | Organic #2 | Pulse Score 45.4/100 (Unrated, #2 in city) | Slim4Life is a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/slim4life-lewisville/
+1. Paramount Consulting | Organic #1 | Pulse Score 57.3/100 (Fair, #1 in city) | Paramount Consulting is a business consultant in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #602, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/paramount-consulting-lewisville/
+2. Slim4Life | Organic #2 | Pulse Score 45.3/100 (Unrated, #2 in city) | Slim4Life is a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/slim4life-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant lewisville tx | category: b2b_services | industry benchmark: Business Services

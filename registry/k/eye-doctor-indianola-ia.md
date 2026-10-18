@@ -6,7 +6,7 @@ Also answers: eye doctor in Indianola, IA; eye doctor near me (Indianola, IA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Indianola Vision Center | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Indianola Vision Center is an eye care practice in Indianola, IA at 123 West Salem Avenue, Indianola, IA 50125. Phone: +15159612809. Website: https://www.indianolavision.com/. | https://registry-edge.dingalinged.workers.dev/c/indianola-vision-center-indianola/
+1. Indianola Vision Center | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Indianola Vision Center is an eye care practice in Indianola, IA at 123 West Salem Avenue, Indianola, IA 50125. Phone: +15159612809. Website: https://www.indianolavision.com/. | https://registry-edge.dingalinged.workers.dev/c/indianola-vision-center-indianola/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor indianola ia | category: Health & medical | industry benchmark: Physicians & Surgeons

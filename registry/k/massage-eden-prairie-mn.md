@@ -7,7 +7,7 @@ Also answers: massage in Eden Prairie, MN; massage near me (Eden Prairie, MN); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Massage Retreat & Spa | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Massage Retreat & Spa is a massage studio in Eden Prairie, MN at 8248 Commonwealth Drive, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/massage-retreat-and-spa-eden-prairie/
-2. Elements Massage | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-eden-prairie/
+2. Elements Massage | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347. | https://registry-edge.dingalinged.workers.dev/c/elements-massage-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

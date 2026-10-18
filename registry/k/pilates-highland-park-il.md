@@ -6,7 +6,7 @@ Also answers: pilates in Highland Park, IL; pilates near me (Highland Park, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Core Pilates | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Core Pilates is a pilates studio in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/core-pilates-highland-park/
+1. Core Pilates | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Core Pilates is a pilates studio in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/core-pilates-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates highland park il | category: Fitness | industry benchmark: Health & Fitness

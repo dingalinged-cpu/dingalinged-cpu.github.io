@@ -7,7 +7,7 @@ Also answers: dog boarding in Omaha, NE; dog boarding near me (Omaha, NE); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dogtopia | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 18920 Edna Street, Omaha, NE 68136. Phone: +14022050074. Website: https://www.dogtopia.com/omaha-millard/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-omaha-n13194833940/
-2. Dogtopia | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 14485 West Center Road, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-omaha/
+2. Dogtopia | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 14485 West Center Road, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding omaha ne | category: Pets | industry benchmark: Animals & Pets

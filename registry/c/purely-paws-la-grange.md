@@ -13,7 +13,7 @@ Purely Paws is a dog groomer in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 96% of dog groomers in Chicago, #2 of 2 dog groomers in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 96% of dog groomers in Chicago, #2 of 2 dog groomers in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

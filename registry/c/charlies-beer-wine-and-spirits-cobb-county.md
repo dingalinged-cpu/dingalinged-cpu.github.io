@@ -13,7 +13,7 @@ Charlie's Beer, Wine & Spirits is a liquor store in Cobb County, GA at 4862 Cant
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 12:30-21:00
-- Pulse Score: 63.1/100 — Good — top 14% of liquor stores in Atlanta, #4 of 14 liquor stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 14% of liquor stores in Atlanta, #4 of 14 liquor stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: caterers in Des Moines, IA; caterers near me (Des Moines, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hot Tamale Catering | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Hot Tamale Catering is a caterer in Des Moines, IA at 4121 Fleur Drive, Des Moines, IA 50321. Phone: +15154027167. Website: https://hottamaledsm.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-tamale-catering-des-moines/
-2. Taste! To Go and Catering | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Taste! To Go and Catering is a caterer in Des Moines, IA at 4700 University Avenue, Des Moines, IA 50311. | https://registry-edge.dingalinged.workers.dev/c/taste-to-go-and-catering-des-moines/
+1. Hot Tamale Catering | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Hot Tamale Catering is a caterer in Des Moines, IA at 4121 Fleur Drive, Des Moines, IA 50321. Phone: +15154027167. Website: https://hottamaledsm.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-tamale-catering-des-moines/
+2. Taste! To Go and Catering | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Taste! To Go and Catering is a caterer in Des Moines, IA at 4700 University Avenue, Des Moines, IA 50311. | https://registry-edge.dingalinged.workers.dev/c/taste-to-go-and-catering-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers des moines ia | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ iShine Express Car Wash & Detail is a car wash in Missouri City, TX at 8331 Copp
 - Website: https://ishinecarwash.com/MissouriCity
 - Email: ishine8331@gmail.com
 - Opening hours (OSM syntax): 07:30-19:30; easter off; Nov Th[4] off; Dec 25 off
-- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 41% of car washes in Houston, #2 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 40% of car washes in Houston, #2 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

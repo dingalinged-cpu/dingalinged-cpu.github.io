@@ -13,7 +13,7 @@ D'Amici Salon & Style is a hair salon in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 60% of hair salons in Chicago, #2 of 12 hair salons in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 59% of hair salons in Chicago, #2 of 12 hair salons in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

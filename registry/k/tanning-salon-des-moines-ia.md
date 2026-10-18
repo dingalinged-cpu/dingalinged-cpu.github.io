@@ -6,7 +6,7 @@ Also answers: tanning salon in Des Moines, IA; tanning salon near me (Des Moines
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun Tan City | Organic #1 | Pulse Score 43.6/100 (Unrated, #1 in city) | Sun Tan City is a tanning salon in Des Moines, IA at 3807 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-des-moines/
+1. Sun Tan City | Organic #1 | Pulse Score 43.8/100 (Unrated, #1 in city) | Sun Tan City is a tanning salon in Des Moines, IA at 3807 Merle Hay Road, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon des moines ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

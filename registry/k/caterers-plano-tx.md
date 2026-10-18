@@ -6,8 +6,8 @@ Also answers: caterers in Plano, TX; caterers near me (Plano, TX); best caterers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legacy West Eats | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Legacy West Eats is a caterer in Plano, TX at 5248 Democracy Drive, Plano, TX 75024. Website: https://legacywesteats.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-west-eats-plano/
-2. Central Market Catering | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Central Market Catering is a caterer in Plano, TX at 320 Coit Road, Plano, TX 75075. Phone: +14692419336. Website: https://www.centralmarket.com/locations/plano. | https://registry-edge.dingalinged.workers.dev/c/central-market-catering-plano/
+1. Legacy West Eats | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Legacy West Eats is a caterer in Plano, TX at 5248 Democracy Drive, Plano, TX 75024. Website: https://legacywesteats.com/. | https://registry-edge.dingalinged.workers.dev/c/legacy-west-eats-plano/
+2. Central Market Catering | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Central Market Catering is a caterer in Plano, TX at 320 Coit Road, Plano, TX 75075. Phone: +14692419336. Website: https://www.centralmarket.com/locations/plano. | https://registry-edge.dingalinged.workers.dev/c/central-market-catering-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers plano tx | category: Events & weddings | industry benchmark: Personal Services

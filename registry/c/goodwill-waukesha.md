@@ -13,7 +13,7 @@ Goodwill is a thrift store in Waukesha, WI at 2015 Meadow Lane, Waukesha, WI 530
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 94% of thrift stores in Milwaukee, #3 of 3 thrift stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 96% of thrift stores in Milwaukee, #3 of 3 thrift stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

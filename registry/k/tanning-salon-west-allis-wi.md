@@ -6,8 +6,8 @@ Also answers: tanning salon in West Allis, WI; tanning salon near me (West Allis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Inch by Inch Tanning | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Inch by Inch Tanning is a tanning salon in West Allis, WI at 2193 South 60th Street, West Allis, WI 53219. Phone: +14143273090. | https://registry-edge.dingalinged.workers.dev/c/inch-by-inch-tanning-west-allis/
-2. Pro Tan | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Pro Tan is a tanning salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/pro-tan-west-allis/
+1. Inch by Inch Tanning | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Inch by Inch Tanning is a tanning salon in West Allis, WI at 2193 South 60th Street, West Allis, WI 53219. Phone: +14143273090. | https://registry-edge.dingalinged.workers.dev/c/inch-by-inch-tanning-west-allis/
+2. Pro Tan | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Pro Tan is a tanning salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/pro-tan-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

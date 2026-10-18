@@ -9,13 +9,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Kanwa Nails & Spa | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Kanwa Nails & Spa is a nail salon in Omaha, NE at 3606 North 156th Street ##106, Omaha, NE 68116. Phone: +14025576224. Website: https://www.kanwanailsandspa.com/. | https://registry-edge.dingalinged.workers.dev/c/kanwa-nails-and-spa-omaha/
 2. Vogue Nails | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Vogue Nails is a nail salon in Omaha, NE at 5203 Center Street, Omaha, NE 68106. Phone: +14022509338. | https://registry-edge.dingalinged.workers.dev/c/vogue-nails-omaha/
 3. Nancy's Nails | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Nancy's Nails is a nail salon in Omaha, NE at 5027 Grover Street, Omaha, NE 68106. Phone: +14025610814. | https://registry-edge.dingalinged.workers.dev/c/nancys-nails-omaha/
-4. City Nail | Organic #4 | Pulse Score 58.3/100 (Unrated, #4 in city) | City Nail is a nail salon in Omaha, NE at 17676 Welch Plaza, Omaha, NE 68135. | https://registry-edge.dingalinged.workers.dev/c/city-nail-omaha/
-5. Martini Nails & Spa | Organic #5 | Pulse Score 58.3/100 (Unrated, #5 in city) | Martini Nails & Spa is a nail salon in Omaha, NE at 1008 South 74th Plaza, Omaha, NE 68114. | https://registry-edge.dingalinged.workers.dev/c/martini-nails-and-spa-omaha/
+4. City Nail | Organic #4 | Pulse Score 58.4/100 (Unrated, #4 in city) | City Nail is a nail salon in Omaha, NE at 17676 Welch Plaza, Omaha, NE 68135. | https://registry-edge.dingalinged.workers.dev/c/city-nail-omaha/
+5. Martini Nails & Spa | Organic #5 | Pulse Score 58.4/100 (Unrated, #5 in city) | Martini Nails & Spa is a nail salon in Omaha, NE at 1008 South 74th Plaza, Omaha, NE 68114. | https://registry-edge.dingalinged.workers.dev/c/martini-nails-and-spa-omaha/
 6. Jade Nails & Spa | Organic #6 | Pulse Score 55.6/100 (Unrated, #6 in city) | Jade Nails & Spa is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/jade-nails-and-spa-omaha/
 7. Leboutin Nails | Organic #7 | Pulse Score 55.6/100 (Unrated, #7 in city) | Leboutin Nails is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/leboutin-nails-omaha/
-8. V Nails | Organic #8 | Pulse Score 55.6/100 (Unrated, #8 in city) | V Nails is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/v-nails-omaha/
-9. Z Nail Salon & Spa | Organic #9 | Pulse Score 55.6/100 (Unrated, #9 in city) | Z Nail Salon & Spa is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/z-nail-salon-and-spa-omaha/
-10. Regal Nails | Organic #10 | Pulse Score 42.8/100 (Unrated, #10 in city) | Regal Nails is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-omaha/
+8. Z Nail Salon & Spa | Organic #8 | Pulse Score 55.6/100 (Unrated, #8 in city) | Z Nail Salon & Spa is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/z-nail-salon-and-spa-omaha/
+9. Regal Nails | Organic #9 | Pulse Score 42.9/100 (Unrated, #9 in city) | Regal Nails is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-omaha/
+10. V Nails | Organic #10 | Pulse Score 42.9/100 (Unrated, #10 in city) | V Nails is a nail salon in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/v-nails-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon omaha ne | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

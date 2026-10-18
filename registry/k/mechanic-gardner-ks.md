@@ -6,8 +6,8 @@ Also answers: mechanic in Gardner, KS; mechanic near me (Gardner, KS); best mech
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EN-TIRE Car Care Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | EN-TIRE Car Care Center is an auto repair shop in Gardner, KS at 975 East Lincoln Lane, Gardner, KS 66030. Website: https://en-tire.com/. | https://registry-edge.dingalinged.workers.dev/c/en-tire-car-care-center-gardner/
-2. D&M Body Shop | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | D&M Body Shop is an auto repair shop in Gardner, KS at 29960 West 191st Street, Gardner, KS 66030. | https://registry-edge.dingalinged.workers.dev/c/d-and-m-body-shop-gardner/
+1. EN-TIRE Car Care Center | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | EN-TIRE Car Care Center is an auto repair shop in Gardner, KS at 975 East Lincoln Lane, Gardner, KS 66030. Website: https://en-tire.com/. | https://registry-edge.dingalinged.workers.dev/c/en-tire-car-care-center-gardner/
+2. D&M Body Shop | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | D&M Body Shop is an auto repair shop in Gardner, KS at 29960 West 191st Street, Gardner, KS 66030. | https://registry-edge.dingalinged.workers.dev/c/d-and-m-body-shop-gardner/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic gardner ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -8,7 +8,7 @@ Ethan Stark - Missouri Farm Bureau Insurance is an insurance agent in Liberty, M
 - City: Liberty
 - State: MO
 - ZIP: n/a
-- Coordinates: 39.2365299, -94.4316151
+- Coordinates: 39.23653, -94.4316151
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Ethan Stark - Missouri Farm Bureau Insurance is an insurance agent in Liberty, M
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/ethan-stark-missouri-farm-bureau-insurance-liberty/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ethan-stark-missouri-farm-bureau-insurance-liberty.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1247768109 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1247768109 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

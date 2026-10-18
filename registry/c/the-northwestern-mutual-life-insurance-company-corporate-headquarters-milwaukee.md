@@ -13,7 +13,7 @@ The Northwestern Mutual Life Insurance Company Corporate Headquarters is an insu
 - Website: https://www.northwesternmutual.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Fair — top 41% of insurance agents in Milwaukee, #9 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Fair — top 41% of insurance agents in Milwaukee, #9 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Gigawatt Media is a marketing agency in Milwaukee, WI at 5919 West Vliet Street,
 - Website: https://gigawatt.media/
 - Email: sales@gigawatt.media
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 34% of marketing agencys in Milwaukee, #5 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of marketing agencys in Milwaukee, #5 of 13 marketing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

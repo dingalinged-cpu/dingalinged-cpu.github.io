@@ -13,7 +13,7 @@ Dig It Dog Grooming is a dog groomer in Roseville, MN at 1748 Lexington Avenue N
 - Website: https://www.digitdoggrooming.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 21% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

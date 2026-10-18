@@ -6,8 +6,8 @@ Also answers: daycare in Glenwood, IA; daycare near me (Glenwood, IA); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kid's Place Day Care | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Kid's Place Day Care is a daycare in Glenwood, IA at 103 Central Street #1, Glenwood, IA 51534. | https://registry-edge.dingalinged.workers.dev/c/kids-place-day-care-glenwood/
-2. Mills County YMCA Child Development Center | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Mills County YMCA Child Development Center is a daycare in Glenwood, IA at 110 Sivers Road, Glenwood, IA 51534. | https://registry-edge.dingalinged.workers.dev/c/mills-county-ymca-child-development-center-glenwood/
+1. Kid's Place Day Care | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Kid's Place Day Care is a daycare in Glenwood, IA at 103 Central Street #1, Glenwood, IA 51534. | https://registry-edge.dingalinged.workers.dev/c/kids-place-day-care-glenwood/
+2. Mills County YMCA Child Development Center | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Mills County YMCA Child Development Center is a daycare in Glenwood, IA at 110 Sivers Road, Glenwood, IA 51534. | https://registry-edge.dingalinged.workers.dev/c/mills-county-ymca-child-development-center-glenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare glenwood ia | category: Education & childcare | industry benchmark: Education & Instruction

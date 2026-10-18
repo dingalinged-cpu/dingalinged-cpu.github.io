@@ -6,7 +6,7 @@ Also answers: dog groomer in Warrenville, IL; dog groomer near me (Warrenville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spotted Paw Pet Supplies & Grooming | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341 West Diehl Road, Warrenville, IL 60555. Phone: +16302259457. Website: https://spottedpawshop.com/. | https://registry-edge.dingalinged.workers.dev/c/spotted-paw-pet-supplies-and-grooming-warrenville/
+1. Spotted Paw Pet Supplies & Grooming | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341 West Diehl Road, Warrenville, IL 60555. Phone: +16302259457. Website: https://spottedpawshop.com/. | https://registry-edge.dingalinged.workers.dev/c/spotted-paw-pet-supplies-and-grooming-warrenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer warrenville il | category: Pets | industry benchmark: Animals & Pets

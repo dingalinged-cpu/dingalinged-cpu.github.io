@@ -6,7 +6,7 @@ Also answers: tanning salon in Shenandoah, TX; tanning salon near me (Shenandoah
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Shenandoah, TX at 19073 Interstate 45 South, Shenandoah, TX 77385. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-shenandoah/
+1. Palm Beach Tan | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Shenandoah, TX at 19073 Interstate 45 South, Shenandoah, TX 77385. | https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-shenandoah/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon shenandoah tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

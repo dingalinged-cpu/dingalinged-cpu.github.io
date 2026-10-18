@@ -13,7 +13,7 @@ My Transmission Experts is an auto repair shop in Houston, TX at 11729 Jones Roa
 - Website: https://www.mytransmissionexperts.com/locations/cypress-jones-road/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
-- Pulse Score: 51/100 — Unrated (not enough evidence yet) — top 62% of auto repair shops in Houston, #154 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Unrated (not enough evidence yet) — top 62% of auto repair shops in Houston, #153 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

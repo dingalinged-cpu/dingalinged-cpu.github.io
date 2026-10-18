@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Lincolnshire, IL; plastic surgeon near me (Linc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Institute of Oral Maxillofacial & Implant Surgery | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | The Institute of Oral Maxillofacial & Implant Surgery is a plastic surgeon in Lincolnshire, IL at 231 Olde Half Day Road, Lincolnshire, IL 60069. Phone: +18472795200. Website: https://www.theinstituteofoms.com/. | https://registry-edge.dingalinged.workers.dev/c/the-institute-of-oral-maxillofacial-and-implant-surgery-lincolnshire/
+1. The Institute of Oral Maxillofacial & Implant Surgery | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | The Institute of Oral Maxillofacial & Implant Surgery is a plastic surgeon in Lincolnshire, IL at 231 Olde Half Day Road, Lincolnshire, IL 60069. Phone: +18472795200. Website: https://www.theinstituteofoms.com/. | https://registry-edge.dingalinged.workers.dev/c/the-institute-of-oral-maxillofacial-and-implant-surgery-lincolnshire/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon lincolnshire il | category: Health & medical | industry benchmark: Physicians & Surgeons

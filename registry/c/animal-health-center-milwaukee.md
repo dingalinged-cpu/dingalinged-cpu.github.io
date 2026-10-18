@@ -13,7 +13,7 @@ Animal Health Center is a veterinarian in Milwaukee, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 85% of veterinarians in Milwaukee, #7 of 8 veterinarians in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 85% of veterinarians in Milwaukee, #7 of 8 veterinarians in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ LA Furniture Store is a furniture store in Houston, TX at 7071 Southwest Freeway
 - Website: https://www.lafurniturestore.com/special/la-furniture-store-houston-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 6% of furniture stores in Houston, #4 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 6% of furniture stores in Houston, #4 of 77 furniture stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

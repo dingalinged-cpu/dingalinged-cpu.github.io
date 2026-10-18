@@ -13,7 +13,7 @@ Karl's Oil Change Quick Lube is an auto repair shop in Ankeny, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 62% of auto repair shops in Des Moines, IA, #4 of 11 auto repair shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 60% of auto repair shops in Des Moines, IA, #4 of 11 auto repair shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

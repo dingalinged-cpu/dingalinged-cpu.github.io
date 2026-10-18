@@ -13,7 +13,7 @@ Red Bench Bakery is a bakery in Chaska, MN at 500 N Chestnut St, Chaska, MN 5531
 - Website: https://www.redbenchbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 45% of bakerys in Minneapolis–St. Paul, #1 of 1 bakerys in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 44% of bakerys in Minneapolis–St. Paul, #1 of 1 bakerys in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Elite Dry Cleaners is a dry cleaner in Minneapolis, MN at 3101 Minnehaha Avenue,
 - Website: https://elite-dry-cleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 22% of dry cleaners in Minneapolis–St. Paul, #6 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 22% of dry cleaners in Minneapolis–St. Paul, #6 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

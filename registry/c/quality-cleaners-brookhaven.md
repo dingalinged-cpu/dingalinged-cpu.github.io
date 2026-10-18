@@ -13,7 +13,7 @@ Quality Cleaners is a dry cleaner in Brookhaven, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00; Sa 09:00-16:30
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 40% of dry cleaners in Atlanta, #1 of 4 dry cleaners in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 85% of dry cleaners in Atlanta, #4 of 4 dry cleaners in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

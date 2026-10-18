@@ -13,7 +13,7 @@ Sola Salon Studios is a hair salon in Minneapolis, MN at 3034 Lyndale Avenue Sou
 - Website: https://www.solasalonstudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Minneapolis–St. Paul, #7 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 76% of hair salons in Minneapolis–St. Paul, #94 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

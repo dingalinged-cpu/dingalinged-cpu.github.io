@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Happy Dog Barkery | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Happy Dog Barkery is a pet store in Downers Grove, IL at 5118 Main Street, Downers Grove, IL 60515. Website: https://happydogbarkery.com/. | https://registry-edge.dingalinged.workers.dev/c/happy-dog-barkery-downers-grove/
 2. PetSmart | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | PetSmart is a pet store in Downers Grove, IL at 1550 Butterfield Road, Downers Grove, IL 60515. Phone: +16306270193. Website: https://www.petsmart.com/stores/us/il/downers-grove-store1136.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-downers-grove/
-3. Petco | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Petco is a pet store in Downers Grove, IL at 1400 75th Street #F, Downers Grove, IL 60516. Phone: +16309601278. Website: https://stores.petco.com/il/downersgrove/pet-supplies-downersgrove-il-1932.html. | https://registry-edge.dingalinged.workers.dev/c/petco-downers-grove/
+3. Petco | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | Petco is a pet store in Downers Grove, IL at 1400 75th Street #F, Downers Grove, IL 60516. Phone: +16309601278. Website: https://stores.petco.com/il/downersgrove/pet-supplies-downersgrove-il-1932.html. | https://registry-edge.dingalinged.workers.dev/c/petco-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store downers grove il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

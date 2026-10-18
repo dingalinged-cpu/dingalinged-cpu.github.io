@@ -13,7 +13,7 @@ Midgard Self Storage is a self-storage facility in Fayetteville, GA at 1950 Stat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 30% of self-storage facilitys in Atlanta, #2 of 2 self-storage facilitys in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 33% of self-storage facilitys in Atlanta, #2 of 2 self-storage facilitys in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

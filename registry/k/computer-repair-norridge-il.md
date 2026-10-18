@@ -6,7 +6,7 @@ Also answers: computer repair in Norridge, IL; computer repair near me (Norridge
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Norridge, IL at 7235 West Forest Preserve Drive, Norridge, IL 60706. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-norridge/
+1. uBreakiFix | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Norridge, IL at 7235 West Forest Preserve Drive, Norridge, IL 60706. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-norridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair norridge il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Royal Creek Psychiatric Center is a therapy practice in Dallas, TX at 8604 Green
 - Website: https://dfwforensic.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 48% of therapy practices in Dallas–Fort Worth, #5 of 10 therapy practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 48% of therapy practices in Dallas–Fort Worth, #5 of 10 therapy practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

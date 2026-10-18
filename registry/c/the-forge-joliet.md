@@ -13,7 +13,7 @@ The Forge is an event venue in Joliet, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 98% of event venues in Chicago, #4 of 4 event venues in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 98% of event venues in Chicago, #4 of 4 event venues in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

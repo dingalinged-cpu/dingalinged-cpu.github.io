@@ -13,7 +13,7 @@ ABC Printing is a printing service in Omaha, NE at 13302 Millard Avenue #104, Om
 - Website: https://abcprintingomaha.com/
 - Email: abcprintingmillard@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of printing services in Omaha, NE, #1 of 5 printing services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of printing services in Omaha, NE, #1 of 5 printing services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

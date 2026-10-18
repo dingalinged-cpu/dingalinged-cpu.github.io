@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Skokie, IL at 5100 West Dempster Str
 - Website: https://www.binnys.com/store-locator/skokie/
 - Email: skokie@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 50.7/100 — Fair — top 91% of liquor stores in Chicago, #4 of 4 liquor stores in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 89% of liquor stores in Chicago, #4 of 4 liquor stores in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

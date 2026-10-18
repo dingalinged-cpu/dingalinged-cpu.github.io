@@ -13,7 +13,7 @@ La Petite Academy is a preschool in Monona, WI at 6500 Bridge Road, Monona, WI 5
 - Website: https://www.lapetite.com/your-local-school/monona-wi-7148/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 70% of preschools in Madison, #1 of 1 preschools in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 70% of preschools in Madison, #1 of 1 preschools in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

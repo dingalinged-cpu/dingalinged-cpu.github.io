@@ -13,7 +13,7 @@ Omega Pediatrics is a pediatrician in Roswell, GA at 1305 Hembree Road, Roswell,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-21:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 62% of pediatricians in Atlanta, #1 of 2 pediatricians in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 62% of pediatricians in Atlanta, #1 of 2 pediatricians in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

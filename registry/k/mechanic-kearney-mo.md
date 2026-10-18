@@ -6,10 +6,10 @@ Also answers: mechanic in Kearney, MO; mechanic near me (Kearney, MO); best mech
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hunts Car Care Center | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hunts Car Care Center is an auto repair shop in Kearney, MO at 680 Centerville Rd, Kearney, MO 64060. Phone: +18169034868. | https://registry-edge.dingalinged.workers.dev/c/hunts-car-care-center-kearney/
-2. Cook's Collision Repair | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Cook's Collision Repair is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/cooks-collision-repair-kearney/
-3. Wingfoot Tire Service | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Wingfoot Tire Service is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/wingfoot-tire-service-kearney/
-4. Carstar Porter's Kearney Body Shop | Organic #4 | Pulse Score 43.5/100 (Building, #4 in city) | Carstar Porter's Kearney Body Shop is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-porters-kearney-body-shop-kearney/
+1. Hunts Car Care Center | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Hunts Car Care Center is an auto repair shop in Kearney, MO at 680 Centerville Rd, Kearney, MO 64060. Phone: +18169034868. | https://registry-edge.dingalinged.workers.dev/c/hunts-car-care-center-kearney/
+2. Cook's Collision Repair | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Cook's Collision Repair is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/cooks-collision-repair-kearney/
+3. Carstar Porter's Kearney Body Shop | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Carstar Porter's Kearney Body Shop is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/carstar-porters-kearney-body-shop-kearney/
+4. Wingfoot Tire Service | Organic #4 | Pulse Score 42.5/100 (Unrated, #4 in city) | Wingfoot Tire Service is an auto repair shop in Kearney, MO. | https://registry-edge.dingalinged.workers.dev/c/wingfoot-tire-service-kearney/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic kearney mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

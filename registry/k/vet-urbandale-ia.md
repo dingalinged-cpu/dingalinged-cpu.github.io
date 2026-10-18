@@ -6,10 +6,10 @@ Also answers: vet in Urbandale, IA; vet near me (Urbandale, IA); best vet Urband
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Medical Clinic | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Animal Medical Clinic is a veterinarian in Urbandale, IA at 4520 Merle Hay Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/animal-medical-clinic-urbandale/
-2. Northwest Veterinary Hospital | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Northwest Veterinary Hospital is a veterinarian in Urbandale, IA at 7507 Dennis Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/northwest-veterinary-hospital-urbandale/
-3. Urban Pet Hospital & Resort | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Urban Pet Hospital & Resort is a veterinarian in Urbandale, IA at 3601 104th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/urban-pet-hospital-and-resort-urbandale/
-4. Value Vet | Organic #4 | Pulse Score 57.3/100 (Unrated, #1 in city) | Value Vet is a veterinarian in Johnston, IA at 8851 Northpark Drive #100, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/value-vet-johnston/
+1. Animal Medical Clinic | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Animal Medical Clinic is a veterinarian in Urbandale, IA at 4520 Merle Hay Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/animal-medical-clinic-urbandale/
+2. Northwest Veterinary Hospital | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Northwest Veterinary Hospital is a veterinarian in Urbandale, IA at 7507 Dennis Drive, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/northwest-veterinary-hospital-urbandale/
+3. Urban Pet Hospital & Resort | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Urban Pet Hospital & Resort is a veterinarian in Urbandale, IA at 3601 104th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/urban-pet-hospital-and-resort-urbandale/
+4. Value Vet | Organic #4 | Pulse Score 57.4/100 (Unrated, #1 in city) | Value Vet is a veterinarian in Johnston, IA at 8851 Northpark Drive #100, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/value-vet-johnston/
 5. West Side Veterinary Clinic | Organic #5 | Pulse Score 54.6/100 (Unrated, #4 in city) | West Side Veterinary Clinic is a veterinarian in Urbandale, IA. | https://registry-edge.dingalinged.workers.dev/c/west-side-veterinary-clinic-urbandale/
 
 ## Market data (for advertisers and agents)

@@ -15,8 +15,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 7. Saylor Safe & Lock | Organic #7 | Pulse Score 57.4/100 (Unrated, #7 in city) | Saylor Safe & Lock is a locksmith in Houston, TX at 11035 Cypress North Houston Road, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/saylor-safe-and-lock-houston/
 8. La Luna Locksmith | Organic #8 | Pulse Score 55.5/100 (Unrated, #8 in city) | La Luna Locksmith is a locksmith in Houston, TX at 7750 Long Point Road, Houston, TX 77055. | https://registry-edge.dingalinged.workers.dev/c/la-luna-locksmith-houston/
 9. Scorpion Locksmith | Organic #9 | Pulse Score 55.2/100 (Unrated, #9 in city) | Scorpion Locksmith is a locksmith in Houston, TX at 1806 Richmond Avenue, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/scorpion-locksmith-houston/
-10. Bravo Key & Lock | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | Bravo Key & Lock is a locksmith in Houston, TX at 1756 Westheimer Road, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/bravo-key-and-lock-houston/
-11. Quik Key and Locks | Organic #11 | Pulse Score 53.8/100 (Unrated, #11 in city) | Quik Key and Locks is a locksmith in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/quik-key-and-locks-houston/
+10. Bravo Key & Lock | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | Bravo Key & Lock is a locksmith in Houston, TX at 1756 Westheimer Road, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/bravo-key-and-lock-houston/
+11. Quik Key and Locks | Organic #11 | Pulse Score 53.9/100 (Unrated, #11 in city) | Quik Key and Locks is a locksmith in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/quik-key-and-locks-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith houston tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

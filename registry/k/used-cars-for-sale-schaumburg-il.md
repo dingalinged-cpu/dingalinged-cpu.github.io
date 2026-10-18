@@ -6,7 +6,7 @@ Also answers: used cars for sale in Schaumburg, IL; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schaumburg Pre-Driven Used Cars | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Schaumburg Pre-Driven Used Cars is an used car dealer in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/schaumburg-pre-driven-used-cars-schaumburg/
+1. Schaumburg Pre-Driven Used Cars | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Schaumburg Pre-Driven Used Cars is an used car dealer in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/schaumburg-pre-driven-used-cars-schaumburg/
 2. CarMax | Organic #2 | Pulse Score 45.6/100 (Building, #2 in city) | CarMax is an used car dealer in Schaumburg, IL at 250 East Golf Road, Schaumburg, IL 60173. Website: https://www.carmax.com/stores/7128. | https://registry-edge.dingalinged.workers.dev/c/carmax-schaumburg/
 
 ## Market data (for advertisers and agents)

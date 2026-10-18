@@ -13,7 +13,7 @@ The Exercise Coach is a gym in Omaha, NE. Website: https://exercisecoach.com/cen
 - Website: https://exercisecoach.com/central-omaha/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 76% of gyms in Omaha, NE, #12 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 76% of gyms in Omaha, NE, #12 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,12 +13,12 @@ Great Clips is a hair salon in Harrisonville, MO at 658 South Commercial Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-17:00
-- Pulse Score: 47.4/100 — Building — top 82% of hair salons in Kansas City, MO, #1 of 1 hair salons in Harrisonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 81% of hair salons in Kansas City, MO, #1 of 1 hair salons in Harrisonville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-harrisonville/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-harrisonville.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/331996887 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/331996887 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

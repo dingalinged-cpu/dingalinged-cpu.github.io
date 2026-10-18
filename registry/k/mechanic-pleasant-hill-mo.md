@@ -6,7 +6,7 @@ Also answers: mechanic in Pleasant Hill, MO; mechanic near me (Pleasant Hill, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Five Star Tire & Auto | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Five Star Tire & Auto is an auto repair shop in Pleasant Hill, MO at 200 MO 7, Pleasant Hill, MO 64080. Phone: +18165402977. Website: https://www.5startireandautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/five-star-tire-and-auto-pleasant-hill/
+1. Five Star Tire & Auto | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Five Star Tire & Auto is an auto repair shop in Pleasant Hill, MO at 200 MO 7, Pleasant Hill, MO 64080. Phone: +18165402977. Website: https://www.5startireandautomotive.com/. | https://registry-edge.dingalinged.workers.dev/c/five-star-tire-and-auto-pleasant-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic pleasant hill mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

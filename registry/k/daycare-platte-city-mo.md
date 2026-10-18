@@ -6,8 +6,8 @@ Also answers: daycare in Platte City, MO; daycare near me (Platte City, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hands On Montessori School | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Hands On Montessori School is a daycare in Platte City, MO at 1306 Platte Falls Road ##A, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/hands-on-montessori-school-platte-city/
-2. Talented Tots Learning Center | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Talented Tots Learning Center is a daycare in Platte City, MO at 2903 Williamsburg Terrace, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/talented-tots-learning-center-platte-city/
+1. Hands On Montessori School | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Hands On Montessori School is a daycare in Platte City, MO at 1306 Platte Falls Road ##A, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/hands-on-montessori-school-platte-city/
+2. Talented Tots Learning Center | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Talented Tots Learning Center is a daycare in Platte City, MO at 2903 Williamsburg Terrace, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/talented-tots-learning-center-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare platte city mo | category: Education & childcare | industry benchmark: Education & Instruction

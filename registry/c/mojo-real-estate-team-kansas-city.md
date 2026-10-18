@@ -19,6 +19,6 @@ MoJo Real Estate Team is a real estate agency in Kansas City, MO at 310 Northwes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/mojo-real-estate-team-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mojo-real-estate-team-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13826208516 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13826208516 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

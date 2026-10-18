@@ -13,7 +13,7 @@ Tony's Package Store is a liquor store in Atlanta, GA at 29 Baker Street Northwe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-23:30; Su 00:30-23:30
-- Pulse Score: 60.2/100 — Good — top 32% of liquor stores in Atlanta, #12 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 31% of liquor stores in Atlanta, #12 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

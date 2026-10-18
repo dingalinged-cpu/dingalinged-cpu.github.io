@@ -6,7 +6,7 @@ Also answers: assisted living in Hugo, MN; assisted living near me (Hugo, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Encore Assisted Living & Memory Care | Organic #1 | Pulse Score 60.3/100 (Good, #1 in city) | Encore Assisted Living & Memory Care is an assisted living facility in Hugo, MN at 5607 150th st N, Hugo, MN 55038. | https://registry-edge.dingalinged.workers.dev/c/encore-assisted-living-and-memory-care-hugo/
+1. Encore Assisted Living & Memory Care | Organic #1 | Pulse Score 60.4/100 (Good, #1 in city) | Encore Assisted Living & Memory Care is an assisted living facility in Hugo, MN at 5607 150th st N, Hugo, MN 55038. | https://registry-edge.dingalinged.workers.dev/c/encore-assisted-living-and-memory-care-hugo/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living hugo mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

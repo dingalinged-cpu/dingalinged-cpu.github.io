@@ -13,7 +13,7 @@ Leonard Lawrence Kids' Time is a preschool in Bellevue, NE. Phone: +14022934929.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 22% of preschools in Omaha, NE, #5 of 13 preschools in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of preschools in Omaha, NE, #5 of 13 preschools in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

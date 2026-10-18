@@ -13,7 +13,7 @@ CrossFit is a gym in Milwaukee, WI. Phone: +14148107670. Website: https://www.cr
 - Website: https://www.crossfit414.com/
 - Email: info@crossfit414.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-20:00
-- Pulse Score: 49/100 — Building — top 58% of gyms in Milwaukee, #23 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 56% of gyms in Milwaukee, #22 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Harvest Bakery is a bakery in Minneapolis, MN at 4314 Upton Avenue South, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 07:00-18:00; Sa 07:00-17:00
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 51% of bakerys in Minneapolis–St. Paul, #27 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 49% of bakerys in Minneapolis–St. Paul, #26 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

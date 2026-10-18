@@ -13,7 +13,7 @@ Cycle Gear is a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, 
 - Website: https://cyclegear.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 75% of motorcycle repair shops in Houston, #1 of 1 motorcycle repair shops in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 75% of motorcycle repair shops in Houston, #1 of 1 motorcycle repair shops in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

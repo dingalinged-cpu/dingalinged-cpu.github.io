@@ -13,7 +13,7 @@ Clay Jenkins & Associates, Car & Truck Accident Attorneys is a lawyer in Waxahac
 - Website: https://www.clayjenkins.com/personal-injury-lawyer/waxahachie-tx/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.9/100 — Good — top 3% of lawyers in Dallas–Fort Worth, #1 of 5 lawyers in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 3% of lawyers in Dallas–Fort Worth, #1 of 5 lawyers in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

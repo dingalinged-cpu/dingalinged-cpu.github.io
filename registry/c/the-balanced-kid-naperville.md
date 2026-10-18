@@ -13,7 +13,7 @@ The Balanced Kid is an occupational therapist in Naperville, IL at 534 West 5th 
 - Website: https://www.thebalancedkid.com/naperville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Good — top 50% of occupational therapists in Chicago, #1 of 1 occupational therapists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 50% of occupational therapists in Chicago, #1 of 1 occupational therapists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

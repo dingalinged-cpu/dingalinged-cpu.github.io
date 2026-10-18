@@ -6,8 +6,8 @@ Also answers: property management companies in Oak Creek, WI; property managemen
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heyday Leasing Office | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Heyday Leasing Office is a property management company in Oak Creek, WI at 8760 South Apple Creek Drive, Oak Creek, WI 53154. Phone: +14142961228. Website: https://heydayoc.com/. | https://registry-edge.dingalinged.workers.dev/c/heyday-leasing-office-oak-creek/
-2. Oaks at 8100 | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Oaks at 8100 is a property management company in Oak Creek, WI at 8100 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/oaks-at-8100-oak-creek/
+1. Heyday Leasing Office | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Heyday Leasing Office is a property management company in Oak Creek, WI at 8760 South Apple Creek Drive, Oak Creek, WI 53154. Phone: +14142961228. Website: https://heydayoc.com/. | https://registry-edge.dingalinged.workers.dev/c/heyday-leasing-office-oak-creek/
+2. Oaks at 8100 | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Oaks at 8100 is a property management company in Oak Creek, WI at 8100 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/oaks-at-8100-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies oak creek wi | category: real_estate | industry benchmark: Real Estate

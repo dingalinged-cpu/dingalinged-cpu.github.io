@@ -13,7 +13,7 @@ Steinhafels is a furniture store in Merrillville, IN at 1600 East 80th Avenue, M
 - Website: https://www.steinhafels.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 58% of furniture stores in Chicago, #3 of 6 furniture stores in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 55% of furniture stores in Chicago, #3 of 6 furniture stores in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

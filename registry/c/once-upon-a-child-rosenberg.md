@@ -13,7 +13,7 @@ Once Upon a Child is a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard
 - Website: https://www.onceuponachild.com/locations/rosenberg-tx
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-17:00; PH closed
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 2% of thrift stores in Houston, #1 of 2 thrift stores in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 40% of thrift stores in Houston, #1 of 2 thrift stores in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

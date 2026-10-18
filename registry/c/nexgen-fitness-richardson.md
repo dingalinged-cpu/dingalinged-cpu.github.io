@@ -13,7 +13,7 @@ NexGen Fitness is a gym in Richardson, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-21:00; Sa 06:00-15:00
-- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 72% of gyms in Dallas–Fort Worth, #10 of 12 gyms in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 71% of gyms in Dallas–Fort Worth, #9 of 12 gyms in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

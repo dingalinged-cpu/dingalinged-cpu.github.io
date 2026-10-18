@@ -13,7 +13,7 @@ Creative Soul Music School Bedford is a music school in Colleyville, TX at 4620 
 - Website: https://www.creativesoulmusic.com/colleyville-music-lessons
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 13:00-21:00; Fr 13:00-20:00; Sa 09:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of music schools in Dallas–Fort Worth, #1 of 1 music schools in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of music schools in Dallas–Fort Worth, #1 of 1 music schools in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

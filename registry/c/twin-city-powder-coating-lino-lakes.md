@@ -13,7 +13,7 @@ Twin City Powder Coating is a painting contractor in Lino Lakes, MN at 532 Apoll
 - Website: https://twincitypowdercoating.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Good — top 20% of painting contractors in Minneapolis–St. Paul, #1 of 1 painting contractors in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 20% of painting contractors in Minneapolis–St. Paul, #1 of 1 painting contractors in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

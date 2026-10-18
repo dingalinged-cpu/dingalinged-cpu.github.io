@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Stone Mountain Pet Lodge | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Stone Mountain Pet Lodge is a pet store in Blaine, MN at 9935 Radisson Road Northeast, Blaine, MN 55449. Website: https://stonemountainpetlodge.com/. | https://registry-edge.dingalinged.workers.dev/c/stone-mountain-pet-lodge-blaine/
 2. PetSmart | Organic #2 | Pulse Score 50.6/100 (Fair, #2 in city) | PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/. | https://registry-edge.dingalinged.workers.dev/c/petsmart-blaine/
-3. Pet Evolution | Organic #3 | Pulse Score 43/100 (Unrated, #3 in city) | Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/. | https://registry-edge.dingalinged.workers.dev/c/pet-evolution-blaine/
+3. Pet Evolution | Organic #3 | Pulse Score 43.1/100 (Unrated, #3 in city) | Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/. | https://registry-edge.dingalinged.workers.dev/c/pet-evolution-blaine/
 4. Petco | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Petco is a pet store in Blaine, MN. | https://registry-edge.dingalinged.workers.dev/c/petco-blaine/
 
 ## Market data (for advertisers and agents)

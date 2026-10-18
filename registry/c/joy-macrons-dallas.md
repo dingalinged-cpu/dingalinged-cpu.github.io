@@ -13,7 +13,7 @@ Joy Macrons is a bakery in Dallas, TX at 839 West Davis Street, Dallas, TX. Webs
 - Website: https://www.joymacarons.com/location/joy-macarons-oak-cliff/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-21:00; Su 12:00-21:00
-- Pulse Score: 63.1/100 — Good — top 3% of bakerys in Dallas–Fort Worth, #3 of 23 bakerys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 3% of bakerys in Dallas–Fort Worth, #3 of 23 bakerys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

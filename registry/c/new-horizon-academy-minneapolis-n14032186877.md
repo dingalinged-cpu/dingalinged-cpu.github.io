@@ -13,7 +13,7 @@ New Horizon Academy is a daycare in Minneapolis, MN at 111 Marquette Avenue, Min
 - Website: https://newhorizonacademy.net/location/minneapolis-marquette/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 46.7/100 — Building — top 89% of daycares in Minneapolis–St. Paul, #22 of 24 daycares in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 89% of daycares in Minneapolis–St. Paul, #22 of 24 daycares in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

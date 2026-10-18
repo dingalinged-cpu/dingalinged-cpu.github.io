@@ -13,7 +13,7 @@ Tune Up The Manly Salon is a hair salon in New Caney, TX at 21372 Eastex Freeway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
-- Pulse Score: 49.5/100 — Building — top 68% of hair salons in Houston, #2 of 4 hair salons in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 67% of hair salons in Houston, #2 of 4 hair salons in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

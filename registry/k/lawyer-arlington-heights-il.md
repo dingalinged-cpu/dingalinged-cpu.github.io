@@ -6,7 +6,7 @@ Also answers: lawyer in Arlington Heights, IL; lawyer near me (Arlington Heights
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Randall A. Wolff & Associates, Ltd. | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Randall A. Wolff & Associates, Ltd. is a lawyer in Arlington Heights, IL at 3325 North Arlington Heights Road, Arlington Heights, IL 60004. Phone: +18472229465. Website: https://rwolfflaw.com/. | https://registry-edge.dingalinged.workers.dev/c/randall-a-wolff-and-associates-ltd-arlington-heights/
+1. Randall A. Wolff & Associates, Ltd. | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Randall A. Wolff & Associates, Ltd. is a lawyer in Arlington Heights, IL at 3325 North Arlington Heights Road, Arlington Heights, IL 60004. Phone: +18472229465. Website: https://rwolfflaw.com/. | https://registry-edge.dingalinged.workers.dev/c/randall-a-wolff-and-associates-ltd-arlington-heights/
 2. Sterling Lawyers, LLC | Organic #2 | Pulse Score 48.1/100 (Unrated, #2 in city) | Sterling Lawyers, LLC is a lawyer in Arlington Heights, IL at 1500 West Shure Drive ##250, Arlington Heights, IL 60004. Phone: +18474745700. Website: https://www.sterlinglawyers.com/illinois/locations/arlington-heights/. | https://registry-edge.dingalinged.workers.dev/c/sterling-lawyers-llc-arlington-heights/
 
 ## Market data (for advertisers and agents)

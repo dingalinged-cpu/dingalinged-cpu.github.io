@@ -6,9 +6,9 @@ Also answers: marketing agency in Allen, TX; marketing agency near me (Allen, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Local Leap Marketing | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Local Leap Marketing is a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/. | https://registry-edge.dingalinged.workers.dev/c/local-leap-marketing-allen/
+1. Local Leap Marketing | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Local Leap Marketing is a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/. | https://registry-edge.dingalinged.workers.dev/c/local-leap-marketing-allen/
 2. BitBranding | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | BitBranding is a marketing agency in Allen, TX at 550 South Watters Road #271, Allen, TX 75013. Phone: +12142389837. Website: https://www.bitbranding.co/. | https://registry-edge.dingalinged.workers.dev/c/bitbranding-allen/
-3. Umbrella Hat Group | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Umbrella Hat Group is a marketing agency in Allen, TX at 450 Century Parkway, Allen, TX 75013. Website: https://www.umbrellahatgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/umbrella-hat-group-allen/
+3. Umbrella Hat Group | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Umbrella Hat Group is a marketing agency in Allen, TX at 450 Century Parkway, Allen, TX 75013. Website: https://www.umbrellahatgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/umbrella-hat-group-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency allen tx | category: Professional & financial services | industry benchmark: Finance & Insurance

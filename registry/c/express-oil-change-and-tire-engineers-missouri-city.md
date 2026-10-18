@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Missouri City, TX at 3801 
 - Website: https://www.expressoil.com/stores/missouri-city/tx/0084/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 49.3/100 — Building — top 45% of tire shops in Houston, #1 of 3 tire shops in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 46% of tire shops in Houston, #1 of 3 tire shops in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

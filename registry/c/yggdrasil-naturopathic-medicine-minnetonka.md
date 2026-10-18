@@ -13,7 +13,7 @@ Yggdrasil Naturopathic Medicine is a chiropractor in Minnetonka, MN at 14525 Hig
 - Website: https://www.yggdrasilnaturopathic.com/
 - Email: info@yggdrasilnaturopathic.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:30
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of chiropractors in Minneapolis–St. Paul, #1 of 2 chiropractors in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 8% of chiropractors in Minneapolis–St. Paul, #1 of 2 chiropractors in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

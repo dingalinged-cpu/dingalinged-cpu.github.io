@@ -13,7 +13,7 @@ JW Collection | South On Main is a property management company in Woodstock, GA 
 - Website: https://www.jwcollectionhomes.com/home/south-on-main
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 12:00-18:00; Sa 10:00-18:00; Su off
-- Pulse Score: 54.2/100 — Fair — top 95% of property management companys in Atlanta, #1 of 1 property management companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54/100 — Fair — top 95% of property management companys in Atlanta, #1 of 1 property management companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: therapist in Waukesha, WI; therapist near me (Waukesha, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planned Parenthood | Organic #1 | Pulse Score 43.7/100 (Unrated, #1 in city) | Planned Parenthood is a therapy practice in Waukesha, WI at 412 West Main Street, Waukesha, WI 53186. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-waukesha/
+1. Planned Parenthood | Organic #1 | Pulse Score 43.8/100 (Unrated, #1 in city) | Planned Parenthood is a therapy practice in Waukesha, WI at 412 West Main Street, Waukesha, WI 53186. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist waukesha wi | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

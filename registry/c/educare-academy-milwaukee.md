@@ -13,7 +13,7 @@ Educare Academy is a daycare in Milwaukee, WI at 3904 West Vliet Street, Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa,Su 06:00-19:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of daycares in Milwaukee, #14 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of daycares in Milwaukee, #14 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

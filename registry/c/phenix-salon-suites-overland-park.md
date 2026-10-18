@@ -13,7 +13,7 @@ Phenix Salon Suites is a hair salon in Overland Park, KS.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 84% of hair salons in Kansas City, MO, #19 of 26 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 86% of hair salons in Kansas City, MO, #21 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Invivo Wellness is a yoga studio in Milwaukee, WI at 2060 North Humboldt Avenue 
 - Website: https://invivowellness.com/
 - Email: info@invivowellness.com
 - Opening hours (OSM syntax): Mo-Th 06:00-20:00; Fr 06:00-19:00; Sa 08:00-16:00; Su 09:00-14:00
-- Pulse Score: 64.9/100 — Good — top 6% of yoga studios in Milwaukee, #1 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65/100 — Good — top 6% of yoga studios in Milwaukee, #1 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

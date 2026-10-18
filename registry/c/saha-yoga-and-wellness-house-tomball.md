@@ -13,7 +13,7 @@ Saha Yoga and Wellness House is a yoga studio in Tomball, TX at 104 Houston Stre
 - Website: https://sahayogahouse.com/
 - Email: contact@sahayogahouse.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 13% of yoga studios in Houston, #1 of 1 yoga studios in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 13% of yoga studios in Houston, #1 of 1 yoga studios in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

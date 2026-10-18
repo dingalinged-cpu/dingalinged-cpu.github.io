@@ -13,7 +13,7 @@ Best Friends Pet Hotel is a dog boarding facility in Lincolnshire, IL at 22096 N
 - Website: https://www.bestfriendspetcare.com/location/prairie-view-il/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-18:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 10% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Local Collective, LLC is a coworking space in Saint Paul, MN at 523 Jackson Stre
 - Website: https://localcollectivehq.com/
 - Email: hello@localcollectivehq.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 15% of coworking spaces in Minneapolis–St. Paul, #2 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of coworking spaces in Minneapolis–St. Paul, #2 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

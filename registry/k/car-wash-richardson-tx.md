@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. The Clean Scene | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | The Clean Scene is a car wash in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/the-clean-scene-richardson/
 2. 50¢ Car Wash | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | 50¢ Car Wash is a car wash in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/50-car-wash-richardson/
 3. Precision Auto Care | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Precision Auto Care is a car wash in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/precision-auto-care-richardson/
-4. Vibe Car Wash | Organic #4 | Pulse Score 52.8/100 (Unrated, #4 in city) | Vibe Car Wash is a car wash in Richardson, TX at 535 West Arapaho Road, Richardson, TX 75080. Phone: +14697084680. Website: https://www.vibecw.com/arapaho. | https://registry-edge.dingalinged.workers.dev/c/vibe-car-wash-richardson/
-5. Carmel Car Wash | Organic #5 | Pulse Score 43.8/100 (Unrated, #5 in city) | Carmel Car Wash is a car wash in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/carmel-car-wash-richardson/
+4. Vibe Car Wash | Organic #4 | Pulse Score 51.1/100 (Fair, #4 in city) | Vibe Car Wash is a car wash in Richardson, TX at 535 West Arapaho Road, Richardson, TX 75080. Phone: +14697084680. Website: https://www.vibecw.com/arapaho. | https://registry-edge.dingalinged.workers.dev/c/vibe-car-wash-richardson/
+5. Carmel Car Wash | Organic #5 | Pulse Score 42.7/100 (Unrated, #5 in city) | Carmel Car Wash is a car wash in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/carmel-car-wash-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash richardson tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

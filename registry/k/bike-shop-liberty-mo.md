@@ -6,8 +6,8 @@ Also answers: bike shop in Liberty, MO; bike shop near me (Liberty, MO); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Biscari Brothers Bicycles | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Biscari Brothers Bicycles is a bike shop in Liberty, MO at 852 MO 291, Liberty, MO 64068. Phone: +18167928877. | https://registry-edge.dingalinged.workers.dev/c/biscari-brothers-bicycles-liberty/
-2. Erik's | Organic #2 | Pulse Score 43/100 (Unrated, #2 in city) | Erik's is a bike shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/eriks-liberty/
+1. Biscari Brothers Bicycles | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Biscari Brothers Bicycles is a bike shop in Liberty, MO at 852 MO 291, Liberty, MO 64068. Phone: +18167928877. | https://registry-edge.dingalinged.workers.dev/c/biscari-brothers-bicycles-liberty/
+2. Erik's | Organic #2 | Pulse Score 43.2/100 (Unrated, #2 in city) | Erik's is a bike shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/eriks-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop liberty mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

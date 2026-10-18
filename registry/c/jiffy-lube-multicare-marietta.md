@@ -13,7 +13,7 @@ Jiffy Lube Multicare is an auto repair shop in Marietta, GA at 2550 Delk Road So
 - Website: https://www.jiffylube.com/locations/ga/marietta/2127
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 10:00-17:00
-- Pulse Score: 51/100 — Fair — top 66% of auto repair shops in Atlanta, #57 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 65% of auto repair shops in Atlanta, #57 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: chiropractor in Belton, MO; chiropractor near me (Belton, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Sports & Family Chiropractic & Acupuncture | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Advanced Sports & Family Chiropractic & Acupuncture is a chiropractor in Belton, MO at 17027 Bel-Ray Boulevard, Belton, MO 64012. Phone: +18164257015. Website: https://asfca.com/clinic-locations/belton-raymore-mo-clinic/. | https://registry-edge.dingalinged.workers.dev/c/advanced-sports-and-family-chiropractic-and-acupuncture-belton/
+1. Advanced Sports & Family Chiropractic & Acupuncture | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Advanced Sports & Family Chiropractic & Acupuncture is a chiropractor in Belton, MO at 17027 Bel-Ray Boulevard, Belton, MO 64012. Phone: +18164257015. Website: https://asfca.com/clinic-locations/belton-raymore-mo-clinic/. | https://registry-edge.dingalinged.workers.dev/c/advanced-sports-and-family-chiropractic-and-acupuncture-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor belton mo | category: Health & medical | industry benchmark: Physicians & Surgeons

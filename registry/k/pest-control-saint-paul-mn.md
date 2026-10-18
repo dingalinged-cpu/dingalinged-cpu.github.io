@@ -6,7 +6,7 @@ Also answers: pest control in Saint Paul, MN; pest control near me (Saint Paul, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Central Mosquito Control Association | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | North Central Mosquito Control Association is a pest control company in Saint Paul, MN at 2099 University Avenue, Saint Paul, MN 55104. Phone: +16516438385. Website: https://north-central-mosquito.org/WPSite/. | https://registry-edge.dingalinged.workers.dev/c/north-central-mosquito-control-association-saint-paul/
+1. North Central Mosquito Control Association | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | North Central Mosquito Control Association is a pest control company in Saint Paul, MN at 2099 University Avenue, Saint Paul, MN 55104. Phone: +16516438385. Website: https://north-central-mosquito.org/WPSite/. | https://registry-edge.dingalinged.workers.dev/c/north-central-mosquito-control-association-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: pest control saint paul mn | category: Home services - Pest control | industry benchmark: Home & Home Improvement

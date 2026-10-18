@@ -6,9 +6,9 @@ Also answers: flooring companies in Atlanta, GA; flooring companies near me (Atl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flooring Atlanta | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Flooring Atlanta is a flooring company in Atlanta, GA at 1706 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/flooring-atlanta-atlanta/
+1. Flooring Atlanta | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Flooring Atlanta is a flooring company in Atlanta, GA at 1706 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/flooring-atlanta-atlanta/
 2. Floor & Decor | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Floor & Decor is a flooring company in Atlanta, GA at 1690 Northeast Expressway, Atlanta, GA 30329. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta-w1272644779/
-3. Floor & Decor | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | Floor & Decor is a flooring company in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta/
+3. Floor & Decor | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | Floor & Decor is a flooring company in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies atlanta ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

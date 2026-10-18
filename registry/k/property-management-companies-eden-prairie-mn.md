@@ -6,7 +6,7 @@ Also answers: property management companies in Eden Prairie, MN; property manage
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Park at City West Leasing Office | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | The Park at City West Leasing Office is a property management company in Eden Prairie, MN at 6426 City West Parkway, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/the-park-at-city-west-leasing-office-eden-prairie/
+1. The Park at City West Leasing Office | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | The Park at City West Leasing Office is a property management company in Eden Prairie, MN at 6426 City West Parkway, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/the-park-at-city-west-leasing-office-eden-prairie/
 2. Gassen Companies | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Gassen Companies is a property management company in Eden Prairie, MN at 6438 City West Parkway, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/gassen-companies-eden-prairie/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Scott M. Brown & Associates is a lawyer in Sugar Land, TX at 12808 West Airport 
 - Website: https://sbrownlawyer.com/texas/locations/sugar-land/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Houston, #5 of 5 lawyers in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Houston, #5 of 5 lawyers in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

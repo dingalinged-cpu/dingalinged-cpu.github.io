@@ -13,7 +13,7 @@ PTL tire and auto is an auto repair shop in Ham Lake, MN at 15300 Central Avenue
 - Website: https://ptltireandauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in Minneapolis–St. Paul, #1 of 2 auto repair shops in Ham Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in Minneapolis–St. Paul, #1 of 2 auto repair shops in Ham Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

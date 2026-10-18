@@ -13,7 +13,7 @@ Car Bar is an used car dealer in Marietta, GA at 2510 Shallowford Road Northeast
 - Website: https://www.carbarsales.com/
 - Email: info@carbar-atlanta.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.4/100 — Good — top 12% of used car dealers in Atlanta, #7 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 12% of used car dealers in Atlanta, #7 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 64.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

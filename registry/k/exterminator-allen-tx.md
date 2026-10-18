@@ -6,7 +6,7 @@ Also answers: exterminator in Allen, TX; exterminator near me (Allen, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lance Termite & Pest Control | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Lance Termite & Pest Control is a pest control company in Allen, TX at 929 Roaming Road Drive, Allen, TX 75002. Phone: +19725789779. Website: https://lancetermiteandpestcontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/lance-termite-and-pest-control-allen/
+1. Lance Termite & Pest Control | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Lance Termite & Pest Control is a pest control company in Allen, TX at 929 Roaming Road Drive, Allen, TX 75002. Phone: +19725789779. Website: https://lancetermiteandpestcontrol.com/. | https://registry-edge.dingalinged.workers.dev/c/lance-termite-and-pest-control-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator allen tx | category: Home services - Pest control | industry benchmark: Home & Home Improvement

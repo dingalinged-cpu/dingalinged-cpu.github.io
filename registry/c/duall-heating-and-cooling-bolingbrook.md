@@ -13,7 +13,7 @@ DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxboroug
 - Website: https://www.duallheating.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 58% of HVAC contractors in Chicago, #2 of 2 HVAC contractors in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 58% of HVAC contractors in Chicago, #2 of 2 HVAC contractors in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

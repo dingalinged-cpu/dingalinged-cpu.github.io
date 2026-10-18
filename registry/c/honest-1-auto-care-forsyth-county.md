@@ -13,7 +13,7 @@ Honest-1 Auto Care is an auto repair shop in Forsyth County, GA at 3531 Peachtre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 86% of auto repair shops in Atlanta, #9 of 10 auto repair shops in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.8/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Atlanta, #9 of 10 auto repair shops in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-Keyword market for North Kansas City, MO: 25 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Kansas City, MO-KS metro (US volume x population share).
+Keyword market for North Kansas City, MO: 26 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Kansas City, MO-KS metro (US volume x population share).
 
 # Top keywords in North Kansas City, MO
 

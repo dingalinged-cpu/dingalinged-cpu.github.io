@@ -6,7 +6,7 @@ Also answers: plumber in Willowbrook, IL; plumber near me (Willowbrook, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Father and Sons Plumbing & Drain Cleaning LLC | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
+1. Father and Sons Plumbing & Drain Cleaning LLC | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber willowbrook il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

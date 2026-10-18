@@ -13,7 +13,7 @@ Grace Bridge Resale is a thrift store in Frisco, TX at 9380 Prestmont Place, Fri
 - Website: https://www.gracebridge.us/resale-stores
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 18% of thrift stores in Dallas–Fort Worth, #1 of 3 thrift stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 18% of thrift stores in Dallas–Fort Worth, #1 of 3 thrift stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

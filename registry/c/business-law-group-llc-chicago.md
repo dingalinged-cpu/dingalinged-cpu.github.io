@@ -13,7 +13,7 @@ Business Law Group, LLC is a lawyer in Chicago, IL at 325 West Ohio Street, Chic
 - Website: https://chicagobusinessattorneys.net/
 - Email: rvanosdol@thechicagobusinesslawyers.com
 - Opening hours (OSM syntax): Mo-Fr 8:30-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of lawyers in Chicago, #18 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of lawyers in Chicago, #18 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

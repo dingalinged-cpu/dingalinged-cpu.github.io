@@ -6,7 +6,7 @@ Also answers: funeral home in White Bear Township, MN; funeral home near me (Whi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bradshaw Funeral Home | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Bradshaw Funeral Home is a funeral home in White Bear Township, MN at 4600 Greenhaven Drive, White Bear Township, MN 55127. Website: https://www.bradshawfuneral.com/bradshaw--north-suburbs. | https://registry-edge.dingalinged.workers.dev/c/bradshaw-funeral-home-white-bear-township/
+1. Bradshaw Funeral Home | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bradshaw Funeral Home is a funeral home in White Bear Township, MN at 4600 Greenhaven Drive, White Bear Township, MN 55127. Website: https://www.bradshawfuneral.com/bradshaw--north-suburbs. | https://registry-edge.dingalinged.workers.dev/c/bradshaw-funeral-home-white-bear-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home white bear township mn | category: Professional & financial services | industry benchmark: Finance & Insurance

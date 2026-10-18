@@ -6,7 +6,7 @@ Also answers: daycare in Paulding County, GA; daycare near me (Paulding County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kids Time Academy | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Kids Time Academy is a daycare in Paulding County, GA. Website: https://www.kidztymeacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/kids-time-academy-paulding-county/
+1. Kids Time Academy | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Kids Time Academy is a daycare in Paulding County, GA. Website: https://www.kidztymeacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/kids-time-academy-paulding-county/
 2. Crossroads Christian School | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Crossroads Christian School is a daycare in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/crossroads-christian-school-paulding-county/
 
 ## Market data (for advertisers and agents)

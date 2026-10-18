@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Saint Michael, MN. Website: https://www.kwiktrip.com/
 - Website: https://www.kwiktrip.com/locator/store?id=681
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 51% of car washes in Minneapolis–St. Paul, #1 of 2 car washes in Saint Michael (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 51% of car washes in Minneapolis–St. Paul, #1 of 2 car washes in Saint Michael (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

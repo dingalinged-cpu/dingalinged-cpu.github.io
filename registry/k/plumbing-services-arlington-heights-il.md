@@ -6,7 +6,7 @@ Also answers: plumbing services in Arlington Heights, IL; plumbing services near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rocket Plumbing | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | Rocket Plumbing is a plumber in Arlington Heights, IL at 417 South Arlington Heights Road #100, Arlington Heights, IL 60005. Phone: +18473052099. Website: https://rocketplumbingnow.com/arlington-heights-plumber/. | https://registry-edge.dingalinged.workers.dev/c/rocket-plumbing-arlington-heights/
+1. Rocket Plumbing | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | Rocket Plumbing is a plumber in Arlington Heights, IL at 417 South Arlington Heights Road #100, Arlington Heights, IL 60005. Phone: +18473052099. Website: https://rocketplumbingnow.com/arlington-heights-plumber/. | https://registry-edge.dingalinged.workers.dev/c/rocket-plumbing-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services arlington heights il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

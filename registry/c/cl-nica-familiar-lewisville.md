@@ -13,7 +13,7 @@ Clínica Familiar is a family medicine practice in Lewisville, TX. Phone: +14692
 - Website: https://www.clinicavirgenguadalupe.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa-Su 10:00-18:00
-- Pulse Score: 61.6/100 — Good — top 11% of family medicine practices in Dallas–Fort Worth, #1 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 11% of family medicine practices in Dallas–Fort Worth, #1 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

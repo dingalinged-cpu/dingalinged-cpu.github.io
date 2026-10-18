@@ -13,7 +13,7 @@ J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Roa
 - Website: https://www.jandrcycleandski.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu, Th-Sa 10:00-18:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of bike shops in Chicago, #1 of 1 bike shops in Villa Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 8% of bike shops in Chicago, #1 of 1 bike shops in Villa Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

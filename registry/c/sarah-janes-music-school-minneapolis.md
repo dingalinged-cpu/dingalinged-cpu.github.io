@@ -13,7 +13,7 @@ Sarah Janes Music School is a music school in Minneapolis, MN. Phone: +161293025
 - Website: https://www.sarahjanesmusicschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 25% of music schools in Minneapolis–St. Paul, #2 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 25% of music schools in Minneapolis–St. Paul, #2 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

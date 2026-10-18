@@ -13,7 +13,7 @@ Trading Spaces HTX, LLC is an event venue in Houston, TX at 1900 Blalock Road #P
 - Website: https://www.tradingspaceshtx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-23:00, Fr-Sa 07:00-24:00, Su 08:00-23:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of event venues in Houston, #6 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of event venues in Houston, #6 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

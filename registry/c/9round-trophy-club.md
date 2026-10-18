@@ -13,7 +13,7 @@
 - Website: https://www.9round.com/fitness/Trophy-Club-TX-x2940
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.5/100 — Building — top 48% of gyms in Dallas–Fort Worth, #3 of 3 gyms in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 47% of gyms in Dallas–Fort Worth, #3 of 3 gyms in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

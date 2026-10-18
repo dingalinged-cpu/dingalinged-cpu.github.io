@@ -13,7 +13,7 @@ Great Expressions Dental Center is a dentist in Atlanta, GA at 782 Peachtree Str
 - Website: https://www.greatexpressions.com/dental-offices/dentist-in-atlanta-georgia-tenth-street/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 50/100 — Fair — top 91% of dentists in Atlanta, #33 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 90% of dentists in Atlanta, #33 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

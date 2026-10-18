@@ -6,7 +6,7 @@ Also answers: real estate agent in Murphy, TX; real estate agent near me (Murphy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keller Williams Realty | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Keller Williams Realty is a real estate agency in Murphy, TX at 104 North Murphy Road #212, Murphy, TX 75094. Phone: +19729418200. Website: https://www.kw.com/. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-murphy/
+1. Keller Williams Realty | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Keller Williams Realty is a real estate agency in Murphy, TX at 104 North Murphy Road #212, Murphy, TX 75094. Phone: +19729418200. Website: https://www.kw.com/. | https://registry-edge.dingalinged.workers.dev/c/keller-williams-realty-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent murphy tx | category: Professional & financial services | industry benchmark: Finance & Insurance

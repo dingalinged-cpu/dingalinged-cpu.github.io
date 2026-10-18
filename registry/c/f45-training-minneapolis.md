@@ -13,7 +13,7 @@ F45 Training is a gym in Minneapolis, MN at 5545 Lyndale Avenue South, Minneapol
 - Website: https://f45training.com/southwestminneapolis/
 - Email: southwestminneapolis@f45training.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 63% of gyms in Minneapolis–St. Paul, #32 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 63% of gyms in Minneapolis–St. Paul, #31 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

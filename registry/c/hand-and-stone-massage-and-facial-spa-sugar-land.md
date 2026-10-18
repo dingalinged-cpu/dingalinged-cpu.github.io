@@ -13,7 +13,7 @@ Hand & Stone Massage and Facial Spa is a massage studio in Sugar Land, TX at 165
 - Website: https://handandstone.com/locations/sugar-land-first-colony/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa-Su 08:30-21:00
-- Pulse Score: 50/100 — Fair — top 72% of massage studios in Houston, #4 of 5 massage studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 70% of massage studios in Houston, #3 of 5 massage studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

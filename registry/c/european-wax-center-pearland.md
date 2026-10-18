@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Pearland, TX at 11302 West Broadway Str
 - Website: https://locations.waxcenter.com/tx/pearland/pearland-0042.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 56% of waxing salons in Houston, #1 of 1 waxing salons in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 56% of waxing salons in Houston, #1 of 1 waxing salons in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 54.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

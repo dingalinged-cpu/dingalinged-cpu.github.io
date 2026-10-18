@@ -13,7 +13,7 @@ Yin Yang Massage is a massage studio in Village of Germantown, WI at W156N11074 
 - Website: https://yinyangmeridian.godaddysites.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 18% of massage studios in Milwaukee, #1 of 1 massage studios in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 18% of massage studios in Milwaukee, #1 of 1 massage studios in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

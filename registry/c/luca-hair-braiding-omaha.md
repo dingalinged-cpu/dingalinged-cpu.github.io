@@ -13,7 +13,7 @@ LUCA HAIR BRAIDING is a hair salon in Omaha, NE at 4960 Grover Street, Omaha, NE
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-18:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Omaha, NE, #5 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Omaha, NE, #5 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

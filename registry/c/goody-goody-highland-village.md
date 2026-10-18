@@ -13,7 +13,7 @@ Goody Goody is a liquor store in Highland Village, TX at 1950 FM 407, Highland V
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off
-- Pulse Score: 51.1/100 — Fair — top 68% of liquor stores in Dallas–Fort Worth, #1 of 1 liquor stores in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 67% of liquor stores in Dallas–Fort Worth, #1 of 1 liquor stores in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

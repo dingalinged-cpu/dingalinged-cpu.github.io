@@ -7,8 +7,8 @@ Also answers: tire shop in Lilburn, GA; tire shop near me (Lilburn, GA); best ti
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Diamond Tires | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Diamond Tires is a tire shop in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/diamond-tires-lilburn/
-2. Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-lilburn/
-3. Mavis Discount Tire | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Mavis Discount Tire is a tire shop in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-lilburn/
+2. Discount Tire | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Discount Tire is a tire shop in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-lilburn/
+3. Mavis Discount Tire | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Mavis Discount Tire is a tire shop in Lilburn, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop lilburn ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

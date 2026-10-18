@@ -13,7 +13,7 @@ Decker & Company, LLC is an accountant in Roswell, GA at 2435 Old Alabama Road, 
 - Website: https://deckerllc.com/
 - Email: deckerlllc@comcast.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 29% of accountants in Atlanta, #1 of 2 accountants in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 29% of accountants in Atlanta, #1 of 2 accountants in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

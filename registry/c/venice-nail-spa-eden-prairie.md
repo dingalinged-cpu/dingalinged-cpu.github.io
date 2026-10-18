@@ -13,7 +13,7 @@ Venice Nail Spa is a nail salon in Eden Prairie, MN at 6211 Dell Road, Eden Prai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 58% of nail salons in Minneapolis–St. Paul, #6 of 7 nail salons in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 56% of nail salons in Minneapolis–St. Paul, #6 of 7 nail salons in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Denton Bicycle Center is a bike shop in Denton, TX at 1700 North Elm Street, Den
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 69% of bike shops in Dallas–Fort Worth, #4 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 69% of bike shops in Dallas–Fort Worth, #4 of 4 bike shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

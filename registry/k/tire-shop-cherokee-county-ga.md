@@ -7,7 +7,7 @@ Also answers: tire shop in Cherokee County, GA; tire shop near me (Cherokee Coun
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. 2 Brothers Tire Shop | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | 2 Brothers Tire Shop is a tire shop in Cherokee County, GA at 10350 Main Street #100A, Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/2-brothers-tire-shop-cherokee-county/
-2. Mavis Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Mavis Discount Tire is a tire shop in Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-cherokee-county/
+2. Mavis Discount Tire | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Mavis Discount Tire is a tire shop in Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop cherokee county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

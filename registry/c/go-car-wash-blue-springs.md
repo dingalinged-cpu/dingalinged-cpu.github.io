@@ -13,12 +13,12 @@ GO Car Wash is a car wash in Blue Springs, MO at 1315 Southwest MO 7 HWY, Blue S
 - Website: https://mirrorimagecarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 75% of car washes in Kansas City, MO, #5 of 7 car washes in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 61% of car washes in Kansas City, MO, #6 of 8 car washes in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/go-car-wash-blue-springs/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/go-car-wash-blue-springs.json
-- Source: OpenStreetMap https://www.openstreetmap.org/relation/11201858 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/11201858 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -8,17 +8,17 @@ Carstar Porter's Kearney Body Shop is an auto repair shop in Kearney, MO.
 - City: Kearney
 - State: MO
 - ZIP: n/a
-- Coordinates: 39.3742071, -94.3632058
+- Coordinates: 39.3742072, -94.3632058
 - Phone: n/a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 88% of auto repair shops in Kansas City, MO, #4 of 4 auto repair shops in Kearney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 88% of auto repair shops in Kansas City, MO, #3 of 4 auto repair shops in Kearney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/carstar-porters-kearney-body-shop-kearney/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carstar-porters-kearney-body-shop-kearney.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1465416908 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1465416908 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

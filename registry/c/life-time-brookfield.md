@@ -13,7 +13,7 @@ Life Time is a gym in Brookfield, WI at 17585 Golf Parkway, Brookfield, WI 53045
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 77% of gyms in Milwaukee, #5 of 10 gyms in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 76% of gyms in Milwaukee, #5 of 10 gyms in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

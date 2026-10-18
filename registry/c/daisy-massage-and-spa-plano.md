@@ -13,7 +13,7 @@ Daisy Massage & Spa is a massage studio in Plano, TX at 6101 Windhaven Parkway #
 - Website: https://daisymassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of massage studios in Dallas–Fort Worth, #1 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of massage studios in Dallas–Fort Worth, #1 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

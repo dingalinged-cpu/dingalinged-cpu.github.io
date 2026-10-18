@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Skokie, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 98% of yoga studios in Chicago, #1 of 1 yoga studios in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.3/100 — Building — top 98% of yoga studios in Chicago, #1 of 1 yoga studios in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: hair salon in Prairie Village, KS; hair salon near me (Prairie Vil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bijin Salon and Spa | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Bijin Salon and Spa is a hair salon in Prairie Village, KS at 6960 Mission Lane, Prairie Village, KS 66208. Website: https://www.bijinsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/bijin-salon-and-spa-prairie-village/
-2. Great Clips | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Great Clips is a hair salon in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/great-clips-prairie-village/
+1. Bijin Salon and Spa | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Bijin Salon and Spa is a hair salon in Prairie Village, KS at 6960 Mission Lane, Prairie Village, KS 66208. Website: https://www.bijinsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/bijin-salon-and-spa-prairie-village/
+2. Great Clips | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Great Clips is a hair salon in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/great-clips-prairie-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon prairie village ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

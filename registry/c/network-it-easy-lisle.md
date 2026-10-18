@@ -13,7 +13,7 @@ Network IT Easy is an IT support company in Lisle, IL. Phone: +16304354000. Webs
 - Website: https://networkiteasy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 82% of IT support companys in Chicago, #1 of 1 IT support companys in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 82% of IT support companys in Chicago, #1 of 1 IT support companys in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,11 +8,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Tresses Salon | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Tresses Salon is a hair salon in Lee's Summit, MO at 410D Southeast 3rd Street #105, Lee's Summit, MO 64063. Phone: +18165243033. Website: https://www.tressessalon.info/. | https://registry-edge.dingalinged.workers.dev/c/tresses-salon-lees-summit/
 2. The Level Salon | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | The Level Salon is a hair salon in Lee's Summit, MO at 309 Southeast Douglas Street, Lee's Summit, MO 64063. Website: https://www.facebook.com/thelevelsalon/. | https://registry-edge.dingalinged.workers.dev/c/the-level-salon-lees-summit/
-3. Gene's Barber Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Gene's Barber Shop is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/genes-barber-shop-lees-summit/
-4. Z Hair Academy | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Z Hair Academy is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/z-hair-academy-lees-summit/
-5. Metric Baber Shop | Organic #5 | Pulse Score 54/100 (Unrated, #1 in city) | Metric Baber Shop is a barber shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/metric-baber-shop-lees-summit/
-6. Great Clips | Organic #6 | Pulse Score 43.1/100 (Building, #5 in city) | Great Clips is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-lees-summit/
-7. Sport Clips | Organic #7 | Pulse Score 43.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-lees-summit/
+3. Gene's Barber Shop | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Gene's Barber Shop is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/genes-barber-shop-lees-summit/
+4. Metric Baber Shop | Organic #4 | Pulse Score 53.9/100 (Unrated, #1 in city) | Metric Baber Shop is a barber shop in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/metric-baber-shop-lees-summit/
+5. Great Clips | Organic #5 | Pulse Score 43/100 (Building, #4 in city) | Great Clips is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-lees-summit/
+6. Sport Clips | Organic #6 | Pulse Score 43/100 (Building, #5 in city) | Sport Clips is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-lees-summit/
+7. Z Hair Academy | Organic #7 | Pulse Score 42.2/100 (Unrated, #6 in city) | Z Hair Academy is a hair salon in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/z-hair-academy-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut lee's summit mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

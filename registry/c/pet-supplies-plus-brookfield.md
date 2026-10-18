@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Brookfield, WI at 18610 West Bluemound Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 90% of pet stores in Milwaukee, #3 of 4 pet stores in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 86% of pet stores in Milwaukee, #3 of 4 pet stores in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

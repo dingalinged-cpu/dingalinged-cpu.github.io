@@ -13,7 +13,7 @@ Cloud 9 Tattoo Studios is a tattoo shop in Marietta, GA at 1166 Franklin Gateway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Fair — top 61% of tattoo shops in Atlanta, #8 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Fair — top 61% of tattoo shops in Atlanta, #8 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

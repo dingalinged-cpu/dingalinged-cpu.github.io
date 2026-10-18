@@ -13,7 +13,7 @@ PetSmart is a pet store in Katy, TX at 19945 Katy Freeway, Katy, TX 77094. Phone
 - Website: https://www.petsmart.com/stores/us/tx/houston-store0204.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.3/100 — Building — top 30% of pet stores in Houston, #1 of 4 pet stores in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 30% of pet stores in Houston, #1 of 4 pet stores in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 66. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

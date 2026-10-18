@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Baytown, TX at 6345 Garth Road #130, Baytow
 - Website: https://www.ulta.com/stores/baytown-tx-1175
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 43.2/100 — Building — top 97% of skin care studios in Houston, #1 of 1 skin care studios in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 41.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 97% of skin care studios in Houston, #1 of 1 skin care studios in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

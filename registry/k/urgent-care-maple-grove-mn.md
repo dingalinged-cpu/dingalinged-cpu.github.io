@@ -6,7 +6,7 @@ Also answers: urgent care in Maple Grove, MN; urgent care near me (Maple Grove, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | Organic #1 | Pulse Score 44/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Maple Grove, MN at 13540 Grove Dr, Maple Grove, MN 55311. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-maple-grove/
+1. AFC Urgent Care | Organic #1 | Pulse Score 44.2/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Maple Grove, MN at 13540 Grove Dr, Maple Grove, MN 55311. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care maple grove mn | category: Health & medical | industry benchmark: Physicians & Surgeons

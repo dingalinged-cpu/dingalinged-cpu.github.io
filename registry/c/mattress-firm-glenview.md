@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Glenview, IL at 2221 Willow Road, Glenview,
 - Website: https://www.mattressfirm.com/en-us/stores/il/glenview/119264/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 29% of mattress stores in Chicago, #1 of 1 mattress stores in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 29% of mattress stores in Chicago, #1 of 1 mattress stores in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

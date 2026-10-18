@@ -13,7 +13,7 @@ Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West
 - Website: https://barksvillechicago.com/
 - Email: info@barksvillechicago.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 7% of dog groomers in Chicago, #1 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of dog groomers in Chicago, #1 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

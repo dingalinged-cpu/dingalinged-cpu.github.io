@@ -13,7 +13,7 @@ H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 87% of car washes in Dallas–Fort Worth, #5 of 5 car washes in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 86% of car washes in Dallas–Fort Worth, #5 of 5 car washes in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

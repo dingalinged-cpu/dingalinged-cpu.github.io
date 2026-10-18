@@ -13,7 +13,7 @@ Corner Bakery is a bakery in Hurst, TX at 1410 Precinct Line Road, Hurst, TX 760
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Pulse Score: 47.3/100 — Building — top 84% of bakerys in Dallas–Fort Worth, #3 of 3 bakerys in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 83% of bakerys in Dallas–Fort Worth, #3 of 3 bakerys in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

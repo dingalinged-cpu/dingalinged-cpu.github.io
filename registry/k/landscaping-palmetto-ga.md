@@ -6,7 +6,7 @@ Also answers: landscaping in Palmetto, GA; landscaping near me (Palmetto, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Danforth Tree Specialists Inc. | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Danforth Tree Specialists Inc. is a landscaping company in Palmetto, GA at 197 Meadow Chase Way, Palmetto, GA 30268. Phone: +17704632117. Website: https://www.danfrothtreespecialistsinc.com/. | https://registry-edge.dingalinged.workers.dev/c/danforth-tree-specialists-inc-palmetto/
+1. Danforth Tree Specialists Inc. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Danforth Tree Specialists Inc. is a landscaping company in Palmetto, GA at 197 Meadow Chase Way, Palmetto, GA 30268. Phone: +17704632117. Website: https://www.danfrothtreespecialistsinc.com/. | https://registry-edge.dingalinged.workers.dev/c/danforth-tree-specialists-inc-palmetto/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping palmetto ga | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

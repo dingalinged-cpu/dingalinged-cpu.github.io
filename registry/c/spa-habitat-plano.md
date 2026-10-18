@@ -13,7 +13,7 @@ Spa Habitat is a spa in Plano, TX at 7300 Lone Star Drive #C-110, Plano, TX 7502
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-18:00; Mo-We,Fr 10:00-19:00; Th 10:00-20:00; Sa 09:00-19:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 46% of spas in Dallas–Fort Worth, #2 of 6 spas in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 46% of spas in Dallas–Fort Worth, #2 of 6 spas in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

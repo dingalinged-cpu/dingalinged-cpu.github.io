@@ -7,7 +7,7 @@ Also answers: staffing agency in Wauwatosa, WI; staffing agency near me (Wauwato
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Select Technical Staffing | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Select Technical Staffing is a staffing agency in Wauwatosa, WI at 11711 West North Avenue, Wauwatosa, WI 53226. Phone: +14144769331. Website: https://selecttechnicalstaffing.com/. | https://registry-edge.dingalinged.workers.dev/c/select-technical-staffing-wauwatosa/
-2. Argus Employment Services | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Argus Employment Services is a staffing agency in Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/argus-employment-services-wauwatosa/
+2. Argus Employment Services | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Argus Employment Services is a staffing agency in Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/argus-employment-services-wauwatosa/
 3. Manpower | Organic #3 | Pulse Score 50.1/100 (Fair, #3 in city) | Manpower is a staffing agency in Wauwatosa, WI at 823 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144755252. Website: https://www.manpower.com/en/about-us/locations/wauwatosa,-wi. | https://registry-edge.dingalinged.workers.dev/c/manpower-wauwatosa/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: dog groomer in Lombard, IL; dog groomer near me (Lombard, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Groom Room | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Groom Room is a dog groomer in Lombard, IL at 419 West Crescent Boulevard, Lombard, IL 60148. Phone: +16304957297. Website: https://the-groom-room-il.hub.biz/. | https://registry-edge.dingalinged.workers.dev/c/the-groom-room-lombard/
+1. The Groom Room | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Groom Room is a dog groomer in Lombard, IL at 419 West Crescent Boulevard, Lombard, IL 60148. Phone: +16304957297. Website: https://the-groom-room-il.hub.biz/. | https://registry-edge.dingalinged.workers.dev/c/the-groom-room-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer lombard il | category: Pets | industry benchmark: Animals & Pets

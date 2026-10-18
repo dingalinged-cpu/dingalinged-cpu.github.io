@@ -13,7 +13,7 @@ Alfie's Men's & Women's Hairstyling & Facials is a hair salon in Milwaukee, WI a
 - Website: n/a
 - Email: eutri@wi.rr.com
 - Opening hours (OSM syntax): Tu,Tu 09:00-17:00; We,Fr 11:00-19:00; Sa 09:00-16:00; Mo,Su off
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Milwaukee, #28 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Milwaukee, #27 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

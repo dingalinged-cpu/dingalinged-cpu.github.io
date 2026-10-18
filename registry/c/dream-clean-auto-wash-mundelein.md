@@ -13,7 +13,7 @@ Dream Clean Auto Wash is a car wash in Mundelein, IL at 228 Oak Creek Plaza, Mun
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 37% of car washes in Chicago, #3 of 4 car washes in Mundelein (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 34% of car washes in Chicago, #3 of 4 car washes in Mundelein (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.1, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Bimbo Bakeries USA is a bakery in Bedford Park, IL at 5331 West 66th Street, Bed
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Chicago, #1 of 1 bakerys in Bedford Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 50% of bakerys in Chicago, #1 of 1 bakerys in Bedford Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in North Richland Hills, TX at 8415 Davis
 - Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.7/100 — Fair — top 40% of tax preparation services in Dallas–Fort Worth, #1 of 3 tax preparation services in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 39% of tax preparation services in Dallas–Fort Worth, #1 of 3 tax preparation services in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

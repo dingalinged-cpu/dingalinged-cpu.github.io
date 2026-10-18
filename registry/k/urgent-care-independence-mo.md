@@ -6,7 +6,7 @@ Also answers: urgent care in Independence, MO; urgent care near me (Independence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U.S. HealthWorks Medical Group | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | U.S. HealthWorks Medical Group is an urgent care clinic in Independence, MO at 19000 East Eastland Center Court #Suite 200, Independence, MO 64055. Phone: +18164789299. Website: https://www.ushealthworks.com/Medical-Center/Missouri/Independence.html. | https://registry-edge.dingalinged.workers.dev/c/u-s-healthworks-medical-group-independence/
+1. U.S. HealthWorks Medical Group | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | U.S. HealthWorks Medical Group is an urgent care clinic in Independence, MO at 19000 East Eastland Center Court #Suite 200, Independence, MO 64055. Phone: +18164789299. Website: https://www.ushealthworks.com/Medical-Center/Missouri/Independence.html. | https://registry-edge.dingalinged.workers.dev/c/u-s-healthworks-medical-group-independence/
 2. Medical Imaging Eastland | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Medical Imaging Eastland is an urgent care clinic in Independence, MO at 19000 East Eastland Center Court #Suite 100, Independence, MO 64055. Phone: +18168762900. Website: https://www.lakewoodhospitalkc.org/services/radiology. | https://registry-edge.dingalinged.workers.dev/c/medical-imaging-eastland-independence/
 
 ## Market data (for advertisers and agents)

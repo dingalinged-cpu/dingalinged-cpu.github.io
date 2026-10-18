@@ -6,7 +6,7 @@ Also answers: landscaping in Ankeny, IA; landscaping near me (Ankeny, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Terradyne Lawn Service Inc. | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Terradyne Lawn Service Inc. is a landscaping company in Ankeny, IA at 2611 Southwest 31st Street, Ankeny, IA 50023. Phone: +15152890499. Website: https://terra-dyne.com/. | https://registry-edge.dingalinged.workers.dev/c/terradyne-lawn-service-inc-ankeny/
+1. Terradyne Lawn Service Inc. | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Terradyne Lawn Service Inc. is a landscaping company in Ankeny, IA at 2611 Southwest 31st Street, Ankeny, IA 50023. Phone: +15152890499. Website: https://terra-dyne.com/. | https://registry-edge.dingalinged.workers.dev/c/terradyne-lawn-service-inc-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping ankeny ia | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

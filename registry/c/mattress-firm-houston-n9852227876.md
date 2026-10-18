@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 5000 Westheimer Road #320, H
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001018/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 73% of mattress stores in Houston, #21 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46/100 — Building — top 71% of mattress stores in Houston, #21 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

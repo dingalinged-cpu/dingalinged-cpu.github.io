@@ -6,7 +6,7 @@ Also answers: event venues in Oak Forest, IL; event venues near me (Oak Forest, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chicago Gaelic Park | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Chicago Gaelic Park is an event venue in Oak Forest, IL at 6119 147th Street, Oak Forest, IL 60452. Website: https://chicagogaelicpark.com/. | https://registry-edge.dingalinged.workers.dev/c/chicago-gaelic-park-oak-forest/
+1. Chicago Gaelic Park | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Chicago Gaelic Park is an event venue in Oak Forest, IL at 6119 147th Street, Oak Forest, IL 60452. Website: https://chicagogaelicpark.com/. | https://registry-edge.dingalinged.workers.dev/c/chicago-gaelic-park-oak-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues oak forest il | category: Events & weddings | industry benchmark: Personal Services

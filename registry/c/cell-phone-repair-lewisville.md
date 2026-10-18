@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Lewisville, TX. Phone: +19723152060.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-18:00; Su 12:00-17:00; PH off
-- Pulse Score: 49.2/100 — Building — top 58% of phone repair shops in Dallas–Fort Worth, #1 of 1 phone repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 50% of phone repair shops in Dallas–Fort Worth, #1 of 1 phone repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

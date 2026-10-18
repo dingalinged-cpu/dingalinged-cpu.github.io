@@ -13,7 +13,7 @@ Ashok Kothari Orthodontic Care Center is a dentist in Countryside, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 72% of dentists in Chicago, #2 of 4 dentists in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 71% of dentists in Chicago, #2 of 4 dentists in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

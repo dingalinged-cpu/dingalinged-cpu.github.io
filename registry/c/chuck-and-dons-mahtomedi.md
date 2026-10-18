@@ -13,7 +13,7 @@ Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, M
 - Website: https://stores.chuckanddons.com/mn-mahtomedi-104/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
-- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 83% of pet stores in Minneapolis–St. Paul, #1 of 1 pet stores in Mahtomedi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 80% of pet stores in Minneapolis–St. Paul, #1 of 1 pet stores in Mahtomedi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

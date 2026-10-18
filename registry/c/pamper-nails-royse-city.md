@@ -13,7 +13,7 @@ Pamper Nails is a nail salon in Royse City, TX at 224 East Main Street, Royse Ci
 - Website: https://pampernails.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 91% of nail salons in Dallas–Fort Worth, #2 of 2 nail salons in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 88% of nail salons in Dallas–Fort Worth, #2 of 2 nail salons in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

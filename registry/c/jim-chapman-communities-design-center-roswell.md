@@ -13,7 +13,7 @@ Jim Chapman Communities Design Center is an architect in Roswell, GA. Website: h
 - Website: https://www.jimchapmancommunities.com/active-living-neighborhood-cottages-horseshoe-bend/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 93% of architects in Atlanta, #1 of 1 architects in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 93% of architects in Atlanta, #1 of 1 architects in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

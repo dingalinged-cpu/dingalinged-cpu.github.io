@@ -13,7 +13,7 @@ Life Time is a gym in Sugar Land, TX at 1331 State Highway 6, Sugar Land, TX 774
 - Website: https://www.lifetime.life/life-time-locations/tx-sugar-land.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.1/100 — Building — top 49% of gyms in Houston, #3 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 46% of gyms in Houston, #3 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

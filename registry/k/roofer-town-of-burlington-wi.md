@@ -6,7 +6,7 @@ Also answers: roofer in Town Of Burlington, WI; roofer near me (Town Of Burlingt
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mathers | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Mathers is a roofer in Town of Burlington, WI. | https://registry-edge.dingalinged.workers.dev/c/mathers-town-of-burlington/
+1. Mathers | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Mathers is a roofer in Town of Burlington, WI. | https://registry-edge.dingalinged.workers.dev/c/mathers-town-of-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer town of burlington wi | category: Home services - Roofing | industry benchmark: Home & Home Improvement

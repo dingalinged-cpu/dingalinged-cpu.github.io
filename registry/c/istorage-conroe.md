@@ -13,7 +13,7 @@ iStorage is a self-storage facility in Conroe, TX at 1777 North Loop 336 West, C
 - Website: https://www.istorage.com/storage/texas/storage-units-conroe/1777-N-Loop-336-W-537
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 44% of self-storage facilitys in Houston, #3 of 3 self-storage facilitys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 43% of self-storage facilitys in Houston, #3 of 3 self-storage facilitys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

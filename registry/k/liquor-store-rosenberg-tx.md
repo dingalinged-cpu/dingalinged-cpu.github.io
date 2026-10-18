@@ -6,7 +6,7 @@ Also answers: liquor store in Rosenberg, TX; liquor store near me (Rosenberg, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Spec's is a liquor store in Rosenberg, TX at 4102 FM 762, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/specs-rosenberg/
+1. Spec's | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Spec's is a liquor store in Rosenberg, TX at 4102 FM 762, Rosenberg, TX 77469. | https://registry-edge.dingalinged.workers.dev/c/specs-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store rosenberg tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Madison, WI at 4530 Verona Road, Madison, WI 53711
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Pulse Score: 47/100 — Building — top 75% of thrift stores in Madison, #10 of 14 thrift stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 75% of thrift stores in Madison, #10 of 14 thrift stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

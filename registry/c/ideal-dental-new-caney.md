@@ -13,7 +13,7 @@ Ideal Dental is a dentist in New Caney, TX at 11939 North Grand Parkway East #50
 - Website: https://www.myidealdental.com/dentist-offices/valley-ranch/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-15:00
-- Pulse Score: 50.1/100 — Fair — top 86% of dentists in Houston, #3 of 4 dentists in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 85% of dentists in Houston, #3 of 4 dentists in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

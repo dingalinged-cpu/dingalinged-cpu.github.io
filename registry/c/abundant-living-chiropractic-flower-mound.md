@@ -13,7 +13,7 @@ Abundant Living Chiropractic is a chiropractor in Flower Mound, TX at 4431 Long 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Fair — top 34% of chiropractors in Dallas–Fort Worth, #4 of 13 chiropractors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 34% of chiropractors in Dallas–Fort Worth, #4 of 13 chiropractors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

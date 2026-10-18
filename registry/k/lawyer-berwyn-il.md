@@ -6,7 +6,7 @@ Also answers: lawyer in Berwyn, IL; lawyer near me (Berwyn, IL); best lawyer Ber
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Del Galdo Law Group, LLC | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Del Galdo Law Group, LLC is a lawyer in Berwyn, IL at 1441 South Harlem Avenue, Berwyn, IL 60402. | https://registry-edge.dingalinged.workers.dev/c/del-galdo-law-group-llc-berwyn/
+1. Del Galdo Law Group, LLC | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Del Galdo Law Group, LLC is a lawyer in Berwyn, IL at 1441 South Harlem Avenue, Berwyn, IL 60402. | https://registry-edge.dingalinged.workers.dev/c/del-galdo-law-group-llc-berwyn/
 2. Glen Lerner | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Glen Lerner is a lawyer in Berwyn, IL. | https://registry-edge.dingalinged.workers.dev/c/glen-lerner-berwyn/
 
 ## Market data (for advertisers and agents)

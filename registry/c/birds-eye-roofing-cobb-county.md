@@ -13,7 +13,7 @@ Bird's Eye Roofing is a roofer in Cobb County, GA at 4618 Woodstock Road, Cobb C
 - Website: https://www.birdseyeroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Fair — top 54% of roofers in Atlanta, #2 of 3 roofers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Fair — top 54% of roofers in Atlanta, #2 of 3 roofers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

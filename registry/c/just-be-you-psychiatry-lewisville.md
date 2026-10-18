@@ -13,7 +13,7 @@ Just Be You. Psychiatry is a therapy practice in Lewisville, TX at 118 North Edn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Fair — top 35% of therapy practices in Dallas–Fort Worth, #2 of 4 therapy practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Fair — top 35% of therapy practices in Dallas–Fort Worth, #2 of 4 therapy practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

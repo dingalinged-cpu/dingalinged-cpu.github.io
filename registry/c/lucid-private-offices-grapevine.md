@@ -13,7 +13,7 @@ Lucid Private Offices is a coworking space in Grapevine, TX at 1785 State Highwa
 - Website: https://www.lucidprivateoffices.com/texas/grapevine/1785-state-highway-26/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 52.5/100 — Fair — top 66% of coworking spaces in Dallas–Fort Worth, #1 of 1 coworking spaces in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 69.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.5/100 — Fair — top 66% of coworking spaces in Dallas–Fort Worth, #1 of 1 coworking spaces in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 69.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

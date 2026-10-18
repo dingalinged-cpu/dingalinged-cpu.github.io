@@ -6,7 +6,7 @@ Also answers: flooring companies in Norcross, GA; flooring companies near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rustic Wood Floor Supply - Norcross | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Rustic Wood Floor Supply - Norcross is a flooring company in Norcross, GA at 2999 Pacific Dr, STE A, Norcross, GA 30071. Phone: +16786910533. Website: https://rusticwoodfloorsupply.com/atlanta. | https://registry-edge.dingalinged.workers.dev/c/rustic-wood-floor-supply-norcross-norcross/
+1. Rustic Wood Floor Supply - Norcross | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Rustic Wood Floor Supply - Norcross is a flooring company in Norcross, GA at 2999 Pacific Dr, STE A, Norcross, GA 30071. Phone: +16786910533. Website: https://rusticwoodfloorsupply.com/atlanta. | https://registry-edge.dingalinged.workers.dev/c/rustic-wood-floor-supply-norcross-norcross/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies norcross ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

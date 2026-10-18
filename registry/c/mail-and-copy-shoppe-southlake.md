@@ -13,7 +13,7 @@ Mail & Copy Shoppe is a printing service in Southlake, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 20% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 19% of printing services in Dallas–Fort Worth, #2 of 3 printing services in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

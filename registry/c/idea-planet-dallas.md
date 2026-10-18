@@ -13,7 +13,7 @@ Idea Planet is a marketing agency in Dallas, TX at 18170 Hillcrest Road, Dallas,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 93% of marketing agencys in Dallas–Fort Worth, #7 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 90% of marketing agencys in Dallas–Fort Worth, #7 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Tara Arseven Photography | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Tara Arseven Photography is a photographer in Dallas, TX at 1409 Botham Jean Boulevard #237, Dallas, TX 75215. Phone: +14695004121. Website: https://taraarseven.com/. | https://registry-edge.dingalinged.workers.dev/c/tara-arseven-photography-dallas/
 2. ZLuna Photography with Nadia | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | ZLuna Photography with Nadia is a photographer in Dallas, TX at 3232 McKinney Avenue, Dallas, TX 75204. Phone: +12146092990. Website: https://www.zlunaphotography.com/. | https://registry-edge.dingalinged.workers.dev/c/zluna-photography-with-nadia-dallas/
-3. D2 Studios | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | D2 Studios is a photographer in Dallas, TX at 4312 Elm Street, Dallas, TX 75226. Phone: +12147466336. Website: https://www.d2studios.net/. | https://registry-edge.dingalinged.workers.dev/c/d2-studios-dallas/
+3. D2 Studios | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | D2 Studios is a photographer in Dallas, TX at 4312 Elm Street, Dallas, TX 75226. Phone: +12147466336. Website: https://www.d2studios.net/. | https://registry-edge.dingalinged.workers.dev/c/d2-studios-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer dallas tx | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Slumberland Clearance Center is a mattress store in Saint Louis Park, MN at 4140
 - Website: https://www.slumberland.com/stores/-0b-st-louis-park-mn
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00; PH closed
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 4% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 4% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

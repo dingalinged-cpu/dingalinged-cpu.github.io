@@ -13,7 +13,7 @@ Cahn Auditorium is an event venue in Evanston, IL at 600 Emerson Street, Evansto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 69% of event venues in Chicago, #4 of 4 event venues in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 69% of event venues in Chicago, #4 of 4 event venues in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

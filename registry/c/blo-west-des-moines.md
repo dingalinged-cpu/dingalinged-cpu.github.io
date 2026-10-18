@@ -13,7 +13,7 @@ Blo is a hair salon in West Des Moines, IA at 5901 Mills Civic Parkway #3140, We
 - Website: https://blomedry.com/blo-west-des-moines/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-19:00; Su 10:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 67% of hair salons in Des Moines, IA, #18 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 68% of hair salons in Des Moines, IA, #18 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

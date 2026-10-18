@@ -13,7 +13,7 @@ HVG Systems is an IT support company in Saint Louis Park, MN at 5757 Wayzata Bou
 - Website: https://hvgsystems.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 88% of IT support companys in Minneapolis–St. Paul, #3 of 3 IT support companys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 88% of IT support companys in Minneapolis–St. Paul, #3 of 3 IT support companys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

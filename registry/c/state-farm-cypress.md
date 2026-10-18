@@ -13,7 +13,7 @@ State Farm is an insurance agent in Cypress, TX at 16230 Lee Way Drive, Cypress,
 - Website: https://kristisebera.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-12:00,13:00-17:30; Fr 08:30-12:00,12:30-17:00; Sa,Su off
-- Pulse Score: 48.7/100 — Building — top 48% of insurance agents in Houston, #3 of 3 insurance agents in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 47% of insurance agents in Houston, #3 of 3 insurance agents in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

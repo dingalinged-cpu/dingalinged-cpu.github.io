@@ -13,7 +13,7 @@ Magnolia at Lakewood is a property management company in Dallas, TX at 2175 Tuck
 - Website: https://www.liveatmagnolia.com/homes/tx/dallas/magnolia-at-lakewood--e2ad083cb4516/
 - Email: magnoliaatlakewoodtx-w@m.knck.io
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.3/100 — Good — top 11% of property management companys in Dallas–Fort Worth, #3 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 11% of property management companys in Dallas–Fort Worth, #3 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Muslim Legal Fund of America is a lawyer in Richardson, TX at 100 North Central 
 - Website: https://mlfa.org/
 - Email: info@mlfa.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Dallas–Fort Worth, #1 of 3 lawyers in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Dallas–Fort Worth, #1 of 3 lawyers in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

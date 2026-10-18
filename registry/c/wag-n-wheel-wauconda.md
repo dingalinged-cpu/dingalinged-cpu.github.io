@@ -13,7 +13,7 @@ Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Waucond
 - Website: https://www.wagnwheeldoggrooming.com/
 - Email: wagnwheeldoggrooming@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 08:00-19:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of dog groomers in Chicago, #1 of 2 dog groomers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of dog groomers in Chicago, #1 of 2 dog groomers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Eyes on the Lake is an eye care practice in Milwaukee, WI at 2134 South Kinnicki
 - Website: https://www.eyesonthelakemke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We-Fr 08:30-17:00; Tu 10:00-19:00; Sa 09:30-13:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 47% of eye care practices in Milwaukee, #3 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 47% of eye care practices in Milwaukee, #3 of 4 eye care practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

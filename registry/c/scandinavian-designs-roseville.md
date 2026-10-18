@@ -13,7 +13,7 @@ Scandinavian Designs is a furniture store in Roseville, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 51% of furniture stores in Minneapolis–St. Paul, #5 of 7 furniture stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 90% of furniture stores in Minneapolis–St. Paul, #7 of 7 furniture stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -19,6 +19,6 @@ Perfect Scents is a gift shop in Kansas City, MO. Website: https://www.perfectsc
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/perfect-scents-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/perfect-scents-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10269142466 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10269142466 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

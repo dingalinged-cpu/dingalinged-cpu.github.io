@@ -13,7 +13,7 @@ National Business Furniture is an interior designer in West Allis, WI. Phone: +1
 - Website: https://www.nationalbusinessfurniture.com/anna-reedy
 - Email: annar@nbf.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Milwaukee, #1 of 1 interior designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Milwaukee, #1 of 1 interior designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

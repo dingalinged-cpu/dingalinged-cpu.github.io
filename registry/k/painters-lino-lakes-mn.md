@@ -6,7 +6,7 @@ Also answers: painters in Lino Lakes, MN; painters near me (Lino Lakes, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Twin City Powder Coating | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Twin City Powder Coating is a painting contractor in Lino Lakes, MN at 532 Apollo Drive, Lino Lakes, MN 55014. Phone: +17637857900. Website: https://twincitypowdercoating.com/. | https://registry-edge.dingalinged.workers.dev/c/twin-city-powder-coating-lino-lakes/
+1. Twin City Powder Coating | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Twin City Powder Coating is a painting contractor in Lino Lakes, MN at 532 Apollo Drive, Lino Lakes, MN 55014. Phone: +17637857900. Website: https://twincitypowdercoating.com/. | https://registry-edge.dingalinged.workers.dev/c/twin-city-powder-coating-lino-lakes/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters lino lakes mn | category: Home services - Painting | industry benchmark: Home & Home Improvement

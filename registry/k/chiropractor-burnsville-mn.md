@@ -6,7 +6,7 @@ Also answers: chiropractor in Burnsville, MN; chiropractor near me (Burnsville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McCombs | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | McCombs is a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +19528464149. Website: https://www.mccombschiro.com/. | https://registry-edge.dingalinged.workers.dev/c/mccombs-burnsville/
+1. McCombs | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | McCombs is a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +19528464149. Website: https://www.mccombschiro.com/. | https://registry-edge.dingalinged.workers.dev/c/mccombs-burnsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor burnsville mn | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,8 +6,8 @@ Also answers: boutique in Lewisville, TX; boutique near me (Lewisville, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riders | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Riders is a boutique in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/riders-lewisville/
-2. Heaven Sent | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Heaven Sent is a boutique in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/heaven-sent-lewisville/
+1. Riders | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Riders is a boutique in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/riders-lewisville/
+2. Heaven Sent | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Heaven Sent is a boutique in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/heaven-sent-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

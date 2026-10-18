@@ -13,7 +13,7 @@ CBS Home is a real estate agency in Omaha, NE at 15950 West Dodge Road #200/300,
 - Website: https://www.cbshome.com/
 - Email: weloveOmaha@CBSHome.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 46% of real estate agencys in Omaha, NE, #4 of 8 real estate agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 46% of real estate agencys in Omaha, NE, #4 of 8 real estate agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

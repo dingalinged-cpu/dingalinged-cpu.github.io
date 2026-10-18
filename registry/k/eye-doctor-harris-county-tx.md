@@ -6,7 +6,7 @@ Also answers: eye doctor in Harris County, TX; eye doctor near me (Harris County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vision Republic | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Vision Republic is an eye care practice in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/vision-republic-harris-county/
+1. Vision Republic | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Vision Republic is an eye care practice in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/vision-republic-harris-county/
 2. Berkeley eye center | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Berkeley eye center is an eye care practice in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/berkeley-eye-center-harris-county/
 3. Copperfield Vision | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Copperfield Vision is an eye care practice in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/copperfield-vision-harris-county/
 4. Eyecare For You | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Eyecare For You is an eye care practice in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/eyecare-for-you-harris-county/

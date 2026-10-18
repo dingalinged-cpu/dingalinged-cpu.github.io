@@ -13,7 +13,7 @@ Woof Gang Bakery & Grooming is a dog groomer in Katy, TX at 1510 West Grand Park
 - Website: https://woofgangbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 59% of dog groomers in Houston, #1 of 1 dog groomers in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 96% of dog groomers in Houston, #1 of 1 dog groomers in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

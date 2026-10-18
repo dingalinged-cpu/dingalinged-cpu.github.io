@@ -13,7 +13,7 @@ Car-X is an auto repair shop in Naperville, IL at 1156 East Ogden Avenue, Naperv
 - Website: https://www.carx.com/chicago/1156-e-ogden-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su off
-- Pulse Score: 50.2/100 — Fair — top 53% of auto repair shops in Chicago, #21 of 28 auto repair shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 52% of auto repair shops in Chicago, #21 of 28 auto repair shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

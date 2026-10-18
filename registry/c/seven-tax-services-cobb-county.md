@@ -13,7 +13,7 @@ Seven Tax Services is a tax preparation service in Cobb County, GA at 3000 Windy
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-18:00; Tu 09:30-18:00; Sa 09:00-14:00; Su off
-- Pulse Score: 63.7/100 — Good — top 5% of tax preparation services in Atlanta, #2 of 10 tax preparation services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 5% of tax preparation services in Atlanta, #2 of 10 tax preparation services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

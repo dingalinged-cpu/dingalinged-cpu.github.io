@@ -6,7 +6,7 @@ Also answers: furniture store in Papillion, NE; furniture store near me (Papilli
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Omaha Mattress and Hot Tub | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Omaha Mattress and Hot Tub is a furniture store in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/omaha-mattress-and-hot-tub-papillion/
+1. Omaha Mattress and Hot Tub | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Omaha Mattress and Hot Tub is a furniture store in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/omaha-mattress-and-hot-tub-papillion/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store papillion ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

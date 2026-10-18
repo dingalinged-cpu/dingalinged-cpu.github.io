@@ -6,7 +6,7 @@ Also answers: pet store in University Park, TX; pet store near me (University Pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucky Dog Barkery | Organic #1 | Pulse Score 57.7/100 (Unrated, #6 in city) | Lucky Dog Barkery is a pet store in Dallas, TX at 8320 Preston Center Plaza, Dallas, TX 75225. Phone: +12143686000. | https://registry-edge.dingalinged.workers.dev/c/lucky-dog-barkery-dallas/
+1. Lucky Dog Barkery | Organic #1 | Pulse Score 57.8/100 (Unrated, #6 in city) | Lucky Dog Barkery is a pet store in Dallas, TX at 8320 Preston Center Plaza, Dallas, TX 75225. Phone: +12143686000. | https://registry-edge.dingalinged.workers.dev/c/lucky-dog-barkery-dallas/
 2. Petco | Organic #2 | Pulse Score 47.6/100 (Building, #12 in city) | Petco is a pet store in Dallas, TX at 4325 Lovers Lane, Dallas, TX 75225. Phone: +12145224893. Website: https://stores.petco.com/tx/dallas/pet-supplies-dallas-tx-426.html. | https://registry-edge.dingalinged.workers.dev/c/petco-dallas/
 
 ## Market data (for advertisers and agents)

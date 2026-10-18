@@ -13,7 +13,7 @@ Hometown Detailing is a car wash in Omaha, NE at 2808 South 148th Avenue Circle,
 - Website: https://www.hometowndetailing.com/
 - Email: info@hometowndetailing.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-14:00
-- Pulse Score: 65.1/100 — Good — top 2% of car washes in Omaha, NE, #1 of 21 car washes in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 2% of car washes in Omaha, NE, #1 of 21 car washes in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

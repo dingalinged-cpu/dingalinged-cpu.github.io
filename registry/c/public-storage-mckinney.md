@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in McKinney, TX at 1415 North Custer R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 53% of self-storage facilitys in Dallas–Fort Worth, #7 of 11 self-storage facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 51% of self-storage facilitys in Dallas–Fort Worth, #7 of 11 self-storage facilitys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

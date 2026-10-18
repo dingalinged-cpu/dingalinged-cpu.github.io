@@ -13,7 +13,7 @@ Pat's Alterations is a tailor in Cobb County, GA. Phone: +17709730318.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
-- Pulse Score: 60.3/100 — Good — top 40% of tailors in Atlanta, #4 of 5 tailors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Good — top 40% of tailors in Atlanta, #4 of 5 tailors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

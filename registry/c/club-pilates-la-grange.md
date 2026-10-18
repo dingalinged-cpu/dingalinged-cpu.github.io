@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.5/100 — Building — top 90% of pilates studios in Chicago, #1 of 1 pilates studios in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.6/100 — Building — top 90% of pilates studios in Chicago, #1 of 1 pilates studios in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

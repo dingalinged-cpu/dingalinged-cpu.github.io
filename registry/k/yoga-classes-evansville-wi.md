@@ -6,7 +6,7 @@ Also answers: yoga classes in Evansville, WI; yoga classes near me (Evansville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fit For You Yoga | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Fit For You Yoga is a yoga studio in Evansville, WI at 17 West Main Street, Evansville, WI 53536. Phone: +16087187866. Website: https://www.facebook.com/profile.php?id=100090543339004. | https://registry-edge.dingalinged.workers.dev/c/fit-for-you-yoga-evansville/
+1. Fit For You Yoga | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Fit For You Yoga is a yoga studio in Evansville, WI at 17 West Main Street, Evansville, WI 53536. Phone: +16087187866. Website: https://www.facebook.com/profile.php?id=100090543339004. | https://registry-edge.dingalinged.workers.dev/c/fit-for-you-yoga-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes evansville wi | category: Fitness | industry benchmark: Health & Fitness

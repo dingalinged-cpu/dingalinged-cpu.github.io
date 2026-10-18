@@ -6,7 +6,7 @@ Also answers: hvac repair in Elk Grove Village, IL; hvac repair near me (Elk Gro
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GHC Mechanical | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | GHC Mechanical is a HVAC contractor in Elk Grove Village, IL at 990 Pauly Drive, Elk Grove Village, IL 60007. Website: https://www.ghcmech.com/. | https://registry-edge.dingalinged.workers.dev/c/ghc-mechanical-elk-grove-village/
+1. GHC Mechanical | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | GHC Mechanical is a HVAC contractor in Elk Grove Village, IL at 990 Pauly Drive, Elk Grove Village, IL 60007. Website: https://www.ghcmech.com/. | https://registry-edge.dingalinged.workers.dev/c/ghc-mechanical-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair elk grove village il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

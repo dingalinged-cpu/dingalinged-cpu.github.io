@@ -13,7 +13,7 @@ Midway Ford is an used car dealer in Roseville, MN. Phone: +16516368200. Website
 - Website: https://www.rosevillemidwayford.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 08:30-16:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 15% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 15% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

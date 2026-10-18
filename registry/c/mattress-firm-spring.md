@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Spring, TX at 19503 North Freeway #A, Sprin
 - Website: https://www.mattressfirm.com/en-us/stores/tx/spring/001131/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 56% of mattress stores in Houston, #2 of 3 mattress stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 52% of mattress stores in Houston, #2 of 3 mattress stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Mattress Plus | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Mattress Plus is a mattress store in Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/mattress-plus-cobb-county/
 2. Original Mattress Factory | Organic #2 | Pulse Score 52.2/100 (Fair, #2 in city) | Original Mattress Factory is a mattress store in Cobb County, GA at 667 Ernest W. Barrett Parkway Northwest #200, Cobb County, GA. Phone: +17704205303. Website: https://www.originalmattress.com/town-center-georgia-original-mattress-factory-store. | https://registry-edge.dingalinged.workers.dev/c/original-mattress-factory-cobb-county/
-3. Sleep Number | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Sleep Number is a mattress store in Cobb County, GA at 2905 Cobb Parkway South, Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-cobb-county/
+3. Sleep Number | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Sleep Number is a mattress store in Cobb County, GA at 2905 Cobb Parkway South, Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store cobb county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

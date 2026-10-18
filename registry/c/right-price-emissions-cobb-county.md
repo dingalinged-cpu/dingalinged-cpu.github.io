@@ -13,7 +13,7 @@ Right Price Emissions is a vehicle inspection station in Cobb County, GA at 4853
 - Website: https://ritepriceemissions.com/
 - Email: ritepriceemissions@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 62.6/100 — Good — top 13% of vehicle inspection stations in Atlanta, #1 of 4 vehicle inspection stations in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 13% of vehicle inspection stations in Atlanta, #1 of 4 vehicle inspection stations in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

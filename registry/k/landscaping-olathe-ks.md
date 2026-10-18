@@ -6,8 +6,8 @@ Also answers: landscaping in Olathe, KS; landscaping near me (Olathe, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TLC Lawn Care Inc. | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | TLC Lawn Care Inc. is a landscaping company in Olathe, KS at 19600 West 159th Street, Olathe, KS 66062. Phone: +19137802155. Website: https://tlclawncareinc.com/. | https://registry-edge.dingalinged.workers.dev/c/tlc-lawn-care-inc-olathe/
-2. Cliffy Care Landscaping, LLC | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Cliffy Care Landscaping, LLC is a landscaping company in Olathe, KS at 19947 West 162nd Street, Olathe, KS 66062. Phone: +19132712900. Website: https://cliffycare.com/. | https://registry-edge.dingalinged.workers.dev/c/cliffy-care-landscaping-llc-olathe/
+1. TLC Lawn Care Inc. | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | TLC Lawn Care Inc. is a landscaping company in Olathe, KS at 19600 West 159th Street, Olathe, KS 66062. Phone: +19137802155. Website: https://tlclawncareinc.com/. | https://registry-edge.dingalinged.workers.dev/c/tlc-lawn-care-inc-olathe/
+2. Cliffy Care Landscaping, LLC | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Cliffy Care Landscaping, LLC is a landscaping company in Olathe, KS at 19947 West 162nd Street, Olathe, KS 66062. Phone: +19132712900. Website: https://cliffycare.com/. | https://registry-edge.dingalinged.workers.dev/c/cliffy-care-landscaping-llc-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping olathe ks | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

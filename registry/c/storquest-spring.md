@@ -13,7 +13,7 @@ StorQuest is a self-storage facility in Spring, TX at 23103 Gosling Road, Spring
 - Website: https://www.storquest.com/self-storage/tx/spring/1058
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 45% of self-storage facilitys in Houston, #2 of 3 self-storage facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 44% of self-storage facilitys in Houston, #2 of 3 self-storage facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

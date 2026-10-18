@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Naperville, IL at 720 East Ogden Avenue #110
 - Website: https://www.petsuppliesplus.com/store/il/naperville/184-north-naperville/184
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 46.4/100 — Building — top 75% of pet stores in Chicago, #3 of 6 pet stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 74% of pet stores in Chicago, #3 of 6 pet stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

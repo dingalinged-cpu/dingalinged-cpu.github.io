@@ -6,7 +6,7 @@ Also answers: bike shop in Decatur, GA; bike shop near me (Decatur, GA); best bi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Guild + Journeyman | Organic #1 | Pulse Score 60.4/100 (Good, #1 in city) | Guild + Journeyman is a bike shop in Decatur, GA at 115 Clairemont Avenue, Decatur, GA. Phone: +14042918486. Website: https://www.guildjourneyman.com/. | https://registry-edge.dingalinged.workers.dev/c/guild-journeyman-decatur/
+1. Guild + Journeyman | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | Guild + Journeyman is a bike shop in Decatur, GA at 115 Clairemont Avenue, Decatur, GA. Phone: +14042918486. Website: https://www.guildjourneyman.com/. | https://registry-edge.dingalinged.workers.dev/c/guild-journeyman-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop decatur ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

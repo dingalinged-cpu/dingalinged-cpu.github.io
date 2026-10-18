@@ -6,8 +6,8 @@ Also answers: dog groomer in Eagan, MN; dog groomer near me (Eagan, MN); best do
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pawlished Pets Grooming Salon | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Pawlished Pets Grooming Salon is a dog groomer in Eagan, MN at 1016 Diffley Road #500, Eagan, MN 55123. Website: https://www.pawlishedpets.com/. | https://registry-edge.dingalinged.workers.dev/c/pawlished-pets-grooming-salon-eagan/
-2. Wag n' Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Wag n' Wash is a dog groomer in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/wag-n-wash-eagan/
+1. Pawlished Pets Grooming Salon | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Pawlished Pets Grooming Salon is a dog groomer in Eagan, MN at 1016 Diffley Road #500, Eagan, MN 55123. Website: https://www.pawlishedpets.com/. | https://registry-edge.dingalinged.workers.dev/c/pawlished-pets-grooming-salon-eagan/
+2. Wag n' Wash | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Wag n' Wash is a dog groomer in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/wag-n-wash-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer eagan mn | category: Pets | industry benchmark: Animals & Pets

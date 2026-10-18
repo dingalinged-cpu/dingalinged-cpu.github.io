@@ -6,8 +6,8 @@ Also answers: assisted living in Eagan, MN; assisted living near me (Eagan, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stonehaven of Eagan | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Stonehaven of Eagan is an assisted living facility in Eagan, MN at 1000 Station Trail, Eagan, MN 55123. | https://registry-edge.dingalinged.workers.dev/c/stonehaven-of-eagan-eagan/
-2. Clare Bridge Assisted Living | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Clare Bridge Assisted Living is an assisted living facility in Eagan, MN at 1365 Crestridge Lane, Eagan, MN 55123. | https://registry-edge.dingalinged.workers.dev/c/clare-bridge-assisted-living-eagan/
+1. Stonehaven of Eagan | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Stonehaven of Eagan is an assisted living facility in Eagan, MN at 1000 Station Trail, Eagan, MN 55123. | https://registry-edge.dingalinged.workers.dev/c/stonehaven-of-eagan-eagan/
+2. Clare Bridge Assisted Living | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Clare Bridge Assisted Living is an assisted living facility in Eagan, MN at 1365 Crestridge Lane, Eagan, MN 55123. | https://registry-edge.dingalinged.workers.dev/c/clare-bridge-assisted-living-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living eagan mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

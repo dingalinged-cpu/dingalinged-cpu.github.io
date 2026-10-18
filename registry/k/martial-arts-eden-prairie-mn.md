@@ -6,10 +6,10 @@ Also answers: martial arts in Eden Prairie, MN; martial arts near me (Eden Prair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dojo Karate | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/dojo-karate-eden-prairie/
+1. Dojo Karate | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/dojo-karate-eden-prairie/
 2. 9 Round Fitness | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | 9 Round Fitness is a martial arts school in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/9-round-fitness-eden-prairie/
-3. Farrell's Extreme Bodyshaping | Organic #3 | Pulse Score 46.1/100 (Unrated, #3 in city) | Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/. | https://registry-edge.dingalinged.workers.dev/c/farrells-extreme-bodyshaping-eden-prairie/
-4. National Karate | Organic #4 | Pulse Score 44.2/100 (Unrated, #4 in city) | National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/national-karate-eden-prairie/
+3. Farrell's Extreme Bodyshaping | Organic #3 | Pulse Score 46.2/100 (Unrated, #3 in city) | Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/. | https://registry-edge.dingalinged.workers.dev/c/farrells-extreme-bodyshaping-eden-prairie/
+4. National Karate | Organic #4 | Pulse Score 44.3/100 (Unrated, #4 in city) | National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/national-karate-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts eden prairie mn | category: Fitness | industry benchmark: Health & Fitness

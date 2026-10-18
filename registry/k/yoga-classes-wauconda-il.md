@@ -6,7 +6,7 @@ Also answers: yoga classes in Wauconda, IL; yoga classes near me (Wauconda, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Silver Lotus Yoga | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Silver Lotus Yoga is a yoga studio in Wauconda, IL. | https://registry-edge.dingalinged.workers.dev/c/silver-lotus-yoga-wauconda/
+1. Silver Lotus Yoga | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Silver Lotus Yoga is a yoga studio in Wauconda, IL. | https://registry-edge.dingalinged.workers.dev/c/silver-lotus-yoga-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes wauconda il | category: Fitness | industry benchmark: Health & Fitness

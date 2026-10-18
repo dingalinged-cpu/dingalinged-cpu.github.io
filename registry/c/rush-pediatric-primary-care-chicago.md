@@ -13,7 +13,7 @@ RUSH Pediatric Primary Care is a pediatrician in Chicago, IL at 1645 West Jackso
 - Website: https://www.rush.edu/kids/services/pediatric-primary-care
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Good — top 17% of pediatricians in Chicago, #1 of 8 pediatricians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of pediatricians in Chicago, #1 of 8 pediatricians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

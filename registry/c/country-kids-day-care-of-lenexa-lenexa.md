@@ -13,12 +13,12 @@ Country Kids Day Care of Lenexa is a daycare in Lenexa, KS at 8745 Bourgade Aven
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 39% of daycares in Kansas City, MO, #3 of 3 daycares in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 38% of daycares in Kansas City, MO, #2 of 3 daycares in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/country-kids-day-care-of-lenexa-lenexa/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/country-kids-day-care-of-lenexa-lenexa.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/626689405 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/way/626689405 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

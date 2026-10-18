@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. J’s Unlimited Tax Service | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | J’s Unlimited Tax Service is a tax preparation service in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/j-s-unlimited-tax-service-smyrna/
 4. WLP Tax Services | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | WLP Tax Services is a tax preparation service in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/wlp-tax-services-smyrna/
 5. H&R Block | Organic #5 | Pulse Score 49.5/100 (Building, #5 in city) | H&R Block is a tax preparation service in Smyrna, GA at 2473 Cobb Parkway South, Smyrna, GA. Phone: +17708586523. Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-smyrna/
-6. H&R Block | Organic #6 | Pulse Score 47.6/100 (Building, #6 in city) | H&R Block is a tax preparation service in Smyrna, GA at 3209 f5 South Cobb Drive, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-smyrna-w1014114465/
+6. H&R Block | Organic #6 | Pulse Score 47.7/100 (Building, #6 in city) | H&R Block is a tax preparation service in Smyrna, GA at 3209 f5 South Cobb Drive, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-smyrna-w1014114465/
 7. Jackson Hewitt | Organic #7 | Pulse Score 47.4/100 (Building, #7 in city) | Jackson Hewitt is a tax preparation service in Smyrna, GA at 3231 South Cobb Drive, Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-smyrna/
 
 ## Market data (for advertisers and agents)

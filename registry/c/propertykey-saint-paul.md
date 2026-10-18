@@ -13,7 +13,7 @@ PropertyKey is an IT support company in Saint Paul, MN at 662 662 Transfer Road,
 - Website: https://www.propertykey.com/
 - Email: info@propertykey.cpm
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa off; Su off; PH off
-- Pulse Score: 62.3/100 — Good — top 9% of IT support companys in Minneapolis–St. Paul, #1 of 2 IT support companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 9% of IT support companys in Minneapolis–St. Paul, #1 of 2 IT support companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

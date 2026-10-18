@@ -6,7 +6,7 @@ Also answers: windshield replacement in Dallas, TX; windshield replacement near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | Organic #1 | Pulse Score 46.8/100 (Building, #91 in city) | Gerber Collision & Glass is an auto repair shop in Dallas, TX at 8054 Forest Lane, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-dallas/
+1. Gerber Collision & Glass | Organic #1 | Pulse Score 46.8/100 (Building, #90 in city) | Gerber Collision & Glass is an auto repair shop in Dallas, TX at 8054 Forest Lane, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

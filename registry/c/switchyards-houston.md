@@ -13,7 +13,7 @@ Switchyards is a coworking space in Houston, TX at 2901 South Shepherd Drive, Ho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.1/100 — Unrated (not enough evidence yet) — top 93% of coworking spaces in Houston, #10 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.2, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.2/100 — Unrated (not enough evidence yet) — top 93% of coworking spaces in Houston, #10 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

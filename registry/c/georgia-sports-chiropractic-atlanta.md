@@ -13,7 +13,7 @@ Georgia Sports Chiropractic is a chiropractor in Atlanta, GA at 754 Peachtree St
 - Website: https://www.georgiasportschiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-06:00; Tu 07:30-04:30; We 07:30-06:00,07:30-05:30; Fr 07:30-04:15
-- Pulse Score: 61/100 — Good — top 25% of chiropractors in Atlanta, #5 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 25% of chiropractors in Atlanta, #5 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Koach Allstars is a gym in Des Moines, IA at 6263 Northeast Industry Drive #Suit
 - Website: https://www.koachallstars.com/
 - Email: info@koachallstars.com
 - Opening hours (OSM syntax): Mo-Th 15:30-20:00; Fr-Su closed
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of gyms in Des Moines, IA, #3 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of gyms in Des Moines, IA, #3 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

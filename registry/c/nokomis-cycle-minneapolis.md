@@ -13,7 +13,7 @@ Nokomis Cycle is a bike shop in Minneapolis, MN at 4553 Bloomington Avenue South
 - Website: https://www.nokomiscycle.com/
 - Email: nokomiscycle@yahoo.com
 - Opening hours (OSM syntax): Tu-Th 10:30-19:00; Fr 10:30-18:00; Sa 10:00-17:00; Su 12:00-16:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Minneapolis–St. Paul, #2 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 4% of bike shops in Minneapolis–St. Paul, #2 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

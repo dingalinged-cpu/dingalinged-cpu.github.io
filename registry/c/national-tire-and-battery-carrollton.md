@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Carrollton, TX at 1025 East 
 - Website: https://www.ntb.com/store/tx/carrollton/1025-e-trinity-mills-rd-75006/4440
 - Email: n/a
 - Opening hours (OSM syntax): Sa,Su 09:00-17:00
-- Pulse Score: 47.7/100 — Building — top 69% of auto repair shops in Dallas–Fort Worth, #15 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #15 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: general contractor in New Brighton, MN; general contractor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kitchens by Design | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Kitchens by Design is a general contractor in New Brighton, MN at 201 Silver Lake Road Northwest, New Brighton, MN. Phone: +16516365266. Website: https://kitchensbydesign-mn.com/. | https://registry-edge.dingalinged.workers.dev/c/kitchens-by-design-new-brighton/
+1. Kitchens by Design | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Kitchens by Design is a general contractor in New Brighton, MN at 201 Silver Lake Road Northwest, New Brighton, MN. Phone: +16516365266. Website: https://kitchensbydesign-mn.com/. | https://registry-edge.dingalinged.workers.dev/c/kitchens-by-design-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor new brighton mn | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

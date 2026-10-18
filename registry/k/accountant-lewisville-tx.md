@@ -6,9 +6,9 @@ Also answers: accountant in Lewisville, TX; accountant near me (Lewisville, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CPA John H. Evans | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://registry-edge.dingalinged.workers.dev/c/cpa-john-h-evans-lewisville/
-2. Hirji CPA Firm | Organic #2 | Pulse Score 60.2/100 (Good, #2 in city) | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://registry-edge.dingalinged.workers.dev/c/hirji-cpa-firm-lewisville/
-3. High Five Taxes | Organic #3 | Pulse Score 59.3/100 (Fair, #3 in city) | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://registry-edge.dingalinged.workers.dev/c/high-five-taxes-lewisville/
+1. CPA John H. Evans | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://registry-edge.dingalinged.workers.dev/c/cpa-john-h-evans-lewisville/
+2. Hirji CPA Firm | Organic #2 | Pulse Score 60.3/100 (Good, #2 in city) | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://registry-edge.dingalinged.workers.dev/c/hirji-cpa-firm-lewisville/
+3. High Five Taxes | Organic #3 | Pulse Score 59.4/100 (Fair, #3 in city) | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://registry-edge.dingalinged.workers.dev/c/high-five-taxes-lewisville/
 4. Robert W. Alcorn, Certified Public Accountant | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | Robert W. Alcorn, Certified Public Accountant is an accountant in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/robert-w-alcorn-certified-public-accountant-lewisville/
 5. CPA Kwon | Organic #5 | Pulse Score 57.3/100 (Fair, #5 in city) | CPA Kwon is an accountant in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/cpa-kwon-lewisville/
 

@@ -6,7 +6,7 @@ Also answers: nail salon in De Soto, KS; nail salon near me (De Soto, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. T&T Nails | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | T&T Nails is a nail salon in De Soto, KS at 33951 West 91st Terrace #E, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/t-and-t-nails-de-soto/
+1. T&T Nails | Organic #1 | Pulse Score 44.6/100 (Unrated, #1 in city) | T&T Nails is a nail salon in De Soto, KS at 33951 West 91st Terrace #E, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/t-and-t-nails-de-soto/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon de soto ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Anderson's Cleaners is a dry cleaner in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 46% of dry cleaners in Minneapolis–St. Paul, #5 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 39% of dry cleaners in Minneapolis–St. Paul, #4 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

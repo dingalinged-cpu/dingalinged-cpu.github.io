@@ -13,7 +13,7 @@ The UPS Store is a printing service in Madison, WI at 1360 Regent Street, Madiso
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-16:00
-- Pulse Score: 46.9/100 — Building — top 46% of printing services in Madison, #6 of 12 printing services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 46% of printing services in Madison, #6 of 12 printing services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

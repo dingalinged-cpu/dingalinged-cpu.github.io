@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Cedar Hill, TX at 428 East FM 1382 #
 - Website: https://thejoint.com/texas/cedar-hill/cedar-hill-28117
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-14:00,14:45-19:00; Sa,Su 10:00-17:00
-- Pulse Score: 48.4/100 — Building — top 87% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 86% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

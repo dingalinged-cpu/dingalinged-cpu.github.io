@@ -13,12 +13,12 @@ Honda of Olathe is an used car dealer in Olathe, KS at 1000 North Rogers Road, O
 - Website: https://www.hondaofolathe.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 71% of used car dealers in Kansas City, MO, #2 of 3 used car dealers in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 70% of used car dealers in Kansas City, MO, #2 of 3 used car dealers in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/honda-of-olathe-olathe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/honda-of-olathe-olathe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/150946845 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/150946845 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

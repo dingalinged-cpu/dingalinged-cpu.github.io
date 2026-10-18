@@ -13,7 +13,7 @@ Chiropractic Healing Center Dr. Wood Weller is a chiropractor in Oak Park, IL at
 - Website: https://www.chiropractichealingcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 08:00-20:00; We 08:00-18:00; Th 08:00-16:00; Fr 13:00-17:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Chicago, #1 of 1 chiropractors in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Chicago, #1 of 1 chiropractors in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

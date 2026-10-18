@@ -6,7 +6,7 @@ Also answers: jewelry store in Parkville, MO; jewelry store near me (Parkville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Parkville Jewelers | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Parkville Jewelers is a jewelry store in Parkville, MO at 106 Main Street, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/parkville-jewelers-parkville/
+1. Parkville Jewelers | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Parkville Jewelers is a jewelry store in Parkville, MO at 106 Main Street, Parkville, MO 64152. | https://registry-edge.dingalinged.workers.dev/c/parkville-jewelers-parkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store parkville mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

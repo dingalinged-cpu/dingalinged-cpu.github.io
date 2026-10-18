@@ -6,7 +6,7 @@ Also answers: physical therapy in Holly Springs, GA; physical therapy near me (H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Team Rehabilitation Physical Therapy | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Team Rehabilitation Physical Therapy is a physical therapy clinic in Holly Springs, GA. | https://registry-edge.dingalinged.workers.dev/c/team-rehabilitation-physical-therapy-holly-springs/
+1. Team Rehabilitation Physical Therapy | Organic #1 | Pulse Score 41.3/100 (Unrated, #1 in city) | Team Rehabilitation Physical Therapy is a physical therapy clinic in Holly Springs, GA. | https://registry-edge.dingalinged.workers.dev/c/team-rehabilitation-physical-therapy-holly-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy holly springs ga | category: Health & medical | industry benchmark: Physicians & Surgeons

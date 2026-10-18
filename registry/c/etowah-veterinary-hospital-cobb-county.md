@@ -13,7 +13,7 @@ Etowah Veterinary Hospital is a veterinarian in Cobb County, GA at 4953 Canton R
 - Website: https://www.etowahvets.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-13:00,15:00-18:00; Sa off; Su off
-- Pulse Score: 61.5/100 — Good — top 19% of veterinarians in Atlanta, #4 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 19% of veterinarians in Atlanta, #4 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: daycare in Johnston, IA; daycare near me (Johnston, IA); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ChildServe Childcare Center | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | ChildServe Childcare Center is a daycare in Johnston, IA at 5609 Greendale Road, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/childserve-childcare-center-johnston/
+1. ChildServe Childcare Center | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | ChildServe Childcare Center is a daycare in Johnston, IA at 5609 Greendale Road, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/childserve-childcare-center-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare johnston ia | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ GDS Technology is an IT support company in Norcross, GA at 3050 Business Park Dr
 - Website: https://www.gdstech.tech/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 29% of IT support companys in Atlanta, #1 of 1 IT support companys in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 29% of IT support companys in Atlanta, #1 of 1 IT support companys in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

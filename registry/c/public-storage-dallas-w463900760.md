@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Dallas, TX at 4721 Ross Avenue, Dal
 - Website: https://www.publicstorage.com/self-storage-tx-dallas/2259.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 41% of self-storage facilitys in Dallas–Fort Worth, #16 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 37% of self-storage facilitys in Dallas–Fort Worth, #13 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

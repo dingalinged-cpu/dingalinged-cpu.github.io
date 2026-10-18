@@ -13,7 +13,7 @@ Cupcake Polish is a nail salon in Dallas, TX. Website: https://www.cupcakepolish
 - Website: https://www.cupcakepolish.com/
 - Email: sara@cupcakepolish.com
 - Opening hours (OSM syntax): "Shopping by appointment"
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of nail salons in Dallas–Fort Worth, #5 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 20% of nail salons in Dallas–Fort Worth, #5 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

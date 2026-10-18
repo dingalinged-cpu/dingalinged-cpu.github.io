@@ -6,8 +6,8 @@ Also answers: tanning salon in Shawnee, KS; tanning salon near me (Shawnee, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Solarium Super Tanning Salon | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Solarium Super Tanning Salon is a tanning salon in Shawnee, KS at 10411 West 75th Street, Shawnee, KS 66214. Phone: +19139620065. Website: https://solariumsunsprayspa.com/solarium-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/solarium-super-tanning-salon-shawnee/
-2. Sun Tan City | Organic #2 | Pulse Score 45.5/100 (Unrated, #2 in city) | Sun Tan City is a tanning salon in Shawnee, KS at 12268 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19134003360. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-shawnee/
+1. Solarium Super Tanning Salon | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Solarium Super Tanning Salon is a tanning salon in Shawnee, KS at 10411 West 75th Street, Shawnee, KS 66214. Phone: +19139620065. Website: https://solariumsunsprayspa.com/solarium-shawnee/. | https://registry-edge.dingalinged.workers.dev/c/solarium-super-tanning-salon-shawnee/
+2. Sun Tan City | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Sun Tan City is a tanning salon in Shawnee, KS at 12268 Shawnee Mission Parkway, Shawnee, KS 66216. Phone: +19134003360. Website: https://www.suntancity.com/find-a-salon/kansas/Shawnee/mission-parkway?salonId=307. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon shawnee ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

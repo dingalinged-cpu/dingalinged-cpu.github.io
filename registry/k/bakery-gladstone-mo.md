@@ -6,7 +6,7 @@ Also answers: bakery in Gladstone, MO; bakery near me (Gladstone, MO); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Suvee Sweet Cakerie | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Suvee Sweet Cakerie is a bakery in Gladstone, MO at 6045 North Antioch Road, Gladstone, MO 64119. Phone: +18168004200. Website: https://suveesweetscakerie.com/. | https://registry-edge.dingalinged.workers.dev/c/suvee-sweet-cakerie-gladstone/
+1. Suvee Sweet Cakerie | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Suvee Sweet Cakerie is a bakery in Gladstone, MO at 6045 North Antioch Road, Gladstone, MO 64119. Phone: +18168004200. Website: https://suveesweetscakerie.com/. | https://registry-edge.dingalinged.workers.dev/c/suvee-sweet-cakerie-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery gladstone mo | category: Events & weddings | industry benchmark: Personal Services

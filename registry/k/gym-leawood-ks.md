@@ -6,8 +6,8 @@ Also answers: gym in Leawood, KS; gym near me (Leawood, KS); best gym Leawood, K
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Body Lab | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | The Body Lab is a gym in Leawood, KS at 4217 West 119th Street, Leawood, KS 66209. Phone: +19138085180. Website: https://thebodylabus.com/studios/leadwood-ks/. | https://registry-edge.dingalinged.workers.dev/c/the-body-lab-leawood/
-2. His and Her Fitness | Organic #2 | Pulse Score 60.7/100 (Unrated, #4 in city) | His and Her Fitness is a gym in Overland Park, KS at 5328 West 151st Street, Overland Park, KS 66224. Phone: +19132067645. Website: https://hisandherfitness.net/. | https://registry-edge.dingalinged.workers.dev/c/his-and-her-fitness-overland-park/
+1. The Body Lab | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | The Body Lab is a gym in Leawood, KS at 4217 West 119th Street, Leawood, KS 66209. Phone: +19138085180. Website: https://thebodylabus.com/studios/leadwood-ks/. | https://registry-edge.dingalinged.workers.dev/c/the-body-lab-leawood/
+2. His and Her Fitness | Organic #2 | Pulse Score 60.8/100 (Unrated, #3 in city) | His and Her Fitness is a gym in Overland Park, KS at 5328 West 151st Street, Overland Park, KS 66224. Phone: +19132067645. Website: https://hisandherfitness.net/. | https://registry-edge.dingalinged.workers.dev/c/his-and-her-fitness-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym leawood ks | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ A1 Security Locksmith is a locksmith in Milwaukee, WI at 3416 West Fond du Lac A
 - Website: https://www.a1securitylocksmithmilwaukee.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 88% of locksmiths in Milwaukee, #5 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 88% of locksmiths in Milwaukee, #5 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Lush Nails | Organic #1 | Pulse Score 67.9/100 (Good, #1 in city) | Lush Nails is a nail salon in Shawnee, KS at 22227 Shawnee Mission Parkway, Shawnee, KS 66226. Phone: +19134227900. Website: https://www.facebook.com/LushNailsSpa. | https://registry-edge.dingalinged.workers.dev/c/lush-nails-shawnee/
 2. Nails Mirage | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Nails Mirage is a nail salon in Shawnee, KS at 5428 Roberts Street, Shawnee, KS 66226. Phone: +19134224471. | https://registry-edge.dingalinged.workers.dev/c/nails-mirage-shawnee/
-3. Michelle K Salon | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Michelle K Salon is a nail salon in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/michelle-k-salon-shawnee/
+3. Michelle K Salon | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Michelle K Salon is a nail salon in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/michelle-k-salon-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon shawnee ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Bike Barn is a bike shop in Spring, TX at 6935 Cypresswood Drive, Spring, TX 773
 - Website: n/a
 - Email: champions@bikebarn.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of bike shops in Houston, #1 of 1 bike shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of bike shops in Houston, #1 of 1 bike shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

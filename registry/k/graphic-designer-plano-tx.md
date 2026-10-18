@@ -6,7 +6,7 @@ Also answers: graphic designer in Plano, TX; graphic designer near me (Plano, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alpha Graphics | Organic #1 | Pulse Score 41.7/100 (Unrated, #1 in city) | Alpha Graphics is a graphic designer in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/alpha-graphics-plano-n12359983306/
+1. Alpha Graphics | Organic #1 | Pulse Score 41.6/100 (Unrated, #1 in city) | Alpha Graphics is a graphic designer in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/alpha-graphics-plano-n12359983306/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer plano tx | category: professional_marketing | industry benchmark: Business Services

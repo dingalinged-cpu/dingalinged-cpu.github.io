@@ -7,7 +7,7 @@ Also answers: pet store in Lee'S Summit, MO; pet store near me (Lee'S Summit, MO
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Brookside Barkery & Bath | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Brookside Barkery & Bath is a pet store in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/brookside-barkery-and-bath-lees-summit/
-2. Petco | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Petco is a pet store in Lee's Summit, MO at 1860 Northwest Chipman Road, Lee's Summit, MO 64081. Phone: +18162460169. Website: https://stores.petco.com/mo/leessummit/pet-supplies-leessummit-mo-1603.html. | https://registry-edge.dingalinged.workers.dev/c/petco-lees-summit/
+2. Petco | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Petco is a pet store in Lee's Summit, MO at 1860 Northwest Chipman Road, Lee's Summit, MO 64081. Phone: +18162460169. Website: https://stores.petco.com/mo/leessummit/pet-supplies-leessummit-mo-1603.html. | https://registry-edge.dingalinged.workers.dev/c/petco-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store lee's summit mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

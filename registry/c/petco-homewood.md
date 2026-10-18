@@ -13,7 +13,7 @@ Petco is a pet store in Homewood, IL at 17930 Halsted Street, Homewood, IL 60430
 - Website: https://stores.petco.com/il/homewood/pet-supplies-homewood-il-1967.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 61% of pet stores in Chicago, #1 of 1 pet stores in Homewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 59% of pet stores in Chicago, #1 of 1 pet stores in Homewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

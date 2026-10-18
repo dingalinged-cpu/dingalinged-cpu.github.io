@@ -7,7 +7,7 @@ Also answers: painters in Naperville, IL; painters near me (Naperville, IL); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jung Family Painting Inc. | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Jung Family Painting Inc. is a painting contractor in Naperville, IL at 1109 East Bailey Road, Naperville, IL 60565. Phone: +16305279990. Website: https://jungfamilypainting.com/. | https://registry-edge.dingalinged.workers.dev/c/jung-family-painting-inc-naperville/
-2. Jalapeno Paint Werx | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Jalapeno Paint Werx is a painting contractor in Naperville, IL at 304 East Ogden Avenue, Naperville, IL 60563. Phone: +16305271829. Website: https://www.jalapenopaintwerx.com/. | https://registry-edge.dingalinged.workers.dev/c/jalapeno-paint-werx-naperville/
+2. Jalapeno Paint Werx | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Jalapeno Paint Werx is a painting contractor in Naperville, IL at 304 East Ogden Avenue, Naperville, IL 60563. Phone: +16305271829. Website: https://www.jalapenopaintwerx.com/. | https://registry-edge.dingalinged.workers.dev/c/jalapeno-paint-werx-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters naperville il | category: Home services - Painting | industry benchmark: Home & Home Improvement

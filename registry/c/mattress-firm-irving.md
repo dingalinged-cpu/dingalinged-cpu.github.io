@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Irving, TX at 2350 North Beltline Road #130
 - Website: https://www.mattressfirm.com/en-us/stores/tx/irving/002103/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Fair — top 26% of mattress stores in Dallas–Fort Worth, #1 of 4 mattress stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 24% of mattress stores in Dallas–Fort Worth, #1 of 4 mattress stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

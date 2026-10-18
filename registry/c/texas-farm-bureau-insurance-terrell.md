@@ -13,7 +13,7 @@ Texas Farm Bureau Insurance is an insurance agent in Terrell, TX at 371 FM 148, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 76% of insurance agents in Dallas–Fort Worth, #2 of 2 insurance agents in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 75% of insurance agents in Dallas–Fort Worth, #2 of 2 insurance agents in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

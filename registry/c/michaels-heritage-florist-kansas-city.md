@@ -8,7 +8,7 @@ Michael's Heritage Florist is a florist in Kansas City, KS.
 - City: Kansas City
 - State: KS
 - ZIP: n/a
-- Coordinates: 39.1068416, -94.6508889
+- Coordinates: 39.1068417, -94.6508889
 - Phone: n/a
 - Website: n/a
 - Email: n/a
@@ -19,6 +19,6 @@ Michael's Heritage Florist is a florist in Kansas City, KS.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/michaels-heritage-florist-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/michaels-heritage-florist-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/991242545 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/991242545 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

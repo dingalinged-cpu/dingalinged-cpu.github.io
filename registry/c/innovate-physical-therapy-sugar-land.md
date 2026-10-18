@@ -13,7 +13,7 @@ Innovate Physical Therapy is a physical therapy clinic in Sugar Land, TX at 3221
 - Website: https://www.innovatetherapy.com/
 - Email: info@innovatetherapy.com
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa open "By appointment only."; Su off
-- Pulse Score: 63.9/100 — Good — top 6% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 6% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

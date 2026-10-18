@@ -13,7 +13,7 @@ A View On State is an event venue in Omaha, NE at 13467 State Street, Omaha, NE 
 - Website: https://aviewvenues.com/omaha-wedding-venues/a-view-state/
 - Email: info@aviewvenues.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of event venues in Omaha, NE, #1 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of event venues in Omaha, NE, #1 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

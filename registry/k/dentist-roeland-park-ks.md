@@ -6,7 +6,7 @@ Also answers: dentist in Roeland Park, KS; dentist near me (Roeland Park, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Celebrate Dental & Braces - Roeland Park | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Celebrate Dental & Braces - Roeland Park is a dentist in Roeland Park, KS at 4980 Roe Ave #Ste A, Roeland Park, KS 66205. Website: https://www.celebratedental.com/locations/missouri/roeland-park-kansas/. | https://registry-edge.dingalinged.workers.dev/c/celebrate-dental-and-braces-roeland-park-roeland-park/
+1. Celebrate Dental & Braces - Roeland Park | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Celebrate Dental & Braces - Roeland Park is a dentist in Roeland Park, KS at 4980 Roe Ave #Ste A, Roeland Park, KS 66205. Website: https://www.celebratedental.com/locations/missouri/roeland-park-kansas/. | https://registry-edge.dingalinged.workers.dev/c/celebrate-dental-and-braces-roeland-park-roeland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist roeland park ks | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

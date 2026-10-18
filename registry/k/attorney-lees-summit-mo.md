@@ -1,4 +1,4 @@
-The top unpaid attorney listing for Lee'S Summit, MO is David M. Lurie, Criminal Defense Attorney (a lawyer in Lee's Summit, MO at 688 SE Bayberry Lane ##105, Lee's Summit, MO 64063. Phone: +18165251500. Website: https://the-law.com/). 3 attorney businesses are listed for Lee'S Summit, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Lee'S Summit, MO is David M. Lurie, Criminal Defense Attorney (a lawyer in Lee's Summit, MO at 688 SE Bayberry Lane ##105, Lee's Summit, MO 64063. Phone: +18165251500. Website: https://the-law.com/). 4 attorney businesses are listed for Lee'S Summit, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Lee'S Summit, MO?
 
@@ -8,7 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. David M. Lurie, Criminal Defense Attorney | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | David M. Lurie, Criminal Defense Attorney is a lawyer in Lee's Summit, MO at 688 SE Bayberry Lane ##105, Lee's Summit, MO 64063. Phone: +18165251500. Website: https://the-law.com/. | https://registry-edge.dingalinged.workers.dev/c/david-m-lurie-criminal-defense-attorney-lees-summit/
 2. The Law Office of Traci Fann, LLC | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | The Law Office of Traci Fann, LLC is a lawyer in Lee's Summit, MO at 211 NW Executive Way #G, Lee's Summit, MO 64063. Phone: +18166781809. Website: https://kctrafficattorneys.com/. | https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-traci-fann-llc-lees-summit/
-3. Paths Law Firm | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Paths Law Firm is a lawyer in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/paths-law-firm-lees-summit/
+3. Kelly,Symonds & Reed LLC | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Kelly,Symonds & Reed LLC is a lawyer in Lee's Summit, MO at 114 Southeast 3rd Street, Lee's Summit, MO 64063. Phone: +18163471818. Website: https://www.mokanlegal.com/. | https://registry-edge.dingalinged.workers.dev/c/kelly-symonds-and-reed-llc-lees-summit/
+4. Paths Law Firm | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Paths Law Firm is a lawyer in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/paths-law-firm-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney lee's summit mo | category: professional_legal | industry benchmark: Attorneys & Legal Services
@@ -17,7 +18,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3
+- Registry businesses competing: 4
 - Equivalent Google Ads cost per month: ~$290 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

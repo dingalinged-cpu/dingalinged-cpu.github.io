@@ -13,7 +13,7 @@ A+ Massage is a massage studio in Cobb County, GA at 2300 Shallowford Road North
 - Website: https://aplusmassage.info/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-22:00; Su 09:00-21:30
-- Pulse Score: 62.8/100 — Good — top 11% of massage studios in Atlanta, #5 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 10% of massage studios in Atlanta, #4 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

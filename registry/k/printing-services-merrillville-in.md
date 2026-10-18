@@ -7,7 +7,7 @@ Also answers: printing services in Merrillville, IN; printing services near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. FedEx Office | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | FedEx Office is a printing service in Merrillville, IN at 95 West 81st Avenue, Merrillville, IN 46410. Website: https://local.fedex.com/en-us/in/merrillville/office-0581. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-merrillville/
-2. The UPS Store | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | The UPS Store is a printing service in Merrillville, IN. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-merrillville/
+2. The UPS Store | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | The UPS Store is a printing service in Merrillville, IN. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services merrillville in | category: Professional & financial services | industry benchmark: Finance & Insurance

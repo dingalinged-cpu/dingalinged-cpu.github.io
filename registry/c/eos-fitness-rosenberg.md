@@ -13,7 +13,7 @@ EOS Fitness is a gym in Rosenberg, TX at 4112 FM 762, Rosenberg, TX 77469.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 76% of gyms in Houston, #1 of 1 gyms in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 74% of gyms in Houston, #1 of 1 gyms in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

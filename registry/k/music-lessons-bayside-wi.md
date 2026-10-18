@@ -6,7 +6,7 @@ Also answers: music lessons in Bayside, WI; music lessons near me (Bayside, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wisconsin Conservatory of Music | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Wisconsin Conservatory of Music is a music school in Bayside, WI at 333 West Brown Deer Road #T, Bayside, WI 53217. Phone: +14142765760. Website: https://www.wcmusic.org/about/bayside-foxpoint/. | https://registry-edge.dingalinged.workers.dev/c/wisconsin-conservatory-of-music-bayside/
+1. Wisconsin Conservatory of Music | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Wisconsin Conservatory of Music is a music school in Bayside, WI at 333 West Brown Deer Road #T, Bayside, WI 53217. Phone: +14142765760. Website: https://www.wcmusic.org/about/bayside-foxpoint/. | https://registry-edge.dingalinged.workers.dev/c/wisconsin-conservatory-of-music-bayside/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons bayside wi | category: Education & childcare | industry benchmark: Education & Instruction

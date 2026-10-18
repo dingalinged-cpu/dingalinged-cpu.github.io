@@ -13,7 +13,7 @@ De Leon, Nestor & Torres is a lawyer in Minneapolis, MN at 3547 Cedar Avenue Sou
 - Website: https://denestlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 60% of lawyers in Minneapolis–St. Paul, #15 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 60% of lawyers in Minneapolis–St. Paul, #15 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

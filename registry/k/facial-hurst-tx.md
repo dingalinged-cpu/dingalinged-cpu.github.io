@@ -7,7 +7,7 @@ Also answers: facial in Hurst, TX; facial near me (Hurst, TX); best facial Hurst
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. KD Salon | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | KD Salon is a skin care studio in Hurst, TX at 805B Precinct Line Road, Hurst, TX 76053. Phone: +18175904566. | https://registry-edge.dingalinged.workers.dev/c/kd-salon-hurst/
-2. Ulta Beauty | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Hurst, TX at 880 Northeast Mall Boulevard, Hurst, TX 76053. Phone: +18175908057. Website: https://www.ulta.com/stores/hurst-tx-94. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-hurst/
+2. Ulta Beauty | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Hurst, TX at 880 Northeast Mall Boulevard, Hurst, TX 76053. Phone: +18175908057. Website: https://www.ulta.com/stores/hurst-tx-94. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial hurst tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

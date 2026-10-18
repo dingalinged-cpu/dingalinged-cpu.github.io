@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. FedEx Office | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | FedEx Office is a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano/
 2. The UPS Store | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | The UPS Store is a printing service in Plano, TX at 3308 Preston Road #350, Plano, TX 75093. Website: https://www.ups.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano-n13712519702/
-3. The UPS Store | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano-n13792405238/
+3. The UPS Store | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano-n13792405238/
 4. FedEx Office | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | FedEx Office is a printing service in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano-w291924008/
-5. FedEx Office | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano-n13757574504/
+5. FedEx Office | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano-n13757574504/
 6. The UPS Store | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | The UPS Store is a printing service in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano/
 
 ## Market data (for advertisers and agents)

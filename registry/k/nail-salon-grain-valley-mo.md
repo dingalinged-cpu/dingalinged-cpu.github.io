@@ -6,7 +6,7 @@ Also answers: nail salon in Grain Valley, MO; nail salon near me (Grain Valley, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TT Nails Of Grain Valley MO | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | TT Nails Of Grain Valley MO is a nail salon in Grain Valley, MO at 1060 Northeast McQuerry Road #D, Grain Valley, MO 64029. Phone: +18168675066. Website: https://www.facebook.com/TTnailsOfGrainValley. | https://registry-edge.dingalinged.workers.dev/c/tt-nails-of-grain-valley-mo-grain-valley/
+1. TT Nails Of Grain Valley MO | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | TT Nails Of Grain Valley MO is a nail salon in Grain Valley, MO at 1060 Northeast McQuerry Road #D, Grain Valley, MO 64029. Phone: +18168675066. Website: https://www.facebook.com/TTnailsOfGrainValley. | https://registry-edge.dingalinged.workers.dev/c/tt-nails-of-grain-valley-mo-grain-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon grain valley mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

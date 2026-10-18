@@ -7,7 +7,7 @@ Also answers: eye doctor in Norwalk, IA; eye doctor near me (Norwalk, IA); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Optometric Associates Center of Warren County | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Optometric Associates Center of Warren County is an eye care practice in Norwalk, IA at 1228 Sunset Drive #Suite A, Norwalk, IA 50211. Phone: +15159810224. Website: https://optometricassoc.com/. | https://registry-edge.dingalinged.workers.dev/c/optometric-associates-center-of-warren-county-norwalk/
-2. Elite Eye Care | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Elite Eye Care is an eye care practice in Norwalk, IA at 2301 Sunset Dr #Suit C, Norwalk, IA 50211. Phone: +15154050205. Website: https://eyedoctordesmoines.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-eye-care-norwalk/
+2. Elite Eye Care | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Elite Eye Care is an eye care practice in Norwalk, IA at 2301 Sunset Dr #Suit C, Norwalk, IA 50211. Phone: +15154050205. Website: https://eyedoctordesmoines.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-eye-care-norwalk/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor norwalk ia | category: Health & medical | industry benchmark: Physicians & Surgeons

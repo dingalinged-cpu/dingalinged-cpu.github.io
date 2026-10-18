@@ -13,7 +13,7 @@ Mirella's Salon is a hair salon in Kennesaw, GA at 2851 Cobb Parkway #205, Kenne
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:30-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Atlanta, #14 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Atlanta, #14 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

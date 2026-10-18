@@ -13,7 +13,7 @@ Belle Via Jewelry is a jewelry store in Saint Paul, MN at 1208 Grand Avenue, Sai
 - Website: https://www.belleviajewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 23% of jewelry stores in Minneapolis–St. Paul, #3 of 7 jewelry stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 23% of jewelry stores in Minneapolis–St. Paul, #3 of 7 jewelry stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

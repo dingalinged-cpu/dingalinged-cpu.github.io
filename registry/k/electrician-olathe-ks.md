@@ -6,7 +6,7 @@ Also answers: electrician in Olathe, KS; electrician near me (Olathe, KS); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Phaze One Electric | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Phaze One Electric is an electrician in Olathe, KS at 19935 West 162nd Street, Olathe, KS 66062. Phone: +19137479093. Website: https://phazeoneelectric.com/. | https://registry-edge.dingalinged.workers.dev/c/phaze-one-electric-olathe/
+1. Phaze One Electric | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Phaze One Electric is an electrician in Olathe, KS at 19935 West 162nd Street, Olathe, KS 66062. Phone: +19137479093. Website: https://phazeoneelectric.com/. | https://registry-edge.dingalinged.workers.dev/c/phaze-one-electric-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician olathe ks | category: Home services - Electrical | industry benchmark: Home & Home Improvement

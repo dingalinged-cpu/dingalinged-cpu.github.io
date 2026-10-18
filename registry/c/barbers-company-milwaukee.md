@@ -13,7 +13,7 @@ Barber's Company is a hair salon in Milwaukee, WI at 4546 West Forest Home Avenu
 - Website: https://www.barberscompanyllc.com/
 - Email: barberscompanyllc@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Mo,Su off
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Milwaukee, #36 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Milwaukee, #35 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

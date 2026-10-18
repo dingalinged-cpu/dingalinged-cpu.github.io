@@ -13,7 +13,7 @@ Erwin's Jewelers is a jewelry store in Bellevue, NE at 223 West Mission Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We, Fr, Sa 09:00-17:30; Th 09:00-20:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of jewelry stores in Omaha, NE, #1 of 1 jewelry stores in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 13% of jewelry stores in Omaha, NE, #1 of 1 jewelry stores in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

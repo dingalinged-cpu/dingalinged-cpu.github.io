@@ -6,8 +6,8 @@ Also answers: gym in Leavenworth, KS; gym near me (Leavenworth, KS); best gym Le
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gruber Gym | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Gruber Gym is a gym in Leavenworth, KS at 300 Reynolds Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/gruber-gym-leavenworth/
-2. Harney Gym | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Harney Gym is a gym in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/harney-gym-leavenworth/
+1. Gruber Gym | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Gruber Gym is a gym in Leavenworth, KS at 300 Reynolds Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/gruber-gym-leavenworth/
+2. Harney Gym | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Harney Gym is a gym in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/harney-gym-leavenworth/
 3. Genesis Health Clubs | Organic #3 | Pulse Score 41.8/100 (Unrated, #3 in city) | Genesis Health Clubs is a gym in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/genesis-health-clubs-leavenworth/
 
 ## Market data (for advertisers and agents)

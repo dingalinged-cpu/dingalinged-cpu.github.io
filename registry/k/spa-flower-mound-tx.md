@@ -7,8 +7,8 @@ Also answers: spa in Flower Mound, TX; spa near me (Flower Mound, TX); best spa 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sutera Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://registry-edge.dingalinged.workers.dev/c/sutera-spa-flower-mound/
-2. Arch Brow Threading & Spa | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://registry-edge.dingalinged.workers.dev/c/arch-brow-threading-and-spa-flower-mound/
-3. V/O Med Sps | Organic #3 | Pulse Score 59.7/100 (Fair, #2 in city) | V/O Med Sps is a spa in Flower Mound, TX. Website: https://www.viomedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/v-o-med-sps-flower-mound/
+2. Arch Brow Threading & Spa | Organic #2 | Pulse Score 60.2/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://registry-edge.dingalinged.workers.dev/c/arch-brow-threading-and-spa-flower-mound/
+3. V/O Med Sps | Organic #3 | Pulse Score 59.6/100 (Fair, #2 in city) | V/O Med Sps is a spa in Flower Mound, TX. Website: https://www.viomedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/v-o-med-sps-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

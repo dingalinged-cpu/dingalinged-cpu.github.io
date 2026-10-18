@@ -1,4 +1,4 @@
-The top unpaid realtor listing for Olathe, KS is Clarion Park Apartments (a real estate agency in Olathe, KS at 16700 W 127th Street, Olathe, KS 66062). 1 realtor businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Olathe, KS is Clarion Park Apartments (a real estate agency in Olathe, KS at 16700 West 127th Street, Olathe, KS 66062). 1 realtor businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Olathe, KS?
 
@@ -6,7 +6,7 @@ Also answers: realtor in Olathe, KS; realtor near me (Olathe, KS); best realtor 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clarion Park Apartments | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Clarion Park Apartments is a real estate agency in Olathe, KS at 16700 W 127th Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/clarion-park-apartments-olathe/
+1. Clarion Park Apartments | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Clarion Park Apartments is a real estate agency in Olathe, KS at 16700 West 127th Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/clarion-park-apartments-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor olathe ks | category: real_estate | industry benchmark: Real Estate

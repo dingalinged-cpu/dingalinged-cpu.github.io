@@ -6,7 +6,7 @@ Also answers: furniture store in Waterloo, NE; furniture store near me (Waterloo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oberle Cunstom Cabinets | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Oberle Cunstom Cabinets is a furniture store in Waterloo, NE at 23914 Cedar Hollow Mall, Waterloo, NE 68069. Website: https://www.oberlecabinet.com/. | https://registry-edge.dingalinged.workers.dev/c/oberle-cunstom-cabinets-waterloo/
+1. Oberle Cunstom Cabinets | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Oberle Cunstom Cabinets is a furniture store in Waterloo, NE at 23914 Cedar Hollow Mall, Waterloo, NE 68069. Website: https://www.oberlecabinet.com/. | https://registry-edge.dingalinged.workers.dev/c/oberle-cunstom-cabinets-waterloo/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store waterloo ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

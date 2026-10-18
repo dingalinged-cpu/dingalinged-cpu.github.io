@@ -13,7 +13,7 @@ Petfolk Veterinary & Urgent Care - North Dallas is a veterinarian in Dallas, TX 
 - Website: https://petfolk.com/locations/dallas-tx/vet-clinics/north-dallas
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Dallas–Fort Worth, #11 of 48 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of veterinarians in Dallas–Fort Worth, #11 of 48 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

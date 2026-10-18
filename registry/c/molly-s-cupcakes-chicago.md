@@ -13,7 +13,7 @@ Molly’s Cupcakes is a bakery in Chicago, IL at 536 North Clark Street, Chicago
 - Website: https://www.mollyscupcakes.com/chicago/home.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 94% of bakerys in Chicago, #320 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 94% of bakerys in Chicago, #319 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

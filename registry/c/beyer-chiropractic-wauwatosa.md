@@ -13,7 +13,7 @@ Beyer Chiropractic is a chiropractor in Wauwatosa, WI at 6331 West North Avenue,
 - Website: https://www.beyerchiropracticllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-12:00,14:00-20:00; Tu 08:30-12:00; We,Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00 "every other Saturday"
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 21% of chiropractors in Milwaukee, #3 of 7 chiropractors in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 21% of chiropractors in Milwaukee, #3 of 7 chiropractors in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

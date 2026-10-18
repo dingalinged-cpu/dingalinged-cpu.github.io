@@ -7,8 +7,8 @@ Also answers: printing services in Independence, MO; printing services near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Corporate Copy Print | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Corporate Copy Print is a printing service in Independence, MO at 111 South Main Street, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/corporate-copy-print-independence/
-2. Osage Printing | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Osage Printing is a printing service in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/osage-printing-independence/
-3. FedEx Office | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | FedEx Office is a printing service in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-independence/
+2. Osage Printing | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Osage Printing is a printing service in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/osage-printing-independence/
+3. FedEx Office | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | FedEx Office is a printing service in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services independence mo | category: Professional & financial services | industry benchmark: Finance & Insurance

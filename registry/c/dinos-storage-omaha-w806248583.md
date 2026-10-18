@@ -13,7 +13,7 @@ Dino's Storage is a self-storage facility in Omaha, NE at 5328 Center Street, Om
 - Website: https://www.dinosstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 00:00-24:00
-- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 59% of self-storage facilitys in Omaha, NE, #10 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 59% of self-storage facilitys in Omaha, NE, #10 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

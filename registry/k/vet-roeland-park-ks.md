@@ -6,7 +6,7 @@ Also answers: vet in Roeland Park, KS; vet near me (Roeland Park, KS); best vet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roeland Park Veterinary Center | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Roeland Park Veterinary Center is a veterinarian in Roeland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/roeland-park-veterinary-center-roeland-park/
+1. Roeland Park Veterinary Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Roeland Park Veterinary Center is a veterinarian in Roeland Park, KS. | https://registry-edge.dingalinged.workers.dev/c/roeland-park-veterinary-center-roeland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet roeland park ks | category: Pets | industry benchmark: Animals & Pets

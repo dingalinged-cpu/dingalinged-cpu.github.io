@@ -6,9 +6,9 @@ Also answers: ob gyn in Dallas, TX; ob gyn near me (Dallas, TX); best ob gyn Dal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Women's Healthcare | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Advanced Women's Healthcare is an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/advanced-womens-healthcare-dallas/
-2. Swiss OB-GYN | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Swiss OB-GYN is an OB-GYN practice in Dallas, TX at 4224 Swiss Avenue, Dallas, TX. Website: https://www.swissobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/swiss-ob-gyn-dallas/
-3. White Rock OBGYN | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | White Rock OBGYN is an OB-GYN practice in Dallas, TX at 1110 North Buckner Boulevard #103, Dallas, TX. Website: https://www.whiterockobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/white-rock-obgyn-dallas/
+1. Advanced Women's Healthcare | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Advanced Women's Healthcare is an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/advanced-womens-healthcare-dallas/
+2. Swiss OB-GYN | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Swiss OB-GYN is an OB-GYN practice in Dallas, TX at 4224 Swiss Avenue, Dallas, TX. Website: https://www.swissobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/swiss-ob-gyn-dallas/
+3. White Rock OBGYN | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | White Rock OBGYN is an OB-GYN practice in Dallas, TX at 1110 North Buckner Boulevard #103, Dallas, TX. Website: https://www.whiterockobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/white-rock-obgyn-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

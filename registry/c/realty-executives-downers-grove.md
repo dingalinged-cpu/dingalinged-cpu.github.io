@@ -13,7 +13,7 @@ Realty Executives is a real estate agency in Downers Grove, IL at 943 Maple Aven
 - Website: https://realtyexecutivesgrove.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 75% of real estate agencys in Chicago, #2 of 4 real estate agencys in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 74% of real estate agencys in Chicago, #2 of 4 real estate agencys in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

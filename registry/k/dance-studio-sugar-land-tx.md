@@ -6,7 +6,7 @@ Also answers: dance studio in Sugar Land, TX; dance studio near me (Sugar Land, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anjali Center for Performing Arts | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Anjali Center for Performing Arts is a dance studio in Sugar Land, TX at 2615 Cordes Drive, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/anjali-center-for-performing-arts-sugar-land/
+1. Anjali Center for Performing Arts | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Anjali Center for Performing Arts is a dance studio in Sugar Land, TX at 2615 Cordes Drive, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/anjali-center-for-performing-arts-sugar-land/
 2. Arthur Murray Dance Center | Organic #2 | Pulse Score 50.9/100 (Fair, #2 in city) | Arthur Murray Dance Center is a dance studio in Sugar Land, TX at 16525 Lexington Boulevard #170, Sugar Land, TX 77479. Phone: +17138993606. Website: https://arthurmurraysugarland.com/. | https://registry-edge.dingalinged.workers.dev/c/arthur-murray-dance-center-sugar-land/
 3. Fred Astaire Dance Studios | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | Fred Astaire Dance Studios is a dance studio in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/fred-astaire-dance-studios-sugar-land/
 

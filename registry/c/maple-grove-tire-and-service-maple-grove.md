@@ -13,7 +13,7 @@ Maple Grove Tire & Service is a tire shop in Maple Grove, MN at 13680 Grove Driv
 - Website: https://www.northwestgoodyeardealers.com/
 - Email: info@maplegrovegoodyear.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00;Sa 08:00-15:00
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 35% of tire shops in Minneapolis–St. Paul, #1 of 3 tire shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 35% of tire shops in Minneapolis–St. Paul, #1 of 3 tire shops in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Jiles Cleaners is a dry cleaner in Kennesaw, GA at 3055 North Main Street, Kenne
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-19:00; Sa 07:00-18:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 23% of dry cleaners in Atlanta, #4 of 6 dry cleaners in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 22% of dry cleaners in Atlanta, #4 of 6 dry cleaners in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

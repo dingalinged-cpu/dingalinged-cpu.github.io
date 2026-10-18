@@ -13,7 +13,7 @@ John Sengstacke Health Center is a family medicine practice in Chicago, IL at 50
 - Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 96% of family medicine practices in Chicago, #16 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Unrated (not enough evidence yet) — top 96% of family medicine practices in Chicago, #16 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

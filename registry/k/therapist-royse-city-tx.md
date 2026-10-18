@@ -6,7 +6,7 @@ Also answers: therapist in Royse City, TX; therapist near me (Royse City, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Christian Counseling | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Texas Christian Counseling is a therapy practice in Royse City, TX at 118 East Main Street #105, Royse City, TX 75189. Website: https://texaschristiancounseling.com/locations/royse-city. | https://registry-edge.dingalinged.workers.dev/c/texas-christian-counseling-royse-city/
+1. Texas Christian Counseling | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Texas Christian Counseling is a therapy practice in Royse City, TX at 118 East Main Street #105, Royse City, TX 75189. Website: https://texaschristiancounseling.com/locations/royse-city. | https://registry-edge.dingalinged.workers.dev/c/texas-christian-counseling-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist royse city tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

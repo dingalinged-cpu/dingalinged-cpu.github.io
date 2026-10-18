@@ -13,7 +13,7 @@ Goodwill is a thrift store in Allen, TX at 605 South Custer Road, Allen, TX 7501
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-19:00; Mo-Sa 09:00-19:00
-- Pulse Score: 47.4/100 — Building — top 71% of thrift stores in Dallas–Fort Worth, #3 of 4 thrift stores in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 71% of thrift stores in Dallas–Fort Worth, #3 of 4 thrift stores in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

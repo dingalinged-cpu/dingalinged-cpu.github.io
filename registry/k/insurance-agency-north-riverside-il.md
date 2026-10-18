@@ -6,7 +6,7 @@ Also answers: insurance agency in North Riverside, IL; insurance agency near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amigo | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Amigo is an insurance agent in North Riverside, IL. | https://registry-edge.dingalinged.workers.dev/c/amigo-north-riverside/
+1. Amigo | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Amigo is an insurance agent in North Riverside, IL. | https://registry-edge.dingalinged.workers.dev/c/amigo-north-riverside/
 2. Insurance Navy Brokers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Insurance Navy Brokers is an insurance agent in North Riverside, IL at 7333 West 25th Street, North Riverside, IL 60546. Phone: +17084435600. Website: https://www.insurancenavy.com/locations/il/north-riverside/. | https://registry-edge.dingalinged.workers.dev/c/insurance-navy-brokers-north-riverside/
 3. AAA Insurance | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | AAA Insurance is an insurance agent in North Riverside, IL at 2512 South Harlem Avenue, North Riverside, IL 60546. | https://registry-edge.dingalinged.workers.dev/c/aaa-insurance-north-riverside/
 4. State Farm | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | State Farm is an insurance agent in North Riverside, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-north-riverside/

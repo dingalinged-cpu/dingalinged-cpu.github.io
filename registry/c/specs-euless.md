@@ -13,7 +13,7 @@ Spec's is a liquor store in Euless, TX at 900 East Harwood Road, Euless, TX 7603
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 87% of liquor stores in Dallas–Fort Worth, #3 of 3 liquor stores in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 86% of liquor stores in Dallas–Fort Worth, #3 of 3 liquor stores in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

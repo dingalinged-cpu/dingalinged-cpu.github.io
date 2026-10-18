@@ -13,7 +13,7 @@ Powers Jewelry Designers is a jewelry store in Milwaukee, WI at 301 East Wiscons
 - Website: https://www.milwaukee-jewelry.com/
 - Email: powersjewelrydesigners@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 64.9/100 — Good — top 2% of jewelry stores in Milwaukee, #1 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 2% of jewelry stores in Milwaukee, #1 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

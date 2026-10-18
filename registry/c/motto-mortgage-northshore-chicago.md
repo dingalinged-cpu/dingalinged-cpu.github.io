@@ -13,7 +13,7 @@ Motto Mortgage Northshore is a lawyer in Chicago, IL at 6121 North Northwest Hig
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 71% of lawyers in Chicago, #53 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 71% of lawyers in Chicago, #53 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

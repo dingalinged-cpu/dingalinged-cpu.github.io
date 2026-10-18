@@ -13,7 +13,7 @@ Twiztid Ink is a tattoo shop in Alvarado, TX at 207 East College Street, Alvarad
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 30% of tattoo shops in Dallas–Fort Worth, #1 of 1 tattoo shops in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 30% of tattoo shops in Dallas–Fort Worth, #1 of 1 tattoo shops in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

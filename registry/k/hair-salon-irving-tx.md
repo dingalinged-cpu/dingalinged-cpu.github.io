@@ -7,8 +7,8 @@ Also answers: hair salon in Irving, TX; hair salon near me (Irving, TX); best ha
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jeanet's Beauty Salon | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Jeanet's Beauty Salon is a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/jeanets-beauty-salon-irving/
-2. blo | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/blo-irving/
-3. Tailor Made Cuts | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Tailor Made Cuts is a hair salon in Irving, TX at 595 South Belt Line Road, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/tailor-made-cuts-irving/
+2. Tailor Made Cuts | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Tailor Made Cuts is a hair salon in Irving, TX at 595 South Belt Line Road, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/tailor-made-cuts-irving/
+3. blo | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/blo-irving/
 4. Great Clips | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Great Clips is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-irving/
 5. Supercuts | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving/
 6. Supercuts | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Supercuts is a hair salon in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/supercuts-irving-n10245696289/

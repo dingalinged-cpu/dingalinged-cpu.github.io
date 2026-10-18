@@ -6,7 +6,7 @@ Also answers: preschool in La Grange Park, IL; preschool near me (La Grange Park
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barnsdale Road Kindergarten | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Barnsdale Road Kindergarten is a preschool in La Grange Park, IL. | https://registry-edge.dingalinged.workers.dev/c/barnsdale-road-kindergarten-la-grange-park/
+1. Barnsdale Road Kindergarten | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Barnsdale Road Kindergarten is a preschool in La Grange Park, IL. | https://registry-edge.dingalinged.workers.dev/c/barnsdale-road-kindergarten-la-grange-park/
 2. Montessori Children's Place | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Montessori Children's Place is a preschool in La Grange Park, IL. | https://registry-edge.dingalinged.workers.dev/c/montessori-childrens-place-la-grange-park/
 
 ## Market data (for advertisers and agents)

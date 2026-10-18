@@ -6,7 +6,7 @@ Also answers: podiatrist in Lewisville, TX; podiatrist near me (Lewisville, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southwest Foot & Ankle Center | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Southwest Foot & Ankle Center is a podiatrist in Lewisville, TX. Phone: +19723160902. Website: https://www.swfacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-foot-and-ankle-center-lewisville/
+1. Southwest Foot & Ankle Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Southwest Foot & Ankle Center is a podiatrist in Lewisville, TX. Phone: +19723160902. Website: https://www.swfacenter.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-foot-and-ankle-center-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist lewisville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

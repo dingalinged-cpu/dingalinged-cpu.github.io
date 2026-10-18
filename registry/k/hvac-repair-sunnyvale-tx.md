@@ -6,7 +6,7 @@ Also answers: hvac repair in Sunnyvale, TX; hvac repair near me (Sunnyvale, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Xtreme Air Services | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Xtreme Air Services is a HVAC contractor in Sunnyvale, TX at 308 East US Highway 80, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/xtreme-air-services-sunnyvale/
+1. Xtreme Air Services | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Xtreme Air Services is a HVAC contractor in Sunnyvale, TX at 308 East US Highway 80, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/xtreme-air-services-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair sunnyvale tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

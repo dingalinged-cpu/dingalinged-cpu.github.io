@@ -13,7 +13,7 @@ Baylor Animal Clinic is a veterinarian in Bacliff, TX at 826 Grand Avenue, Bacli
 - Website: https://www.drbobbayloranimalclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of veterinarians in Houston, #1 of 1 veterinarians in Bacliff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 31% of veterinarians in Houston, #1 of 1 veterinarians in Bacliff (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

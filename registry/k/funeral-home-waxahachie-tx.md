@@ -6,9 +6,9 @@ Also answers: funeral home in Waxahachie, TX; funeral home near me (Waxahachie, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wayne Boze Funeral Home | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Wayne Boze Funeral Home is a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/wayne-boze-funeral-home-waxahachie/
-2. Boze Mitchell McKibbin Funeral Home | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Boze Mitchell McKibbin Funeral Home is a funeral home in Waxahachie, TX at 511 West Main Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/boze-mitchell-mckibbin-funeral-home-waxahachie/
-3. Waxahachie Funeral Home | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Waxahachie Funeral Home is a funeral home in Waxahachie, TX at 1201 West US Highway 287 Bypass, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/waxahachie-funeral-home-waxahachie/
+1. Wayne Boze Funeral Home | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Wayne Boze Funeral Home is a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/wayne-boze-funeral-home-waxahachie/
+2. Boze Mitchell McKibbin Funeral Home | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Boze Mitchell McKibbin Funeral Home is a funeral home in Waxahachie, TX at 511 West Main Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/boze-mitchell-mckibbin-funeral-home-waxahachie/
+3. Waxahachie Funeral Home | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Waxahachie Funeral Home is a funeral home in Waxahachie, TX at 1201 West US Highway 287 Bypass, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/waxahachie-funeral-home-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home waxahachie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

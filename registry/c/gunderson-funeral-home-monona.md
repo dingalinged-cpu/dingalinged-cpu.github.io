@@ -13,7 +13,7 @@ Gunderson Funeral Home is a funeral home in Monona, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Madison, #1 of 1 funeral homes in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of funeral homes in Madison, #1 of 1 funeral homes in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

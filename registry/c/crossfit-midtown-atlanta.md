@@ -13,7 +13,7 @@ Crossfit Midtown is a CrossFit gym in Atlanta, GA at 1210 Spring Street Northwes
 - Website: https://crossfitmidtown.com/
 - Email: info@crossfitmidtown.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 34% of CrossFit gyms in Atlanta, #1 of 3 CrossFit gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 34% of CrossFit gyms in Atlanta, #1 of 3 CrossFit gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

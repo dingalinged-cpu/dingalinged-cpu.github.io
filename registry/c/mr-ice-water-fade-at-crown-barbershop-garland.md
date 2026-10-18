@@ -13,7 +13,7 @@ Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
-- Pulse Score: 63/100 — Good — top 14% of barber shops in Dallas–Fort Worth, #2 of 2 barber shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 14% of barber shops in Dallas–Fort Worth, #2 of 2 barber shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ L Streets Salon is a skin care studio in Dallas, TX at 10233 East Northwest High
 - Website: https://www.lstreetssalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 11% of skin care studios in Dallas–Fort Worth, #1 of 4 skin care studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 11% of skin care studios in Dallas–Fort Worth, #1 of 4 skin care studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

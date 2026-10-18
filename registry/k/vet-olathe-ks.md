@@ -1,4 +1,4 @@
-The top unpaid vet listing for Olathe, KS is Southwest Plaza Animal Clinic (a veterinarian in Olathe, KS at 1220 West Dennis Avenue, Olathe, KS 66061. Phone: +19138291919. Website: https://www.olathepets.com/). 7 vet businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Olathe, KS is Southwest Plaza Animal Clinic (a veterinarian in Olathe, KS at 1220 West Dennis Avenue, Olathe, KS 66061. Phone: +19138291919. Website: https://www.olathepets.com/). 8 vet businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Olathe, KS?
 
@@ -7,12 +7,13 @@ Also answers: vet in Olathe, KS; vet near me (Olathe, KS); best vet Olathe, KS; 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Southwest Plaza Animal Clinic | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Southwest Plaza Animal Clinic is a veterinarian in Olathe, KS at 1220 West Dennis Avenue, Olathe, KS 66061. Phone: +19138291919. Website: https://www.olathepets.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-plaza-animal-clinic-olathe/
-2. Arbor Creek Animal Hospital | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Arbor Creek Animal Hospital is a veterinarian in Olathe, KS at 15971 South Bradley Drive, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/arbor-creek-animal-hospital-olathe/
-3. Southside Pet Hospital | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Southside Pet Hospital is a veterinarian in Olathe, KS at 457 North K7 Hwy, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/southside-pet-hospital-olathe/
-4. Bradford Pet Hospital | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Bradford Pet Hospital is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/bradford-pet-hospital-olathe/
-5. Knappenberger Veterinary Clinic | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Knappenberger Veterinary Clinic is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/knappenberger-veterinary-clinic-olathe/
-6. Ridgeview Animal Hospital | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | Ridgeview Animal Hospital is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/ridgeview-animal-hospital-olathe/
-7. Sante Fe Pet Clinic | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Sante Fe Pet Clinic is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/sante-fe-pet-clinic-olathe/
+2. Murlen Animal Clinic | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Murlen Animal Clinic is a veterinarian in Olathe, KS. Phone: +19137648574. | https://registry-edge.dingalinged.workers.dev/c/murlen-animal-clinic-olathe/
+3. Arbor Creek Animal Hospital | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Arbor Creek Animal Hospital is a veterinarian in Olathe, KS at 15971 South Bradley Drive, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/arbor-creek-animal-hospital-olathe/
+4. Southside Pet Hospital | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Southside Pet Hospital is a veterinarian in Olathe, KS at 457 North K7 Hwy, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/southside-pet-hospital-olathe/
+5. Bradford Pet Hospital | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Bradford Pet Hospital is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/bradford-pet-hospital-olathe/
+6. Knappenberger Veterinary Clinic | Organic #6 | Pulse Score 56.3/100 (Unrated, #6 in city) | Knappenberger Veterinary Clinic is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/knappenberger-veterinary-clinic-olathe/
+7. Ridgeview Animal Hospital | Organic #7 | Pulse Score 56.3/100 (Unrated, #7 in city) | Ridgeview Animal Hospital is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/ridgeview-animal-hospital-olathe/
+8. Sante Fe Pet Clinic | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | Sante Fe Pet Clinic is a veterinarian in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/sante-fe-pet-clinic-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet olathe ks | category: Pets | industry benchmark: Animals & Pets
@@ -21,7 +22,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 7
+- Registry businesses competing: 8
 - Equivalent Google Ads cost per month: ~$990 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

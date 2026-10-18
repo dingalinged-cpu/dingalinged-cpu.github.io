@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Park Ridge, IL at 991 West Touhy Avenue, Park
 - Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/park-ridge
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 78% of yoga studios in Chicago, #1 of 1 yoga studios in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 78% of yoga studios in Chicago, #1 of 1 yoga studios in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Berkshire Hathaway HomeServices / Georgia Properties is a real estate agency in 
 - Website: https://woodstock.bhhsgeorgia.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 93% of real estate agencys in Atlanta, #5 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 90% of real estate agencys in Atlanta, #5 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

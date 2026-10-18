@@ -13,7 +13,7 @@ Hotworx is a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 
 - Website: https://www.hotworx.net/studio/linolakes
 - Email: studio.mn0022@hotworx.net
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr 09:00-18:00; Su 11:00-16:00
-- Pulse Score: 50.8/100 — Fair — top 42% of gyms in Minneapolis–St. Paul, #2 of 3 gyms in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 41% of gyms in Minneapolis–St. Paul, #2 of 3 gyms in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

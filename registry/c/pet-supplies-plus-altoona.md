@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Altoona, IA at 120 8th Street Southeast, Alt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 45.6/100 — Building — top 91% of pet stores in Des Moines, IA, #2 of 2 pet stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 91% of pet stores in Des Moines, IA, #2 of 2 pet stores in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

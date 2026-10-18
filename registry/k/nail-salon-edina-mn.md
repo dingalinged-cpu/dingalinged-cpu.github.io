@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Jenny's Nails | Organic #1 | Pulse Score 66/100 (Good, #1 in city) | Jenny's Nails is a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/. | https://registry-edge.dingalinged.workers.dev/c/jennys-nails-edina/
 2. Nail Images | Organic #2 | Pulse Score 64/100 (Unrated, #2 in city) | Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/. | https://registry-edge.dingalinged.workers.dev/c/nail-images-edina/
-3. Envy Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Envy Nails is a nail salon in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/envy-nails-edina/
-4. Sola Salons | Organic #4 | Pulse Score 45.4/100 (Building, #4 in city) | Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-edina/
+3. Sola Salons | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-edina/
+4. Envy Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Envy Nails is a nail salon in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/envy-nails-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon edina mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

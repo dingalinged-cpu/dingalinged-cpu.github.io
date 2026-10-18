@@ -13,7 +13,7 @@ Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. is an allergist in Merrillv
 - Website: https://www.indianaallergy.com/
 - Email: contact@indianaallergy.com
 - Opening hours (OSM syntax): Mo 09:00-12:30, 14:00-17:30; We 13:00-18:30; Th 9:00-12:30, 14:00-18:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 50% of allergists in Chicago, #1 of 1 allergists in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 50% of allergists in Chicago, #1 of 1 allergists in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

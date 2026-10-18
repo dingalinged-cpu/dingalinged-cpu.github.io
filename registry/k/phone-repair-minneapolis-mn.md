@@ -1,4 +1,4 @@
-The top unpaid phone repair listing for Minneapolis, MN is CPR Cell Phone Repair (a phone repair shop in Minneapolis, MN at 806 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16122364682. Website: https://www.cellphonerepair.com/). 3 phone repair businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Minneapolis, MN is Fixology (a phone repair shop in Minneapolis, MN. Website: https://fixologyrepair.com/minneapolis/). 3 phone repair businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Minneapolis, MN?
 
@@ -6,9 +6,9 @@ Also answers: phone repair in Minneapolis, MN; phone repair near me (Minneapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CPR Cell Phone Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | CPR Cell Phone Repair is a phone repair shop in Minneapolis, MN at 806 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16122364682. Website: https://www.cellphonerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/cpr-cell-phone-repair-minneapolis/
-2. Fixology | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Fixology is a phone repair shop in Minneapolis, MN. Website: https://fixologyrepair.com/minneapolis/. | https://registry-edge.dingalinged.workers.dev/c/fixology-minneapolis/
-3. Asurion Tech Repair & Solutions | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone: +16126552890. | https://registry-edge.dingalinged.workers.dev/c/asurion-tech-repair-and-solutions-minneapolis/
+1. Fixology | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Fixology is a phone repair shop in Minneapolis, MN. Website: https://fixologyrepair.com/minneapolis/. | https://registry-edge.dingalinged.workers.dev/c/fixology-minneapolis/
+2. CPR Cell Phone Repair | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | CPR Cell Phone Repair is a phone repair shop in Minneapolis, MN at 806 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16122364682. Website: https://www.cellphonerepair.com/. | https://registry-edge.dingalinged.workers.dev/c/cpr-cell-phone-repair-minneapolis/
+3. Asurion Tech Repair & Solutions | Organic #3 | Pulse Score 45.6/100 (Building, #3 in city) | Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone: +16126552890. | https://registry-edge.dingalinged.workers.dev/c/asurion-tech-repair-and-solutions-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair minneapolis mn | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

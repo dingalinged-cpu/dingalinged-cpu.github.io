@@ -13,7 +13,7 @@ Reuland & Turnbough is a funeral home in Lake Forest, IL at 1407 North Western A
 - Website: https://rtfunerals.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 26% of funeral homes in Chicago, #1 of 2 funeral homes in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 26% of funeral homes in Chicago, #1 of 2 funeral homes in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Midway Crystals is a gift shop in Chicago, IL at 6457 West Archer Avenue, Chicag
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00
-- Pulse Score: 64.3/100 — Good — top 2% of gift shops in Chicago, #2 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 63.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 2% of gift shops in Chicago, #2 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

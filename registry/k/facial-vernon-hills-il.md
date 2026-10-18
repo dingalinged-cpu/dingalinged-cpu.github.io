@@ -6,7 +6,7 @@ Also answers: facial in Vernon Hills, IL; facial near me (Vernon Hills, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Skin Bar at Ulta Beauty | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | The Skin Bar at Ulta Beauty is a skin care studio in Vernon Hills, IL at 700 North Milwaukee Avenue #117, Vernon Hills, IL 60061. Phone: +18475491686. Website: https://www.ulta.com/stores/vernon-hills-il-672. | https://registry-edge.dingalinged.workers.dev/c/the-skin-bar-at-ulta-beauty-vernon-hills/
+1. The Skin Bar at Ulta Beauty | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | The Skin Bar at Ulta Beauty is a skin care studio in Vernon Hills, IL at 700 North Milwaukee Avenue #117, Vernon Hills, IL 60061. Phone: +18475491686. Website: https://www.ulta.com/stores/vernon-hills-il-672. | https://registry-edge.dingalinged.workers.dev/c/the-skin-bar-at-ulta-beauty-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial vernon hills il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Xperience Fitness is a gym in Roseville, MN at 1663 County Road B2 West, Rosevil
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 04:00-23:00; Sa,Su 06:00-20:00
-- Pulse Score: 44/100 — Building — top 79% of gyms in Minneapolis–St. Paul, #3 of 3 gyms in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 78% of gyms in Minneapolis–St. Paul, #3 of 3 gyms in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Rockwall, TX at 1225 State Highway 276, Roc
 - Website: https://www.costco.com/warehouse-locations/rockwall-tx-1049.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
-- Pulse Score: 49.9/100 — Building — top 57% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 57% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

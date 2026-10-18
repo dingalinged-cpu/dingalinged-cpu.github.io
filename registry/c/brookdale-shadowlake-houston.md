@@ -13,7 +13,7 @@ Brookdale Shadowlake is an assisted living facility in Houston, TX at 2835 Shado
 - Website: https://www.brookdale.com/en/communities/brookdale-shadowlake.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 48% of assisted living facilitys in Houston, #16 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 48% of assisted living facilitys in Houston, #16 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

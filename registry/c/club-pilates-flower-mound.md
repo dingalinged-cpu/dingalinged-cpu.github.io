@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa 07:00-17:00; PH closed; Su 08:00-14:00
-- Pulse Score: 46.6/100 — Building — top 53% of pilates studios in Dallas–Fort Worth, #1 of 1 pilates studios in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 53% of pilates studios in Dallas–Fort Worth, #1 of 1 pilates studios in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

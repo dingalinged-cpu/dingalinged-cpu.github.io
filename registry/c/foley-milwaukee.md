@@ -13,7 +13,7 @@ Foley is a lawyer in Milwaukee, WI at 777 East Wisconsin Avenue, Milwaukee, WI 5
 - Website: https://www.foley.com/en/offices/milwaukee
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 98% of lawyers in Milwaukee, #47 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 98% of lawyers in Milwaukee, #47 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

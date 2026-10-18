@@ -13,7 +13,7 @@ CD One Price Cleaners is a dry cleaner in Munster, IN at 7948 Calumet Avenue, Mu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 93% of dry cleaners in Chicago, #2 of 2 dry cleaners in Munster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 92% of dry cleaners in Chicago, #2 of 2 dry cleaners in Munster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

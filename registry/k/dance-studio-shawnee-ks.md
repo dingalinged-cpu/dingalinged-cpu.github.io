@@ -6,8 +6,8 @@ Also answers: dance studio in Shawnee, KS; dance studio near me (Shawnee, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dance Expressions Shawnee | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Dance Expressions Shawnee is a dance studio in Shawnee, KS at 8305 Hedge Lane Terrace, Shawnee, KS 66227. Phone: +19134220601. Website: https://www.destudios.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-expressions-shawnee-shawnee/
-2. Viva Social Dance Studio: KC's Premier Salsa/Latin Dance School | Organic #2 | Pulse Score 47.1/100 (Unrated, #2 in city) | Viva Social Dance Studio: KC's Premier Salsa/Latin Dance School is a dance studio in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/viva-social-dance-studio-kcs-premier-salsa-latin-dance-school-shawnee/
+1. Dance Expressions Shawnee | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Dance Expressions Shawnee is a dance studio in Shawnee, KS at 8305 Hedge Lane Terrace, Shawnee, KS 66227. Phone: +19134220601. Website: https://www.destudios.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-expressions-shawnee-shawnee/
+2. Viva Social Dance Studio: KC's Premier Salsa/Latin Dance School | Organic #2 | Pulse Score 46.9/100 (Unrated, #2 in city) | Viva Social Dance Studio: KC's Premier Salsa/Latin Dance School is a dance studio in Shawnee, KS. | https://registry-edge.dingalinged.workers.dev/c/viva-social-dance-studio-kcs-premier-salsa-latin-dance-school-shawnee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio shawnee ks | category: Fitness | industry benchmark: Health & Fitness

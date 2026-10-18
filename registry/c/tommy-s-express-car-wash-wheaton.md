@@ -13,7 +13,7 @@ Tommy’s Express Car Wash is a car wash in Wheaton, IL at 2101 North Gary Avenu
 - Website: https://tommys-express.com/locations/il125/
 - Email: il125@teamtommys.com
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Pulse Score: 51.3/100 — Fair — top 37% of car washes in Chicago, #1 of 3 car washes in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 34% of car washes in Chicago, #1 of 3 car washes in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

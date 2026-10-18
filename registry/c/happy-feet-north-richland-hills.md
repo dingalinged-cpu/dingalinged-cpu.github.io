@@ -13,7 +13,7 @@ Happy Feet is a massage studio in North Richland Hills, TX at 6242 Rufe Snow Dri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-22:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of massage studios in Dallas–Fort Worth, #1 of 4 massage studios in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of massage studios in Dallas–Fort Worth, #1 of 4 massage studios in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

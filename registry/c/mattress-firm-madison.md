@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Madison, WI at 2200 West Beltline Highway, 
 - Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 46% of mattress stores in Madison, #4 of 8 mattress stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 37% of mattress stores in Madison, #3 of 8 mattress stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

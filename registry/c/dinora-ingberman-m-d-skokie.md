@@ -13,7 +13,7 @@ Dinora Ingberman M.D. is an acupuncture clinic in Skokie, IL at 4709 Golf Road #
 - Website: https://painhealingclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 45% of acupuncture clinics in Chicago, #1 of 1 acupuncture clinics in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 45% of acupuncture clinics in Chicago, #1 of 1 acupuncture clinics in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

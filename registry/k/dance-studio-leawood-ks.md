@@ -6,7 +6,7 @@ Also answers: dance studio in Leawood, KS; dance studio near me (Leawood, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucia Aerial Performing Arts | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Lucia Aerial Performing Arts is a dance studio in Leawood, KS at 5001 West 117th Street, Leawood, KS 66211. Phone: +19132716918. Website: https://luciaaerial.com/. | https://registry-edge.dingalinged.workers.dev/c/lucia-aerial-performing-arts-leawood/
+1. Lucia Aerial Performing Arts | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Lucia Aerial Performing Arts is a dance studio in Leawood, KS at 5001 West 117th Street, Leawood, KS 66211. Phone: +19132716918. Website: https://luciaaerial.com/. | https://registry-edge.dingalinged.workers.dev/c/lucia-aerial-performing-arts-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio leawood ks | category: Fitness | industry benchmark: Health & Fitness

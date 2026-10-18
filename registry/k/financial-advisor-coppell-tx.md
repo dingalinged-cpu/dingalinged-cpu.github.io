@@ -6,7 +6,7 @@ Also answers: financial advisor in Coppell, TX; financial advisor near me (Coppe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Professional Wealth Management Group | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://registry-edge.dingalinged.workers.dev/c/professional-wealth-management-group-coppell/
+1. Professional Wealth Management Group | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://registry-edge.dingalinged.workers.dev/c/professional-wealth-management-group-coppell/
 2. CBS Wealth Management | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | CBS Wealth Management is a financial advisor in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/cbs-wealth-management-coppell/
 3. Edward Jones | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Edward Jones is a financial advisor in Coppell, TX. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-coppell/
 

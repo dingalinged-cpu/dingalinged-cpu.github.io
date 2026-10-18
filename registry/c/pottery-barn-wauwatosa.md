@@ -13,7 +13,7 @@ Pottery Barn is a furniture store in Wauwatosa, WI. Phone: +14147711402. Website
 - Website: https://www.potterybarn.com/stores/us-wi-wauwatosa-mayfair-mall/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 11:00-18:00
-- Pulse Score: 46.9/100 — Building — top 81% of furniture stores in Milwaukee, #4 of 7 furniture stores in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 81% of furniture stores in Milwaukee, #4 of 7 furniture stores in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

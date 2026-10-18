@@ -13,7 +13,7 @@ Moore's Car Corner is an used car dealer in Mesquite, TX at 108 South Walker Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 45% of used car dealers in Dallas–Fort Worth, #2 of 5 used car dealers in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 45% of used car dealers in Dallas–Fort Worth, #2 of 5 used car dealers in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 46.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

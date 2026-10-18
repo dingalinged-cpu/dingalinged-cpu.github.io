@@ -6,7 +6,7 @@ Also answers: physical therapy in Decatur, GA; physical therapy near me (Decatur
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benchmark Physical Therapy | Organic #1 | Pulse Score 45.7/100 (Unrated, #1 in city) | Benchmark Physical Therapy is a physical therapy clinic in Decatur, GA. Phone: +14042289781. Website: https://benchmark.urpt.com/locations/decatur-avondale/. | https://registry-edge.dingalinged.workers.dev/c/benchmark-physical-therapy-decatur/
+1. Benchmark Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Unrated, #1 in city) | Benchmark Physical Therapy is a physical therapy clinic in Decatur, GA. Phone: +14042289781. Website: https://benchmark.urpt.com/locations/decatur-avondale/. | https://registry-edge.dingalinged.workers.dev/c/benchmark-physical-therapy-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy decatur ga | category: Health & medical | industry benchmark: Physicians & Surgeons

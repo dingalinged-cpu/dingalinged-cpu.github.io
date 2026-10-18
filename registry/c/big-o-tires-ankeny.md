@@ -13,7 +13,7 @@ Big O Tires is a tire shop in Ankeny, IA at 2605 Southeast Delaware Avenue, Anke
 - Website: https://www.bigotires.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 50% of tire shops in Des Moines, IA, #2 of 3 tire shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 43% of tire shops in Des Moines, IA, #2 of 3 tire shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

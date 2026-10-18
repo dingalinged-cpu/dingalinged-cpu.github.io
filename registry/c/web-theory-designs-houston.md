@@ -13,7 +13,7 @@ Web Theory Designs is a marketing agency in Houston, TX at 1500 Hadley Street #6
 - Website: https://www.webtheorydesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 47% of marketing agencys in Houston, #3 of 8 marketing agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 47% of marketing agencys in Houston, #3 of 8 marketing agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

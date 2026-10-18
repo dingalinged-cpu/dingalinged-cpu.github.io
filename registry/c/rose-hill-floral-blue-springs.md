@@ -19,6 +19,6 @@ Rose Hill Floral is a florist in Blue Springs, MO at 625 Northwest Mock Avenue #
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/rose-hill-floral-blue-springs/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rose-hill-floral-blue-springs.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13722182193 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13722182193 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

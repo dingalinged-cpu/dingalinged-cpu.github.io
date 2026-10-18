@@ -13,7 +13,7 @@ Planet Fitness is a gym in Eagan, MN at 1278 Town Centre Drive #135, Eagan, MN 5
 - Website: https://www.planetfitness.com/gyms/eagan-mn
 - Email: n/a
 - Opening hours (OSM syntax): Mo 05:00-24:00, Tu-Th 00:00-24:00, Fr 00:00-21:00, Sa-Su 06:00-20:00
-- Pulse Score: 49.2/100 — Building — top 45% of gyms in Minneapolis–St. Paul, #2 of 8 gyms in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 44% of gyms in Minneapolis–St. Paul, #2 of 8 gyms in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

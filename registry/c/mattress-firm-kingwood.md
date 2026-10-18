@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Kingwood, TX at 25639 Eastex Freeway #113, 
 - Website: https://www.mattressfirm.com/en-us/stores/tx/kingwood/001137/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 11:00-19:00
-- Pulse Score: 51.6/100 — Fair — top 27% of mattress stores in Houston, #1 of 1 mattress stores in Kingwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 67.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 25% of mattress stores in Houston, #1 of 1 mattress stores in Kingwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 67.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

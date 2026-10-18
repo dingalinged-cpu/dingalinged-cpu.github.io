@@ -7,10 +7,10 @@ Also answers: car wash in Fort Bend County, TX; car wash near me (Fort Bend Coun
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Buc-ee's | Organic #1 | Pulse Score 46.4/100 (Unrated, #1 in city) | Buc-ee's is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/buc-ees-fort-bend-county/
-2. Wash n Run | Organic #2 | Pulse Score 43.2/100 (Unrated, #2 in city) | Wash n Run is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/wash-n-run-fort-bend-county/
-3. Shell | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Shell is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/shell-fort-bend-county/
-4. iShine Express | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | iShine Express is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/ishine-express-fort-bend-county/
-5. Rich's Car Wash | Organic #5 | Pulse Score 42.1/100 (Unrated, #5 in city) | Rich's Car Wash is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/richs-car-wash-fort-bend-county/
+2. Shell | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Shell is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/shell-fort-bend-county/
+3. iShine Express | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | iShine Express is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/ishine-express-fort-bend-county/
+4. Rich's Car Wash | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Rich's Car Wash is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/richs-car-wash-fort-bend-county/
+5. Wash n Run | Organic #5 | Pulse Score 42.1/100 (Unrated, #5 in city) | Wash n Run is a car wash in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/wash-n-run-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash fort bend county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

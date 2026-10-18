@@ -13,7 +13,7 @@ Epiphany Center for the Arts is an event venue in Chicago, IL at 201-207 South A
 - Website: https://epiphanychi.com/ent-home/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of event venues in Chicago, #5 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of event venues in Chicago, #5 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

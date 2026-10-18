@@ -6,7 +6,7 @@ Also answers: event venues in Fridley, MN; event venues near me (Fridley, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Banquets of Minnesota | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Banquets of Minnesota is an event venue in Fridley, MN at 6310 Highway 65 Northeast, Fridley, MN 55432. | https://registry-edge.dingalinged.workers.dev/c/banquets-of-minnesota-fridley/
+1. Banquets of Minnesota | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Banquets of Minnesota is an event venue in Fridley, MN at 6310 Highway 65 Northeast, Fridley, MN 55432. | https://registry-edge.dingalinged.workers.dev/c/banquets-of-minnesota-fridley/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues fridley mn | category: Events & weddings | industry benchmark: Personal Services

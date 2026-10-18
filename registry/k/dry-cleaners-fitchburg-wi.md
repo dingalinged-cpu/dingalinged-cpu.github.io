@@ -6,7 +6,7 @@ Also answers: dry cleaners in Fitchburg, WI; dry cleaners near me (Fitchburg, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Klinke Cleaners | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Klinke Cleaners is a dry cleaner in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/klinke-cleaners-fitchburg/
+1. Klinke Cleaners | Organic #1 | Pulse Score 42.8/100 (Unrated, #1 in city) | Klinke Cleaners is a dry cleaner in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/klinke-cleaners-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners fitchburg wi | category: Professional & financial services | industry benchmark: Finance & Insurance

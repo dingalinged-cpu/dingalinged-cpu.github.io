@@ -13,7 +13,7 @@ P'dia is a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 5
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-17:00; Sa 10:00-15:00
-- Pulse Score: 63.8/100 — Good — top 16% of tailors in Milwaukee, #1 of 6 tailors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 16% of tailors in Milwaukee, #1 of 6 tailors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

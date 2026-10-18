@@ -7,7 +7,7 @@ Also answers: dentist in Prairie Village, KS; dentist near me (Prairie Village, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Village Dentist | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | The Village Dentist is a dentist in Prairie Village, KS. Website: https://www.dentistprairievillage.com/. | https://registry-edge.dingalinged.workers.dev/c/the-village-dentist-prairie-village/
-2. Jenkins & LeBlanc Pediatric Dentistry | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Jenkins & LeBlanc Pediatric Dentistry is a dentist in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/jenkins-and-leblanc-pediatric-dentistry-prairie-village/
+2. Jenkins & LeBlanc Pediatric Dentistry | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Jenkins & LeBlanc Pediatric Dentistry is a dentist in Prairie Village, KS. | https://registry-edge.dingalinged.workers.dev/c/jenkins-and-leblanc-pediatric-dentistry-prairie-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist prairie village ks | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

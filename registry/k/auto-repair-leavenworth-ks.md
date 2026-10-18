@@ -6,11 +6,11 @@ Also answers: auto repair in Leavenworth, KS; auto repair near me (Leavenworth, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dent Barn | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | The Dent Barn is an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dent-barn-leavenworth/
-2. Metro Auto Complete Care | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Metro Auto Complete Care is an auto repair shop in Leavenworth, KS at 1347 Metropolitan Avenue, Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/metro-auto-complete-care-leavenworth/
-3. Butler's Muffler & Brake | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Butler's Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth-w503148776/
-4. Butlers Muffler & Brake | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Butlers Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth/
-5. Jiffy Lube | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-leavenworth/
+1. The Dent Barn | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | The Dent Barn is an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dent-barn-leavenworth/
+2. Metro Auto Complete Care | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Metro Auto Complete Care is an auto repair shop in Leavenworth, KS at 1347 Metropolitan Avenue, Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/metro-auto-complete-care-leavenworth/
+3. Butler's Muffler & Brake | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Butler's Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth-w503148776/
+4. Butlers Muffler & Brake | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Butlers Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth/
+5. Jiffy Lube | Organic #5 | Pulse Score 43.1/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair leavenworth ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

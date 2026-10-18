@@ -13,7 +13,7 @@ White Oak Music Hall is an event venue in Houston, TX at 2915 North Main Street,
 - Website: https://whiteoakmusichall.com/
 - Email: n/a
 - Opening hours (OSM syntax): 17:00-24:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of event venues in Houston, #2 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of event venues in Houston, #2 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

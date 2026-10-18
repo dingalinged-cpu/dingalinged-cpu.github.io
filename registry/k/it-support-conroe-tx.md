@@ -6,7 +6,7 @@ Also answers: it support in Conroe, TX; it support near me (Conroe, TX); best it
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1845 Solutions | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | 1845 Solutions is an IT support company in Conroe, TX at 2200 North Frazier Street #120 PMB 224, Conroe, TX 77303. Phone: +13466481845. Website: https://1845solutions.com/. | https://registry-edge.dingalinged.workers.dev/c/1845-solutions-conroe/
+1. 1845 Solutions | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | 1845 Solutions is an IT support company in Conroe, TX at 2200 North Frazier Street #120 PMB 224, Conroe, TX 77303. Phone: +13466481845. Website: https://1845solutions.com/. | https://registry-edge.dingalinged.workers.dev/c/1845-solutions-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support conroe tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

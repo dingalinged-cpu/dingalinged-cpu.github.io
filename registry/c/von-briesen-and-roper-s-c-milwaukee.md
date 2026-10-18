@@ -13,7 +13,7 @@ von Briesen & Roper, s.c. is a lawyer in Milwaukee, WI. Phone: +14142761122. Web
 - Website: https://www.vonbriesen.com/the-firm/locations
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Fair — top 32% of lawyers in Milwaukee, #19 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 32% of lawyers in Milwaukee, #19 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

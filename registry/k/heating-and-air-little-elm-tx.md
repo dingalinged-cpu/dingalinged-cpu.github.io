@@ -6,7 +6,7 @@ Also answers: heating and air in Little Elm, TX; heating and air near me (Little
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oak Point Heating And Air LLC | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Oak Point Heating And Air LLC is a HVAC contractor in Little Elm, TX at 3447 Farm to Market Rd 720 #11, Little Elm, TX 75068. Phone: +14696984637. Website: https://oakpointhvac.com/. | https://registry-edge.dingalinged.workers.dev/c/oak-point-heating-and-air-llc-little-elm/
+1. Oak Point Heating And Air LLC | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Oak Point Heating And Air LLC is a HVAC contractor in Little Elm, TX at 3447 Farm to Market Rd 720 #11, Little Elm, TX 75068. Phone: +14696984637. Website: https://oakpointhvac.com/. | https://registry-edge.dingalinged.workers.dev/c/oak-point-heating-and-air-llc-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air little elm tx | category: Home Services | industry benchmark: Home & Home Improvement

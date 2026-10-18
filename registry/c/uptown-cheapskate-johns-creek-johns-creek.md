@@ -13,7 +13,7 @@ Uptown Cheapskate Johns Creek is a thrift store in Johns Creek, GA at 5900 State
 - Website: https://www.uptowncheapskate.com/location/johns-creek/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 21% of thrift stores in Atlanta, #3 of 6 thrift stores in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 21% of thrift stores in Atlanta, #3 of 6 thrift stores in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

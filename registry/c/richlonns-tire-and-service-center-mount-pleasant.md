@@ -13,7 +13,7 @@ Richlonn's Tire and Service Center is an auto repair shop in Mount Pleasant, WI 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-13:00
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Milwaukee, #1 of 3 auto repair shops in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Milwaukee, #1 of 3 auto repair shops in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: car wash in Gladstone, MO; car wash near me (Gladstone, MO); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Olympic Car Wash | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Olympic Car Wash is a car wash in Gladstone, MO at 6220 North Oak Trafficway, Gladstone, MO 64118. Phone: +18164520007. Website: https://www.olympic-carwash.com/. | https://registry-edge.dingalinged.workers.dev/c/olympic-car-wash-gladstone/
-2. The Better Car Wash | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | The Better Car Wash is a car wash in Gladstone, MO at 6902 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/the-better-car-wash-gladstone/
+2. The Better Car Wash | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | The Better Car Wash is a car wash in Gladstone, MO at 6902 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/the-better-car-wash-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash gladstone mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

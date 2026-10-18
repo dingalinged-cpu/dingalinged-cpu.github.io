@@ -7,7 +7,7 @@ Also answers: vet in Minnetonka, MN; vet near me (Minnetonka, MN); best vet Minn
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Glen Lake Animal Hospital | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Glen Lake Animal Hospital is a veterinarian in Minnetonka, MN at 14805 Excelsior Boulevard, Minnetonka, MN 55345. Phone: +19529351232. Website: https://glenlakeanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/glen-lake-animal-hospital-minnetonka/
-2. Village Animal Hospital | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Village Animal Hospital is a veterinarian in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/village-animal-hospital-minnetonka/
+2. Village Animal Hospital | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Village Animal Hospital is a veterinarian in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/village-animal-hospital-minnetonka/
 3. Banfield Pet Hospital | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Banfield Pet Hospital is a veterinarian in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-minnetonka/
 4. Banfield Pet Hospital | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Banfield Pet Hospital is a veterinarian in Minnetonka, MN. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-minnetonka-n11098487980/
 

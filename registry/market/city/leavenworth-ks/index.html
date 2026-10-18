@@ -6,7 +6,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 ## By monthly searches
 1. car wash leavenworth ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-leavenworth-ks/
-2. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
+2. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
 3. gym leavenworth ks | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-leavenworth-ks/
 4. hair salon leavenworth ks | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-leavenworth-ks/
 5. mechanic leavenworth ks | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-leavenworth-ks/
@@ -32,14 +32,14 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 8. daycare leavenworth ks | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/daycare-leavenworth-ks/
 9. chiropractor leavenworth ks | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-leavenworth-ks/
 10. eye doctor leavenworth ks | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-leavenworth-ks/
-11. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
+11. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
 12. haircut leavenworth ks | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/haircut-leavenworth-ks/
 13. auto repair leavenworth ks | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-leavenworth-ks/
 14. car wash leavenworth ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-leavenworth-ks/
 15. mechanic leavenworth ks | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-leavenworth-ks/
 
 ## By value (searches x CPC)
-1. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
+1. dentist leavenworth ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-leavenworth-ks/
 2. car wash leavenworth ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-leavenworth-ks/
 3. gym leavenworth ks | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-leavenworth-ks/
 4. mechanic leavenworth ks | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-leavenworth-ks/

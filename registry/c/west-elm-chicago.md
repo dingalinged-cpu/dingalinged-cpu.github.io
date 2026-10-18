@@ -13,7 +13,7 @@ west elm is a furniture store in Chicago, IL at 1000 West North Avenue, Chicago,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
-- Pulse Score: 48.3/100 — Building — top 57% of furniture stores in Chicago, #40 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 55% of furniture stores in Chicago, #40 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

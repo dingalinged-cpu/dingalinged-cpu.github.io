@@ -6,7 +6,7 @@ Also answers: tax preparer in Fitchburg, WI; tax preparer near me (Fitchburg, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Hewitt | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-fitchburg/
+1. Jackson Hewitt | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer fitchburg wi | category: professional_accounting | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Hair Central Salon is a hair salon in Bellevue, NE at 3512 Samson Way, Bellevue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00, 08:00-15:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 27% of hair salons in Omaha, NE, #2 of 13 hair salons in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Omaha, NE, #2 of 13 hair salons in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

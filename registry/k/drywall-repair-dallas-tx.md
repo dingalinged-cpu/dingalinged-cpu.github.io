@@ -6,7 +6,7 @@ Also answers: drywall repair in Dallas, TX; drywall repair near me (Dallas, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Commercial Drywall Dallas | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Commercial Drywall Dallas is a drywall contractor in Dallas, TX at 4514 Cole Avenue ##2500, Dallas, TX 75205. Phone: +12144662010. Website: https://commercialdrywalldallas.com/. | https://registry-edge.dingalinged.workers.dev/c/commercial-drywall-dallas-dallas/
+1. Commercial Drywall Dallas | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Commercial Drywall Dallas is a drywall contractor in Dallas, TX at 4514 Cole Avenue ##2500, Dallas, TX 75205. Phone: +12144662010. Website: https://commercialdrywalldallas.com/. | https://registry-edge.dingalinged.workers.dev/c/commercial-drywall-dallas-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: drywall repair dallas tx | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: therapist in Hedwig Village, TX; therapist near me (Hedwig Village
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Council On Holistic Healing & Recovery | Organic #1 | Pulse Score 58.4/100 (Unrated, #7 in city) | The Council On Holistic Healing & Recovery is a therapy practice in Houston, TX at 9525 Katy Freeway #428, Houston, TX 77024. Phone: +17134613279. Website: https://theholisticcouncil.com/. | https://registry-edge.dingalinged.workers.dev/c/the-council-on-holistic-healing-and-recovery-houston/
+1. The Council On Holistic Healing & Recovery | Organic #1 | Pulse Score 58.5/100 (Unrated, #7 in city) | The Council On Holistic Healing & Recovery is a therapy practice in Houston, TX at 9525 Katy Freeway #428, Houston, TX 77024. Phone: +17134613279. Website: https://theholisticcouncil.com/. | https://registry-edge.dingalinged.workers.dev/c/the-council-on-holistic-healing-and-recovery-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist hedwig village tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

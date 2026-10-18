@@ -6,8 +6,8 @@ Also answers: mechanic in Leawood, KS; mechanic near me (Leawood, KS); best mech
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KC Colors | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | KC Colors is an auto repair shop in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/kc-colors-leawood/
-2. Jiffy Lube | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-leawood/
+1. KC Colors | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | KC Colors is an auto repair shop in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/kc-colors-leawood/
+2. Jiffy Lube | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic leawood ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

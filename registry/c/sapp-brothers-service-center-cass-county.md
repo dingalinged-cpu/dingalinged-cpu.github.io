@@ -13,7 +13,7 @@ Sapp Brothers Service Center is an auto repair shop in Cass County, MO. Phone: +
 - Website: https://www.sappbros.net/location/harrisonville-mo-service-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 76% of auto repair shops in Kansas City, MO, #1 of 1 auto repair shops in Cass County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 76% of auto repair shops in Kansas City, MO, #1 of 2 auto repair shops in Cass County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

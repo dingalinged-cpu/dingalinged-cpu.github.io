@@ -6,7 +6,7 @@ Also answers: pediatrician in Tomball, TX; pediatrician near me (Tomball, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Champions Pediatric Associates | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Champions Pediatric Associates is a pediatrician in Tomball, TX at 25201 Kuykendahl Road, Tomball, TX 77375. Website: https://www.championspediatric.com/. | https://registry-edge.dingalinged.workers.dev/c/champions-pediatric-associates-tomball/
+1. Champions Pediatric Associates | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Champions Pediatric Associates is a pediatrician in Tomball, TX at 25201 Kuykendahl Road, Tomball, TX 77375. Website: https://www.championspediatric.com/. | https://registry-edge.dingalinged.workers.dev/c/champions-pediatric-associates-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician tomball tx | category: Health & medical | industry benchmark: Physicians & Surgeons

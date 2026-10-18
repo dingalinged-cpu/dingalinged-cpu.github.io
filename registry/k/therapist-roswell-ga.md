@@ -6,7 +6,7 @@ Also answers: therapist in Roswell, GA; therapist near me (Roswell, GA); best th
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christine McGinnis, Psy.D | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Christine McGinnis, Psy.D is a therapy practice in Roswell, GA at 703 Macy Drive, Roswell, GA 30076. Phone: +17706438029. Website: https://drchristinemcginnis.com/. | https://registry-edge.dingalinged.workers.dev/c/christine-mcginnis-psy-d-roswell/
+1. Christine McGinnis, Psy.D | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Christine McGinnis, Psy.D is a therapy practice in Roswell, GA at 703 Macy Drive, Roswell, GA 30076. Phone: +17706438029. Website: https://drchristinemcginnis.com/. | https://registry-edge.dingalinged.workers.dev/c/christine-mcginnis-psy-d-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist roswell ga | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

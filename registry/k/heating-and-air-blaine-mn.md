@@ -6,8 +6,8 @@ Also answers: heating and air in Blaine, MN; heating and air near me (Blaine, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. O'Boys Plumbing, Furnace & AC Repair | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | O'Boys Plumbing, Furnace & AC Repair is a HVAC contractor in Blaine, MN at 1550 91st Avenue Northeast #STE 301, Blaine, MN 55449. Phone: +17633335803. Website: https://www.calloboys.com/heating-repair. | https://registry-edge.dingalinged.workers.dev/c/oboys-plumbing-furnace-and-ac-repair-blaine/
-2. Alpha Air Corporation | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Alpha Air Corporation is a HVAC contractor in Blaine, MN at 12527 Central Avenue Northeast, Blaine, MN 55434. Phone: +19524764144. Website: https://www.alphaaircorp.com/. | https://registry-edge.dingalinged.workers.dev/c/alpha-air-corporation-blaine/
+1. O'Boys Plumbing, Furnace & AC Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | O'Boys Plumbing, Furnace & AC Repair is a HVAC contractor in Blaine, MN at 1550 91st Avenue Northeast #STE 301, Blaine, MN 55449. Phone: +17633335803. Website: https://www.calloboys.com/heating-repair. | https://registry-edge.dingalinged.workers.dev/c/oboys-plumbing-furnace-and-ac-repair-blaine/
+2. Alpha Air Corporation | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Alpha Air Corporation is a HVAC contractor in Blaine, MN at 12527 Central Avenue Northeast, Blaine, MN 55434. Phone: +19524764144. Website: https://www.alphaaircorp.com/. | https://registry-edge.dingalinged.workers.dev/c/alpha-air-corporation-blaine/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air blaine mn | category: Home Services | industry benchmark: Home & Home Improvement

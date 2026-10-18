@@ -13,7 +13,7 @@ Exhale is a skin care studio in Atlanta, GA at 1065 Peachtree Street Northeast, 
 - Website: https://exhalespa.com/midtown-atlanta/
 - Email: atlantafd@exhalespa.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 08:00-20:00
-- Pulse Score: 62.5/100 — Good — top 21% of skin care studios in Atlanta, #2 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 21% of skin care studios in Atlanta, #2 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

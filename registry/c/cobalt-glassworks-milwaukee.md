@@ -13,7 +13,7 @@ Cobalt Glassworks is a window repair service in Milwaukee, WI. Phone: +141453479
 - Website: https://cobaltglassworks.com/
 - Email: jsschroder@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of window repair services in Milwaukee, #1 of 3 window repair services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of window repair services in Milwaukee, #1 of 3 window repair services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

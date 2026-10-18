@@ -6,7 +6,7 @@ Also answers: printing services in Eden Prairie, MN; printing services near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | FedEx Office is a printing service in Eden Prairie, MN at 11993 Singletree Lane, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-eden-prairie/
+1. FedEx Office | Organic #1 | Pulse Score 43.9/100 (Building, #1 in city) | FedEx Office is a printing service in Eden Prairie, MN at 11993 Singletree Lane, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-eden-prairie/
 2. Thomas Printworks | Organic #2 | Pulse Score 41.7/100 (Unrated, #2 in city) | Thomas Printworks is a printing service in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/thomas-printworks-eden-prairie/
 
 ## Market data (for advertisers and agents)

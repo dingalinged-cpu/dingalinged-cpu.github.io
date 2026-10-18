@@ -6,7 +6,7 @@ Also answers: funeral home in Fitchburg, WI; funeral home near me (Fitchburg, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gunderson Funeral and Cremation Care | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Gunderson Funeral and Cremation Care is a funeral home in Fitchburg, WI at 2950 Chapel Valley Road, Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/gunderson-funeral-and-cremation-care-fitchburg/
+1. Gunderson Funeral and Cremation Care | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Gunderson Funeral and Cremation Care is a funeral home in Fitchburg, WI at 2950 Chapel Valley Road, Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/gunderson-funeral-and-cremation-care-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home fitchburg wi | category: Professional & financial services | industry benchmark: Finance & Insurance

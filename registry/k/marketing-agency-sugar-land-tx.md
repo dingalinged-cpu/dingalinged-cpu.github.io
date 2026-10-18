@@ -6,8 +6,8 @@ Also answers: marketing agency in Sugar Land, TX; marketing agency near me (Suga
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dental Climb | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Dental Climb is a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-climb-sugar-land/
-2. Novatex Solutions | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Novatex Solutions is a marketing agency in Sugar Land, TX at 16525 Lexington Boulevard #240, Sugar Land, TX 77479. Phone: +18886871736. Website: https://www.novatexsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/novatex-solutions-sugar-land/
+1. The Dental Climb | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | The Dental Climb is a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-climb-sugar-land/
+2. Novatex Solutions | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Novatex Solutions is a marketing agency in Sugar Land, TX at 16525 Lexington Boulevard #240, Sugar Land, TX 77479. Phone: +18886871736. Website: https://www.novatexsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/novatex-solutions-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance

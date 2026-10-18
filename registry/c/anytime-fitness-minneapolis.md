@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Minneapolis, MN at 111 Washington Avenue North #100,
 - Website: https://www.anytimefitness.com/gyms/281/minneapolis-mn-55401/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.2/100 — Fair — top 41% of gyms in Minneapolis–St. Paul, #25 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 40% of gyms in Minneapolis–St. Paul, #24 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

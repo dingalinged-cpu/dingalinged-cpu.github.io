@@ -13,7 +13,7 @@ Mattress Firm Supercenter is a mattress store in Kennesaw, GA at 390 Ernest West
 - Website: https://www.mattressfirm.com/en-us/stores/ga/kennesaw/007044/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
-- Pulse Score: 51.2/100 — Fair — top 39% of mattress stores in Atlanta, #4 of 7 mattress stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 39% of mattress stores in Atlanta, #4 of 7 mattress stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

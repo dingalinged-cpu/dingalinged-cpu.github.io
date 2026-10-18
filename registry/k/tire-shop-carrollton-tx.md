@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Discount Tire | Organic #1 | Pulse Score 51.2/100 (Fair, #1 in city) | Discount Tire is a tire shop in Carrollton, TX at 1405 South Josey Lane, Carrollton, TX 75006. Phone: +19724165325. Website: https://www.discounttire.com/store/tx/carrollton/s/1189. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-carrollton/
 2. Driver's Edge | Organic #2 | Pulse Score 50.5/100 (Unrated, #11 in city) | Driver's Edge is an auto repair shop in Carrollton, TX at 1401 Wainwright Way, Carrollton, TX. Phone: +19722453144. Website: https://www.mydriversedge.com/locations/carrollton-auto-repair/. | https://registry-edge.dingalinged.workers.dev/c/drivers-edge-carrollton/
-3. Discount Tire | Organic #3 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Carrollton, TX at 3408 Trinity Mills Road, Carrollton, TX 75006. Phone: +19723808854. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-carrollton-w424187317/
+3. Discount Tire | Organic #3 | Pulse Score 45.8/100 (Building, #2 in city) | Discount Tire is a tire shop in Carrollton, TX at 3408 Trinity Mills Road, Carrollton, TX 75006. Phone: +19723808854. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-carrollton-w424187317/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop carrollton tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

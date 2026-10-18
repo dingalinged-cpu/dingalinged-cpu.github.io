@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Madison, WI at 2810 Crossroads Drive ##3500
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/madison/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Madison, #12 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Madison, #12 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for the United States is Community Threads (a thrift store in Arlington Heights, IL at 250 West Rand Road, Arlington Heights, IL 60004. Phone: +18478181630. Website: https://www.facebook.com/communitythreadsupscaleresale). 679 thrift store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for the United States is Community Threads (a thrift store in Arlington Heights, IL at 250 West Rand Road, Arlington Heights, IL 60004. Phone: +18478181630. Website: https://www.facebook.com/communitythreadsupscaleresale). 1123 thrift store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in the United States?
 
@@ -14,55 +14,59 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 6. The Brown Elephant | Organic #6 | Pulse Score 64.2/100 (Good, #1 in city) | The Brown Elephant is a thrift store in Chicago, IL at 5404 North Clark Street, Chicago, IL 60640. Phone: +17732719382. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://registry-edge.dingalinged.workers.dev/c/the-brown-elephant-chicago/
 7. The Brown Elephant – Northalsted | Organic #7 | Pulse Score 64.2/100 (Good, #2 in city) | The Brown Elephant – Northalsted is a thrift store in Chicago, IL at 812 West Belmont Avenue, Chicago, IL 60657. Phone: +17735495943. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://registry-edge.dingalinged.workers.dev/c/the-brown-elephant-northalsted-chicago/
 8. Saint Paul's Thrift Shop | Organic #8 | Pulse Score 64/100 (Unrated, #1 in city) | Saint Paul's Thrift Shop is a thrift store in Milwaukee, WI at 1324 North Marshall Street, Milwaukee, WI 53202. Phone: +14142765520. Website: https://www.stpaulsmilwaukee.org/building/thrift-shop/. | https://registry-edge.dingalinged.workers.dev/c/saint-pauls-thrift-shop-milwaukee/
-9. Seeds Thrift Store | Organic #9 | Pulse Score 63.9/100 (Good, #1 in city) | Seeds Thrift Store is a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/. | https://registry-edge.dingalinged.workers.dev/c/seeds-thrift-store-woodstock/
-10. PCs for People | Organic #10 | Pulse Score 63.9/100 (Unrated, #1 in city) | PCs for People is a thrift store in Kansas City, MO at 518 Santa Fe Street, Kansas City, MO 64105. Phone: +18162590851. Website: https://www.pcsforpeople.org/locations/kansascity/. | https://registry-edge.dingalinged.workers.dev/c/pcs-for-people-kansas-city/
-11. Goodwill - Kennesaw Donation Center | Organic #11 | Pulse Score 63.8/100 (Good, #1 in city) | Goodwill - Kennesaw Donation Center is a thrift store in Kennesaw, GA at 4430 Wade Green Road #110, Kennesaw, GA 30144. Phone: +16783547162. Website: https://goodwillng.org/gw-locations/north-kennesaw-donation-center-30144/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-kennesaw-donation-center-kennesaw/
-12. Mostly Mutts Market | Organic #12 | Pulse Score 63.7/100 (Good, #1 in city) | Mostly Mutts Market is a thrift store in Cherokee County, GA at 5505 Bells Ferry Road, Cherokee County, GA. Phone: +17705395918. Website: https://mostlymutts.org/. | https://registry-edge.dingalinged.workers.dev/c/mostly-mutts-market-cherokee-county/
-13. No Longer Bound Thrift Store | Organic #13 | Pulse Score 63.7/100 (Good, #1 in city) | No Longer Bound Thrift Store is a thrift store in Johns Creek, GA at 6000 Medlock Bridge Parkway, Johns Creek, GA. Phone: +14708398838. Website: https://nlbthrift.com/johnscreek/. | https://registry-edge.dingalinged.workers.dev/c/no-longer-bound-thrift-store-johns-creek/
+9. PCs for People | Organic #9 | Pulse Score 63.9/100 (Unrated, #1 in city) | PCs for People is a thrift store in Kansas City, MO at 518 Santa Fe Street, Kansas City, MO 64105. Phone: +18162590851. Website: https://www.pcsforpeople.org/locations/kansascity/. | https://registry-edge.dingalinged.workers.dev/c/pcs-for-people-kansas-city/
+10. The Hereafter | Organic #10 | Pulse Score 63.9/100 (Unrated, #1 in city) | The Hereafter is a thrift store in Wichita, KS at 120 North Hillside Street #B, Wichita, KS 67214. Phone: +13165189571. Website: https://www.thehereafter.biz/. | https://registry-edge.dingalinged.workers.dev/c/the-hereafter-wichita/
+11. Seeds Thrift Store | Organic #11 | Pulse Score 63.8/100 (Good, #1 in city) | Seeds Thrift Store is a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/. | https://registry-edge.dingalinged.workers.dev/c/seeds-thrift-store-woodstock/
+12. Avalon Exchange | Organic #12 | Pulse Score 63.8/100 (Unrated, #1 in city) | Avalon Exchange is a thrift store in University City, MO at 6392 Delmar Boulevard, University City, MO 63130. Phone: +13147252760. Website: https://avalonexchange.com/st-louis-mo/. | https://registry-edge.dingalinged.workers.dev/c/avalon-exchange-university-city/
+13. Goodwill - Kennesaw Donation Center | Organic #13 | Pulse Score 63.7/100 (Good, #1 in city) | Goodwill - Kennesaw Donation Center is a thrift store in Kennesaw, GA at 4430 Wade Green Road #110, Kennesaw, GA 30144. Phone: +16783547162. Website: https://goodwillng.org/gw-locations/north-kennesaw-donation-center-30144/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-kennesaw-donation-center-kennesaw/
 14. Blessings Abound Thrift Store & Donation Center | Organic #14 | Pulse Score 63.7/100 (Unrated, #1 in city) | Blessings Abound Thrift Store & Donation Center is a thrift store in Overland Park, KS at 10325 Metcalf Avenue, Overland Park, KS 66212. Phone: +19136480700. Website: https://blessingsaboundkc.org/. | https://registry-edge.dingalinged.workers.dev/c/blessings-abound-thrift-store-and-donation-center-overland-park/
-15. Neat Repeats | Organic #15 | Pulse Score 63.6/100 (Unrated, #1 in city) | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://registry-edge.dingalinged.workers.dev/c/neat-repeats-orland-park/
-16. Neat Repeats | Organic #16 | Pulse Score 63.6/100 (Unrated, #1 in city) | Neat Repeats is a thrift store in Worth, IL at 6602 West 111th Street, Worth, IL 60482. Phone: +17083616860. Website: https://crisisctr.org/neat-repeats/. | https://registry-edge.dingalinged.workers.dev/c/neat-repeats-worth/
-17. Once Upon a Child | Organic #17 | Pulse Score 63.5/100 (Unrated, #1 in city) | Once Upon a Child is a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard #500, Rosenberg, TX. Phone: +12817253878. Website: https://www.onceuponachild.com/locations/rosenberg-tx. | https://registry-edge.dingalinged.workers.dev/c/once-upon-a-child-rosenberg/
-18. Goodwill Super Store | Organic #18 | Pulse Score 63.4/100 (Unrated, #1 in city) | Goodwill Super Store is a thrift store in Hurst, TX at 825 West Pipeline Road, Hurst, TX 76053. Phone: +18175900327. Website: https://www.goodwillfortworth.org/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-super-store-hurst/
-19. Lisa's Resale Gone Upscale | Organic #19 | Pulse Score 63.1/100 (Good, #1 in city) | Lisa's Resale Gone Upscale is a thrift store in Lewisville, TX at 1165 South Stemmons Freeway #100, Lewisville, TX. Phone: +12144257505. Website: https://lisasresale.com/. | https://registry-edge.dingalinged.workers.dev/c/lisas-resale-gone-upscale-lewisville/
-20. ReHome Superstore | Organic #20 | Pulse Score 63/100 (Good, #1 in city) | ReHome Superstore is a thrift store in Cobb County, GA at 2568 Canton Road, Cobb County, GA. Phone: +16787950202. Website: https://www.opp.ourpalsplace.org/rehome-superstore/. | https://registry-edge.dingalinged.workers.dev/c/rehome-superstore-cobb-county/
-21. Out of the Closet | Organic #21 | Pulse Score 63/100 (Unrated, #1 in city) | Out of the Closet is a thrift store in Dallas, TX at 3920 Cedar Springs Road, Dallas, TX 75219. Phone: +12145992173. Website: https://locations.outofthecloset.org/tx-dallas-18210300. | https://registry-edge.dingalinged.workers.dev/c/out-of-the-closet-dallas/
-22. Bascomb Mission Thrift Store | Organic #22 | Pulse Score 62.9/100 (Good, #2 in city) | Bascomb Mission Thrift Store is a thrift store in Woodstock, GA at 9550 Main Street #170, Woodstock, GA. Phone: +16783247937. | https://registry-edge.dingalinged.workers.dev/c/bascomb-mission-thrift-store-woodstock/
-23. ScrapsKC | Organic #23 | Pulse Score 62.9/100 (Unrated, #2 in city) | ScrapsKC is a thrift store in Kansas City, MO. Phone: +18165224305. Website: https://scrapskc.org/. | https://registry-edge.dingalinged.workers.dev/c/scrapskc-kansas-city/
-24. Greater Goods Community Thrift | Organic #24 | Pulse Score 62.6/100 (Unrated, #3 in city) | Greater Goods Community Thrift is a thrift store in Chicago, IL at 6025 West Irving Park Road, Chicago, IL 60634. Phone: +17736573482. | https://registry-edge.dingalinged.workers.dev/c/greater-goods-community-thrift-chicago/
-25. Back by Popular Demand Consignment | Organic #25 | Pulse Score 62.5/100 (Good, #1 in city) | Back by Popular Demand Consignment is a thrift store in Marietta, GA at 1255 Johnson Ferry Road Northeast #13, Marietta, GA 30068. Phone: +17709714750. Website: https://bbpdconsignment.com/. | https://registry-edge.dingalinged.workers.dev/c/back-by-popular-demand-consignment-marietta/
-26. Kid to Kid | Organic #26 | Pulse Score 62.5/100 (Unrated, #1 in city) | Kid to Kid is a thrift store in Eagan, MN at 1278 Town Centre Drive #140, Eagan, MN 55123. Phone: +16514931447. Website: https://kidtokid.com/location/eagan/. | https://registry-edge.dingalinged.workers.dev/c/kid-to-kid-eagan/
-27. Many Hands Thrift Market | Organic #27 | Pulse Score 62.5/100 (Unrated, #1 in city) | Many Hands Thrift Market is a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/many-hands-thrift-market-clive/
-28. JJ's Closet | Organic #28 | Pulse Score 62.4/100 (Unrated, #1 in city) | JJ's Closet is a thrift store in Spring, TX at 322 Gentry Street #A, Spring, TX 77373. Phone: +13463701381. Website: https://jjsclosetllc.com/. | https://registry-edge.dingalinged.workers.dev/c/jjs-closet-spring/
-29. Restore - Habitat for Humanity | Organic #29 | Pulse Score 62.2/100 (Unrated, #1 in city) | Restore - Habitat for Humanity is a thrift store in Arlington, TX at 905 West Mayfield Road, Arlington, TX 76015. Phone: +16824330006. Website: https://habitat-restore.com/. | https://registry-edge.dingalinged.workers.dev/c/restore-habitat-for-humanity-arlington/
-30. Life Message Thrift | Organic #30 | Pulse Score 62.1/100 (Unrated, #1 in city) | Life Message Thrift is a thrift store in Rowlett, TX at 4501 Rowlett Road #100, Rowlett, TX 75088. Phone: +19724124092. Website: https://lifemessage.org/thrift-store. | https://registry-edge.dingalinged.workers.dev/c/life-message-thrift-rowlett/
-31. Metrocrest Resale | Organic #31 | Pulse Score 62.1/100 (Unrated, #1 in city) | Metrocrest Resale is a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/. | https://registry-edge.dingalinged.workers.dev/c/metrocrest-resale-carrollton/
-32. Pennies for Heaven Resale | Organic #32 | Pulse Score 62.1/100 (Unrated, #2 in city) | Pennies for Heaven Resale is a thrift store in Dallas, TX at 17471 Preston Road, Dallas, TX 75252. Phone: +19729822726. Website: https://pfhresale.com/. | https://registry-edge.dingalinged.workers.dev/c/pennies-for-heaven-resale-dallas/
-33. TurnStyle | Organic #33 | Pulse Score 62.1/100 (Unrated, #1 in city) | TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/. | https://registry-edge.dingalinged.workers.dev/c/turnstyle-maple-grove/
-34. Knee Deep Vintage | Organic #34 | Pulse Score 62/100 (Good, #4 in city) | Knee Deep Vintage is a thrift store in Chicago, IL at 1219 West 18th Street, Chicago, IL. Website: https://www.kneedeepvintage.com/. | https://registry-edge.dingalinged.workers.dev/c/knee-deep-vintage-chicago/
-35. America's Thrift Stores | Organic #35 | Pulse Score 61.9/100 (Good, #2 in city) | America's Thrift Stores is a thrift store in Cobb County, GA at 2949 Canton Road Northeast, Cobb County, GA. Phone: +17704230094. Website: https://www.americasthrift.com/location/marietta-ga-thrift-store/. | https://registry-edge.dingalinged.workers.dev/c/americas-thrift-stores-cobb-county/
-36. Hope's Door | Organic #36 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store. | https://registry-edge.dingalinged.workers.dev/c/hopes-door-plano/
-37. Undies for Everyone | Organic #37 | Pulse Score 61.9/100 (Unrated, #2 in city) | Undies for Everyone is a thrift store in Houston, TX at 3610 Willowbend Blvd, Houston, TX. Phone: +17133389676. Website: https://undiesforeveryone.org/. | https://registry-edge.dingalinged.workers.dev/c/undies-for-everyone-houston/
-38. BRB Resale | Organic #38 | Pulse Score 61.9/100 (Unrated, #2 in city) | BRB Resale is a thrift store in Spring, TX at 27517 Prairie Street, Spring, TX 77373. Phone: +18327480007. Website: https://oldtownspringshopping.com/directories/brb-resale. | https://registry-edge.dingalinged.workers.dev/c/brb-resale-spring/
-39. 2nd & Charles | Organic #39 | Pulse Score 61.8/100 (Good, #3 in city) | 2nd & Charles is a thrift store in Cobb County, GA at 815 Ernest W. Barrett Parkway Northwest, Cobb County, GA. Phone: +17704223172. Website: https://www.2ndandcharles.com/locations/kennesaw. | https://registry-edge.dingalinged.workers.dev/c/2nd-and-charles-cobb-county/
-40. Fantasyland | Organic #40 | Pulse Score 61.8/100 (Unrated, #2 in city) | Fantasyland is a thrift store in Atlanta, GA at 360 Pharr Road Northeast, Atlanta, GA 30305. Phone: +14042373193. Website: https://fantasylandrecords.com/. | https://registry-edge.dingalinged.workers.dev/c/fantasyland-atlanta/
-41. Red Racks | Organic #41 | Pulse Score 61.8/100 (Unrated, #3 in city) | Red Racks is a thrift store in Kansas City, MO at 2425, Kansas City, MO 64118. Phone: +18163211070. Website: https://www.redracksthriftstores.com/vivion-rd/. | https://registry-edge.dingalinged.workers.dev/c/red-racks-kansas-city/
-42. Must Marketplace | Organic #42 | Pulse Score 61.7/100 (Good, #4 in city) | Must Marketplace is a thrift store in Cobb County, GA at 4651 Woodstock Road, Cobb County, GA. Phone: +17707903900. Website: https://www.mustministries.org/must-marketplace. | https://registry-edge.dingalinged.workers.dev/c/must-marketplace-cobb-county/
-43. b. resale | Organic #43 | Pulse Score 61.7/100 (Unrated, #1 in city) | b. resale is a thrift store in Minneapolis, MN at 2613 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128241292. Website: https://www.bresale.com/. | https://registry-edge.dingalinged.workers.dev/c/b-resale-minneapolis/
-44. Genesis Benefit Thrift Store | Organic #44 | Pulse Score 61.7/100 (Unrated, #3 in city) | Genesis Benefit Thrift Store is a thrift store in Dallas, TX at 3419 Knight Street, Dallas, TX 75219. Phone: +12145206644. Website: https://www.genesisshelter.org/benefit-store/. | https://registry-edge.dingalinged.workers.dev/c/genesis-benefit-thrift-store-dallas/
-45. Nu2U Resale | Organic #45 | Pulse Score 61.7/100 (Unrated, #2 in city) | Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale. | https://registry-edge.dingalinged.workers.dev/c/nu2u-resale-arlington/
-46. Prime Thrift | Organic #46 | Pulse Score 61.7/100 (Unrated, #4 in city) | Prime Thrift is a thrift store in Dallas, TX at 4640 South 2nd Avenue, Dallas, TX 75210. Phone: +12144283156. Website: https://primethrift.com/pages/2nd-ave. | https://registry-edge.dingalinged.workers.dev/c/prime-thrift-dallas/
-47. Interfaith Caring Ministries (ICM) Resale Shop | Organic #47 | Pulse Score 61.7/100 (Unrated, #1 in city) | Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale. | https://registry-edge.dingalinged.workers.dev/c/interfaith-caring-ministries-icm-resale-shop-webster/
-48. Unique Thrift Store | Organic #48 | Pulse Score 61.5/100 (Unrated, #5 in city) | Unique Thrift Store is a thrift store in Chicago, IL at 3748 North Elston Avenue, Chicago, IL 60618. | https://registry-edge.dingalinged.workers.dev/c/unique-thrift-store-chicago/
-49. The Hope Chest | Organic #49 | Pulse Score 61.5/100 (Unrated, #1 in city) | The Hope Chest is a thrift store in La Grange, IL at 305 West Hillgrove Avenue, La Grange, IL 60525. Phone: +17084820359. Website: https://www.thehopechest.net/. | https://registry-edge.dingalinged.workers.dev/c/the-hope-chest-la-grange/
-50. The Blue Bird Circle | Organic #50 | Pulse Score 61.5/100 (Unrated, #3 in city) | The Blue Bird Circle is a thrift store in Houston, TX at 615 West Alabama Street, Houston, TX 77006. Phone: +17135280470. Website: https://www.thebluebirdcircle.com/. | https://registry-edge.dingalinged.workers.dev/c/the-blue-bird-circle-houston/
+15. Mostly Mutts Market | Organic #15 | Pulse Score 63.6/100 (Good, #1 in city) | Mostly Mutts Market is a thrift store in Cherokee County, GA at 5505 Bells Ferry Road, Cherokee County, GA. Phone: +17705395918. Website: https://mostlymutts.org/. | https://registry-edge.dingalinged.workers.dev/c/mostly-mutts-market-cherokee-county/
+16. No Longer Bound Thrift Store | Organic #16 | Pulse Score 63.6/100 (Good, #1 in city) | No Longer Bound Thrift Store is a thrift store in Johns Creek, GA at 6000 Medlock Bridge Parkway, Johns Creek, GA. Phone: +14708398838. Website: https://nlbthrift.com/johnscreek/. | https://registry-edge.dingalinged.workers.dev/c/no-longer-bound-thrift-store-johns-creek/
+17. Found. | Organic #17 | Pulse Score 63.6/100 (Unrated, #2 in city) | Found. is a thrift store in University City, MO at 6325 Delmar Boulevard, University City, MO 63130. Phone: +13148333474. Website: https://foundbythepound.com/. | https://registry-edge.dingalinged.workers.dev/c/found-university-city/
+18. Neat Repeats | Organic #18 | Pulse Score 63.6/100 (Unrated, #1 in city) | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://registry-edge.dingalinged.workers.dev/c/neat-repeats-orland-park/
+19. Neat Repeats | Organic #19 | Pulse Score 63.6/100 (Unrated, #1 in city) | Neat Repeats is a thrift store in Worth, IL at 6602 West 111th Street, Worth, IL 60482. Phone: +17083616860. Website: https://crisisctr.org/neat-repeats/. | https://registry-edge.dingalinged.workers.dev/c/neat-repeats-worth/
+20. Goodwill Super Store | Organic #20 | Pulse Score 63.4/100 (Unrated, #1 in city) | Goodwill Super Store is a thrift store in Hurst, TX at 825 West Pipeline Road, Hurst, TX 76053. Phone: +18175900327. Website: https://www.goodwillfortworth.org/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-super-store-hurst/
+21. Out of the Closet | Organic #21 | Pulse Score 63.3/100 (Unrated, #1 in city) | Out of the Closet is a thrift store in Columbus, OH at 1230 North High Street, Columbus, OH 43201. Website: https://outofthecloset.org/locations/columbus-thrift-store/. | https://registry-edge.dingalinged.workers.dev/c/out-of-the-closet-columbus/
+22. i75 | Organic #22 | Pulse Score 63.2/100 (Unrated, #1 in city) | i75 is a thrift store in Cincinnati, OH at 1319 Main Street, Cincinnati, OH 45202. Website: https://i75otr.com/. | https://registry-edge.dingalinged.workers.dev/c/i75-cincinnati/
+23. Lisa's Resale Gone Upscale | Organic #23 | Pulse Score 63.1/100 (Good, #1 in city) | Lisa's Resale Gone Upscale is a thrift store in Lewisville, TX at 1165 South Stemmons Freeway #100, Lewisville, TX. Phone: +12144257505. Website: https://lisasresale.com/. | https://registry-edge.dingalinged.workers.dev/c/lisas-resale-gone-upscale-lewisville/
+24. Salvation Army Thrift Store | Organic #24 | Pulse Score 63.1/100 (Unrated, #1 in city) | Salvation Army Thrift Store is a thrift store in Canton Township, MI at 43403 Joy Road, Canton Township, MI 48187. Phone: +17344161925. Website: https://satruck.org/. | https://registry-edge.dingalinged.workers.dev/c/salvation-army-thrift-store-canton-township/
+25. ReHome Superstore | Organic #25 | Pulse Score 63/100 (Good, #1 in city) | ReHome Superstore is a thrift store in Cobb County, GA at 2568 Canton Road, Cobb County, GA. Phone: +16787950202. Website: https://www.opp.ourpalsplace.org/rehome-superstore/. | https://registry-edge.dingalinged.workers.dev/c/rehome-superstore-cobb-county/
+26. Out of the Closet | Organic #26 | Pulse Score 63/100 (Unrated, #1 in city) | Out of the Closet is a thrift store in Dallas, TX at 3920 Cedar Springs Road, Dallas, TX 75219. Phone: +12145992173. Website: https://locations.outofthecloset.org/tx-dallas-18210300. | https://registry-edge.dingalinged.workers.dev/c/out-of-the-closet-dallas/
+27. Bascomb Mission Thrift Store | Organic #27 | Pulse Score 62.9/100 (Good, #2 in city) | Bascomb Mission Thrift Store is a thrift store in Woodstock, GA at 9550 Main Street #170, Woodstock, GA. Phone: +16783247937. | https://registry-edge.dingalinged.workers.dev/c/bascomb-mission-thrift-store-woodstock/
+28. Fashion Freak | Organic #28 | Pulse Score 62.9/100 (Good, #2 in city) | Fashion Freak is a thrift store in Wichita, KS at 1054 South Oliver Street, Wichita, KS 67218. Website: https://www.facebook.com/people/Fashion-Freak/100092518275247/. | https://registry-edge.dingalinged.workers.dev/c/fashion-freak-wichita/
+29. ScrapsKC | Organic #29 | Pulse Score 62.8/100 (Unrated, #2 in city) | ScrapsKC is a thrift store in Kansas City, MO. Phone: +18165224305. Website: https://scrapskc.org/. | https://registry-edge.dingalinged.workers.dev/c/scrapskc-kansas-city/
+30. Repurposed | Organic #30 | Pulse Score 62.8/100 (Unrated, #1 in city) | Repurposed is a thrift store in Pittsburgh, PA at 7805 McKnight Road, Pittsburgh, PA 15237. Phone: +14125483755. Website: https://www.repurposedforyou.org/. | https://registry-edge.dingalinged.workers.dev/c/repurposed-pittsburgh/
+31. Greater Goods Community Thrift | Organic #31 | Pulse Score 62.6/100 (Unrated, #3 in city) | Greater Goods Community Thrift is a thrift store in Chicago, IL at 6025 West Irving Park Road, Chicago, IL 60634. Phone: +17736573482. | https://registry-edge.dingalinged.workers.dev/c/greater-goods-community-thrift-chicago/
+32. Auraria Sustainable Campus Program | Organic #32 | Pulse Score 62.6/100 (Unrated, #1 in city) | Auraria Sustainable Campus Program is a thrift store in Denver, CO at 900 Auraria Parkway #346, Denver, CO 80204. Phone: +13035563481. Website: https://www.sustainableauraria.org/. | https://registry-edge.dingalinged.workers.dev/c/auraria-sustainable-campus-program-denver/
+33. Back by Popular Demand Consignment | Organic #33 | Pulse Score 62.5/100 (Good, #1 in city) | Back by Popular Demand Consignment is a thrift store in Marietta, GA at 1255 Johnson Ferry Road Northeast #13, Marietta, GA 30068. Phone: +17709714750. Website: https://bbpdconsignment.com/. | https://registry-edge.dingalinged.workers.dev/c/back-by-popular-demand-consignment-marietta/
+34. Habitat ForHumanity ReStore - Fairfield | Organic #34 | Pulse Score 62.5/100 (Unrated, #1 in city) | Habitat ForHumanity ReStore - Fairfield is a thrift store in Fairfield, OH at 4655 Dixie Highway, Fairfield, OH 45014. Phone: +15138931102. Website: https://www.habitatcincinnati.org/restore. | https://registry-edge.dingalinged.workers.dev/c/habitat-forhumanity-restore-fairfield-fairfield/
+35. Many Hands Thrift Market | Organic #35 | Pulse Score 62.5/100 (Unrated, #1 in city) | Many Hands Thrift Market is a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/many-hands-thrift-market-clive/
+36. JJ's Closet | Organic #36 | Pulse Score 62.4/100 (Unrated, #1 in city) | JJ's Closet is a thrift store in Spring, TX at 322 Gentry Street #A, Spring, TX 77373. Phone: +13463701381. Website: https://jjsclosetllc.com/. | https://registry-edge.dingalinged.workers.dev/c/jjs-closet-spring/
+37. Treasure House Fashions | Organic #37 | Pulse Score 62.3/100 (Unrated, #2 in city) | Treasure House Fashions is a thrift store in Pittsburgh, PA at 7607 McKnight Road, Pittsburgh, PA 15237. Phone: +14123643256. Website: https://thfashions.org/. | https://registry-edge.dingalinged.workers.dev/c/treasure-house-fashions-pittsburgh/
+38. Restore - Habitat for Humanity | Organic #38 | Pulse Score 62.2/100 (Unrated, #1 in city) | Restore - Habitat for Humanity is a thrift store in Arlington, TX at 905 West Mayfield Road, Arlington, TX 76015. Phone: +16824330006. Website: https://habitat-restore.com/. | https://registry-edge.dingalinged.workers.dev/c/restore-habitat-for-humanity-arlington/
+39. Maj-r thrift | Organic #39 | Pulse Score 62.2/100 (Unrated, #1 in city) | Maj-r thrift is a thrift store in Topeka, KS at 2020 Northwest Topeka Boulevard #Suite 200, Topeka, KS 66608. Phone: +17852343101. Website: https://www.maj-rthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/maj-r-thrift-topeka/
+40. Life Message Thrift | Organic #40 | Pulse Score 62.1/100 (Unrated, #1 in city) | Life Message Thrift is a thrift store in Rowlett, TX at 4501 Rowlett Road #100, Rowlett, TX 75088. Phone: +19724124092. Website: https://lifemessage.org/thrift-store. | https://registry-edge.dingalinged.workers.dev/c/life-message-thrift-rowlett/
+41. Metrocrest Resale | Organic #41 | Pulse Score 62.1/100 (Unrated, #1 in city) | Metrocrest Resale is a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/. | https://registry-edge.dingalinged.workers.dev/c/metrocrest-resale-carrollton/
+42. Pennies for Heaven Resale | Organic #42 | Pulse Score 62.1/100 (Unrated, #2 in city) | Pennies for Heaven Resale is a thrift store in Dallas, TX at 17471 Preston Road, Dallas, TX 75252. Phone: +19729822726. Website: https://pfhresale.com/. | https://registry-edge.dingalinged.workers.dev/c/pennies-for-heaven-resale-dallas/
+43. Red White and Blue | Organic #43 | Pulse Score 62.1/100 (Unrated, #3 in city) | Red White and Blue is a thrift store in Pittsburgh, PA at 935 Ohio River Boulevard, Pittsburgh, PA 15202. Phone: +14127666098. Website: https://redwhiteandbluethriftstore.com/Ohio_River_Blvd.html. | https://registry-edge.dingalinged.workers.dev/c/red-white-and-blue-pittsburgh/
+44. Knee Deep Vintage | Organic #44 | Pulse Score 62/100 (Good, #4 in city) | Knee Deep Vintage is a thrift store in Chicago, IL at 1219 West 18th Street, Chicago, IL. Website: https://www.kneedeepvintage.com/. | https://registry-edge.dingalinged.workers.dev/c/knee-deep-vintage-chicago/
+45. TurnStyle | Organic #45 | Pulse Score 62/100 (Unrated, #1 in city) | TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/. | https://registry-edge.dingalinged.workers.dev/c/turnstyle-maple-grove/
+46. America's Thrift Stores | Organic #46 | Pulse Score 61.9/100 (Good, #2 in city) | America's Thrift Stores is a thrift store in Cobb County, GA at 2949 Canton Road Northeast, Cobb County, GA. Phone: +17704230094. Website: https://www.americasthrift.com/location/marietta-ga-thrift-store/. | https://registry-edge.dingalinged.workers.dev/c/americas-thrift-stores-cobb-county/
+47. Arrow Creative Reuse | Organic #47 | Pulse Score 61.9/100 (Unrated, #1 in city) | Arrow Creative Reuse is a thrift store in Springfield, MO at 616 West Tampa Street, Springfield, MO 65802. Phone: +14175904488. Website: https://www.arrowcreativereuse.org/. | https://registry-edge.dingalinged.workers.dev/c/arrow-creative-reuse-springfield/
+48. Hope's Door | Organic #48 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store. | https://registry-edge.dingalinged.workers.dev/c/hopes-door-plano/
+49. Undies for Everyone | Organic #49 | Pulse Score 61.9/100 (Unrated, #2 in city) | Undies for Everyone is a thrift store in Houston, TX at 3610 Willowbend Blvd, Houston, TX. Phone: +17133389676. Website: https://undiesforeveryone.org/. | https://registry-edge.dingalinged.workers.dev/c/undies-for-everyone-houston/
+50. BRB Resale | Organic #50 | Pulse Score 61.9/100 (Unrated, #2 in city) | BRB Resale is a thrift store in Spring, TX at 27517 Prairie Street, Spring, TX 77373. Phone: +18327480007. Website: https://oldtownspringshopping.com/directories/brb-resale. | https://registry-edge.dingalinged.workers.dev/c/brb-resale-spring/
 
-## More thrift store listings (679 total; top 50 unpaid shown)
+## More thrift store listings (1123 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/thrift-store.jsonl
 - Chicago, IL: 45 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-chicago-il/
 - Houston, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-houston-tx/
 - Dallas, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dallas-tx/
 - Kansas City, MO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-kansas-city-mo/
+- Columbus, OH: 25 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-columbus-oh/
+- Pittsburgh, PA: 16 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-pittsburgh-pa/
+- Indianapolis, IN: 15 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-indianapolis-in/
+- Aurora, CO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-aurora-co/
 - Omaha, NE: 14 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-omaha-ne/
 - Madison, WI: 14 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-madison-wi/
 - Atlanta, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-atlanta-ga/
@@ -71,8 +75,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Paul, MN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-paul-mn/
 - Minneapolis, MN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-minneapolis-mn/
 - Harris County, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-harris-county-tx/
+- Lancaster, OH: 10 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lancaster-oh/
+- Cincinnati, OH: 10 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-cincinnati-oh/
 - Cobb County, GA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-cobb-county-ga/
 - Denton, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-denton-tx/
+- Boulder, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-boulder-co/
+- Littleton, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-littleton-co/
+- Jefferson County, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-jefferson-county-co/
+- Wichita, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-wichita-ks/
+- Lawrence, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lawrence-ks/
+- Ross Township, PA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ross-township-pa/
 - Marietta, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-marietta-ga/
 - Smyrna, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-smyrna-ga/
 - Roswell, GA: 7 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-roswell-ga/
@@ -81,6 +93,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Overland Park, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-overland-park-ks/
 - Johns Creek, GA: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-johns-creek-ga/
 - Plano, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-plano-tx/
+- Arvada, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-arvada-co/
+- Lakewood, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lakewood-co/
+- Springfield, MO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-springfield-mo/
+- Detroit, MI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-detroit-mi/
 - Woodstock, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-woodstock-ga/
 - Humble, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-humble-tx/
 - Garland, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-garland-tx/
@@ -91,9 +107,17 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Clive, IA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-clive-ia/
 - Bellevue, NE: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bellevue-ne/
 - Racine, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-racine-wi/
+- Columbia, MO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-columbia-mo/
 - Allen, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-allen-tx/
+- Parker, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-parker-co/
+- Fairview Heights, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-fairview-heights-il/
 - Papillion, NE: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-papillion-ne/
 - Lee'S Summit, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lees-summit-mo/
+- Saint Joseph, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-joseph-mo/
+- Topeka, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-topeka-ks/
+- Ambridge, PA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ambridge-pa/
+- Southgate, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-southgate-mi/
+- Florence, KY: 4 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-florence-ky/
 - Forsyth County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-forsyth-county-ga/
 - Gwinnett County, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-gwinnett-county-ga/
 - Kennesaw, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-kennesaw-ga/
@@ -108,6 +132,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Montgomery County, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-montgomery-county-tx/
 - Richmond, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-richmond-tx/
 - Tomball, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-tomball-tx/
+- Centennial, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-centennial-co/
+- Thornton, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-thornton-co/
 - Evanston, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-evanston-il/
 - Glenview, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-glenview-il/
 - Orland Park, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-orland-park-il/
@@ -120,8 +146,20 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Verona, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-verona-wi/
 - Waukesha, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-waukesha-wi/
 - West Allis, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-west-allis-wi/
+- University City, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-university-city-mo/
+- Arnold, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-arnold-mo/
+- Blue Springs, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-blue-springs-mo/
+- Liberty, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-liberty-mo/
+- Wentzville, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-wentzville-mo/
 - Shawnee, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-shawnee-ks/
 - Olathe, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-olathe-ks/
+- Washington, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-washington-pa/
+- Monongahela, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-monongahela-pa/
+- Canton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-canton-township-mi/
+- Southfield, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-southfield-mi/
+- Waterford Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-waterford-township-mi/
+- Milford, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-milford-oh/
+- Carmel, IN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-carmel-in/
 - Paulding County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-paulding-county-ga/
 - Dekalb County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dekalb-county-ga/
 - Conroe, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-conroe-tx/
@@ -137,6 +175,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rockwall, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-rockwall-tx/
 - North Richland Hills, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-richland-hills-tx/
 - Bellaire, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bellaire-tx/
+- Northglenn, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-northglenn-co/
+- Golden, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-golden-co/
+- Castle Rock, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-castle-rock-co/
+- Englewood, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-englewood-co/
+- Lafayette, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lafayette-co/
+- Alton, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-alton-il/
 - Naperville, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-naperville-il/
 - Des Plaines, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-des-plaines-il/
 - Lake Zurich, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lake-zurich-il/
@@ -157,12 +201,41 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Bend, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-west-bend-wi/
 - Greenfield, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-greenfield-wi/
 - Waunakee, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-waunakee-wi/
-- Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-blue-springs-mo/
+- Saint Louis County, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-louis-county-mo/
 - Gladstone, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-gladstone-mo/
-- Liberty, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-liberty-mo/
+- Florissant, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-florissant-mo/
+- St. Ann, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-st-ann-mo/
+- Ballwin, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ballwin-mo/
 - Independence, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-independence-mo/
+- Newton, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-newton-ks/
+- Hutchinson, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-hutchinson-ks/
 - Leavenworth, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-leavenworth-ks/
+- Manhattan, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-manhattan-ks/
+- Rostraver Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-rostraver-township-pa/
+- Bellevue, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bellevue-pa/
+- Monroeville, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-monroeville-pa/
+- Penn Hills, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-penn-hills-pa/
+- Robinson Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-robinson-township-pa/
+- Pine Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-pine-township-pa/
+- Livonia, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-livonia-mi/
+- Westland, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-westland-mi/
+- Pontiac, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-pontiac-mi/
+- Town Of Essex, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-town-of-essex-mi/
+- Taylor, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-taylor-mi/
+- Fairfield, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-fairfield-oh/
+- Blue Ash, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-blue-ash-oh/
+- Colerain Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-colerain-township-oh/
+- Pickerington, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-pickerington-oh/
+- Loveland, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-loveland-oh/
+- Mason, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-mason-oh/
+- Clinton Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-clinton-township-oh/
+- Avon, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-avon-in/
+- Fishers, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-fishers-in/
 - Gary, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-gary-in/
+- Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-greenwood-in/
+- Noblesville, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-noblesville-in/
+- Bellevue, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bellevue-ky/
+- Erlanger, KY: 2 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-erlanger-ky/
 - Chamblee, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-chamblee-ga/
 - Peachtree Corners, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-peachtree-corners-ga/
 - Brookhaven, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-brookhaven-ga/
@@ -198,14 +271,25 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Texas City, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-texas-city-tx/
 - Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-stafford-tx/
 - Galveston County, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-galveston-county-tx/
+- Brighton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-brighton-co/
+- Lone Tree, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lone-tree-co/
+- Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-louisville-co/
+- Westminster, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-westminster-co/
+- Wheat Ridge, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-wheat-ridge-co/
+- Dacono, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dacono-co/
+- Lakeside, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lakeside-co/
+- Keenesburg, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-keenesburg-co/
 - Wheaton, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-wheaton-il/
 - Berkeley, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-berkeley-il/
+- Belleville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-belleville-il/
 - Lake Forest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lake-forest-il/
 - Bloomingdale, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bloomingdale-il/
 - Bolingbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bolingbrook-il/
 - Downers Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-downers-grove-il/
 - Frankfort, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-frankfort-il/
+- Glen Carbon, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-glen-carbon-il/
 - Glendale Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-glendale-heights-il/
+- Granite City, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-granite-city-il/
 - Hazel Crest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-hazel-crest-il/
 - Joliet, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-joliet-il/
 - Lansing, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lansing-il/
@@ -214,11 +298,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Melrose Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-melrose-park-il/
 - North Riverside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-riverside-il/
 - Northbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-northbrook-il/
+- O'Fallon, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ofallon-il/
 - Romeoville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-romeoville-il/
 - Skokie, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-skokie-il/
 - Westchester, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-westchester-il/
 - Willowbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-willowbrook-il/
 - Woodridge, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-woodridge-il/
+- Collinsville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-collinsville-il/
 - Oak Forest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-oak-forest-il/
 - Hodgkins, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-hodgkins-il/
 - Worth, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-worth-il/
@@ -283,18 +369,127 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Hales Corners, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-hales-corners-wi/
 - Saint Francis, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-francis-wi/
 - Excelsior Springs, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-excelsior-springs-mo/
+- High Ridge Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-high-ridge-township-mo/
 - Parkville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-parkville-mo/
+- Brentwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-brentwood-mo/
+- Ferguson, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ferguson-mo/
+- Jefferson City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-jefferson-city-mo/
+- O’Fallon, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-o-fallon-mo/
+- Rock Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-rock-township-mo/
+- Saint Peters, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-peters-mo/
+- Sunset Hills, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-sunset-hills-mo/
+- Des Peres, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-des-peres-mo/
 - Platte City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-platte-city-mo/
+- Fenton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-fenton-mo/
+- Saint Charles, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-saint-charles-mo/
+- Crestwood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-crestwood-mo/
+- Ellisville, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-ellisville-mo/
 - Buckner, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-buckner-mo/
+- Breckenridge Hills, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-breckenridge-hills-mo/
+- Creve Coeur, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-creve-coeur-mo/
+- Webster Groves, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-webster-groves-mo/
 - Belton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-belton-mo/
+- Joplin, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-joplin-mo/
+- Overland, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-overland-mo/
+- Imperial Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-imperial-township-mo/
+- Andover, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-andover-ks/
 - Bonner Springs, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bonner-springs-ks/
+- Derby, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-derby-ks/
+- Salina, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-salina-ks/
+- Maize, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-maize-ks/
+- Winfield, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-winfield-ks/
 - Lenexa, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lenexa-ks/
 - Kansas City, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-kansas-city-ks/
 - Mission, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-mission-ks/
+- South Hutchinson, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-south-hutchinson-ks/
+- Belle Vernon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-belle-vernon-pa/
+- Cheswick, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-cheswick-pa/
+- Moon Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-moon-township-pa/
+- Coraopolis, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-coraopolis-pa/
+- Harrison Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-harrison-township-pa/
+- Heidelberg, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-heidelberg-pa/
+- Mccandless, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-mccandless-pa/
+- North Versailles, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-versailles-pa/
+- Peters Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-peters-township-pa/
+- Richland Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-richland-township-pa/
+- Swissvale, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-swissvale-pa/
+- North Belle Vernon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-belle-vernon-pa/
+- Avalon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-avalon-pa/
+- Brentwood, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-brentwood-pa/
+- Castle Shannon, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-castle-shannon-pa/
+- West View, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-west-view-pa/
+- Charleroi, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-charleroi-pa/
+- Bethel Park, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-bethel-park-pa/
+- North Huntingdon Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-huntingdon-township-pa/
+- Scott Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-scott-township-pa/
+- Whitehall, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-whitehall-pa/
+- Northville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-northville-mi/
+- Troy, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-troy-mi/
+- Berkley, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-berkley-mi/
+- Riverview, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-riverview-mi/
+- Commerce Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-commerce-charter-township-mi/
+- Dearborn, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dearborn-mi/
+- Kingsville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-kingsville-mi/
+- Madison Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-madison-heights-mi/
+- Woodhaven, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-woodhaven-mi/
+- Romulus, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-romulus-mi/
+- Keego Harbor, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-keego-harbor-mi/
+- Allen Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-allen-park-mi/
+- Center Line, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-center-line-mi/
+- Shelby Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-shelby-charter-township-mi/
+- White Lake Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-white-lake-charter-township-mi/
+- Eastpointe, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-eastpointe-mi/
+- Wayne, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-wayne-mi/
+- Garden City, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-garden-city-mi/
+- Lincoln Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lincoln-park-mi/
+- Orchard Lake Village, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-orchard-lake-village-mi/
+- Redford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-redford-township-mi/
+- Rochester Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-rochester-hills-mi/
+- Royal Oak, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-royal-oak-mi/
+- Sterling Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-sterling-heights-mi/
+- Trenton, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-trenton-mi/
+- Utica, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-utica-mi/
+- Walled Lake, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-walled-lake-mi/
+- Batavia Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-batavia-township-oh/
+- Canal Winchester, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-canal-winchester-oh/
+- Delaware, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-delaware-oh/
+- Dublin, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dublin-oh/
+- Gahanna, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-gahanna-oh/
+- Hamilton, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-hamilton-oh/
+- Johnstown, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-johnstown-oh/
+- Lebanon, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-lebanon-oh/
+- Liberty Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-liberty-township-oh/
+- Miami Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-miami-township-oh/
+- Montgomery, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-montgomery-oh/
+- Woodlawn, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-woodlawn-oh/
+- Sunbury, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-sunbury-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-west-chester-township-oh/
+- Genoa Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-genoa-township-oh/
+- Westerville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-westerville-oh/
+- Whitehall, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-whitehall-oh/
+- Reynoldsburg, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-reynoldsburg-oh/
+- Franklin Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-franklin-township-oh/
+- Upper Arlington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-upper-arlington-oh/
+- Anderson Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-anderson-township-oh/
+- Symmes Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-symmes-township-oh/
+- Union Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-union-township-oh/
+- Monroe, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-monroe-oh/
+- Goshen Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-goshen-township-oh/
+- New Richmond, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-new-richmond-oh/
+- Worthington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-worthington-oh/
+- Shelbyville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-shelbyville-in/
+- Westfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-westfield-in/
 - Dyer, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-dyer-in/
+- Franklin, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-franklin-in/
 - Griffith, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-griffith-in/
+- Martinsville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-martinsville-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-plainfield-in/
+- Whitestown, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-whitestown-in/
 - Whiting, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-whiting-in/
 - Merrillville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-merrillville-in/
+- Independence, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-independence-ky/
+- Cold Spring, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-cold-spring-ky/
+- Kenton County, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-kenton-county-ky/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -302,7 +497,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 679
+- Registry businesses competing: 1123
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Kildeer, IL at 20825 North Rand Road, Ki
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 55% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Kildeer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 55% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Kildeer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

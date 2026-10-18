@@ -13,7 +13,7 @@ Performance Medicine & Sports Therapy is a chiropractor in Plano, TX at 6101 Win
 - Website: https://recoverwithpurpose.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-13:00; Sa 08:00-13:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Dallas–Fort Worth, #3 of 5 chiropractors in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of chiropractors in Dallas–Fort Worth, #3 of 5 chiropractors in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: eye doctor in Duluth, GA; eye doctor near me (Duluth, GA); best ey
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Site Family Vision Center | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Eye Site Family Vision Center is an eye care practice in Duluth, GA at 3085 Buford Highway, Duluth, GA 30096. Website: https://www.eyesite4u.net/. | https://registry-edge.dingalinged.workers.dev/c/eye-site-family-vision-center-duluth/
+1. Eye Site Family Vision Center | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Eye Site Family Vision Center is an eye care practice in Duluth, GA at 3085 Buford Highway, Duluth, GA 30096. Website: https://www.eyesite4u.net/. | https://registry-edge.dingalinged.workers.dev/c/eye-site-family-vision-center-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor duluth ga | category: Health & medical | industry benchmark: Physicians & Surgeons

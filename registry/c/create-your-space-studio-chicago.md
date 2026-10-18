@@ -13,7 +13,7 @@ Create Your Space Studio is an event venue in Chicago, IL at 937 North Western A
 - Website: https://createyourspacestudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of event venues in Chicago, #2 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of event venues in Chicago, #2 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

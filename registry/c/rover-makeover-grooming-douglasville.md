@@ -13,7 +13,7 @@ Rover Makeover Grooming is a dog groomer in Douglasville, GA at 11955 Veterans M
 - Website: https://rovermakeover.biz/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu, Th-Sa 10:00-17:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 37% of dog groomers in Atlanta, #1 of 1 dog groomers in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 37% of dog groomers in Atlanta, #1 of 1 dog groomers in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Triple Check Electric is an electrician in Omaha, NE at 11909 Arbor Street, Omah
 - Website: https://www.calltriplecheck.com/
 - Email: team@calltriplecheck.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 17% of electricians in Omaha, NE, #1 of 5 electricians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 17% of electricians in Omaha, NE, #1 of 5 electricians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

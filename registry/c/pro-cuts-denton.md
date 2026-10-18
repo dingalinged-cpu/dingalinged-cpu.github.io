@@ -13,7 +13,7 @@ Pro Cuts is a hair salon in Denton, TX at 832 West University Drive, Denton, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 90% of hair salons in Dallas–Fort Worth, #28 of 28 hair salons in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 89% of hair salons in Dallas–Fort Worth, #28 of 28 hair salons in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

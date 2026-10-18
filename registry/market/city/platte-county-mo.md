@@ -8,7 +8,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. event venues platte county mo | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-platte-county-mo/
+1. event venues platte county mo | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 0 | https://registry-edge.dingalinged.workers.dev/view/market.html#event-venues-platte-county-mo
 
 ## By value (searches x CPC)
 

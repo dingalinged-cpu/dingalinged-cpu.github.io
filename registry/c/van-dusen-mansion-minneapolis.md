@@ -13,7 +13,7 @@ Van Dusen Mansion is an event venue in Minneapolis, MN at 1900 LaSalle Avenue, M
 - Website: https://www.thevandusenmansion.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of event venues in Minneapolis–St. Paul, #1 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of event venues in Minneapolis–St. Paul, #1 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

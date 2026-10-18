@@ -13,7 +13,7 @@ Rumble Boxing is a gym in McKinney, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 33% of gyms in Dallas–Fort Worth, #7 of 19 gyms in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 89% of gyms in Dallas–Fort Worth, #17 of 19 gyms in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

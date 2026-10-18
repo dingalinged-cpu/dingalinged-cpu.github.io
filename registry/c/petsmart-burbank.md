@@ -13,7 +13,7 @@ PetSmart is a pet store in Burbank, IL at 7730 South Cicero Avenue, Burbank, IL 
 - Website: https://www.petsmart.com/stores/us/il/burbank-store0423.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.7/100 — Building — top 45% of pet stores in Chicago, #1 of 1 pet stores in Burbank (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 44% of pet stores in Chicago, #1 of 1 pet stores in Burbank (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

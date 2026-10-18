@@ -13,7 +13,7 @@ The Peterson Group is a property management company in Addison, TX at 15058 Belt
 - Website: https://www.petersonmanagementgroup.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 39% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 52.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 39% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

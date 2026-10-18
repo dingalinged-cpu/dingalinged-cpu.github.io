@@ -13,7 +13,7 @@ Whistle Express Car Wash is a car wash in Decatur, GA at 2564 Lawrenceville High
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 75% of car washes in Atlanta, #1 of 1 car washes in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 76% of car washes in Atlanta, #1 of 1 car washes in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ David J. Frank Landscape Contracting is a landscaping company in Milwaukee, WI a
 - Website: https://www.davidjfrank.com/index.php
 - Email: mail@davidjfrank.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of landscaping companys in Milwaukee, #1 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 17% of landscaping companys in Milwaukee, #1 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

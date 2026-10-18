@@ -7,7 +7,7 @@ Also answers: pet store in Stone Mountain, GA; pet store near me (Stone Mountain
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. AARF Pet Central | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | AARF Pet Central is a pet store in Stone Mountain, GA at 951 Main Street, Stone Mountain, GA 30083. Phone: +16785343483. Website: https://www.aarfpetcentral.com/. | https://registry-edge.dingalinged.workers.dev/c/aarf-pet-central-stone-mountain/
-2. AARF Pet Central | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | AARF Pet Central is a pet store in Stone Mountain, GA at 6570 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://registry-edge.dingalinged.workers.dev/c/aarf-pet-central-stone-mountain-w103489958/
+2. AARF Pet Central | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | AARF Pet Central is a pet store in Stone Mountain, GA at 6570 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://registry-edge.dingalinged.workers.dev/c/aarf-pet-central-stone-mountain-w103489958/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store stone mountain ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

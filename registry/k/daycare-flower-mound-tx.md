@@ -6,7 +6,7 @@ Also answers: daycare in Flower Mound, TX; daycare near me (Flower Mound, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Children's Courtyard of Flower Mound | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Children's Courtyard of Flower Mound is a daycare in Flower Mound, TX at 2501 Morriss Road, Flower Mound, TX 75028. Website: https://www.childrenscourtyard.com/your-local-school/flower-mound-tx-3017/. | https://registry-edge.dingalinged.workers.dev/c/the-childrens-courtyard-of-flower-mound-flower-mound/
+1. The Children's Courtyard of Flower Mound | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | The Children's Courtyard of Flower Mound is a daycare in Flower Mound, TX at 2501 Morriss Road, Flower Mound, TX 75028. Website: https://www.childrenscourtyard.com/your-local-school/flower-mound-tx-3017/. | https://registry-edge.dingalinged.workers.dev/c/the-childrens-courtyard-of-flower-mound-flower-mound/
 2. Legacy Learning Center | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | Legacy Learning Center is a daycare in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/legacy-learning-center-flower-mound/
 
 ## Market data (for advertisers and agents)

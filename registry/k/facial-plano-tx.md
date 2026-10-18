@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://registry-edge.dingalinged.workers.dev/c/minaya-beauty-spa-plano/
 2. Skin Spirit | Organic #2 | Pulse Score 55.8/100 (Unrated, #1 in city) | Skin Spirit is a skin care studio in Plano, TX at 2401 Preston Road #F, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/skin-spirit-plano/
-3. Family Club Massage & Facial | Organic #3 | Pulse Score 55.6/100 (Unrated, #2 in city) | Family Club Massage & Facial is a skin care studio in Plano, TX at 109 Legacy Drive #130, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/family-club-massage-and-facial-plano/
+3. Family Club Massage & Facial | Organic #3 | Pulse Score 55.5/100 (Unrated, #2 in city) | Family Club Massage & Facial is a skin care studio in Plano, TX at 109 Legacy Drive #130, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/family-club-massage-and-facial-plano/
 4. BC's Salon Suites | Organic #4 | Pulse Score 55/100 (Unrated, #3 in city) | BC's Salon Suites is a skin care studio in Plano, TX at 208 Coit Road #200, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/bcs-salon-suites-plano/
-5. Ulta Beauty | Organic #5 | Pulse Score 46.6/100 (Building, #4 in city) | Ulta Beauty is a skin care studio in Plano, TX at 2400 Preston Road #300, Plano, TX 75093. Phone: +19725962839. Website: https://www.ulta.com/stores/plano-tx-586. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-plano/
+5. Ulta Beauty | Organic #5 | Pulse Score 46.5/100 (Building, #4 in city) | Ulta Beauty is a skin care studio in Plano, TX at 2400 Preston Road #300, Plano, TX 75093. Phone: +19725962839. Website: https://www.ulta.com/stores/plano-tx-586. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-plano/
 6. Skin Laundry | Organic #6 | Pulse Score 41.5/100 (Building, #5 in city) | Skin Laundry is a skin care studio in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/skin-laundry-plano/
 
 ## Market data (for advertisers and agents)

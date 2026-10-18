@@ -6,7 +6,7 @@ Also answers: hvac repair in Cudahy, WI; hvac repair near me (Cudahy, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Heating & Air Conditioning | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Affordable Heating & Air Conditioning is a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/. | https://registry-edge.dingalinged.workers.dev/c/affordable-heating-and-air-conditioning-cudahy/
+1. Affordable Heating & Air Conditioning | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Affordable Heating & Air Conditioning is a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/. | https://registry-edge.dingalinged.workers.dev/c/affordable-heating-and-air-conditioning-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair cudahy wi | category: Home services - HVAC | industry benchmark: Home & Home Improvement

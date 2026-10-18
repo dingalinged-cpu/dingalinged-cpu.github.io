@@ -13,7 +13,7 @@ Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in The Woodlands, TX 
 - Website: https://www.anytimeplumbing365.com/emergency-plumbing-repairs/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 22% of plumbers in Houston, #1 of 1 plumbers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of plumbers in Houston, #1 of 1 plumbers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Latham Bakery is a bakery in Kaufman, TX at 101 North Jackson Street, Kaufman, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su off
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of bakerys in Dallas–Fort Worth, #1 of 1 bakerys in Kaufman (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of bakerys in Dallas–Fort Worth, #1 of 1 bakerys in Kaufman (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

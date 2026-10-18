@@ -6,7 +6,7 @@ Also answers: oil change in Smithville, MO; oil change near me (Smithville, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EZ Quick Lube Smithville | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | EZ Quick Lube Smithville is an auto repair shop in Smithville, MO at 106 State Highway 92, Smithville, MO 64089. Phone: +18163432100. Website: https://www.ezquicklube.com/. | https://registry-edge.dingalinged.workers.dev/c/ez-quick-lube-smithville-smithville/
+1. EZ Quick Lube Smithville | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | EZ Quick Lube Smithville is an auto repair shop in Smithville, MO at 106 State Highway 92, Smithville, MO 64089. Phone: +18163432100. Website: https://www.ezquicklube.com/. | https://registry-edge.dingalinged.workers.dev/c/ez-quick-lube-smithville-smithville/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change smithville mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

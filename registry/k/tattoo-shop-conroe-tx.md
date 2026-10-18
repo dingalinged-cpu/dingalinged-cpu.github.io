@@ -6,7 +6,7 @@ Also answers: tattoo shop in Conroe, TX; tattoo shop near me (Conroe, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Raza Tatoo Studio | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | La Raza Tatoo Studio is a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/la-raza-tatoo-studio-conroe/
+1. La Raza Tatoo Studio | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | La Raza Tatoo Studio is a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/la-raza-tatoo-studio-conroe/
 2. Twisted Angels Art Studio Tattoos | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Twisted Angels Art Studio Tattoos is a tattoo shop in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/twisted-angels-art-studio-tattoos-conroe/
 
 ## Market data (for advertisers and agents)

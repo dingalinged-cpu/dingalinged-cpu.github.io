@@ -13,7 +13,7 @@ Pet Play Plaxe is a dog boarding facility in Cobb County, GA at 2685 Barrett Lak
 - Website: https://petplayplace.com/kennesaw/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 40% of dog boarding facilitys in Atlanta, #3 of 3 dog boarding facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60/100 — Good — top 40% of dog boarding facilitys in Atlanta, #3 of 3 dog boarding facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

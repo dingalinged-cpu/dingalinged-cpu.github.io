@@ -13,7 +13,7 @@ Caliber Car Wash is a car wash in Marietta, GA at 1090 Hagood Circle Southeast, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 83% of car washes in Atlanta, #15 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 81% of car washes in Atlanta, #15 of 15 car washes in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

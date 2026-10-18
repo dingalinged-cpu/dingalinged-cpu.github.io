@@ -13,7 +13,7 @@ Lucky Devil Tattoo and Piercings is a tattoo shop in Chicago, IL at 7062 North C
 - Website: n/a
 - Email: tattoobybear@gmail.com
 - Opening hours (OSM syntax): Mo-Th 14:00-22:00; Fr-Sa 14:00-00:00
-- Pulse Score: 63.5/100 — Good — top 9% of tattoo shops in Chicago, #1 of 25 tattoo shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 9% of tattoo shops in Chicago, #1 of 25 tattoo shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

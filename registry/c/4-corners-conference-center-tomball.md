@@ -13,7 +13,7 @@
 - Website: https://joanhunter.org/
 - Email: info@joanhunter.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of event venues in Houston, #1 of 3 event venues in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 14% of event venues in Houston, #1 of 3 event venues in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

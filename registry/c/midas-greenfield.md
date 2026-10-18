@@ -13,7 +13,7 @@ Midas is an auto repair shop in Greenfield, WI at 4654 South 76th Street, Greenf
 - Website: https://www.midas.com/store/wi/greenfield/4654-s-76th-street-53220?shopnum=2153
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-17:00; Su off
-- Pulse Score: 48.9/100 — Building — top 77% of auto repair shops in Milwaukee, #3 of 5 auto repair shops in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 76% of auto repair shops in Milwaukee, #3 of 5 auto repair shops in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

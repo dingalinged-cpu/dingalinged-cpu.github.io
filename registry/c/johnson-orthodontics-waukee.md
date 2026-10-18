@@ -13,7 +13,7 @@ Johnson Orthodontics is a dentist in Waukee, IA at 2355 Southeast LA Grant Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 36% of dentists in Des Moines, IA, #2 of 4 dentists in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 95% of dentists in Des Moines, IA, #4 of 4 dentists in Waukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

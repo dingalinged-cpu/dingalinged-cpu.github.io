@@ -13,7 +13,7 @@ Midwest Mattress is a mattress store in Ankeny, IA at 317 East 1st Street, Anken
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 59% of mattress stores in Des Moines, IA, #2 of 2 mattress stores in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 92% of mattress stores in Des Moines, IA, #2 of 2 mattress stores in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

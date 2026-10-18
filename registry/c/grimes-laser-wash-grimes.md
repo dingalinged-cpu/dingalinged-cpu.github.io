@@ -13,7 +13,7 @@ Grimes Laser Wash is a car wash in Grimes, IA at 1420 Southeast 3rd Street, Grim
 - Website: https://www.iowacleancar.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 7% of car washes in Des Moines, IA, #1 of 5 car washes in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 6% of car washes in Des Moines, IA, #1 of 5 car washes in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

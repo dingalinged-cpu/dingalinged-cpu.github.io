@@ -13,7 +13,7 @@ RE/MAX Pure is a real estate agency in Marietta, GA at 93 Church Street, Mariett
 - Website: https://www.remaxpure.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:00-14:00
-- Pulse Score: 48.3/100 — Building — top 91% of real estate agencys in Atlanta, #7 of 7 real estate agencys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 88% of real estate agencys in Atlanta, #7 of 7 real estate agencys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: haircut in De Soto, KS; haircut near me (De Soto, KS); best haircu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Clip in Time | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | A Clip in Time is a hair salon in De Soto, KS at 33065 West 83rd Street, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/a-clip-in-time-de-soto/
-2. A Hair Hut | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | A Hair Hut is a hair salon in De Soto, KS at 33255 Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/a-hair-hut-de-soto/
+1. A Clip in Time | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | A Clip in Time is a hair salon in De Soto, KS at 33065 West 83rd Street, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/a-clip-in-time-de-soto/
+2. A Hair Hut | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | A Hair Hut is a hair salon in De Soto, KS at 33255 Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/a-hair-hut-de-soto/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut de soto ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

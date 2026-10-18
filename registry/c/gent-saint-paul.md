@@ -13,7 +13,7 @@ Gent is a barber shop in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Minneapolis–St. Paul, #10 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Minneapolis–St. Paul, #10 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

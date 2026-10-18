@@ -13,7 +13,7 @@ Varghese Summersett (Dallas) is a lawyer in Dallas, TX at 2100 Ross Avenue #950,
 - Website: https://versustexas.com/dallas/
 - Email: info@versustexas.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of lawyers in Dallas–Fort Worth, #8 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 11% of lawyers in Dallas–Fort Worth, #8 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

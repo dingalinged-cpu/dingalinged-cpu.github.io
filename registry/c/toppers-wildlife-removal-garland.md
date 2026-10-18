@@ -13,7 +13,7 @@ Topper's Wildlife Removal is a pest control company in Garland, TX at 5306 Brook
 - Website: https://www.topperswildliferemoval.com/
 - Email: topperswildliferemoval@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
-- Pulse Score: 65.6/100 — Good — top 25% of pest control companys in Dallas–Fort Worth, #1 of 1 pest control companys in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 69.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 25% of pest control companys in Dallas–Fort Worth, #1 of 1 pest control companys in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

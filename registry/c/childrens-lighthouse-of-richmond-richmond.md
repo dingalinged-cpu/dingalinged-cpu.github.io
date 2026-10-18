@@ -13,7 +13,7 @@ Children's Lighthouse of Richmond is a daycare in Richmond, TX at 4734 Harvest C
 - Website: https://childrenslighthouse.com/harvestgreen
 - Email: harvestgreen@childrenslighthouse.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of daycares in Houston, #1 of 4 daycares in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of daycares in Houston, #1 of 4 daycares in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,10 +6,10 @@ Also answers: haircut in Fort Bend County, TX; haircut near me (Fort Bend County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alibaba Barber | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Alibaba Barber is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/alibaba-barber-fort-bend-county/
-2. Blueprint Barbershop | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Blueprint Barbershop is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blueprint-barbershop-fort-bend-county/
-3. Beauty Cuts | Organic #3 | Pulse Score 54.8/100 (Unrated, #1 in city) | Beauty Cuts is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/beauty-cuts-fort-bend-county/
-4. Blow & Glow | Organic #4 | Pulse Score 54.8/100 (Unrated, #2 in city) | Blow & Glow is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blow-and-glow-fort-bend-county/
+1. Alibaba Barber | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Alibaba Barber is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/alibaba-barber-fort-bend-county/
+2. Beauty Cuts | Organic #2 | Pulse Score 54.8/100 (Unrated, #1 in city) | Beauty Cuts is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/beauty-cuts-fort-bend-county/
+3. Blow & Glow | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | Blow & Glow is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blow-and-glow-fort-bend-county/
+4. Blueprint Barbershop | Organic #4 | Pulse Score 54.8/100 (Unrated, #2 in city) | Blueprint Barbershop is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blueprint-barbershop-fort-bend-county/
 5. Derma Hair Salon | Organic #5 | Pulse Score 54.8/100 (Unrated, #3 in city) | Derma Hair Salon is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/derma-hair-salon-fort-bend-county/
 6. Hair Tyme Beauty Lounge | Organic #6 | Pulse Score 54.8/100 (Unrated, #4 in city) | Hair Tyme Beauty Lounge is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/hair-tyme-beauty-lounge-fort-bend-county/
 7. Uplift Hair Studio | Organic #7 | Pulse Score 54.8/100 (Unrated, #5 in city) | Uplift Hair Studio is a hair salon in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/uplift-hair-studio-fort-bend-county/

@@ -13,7 +13,7 @@ ICF Consultants is a therapy practice in Milwaukee, WI at 1524 North Farwell Ave
 - Website: https://www.icfconsultants.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 9% of therapy practices in Milwaukee, #4 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 9% of therapy practices in Milwaukee, #4 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

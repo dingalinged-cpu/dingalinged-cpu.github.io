@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Pampered Pink | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Pampered Pink is a nail salon in Acworth, GA at 4809 South Main Street, Acworth, GA 30101. | https://registry-edge.dingalinged.workers.dev/c/pampered-pink-acworth/
 2. Elite Nail Spa | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Elite Nail Spa is a nail salon in Acworth, GA. | https://registry-edge.dingalinged.workers.dev/c/elite-nail-spa-acworth/
 3. Serene Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Serene Nails is a nail salon in Acworth, GA. | https://registry-edge.dingalinged.workers.dev/c/serene-nails-acworth/
-4. Solar Nails | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Solar Nails is a nail salon in Acworth, GA. | https://registry-edge.dingalinged.workers.dev/c/solar-nails-acworth/
+4. Solar Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Solar Nails is a nail salon in Acworth, GA. | https://registry-edge.dingalinged.workers.dev/c/solar-nails-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon acworth ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

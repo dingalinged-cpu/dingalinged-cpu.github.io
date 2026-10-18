@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Eagan, MN at 1295 Promenade Place, Eaga
 - Website: https://stores.ashleyfurniture.com/store/us/minnesota/eagan/9000816076/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 49/100 — Building — top 70% of furniture stores in Minneapolis–St. Paul, #2 of 2 furniture stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 69% of furniture stores in Minneapolis–St. Paul, #2 of 2 furniture stores in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

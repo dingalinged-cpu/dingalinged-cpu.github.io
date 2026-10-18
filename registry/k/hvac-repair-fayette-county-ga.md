@@ -6,7 +6,7 @@ Also answers: hvac repair in Fayette County, GA; hvac repair near me (Fayette Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southern Comfort Heating & Air | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Southern Comfort Heating & Air is a HVAC contractor in Fayette County, GA. | https://registry-edge.dingalinged.workers.dev/c/southern-comfort-heating-and-air-fayette-county/
+1. Southern Comfort Heating & Air | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Southern Comfort Heating & Air is a HVAC contractor in Fayette County, GA. | https://registry-edge.dingalinged.workers.dev/c/southern-comfort-heating-and-air-fayette-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair fayette county ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

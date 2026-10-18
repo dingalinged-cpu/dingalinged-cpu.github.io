@@ -6,7 +6,7 @@ Also answers: dog boarding in Wilmette, IL; dog boarding near me (Wilmette, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Village Dog | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | The Village Dog is a dog boarding facility in Wilmette, IL at 1225 Wilmette Avenue, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/the-village-dog-wilmette/
+1. The Village Dog | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | The Village Dog is a dog boarding facility in Wilmette, IL at 1225 Wilmette Avenue, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/the-village-dog-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding wilmette il | category: Pets | industry benchmark: Animals & Pets

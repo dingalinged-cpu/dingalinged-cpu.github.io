@@ -13,7 +13,7 @@ Fred Astaire Dance Studios is a dance studio in Village of Pewaukee, WI at 615 R
 - Website: https://www.fredastaire.com/pewaukee/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Building — top 87% of dance studios in Milwaukee, #1 of 1 dance studios in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 87% of dance studios in Milwaukee, #1 of 1 dance studios in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

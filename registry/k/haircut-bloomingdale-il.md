@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Bloomingdale, IL is Lady Jane's (a barber shop in Bloomingdale, IL). 2 haircut businesses are listed for Bloomingdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Bloomingdale, IL is Sport Clips (a hair salon in Bloomingdale, IL at 383 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16308939510. Website: https://sportclips.com/us-il-bloomingdale-il105). 2 haircut businesses are listed for Bloomingdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Bloomingdale, IL?
 
@@ -6,8 +6,8 @@ Also answers: haircut in Bloomingdale, IL; haircut near me (Bloomingdale, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lady Jane's | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Lady Jane's is a barber shop in Bloomingdale, IL. | https://registry-edge.dingalinged.workers.dev/c/lady-janes-bloomingdale/
-2. Sport Clips | Organic #2 | Pulse Score 49.2/100 (Building, #1 in city) | Sport Clips is a hair salon in Bloomingdale, IL at 383 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16308939510. Website: https://sportclips.com/us-il-bloomingdale-il105. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-bloomingdale/
+1. Sport Clips | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Sport Clips is a hair salon in Bloomingdale, IL at 383 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16308939510. Website: https://sportclips.com/us-il-bloomingdale-il105. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-bloomingdale/
+2. Lady Jane's | Organic #2 | Pulse Score 41.8/100 (Unrated, #1 in city) | Lady Jane's is a barber shop in Bloomingdale, IL. | https://registry-edge.dingalinged.workers.dev/c/lady-janes-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut bloomingdale il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

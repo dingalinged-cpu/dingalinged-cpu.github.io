@@ -13,7 +13,7 @@ PrideStaff is a staffing agency in Lockport, IL at 16614 West 159th Street #305,
 - Website: https://www.pridestaff.com/locations/chicagoland/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 89% of staffing agencys in Chicago, #1 of 1 staffing agencys in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 89% of staffing agencys in Chicago, #1 of 1 staffing agencys in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

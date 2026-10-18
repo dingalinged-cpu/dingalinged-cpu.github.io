@@ -13,7 +13,7 @@ Wine, Beer, and Spirits is a liquor store in Omaha, NE at 3435 Oak View Drive, O
 - Website: https://www.winebeerandspirits.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th-Sa 09:00-21:00; Su 10:00-18:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 15% of liquor stores in Omaha, NE, #2 of 8 liquor stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Omaha, NE, #1 of 8 liquor stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

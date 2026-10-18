@@ -6,8 +6,8 @@ Also answers: daycare in Grimes, IA; daycare near me (Grimes, IA); best daycare 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bentley Ridge Tree Farm and Nursery | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Bentley Ridge Tree Farm and Nursery is a daycare in Grimes, IA at 4400 West 1st Street, Grimes, IA 50111. Website: https://www.bentleyridgetreefarm.com/. | https://registry-edge.dingalinged.workers.dev/c/bentley-ridge-tree-farm-and-nursery-grimes/
-2. First Steps Child Care Center | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | First Steps Child Care Center is a daycare in Grimes, IA at 441 Southeast Gateway Circle, Grimes, IA 50111. | https://registry-edge.dingalinged.workers.dev/c/first-steps-child-care-center-grimes/
+1. Bentley Ridge Tree Farm and Nursery | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Bentley Ridge Tree Farm and Nursery is a daycare in Grimes, IA at 4400 West 1st Street, Grimes, IA 50111. Website: https://www.bentleyridgetreefarm.com/. | https://registry-edge.dingalinged.workers.dev/c/bentley-ridge-tree-farm-and-nursery-grimes/
+2. First Steps Child Care Center | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | First Steps Child Care Center is a daycare in Grimes, IA at 441 Southeast Gateway Circle, Grimes, IA 50111. | https://registry-edge.dingalinged.workers.dev/c/first-steps-child-care-center-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare grimes ia | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Carrollton, TX at East Trinity Mills Road, C
 - Website: https://www.myeyedr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 91% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 91% of eye care practices in Dallas–Fort Worth, #1 of 1 eye care practices in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Adair Allergy & Asthma is an allergist in Coppell, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 07:15-16:30; Th,Sa-Su off; Fr 08:00-17:30
-- Pulse Score: 56.1/100 — Fair — top 67% of allergists in Dallas–Fort Worth, #1 of 1 allergists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 37.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.6/100 — Fair — top 67% of allergists in Dallas–Fort Worth, #1 of 1 allergists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

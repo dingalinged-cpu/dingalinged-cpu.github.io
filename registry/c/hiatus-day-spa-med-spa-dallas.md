@@ -13,7 +13,7 @@ Hiatus Day Spa • Med Spa is a spa in Dallas, TX at 9820 North Central Expressw
 - Website: https://www.hiatusspa.com/location/dallas-the-hill
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 28% of spas in Dallas–Fort Worth, #1 of 6 spas in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 28% of spas in Dallas–Fort Worth, #1 of 6 spas in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Omaha, NE at 8457 West Center Road, Omaha, NE 6812
 - Website: https://www.goodwillomaha.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 52% of thrift stores in Omaha, NE, #9 of 14 thrift stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 49% of thrift stores in Omaha, NE, #9 of 14 thrift stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

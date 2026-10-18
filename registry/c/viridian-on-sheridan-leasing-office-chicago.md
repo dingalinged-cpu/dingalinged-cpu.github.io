@@ -13,7 +13,7 @@ Viridian on Sheridan - Leasing Office is a property management company in Chicag
 - Website: https://www.viridianonsheridan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 10:00-18:00; Sa 09:00-17:00
-- Pulse Score: 62.9/100 — Good — top 4% of property management companys in Chicago, #1 of 13 property management companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 4% of property management companys in Chicago, #1 of 13 property management companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ A Better Way Chiropractic - Conroe is a chiropractor in Conroe, TX at 2510 South
 - Website: https://www.abetterwaychiropractic.com/
 - Email: conroe@abetterwaychiropractic.com
 - Opening hours (OSM syntax): Mo 08:00-11:00; 16:00-18:00, Tu 15:00-18:00, We 08:30-11:00; 16:00-18:00, Th 08:30-11:00; 15:00-18:00, Fr 08:00-11:00
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 3% of chiropractors in Houston, #1 of 2 chiropractors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 3% of chiropractors in Houston, #1 of 2 chiropractors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

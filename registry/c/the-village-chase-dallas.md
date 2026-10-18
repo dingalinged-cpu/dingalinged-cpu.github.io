@@ -13,7 +13,7 @@ The Village Chase is a property management company in Dallas, TX at 5657 Amesbur
 - Website: https://www.thevillagedallas.com/properties/the-village-chase/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Dallas–Fort Worth, #2 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of property management companys in Dallas–Fort Worth, #2 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

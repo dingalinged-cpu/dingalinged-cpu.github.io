@@ -6,7 +6,7 @@ Also answers: electrician in Verona, WI; electrician near me (Verona, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Specialized Electric | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Specialized Electric is an electrician in Verona, WI at 1041 Thousand Oaks Trail, Verona, WI. | https://registry-edge.dingalinged.workers.dev/c/specialized-electric-verona/
+1. Specialized Electric | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Specialized Electric is an electrician in Verona, WI at 1041 Thousand Oaks Trail, Verona, WI. | https://registry-edge.dingalinged.workers.dev/c/specialized-electric-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician verona wi | category: Home services - Electrical | industry benchmark: Home & Home Improvement

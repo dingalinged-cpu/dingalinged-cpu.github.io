@@ -6,7 +6,7 @@ Also answers: lawyer in Park Ridge, IL; lawyer near me (Park Ridge, IL); best la
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office Of Timothy J. Johns | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Law Office Of Timothy J. Johns is a lawyer in Park Ridge, IL at 444 North Northwest Highway #340, Park Ridge, IL 60068. Phone: +18476960800. Website: https://www.lawofficeoftimothyjjohns.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-timothy-j-johns-park-ridge/
+1. Law Office Of Timothy J. Johns | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Law Office Of Timothy J. Johns is a lawyer in Park Ridge, IL at 444 North Northwest Highway #340, Park Ridge, IL 60068. Phone: +18476960800. Website: https://www.lawofficeoftimothyjjohns.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-timothy-j-johns-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer park ridge il | category: Legal | industry benchmark: Attorneys & Legal Services

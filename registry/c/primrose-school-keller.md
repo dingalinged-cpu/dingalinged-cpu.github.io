@@ -13,7 +13,7 @@ Primrose School is a preschool in Keller, TX at Bear Creek Parkway, Keller, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 46.8/100 — Building — top 61% of preschools in Dallas–Fort Worth, #3 of 3 preschools in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 61% of preschools in Dallas–Fort Worth, #3 of 3 preschools in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

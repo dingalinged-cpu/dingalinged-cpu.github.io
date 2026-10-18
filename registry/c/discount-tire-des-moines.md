@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Des Moines, IA at 3719 Southeast 14th Street, De
 - Website: https://www.discounttire.com/store/ia/des-moines/s/2063
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Pulse Score: 51.8/100 — Fair — top 15% of tire shops in Des Moines, IA, #1 of 4 tire shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 70.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 8% of tire shops in Des Moines, IA, #1 of 4 tire shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 70.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

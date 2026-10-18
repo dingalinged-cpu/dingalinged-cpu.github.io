@@ -13,7 +13,7 @@ Owlee's Multi-Services is an accountant in Houston, TX at 2600 Gessner Road #249
 - Website: https://www.owlees33366.com/
 - Email: owlees33366@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
-- Pulse Score: 64.3/100 — Good — top 6% of accountants in Houston, #1 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 6% of accountants in Houston, #1 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Rice’s Liquors is a liquor store in Burlington, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 94% of liquor stores in Milwaukee, #2 of 2 liquor stores in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 88% of liquor stores in Milwaukee, #2 of 2 liquor stores in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

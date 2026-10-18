@@ -13,7 +13,7 @@ Bright Beginnings Children's Center is a preschool in Atlanta, GA at 1316 West P
 - Website: https://child-care-preschool.brighthorizons.com/ga/atlanta/brightbeginnings
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 17% of preschools in Atlanta, #2 of 11 preschools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of preschools in Atlanta, #2 of 11 preschools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: urgent care in Marietta, GA; urgent care near me (Marietta, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Marietta, GA at 1401 Johnson Ferry Road Northeast, Marietta, GA 30062. Phone: +14702501492. Website: https://www.afcurgentcare.com/east-cobb/. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-marietta/
+1. AFC Urgent Care | Organic #1 | Pulse Score 48.4/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Marietta, GA at 1401 Johnson Ferry Road Northeast, Marietta, GA 30062. Phone: +14702501492. Website: https://www.afcurgentcare.com/east-cobb/. | https://registry-edge.dingalinged.workers.dev/c/afc-urgent-care-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care marietta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

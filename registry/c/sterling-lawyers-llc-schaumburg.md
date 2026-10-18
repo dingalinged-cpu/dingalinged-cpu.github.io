@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Schaumburg, IL at 1821 Walden Office Square
 - Website: https://www.sterlinglawyers.com/illinois/locations/schaumburg/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 99% of lawyers in Chicago, #4 of 4 lawyers in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 98% of lawyers in Chicago, #4 of 4 lawyers in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

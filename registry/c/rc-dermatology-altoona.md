@@ -13,7 +13,7 @@ RC Dermatology is a dermatologist in Altoona, IA at 3053 8th Street Southwest #2
 - Website: https://www.radiantcomplexions.com/locations/altoona
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Des Moines, IA, #1 of 1 dermatologists in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Des Moines, IA, #1 of 1 dermatologists in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

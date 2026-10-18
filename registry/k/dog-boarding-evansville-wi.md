@@ -6,8 +6,8 @@ Also answers: dog boarding in Evansville, WI; dog boarding near me (Evansville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chesterfield Kennels | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Chesterfield Kennels is a dog boarding facility in Evansville, WI at 5641 North Old Highway 92, Evansville, WI 53536. Phone: +16088826197. Website: https://chesterfieldkennel.com/. | https://registry-edge.dingalinged.workers.dev/c/chesterfield-kennels-evansville/
-2. All Paws | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | All Paws is a dog boarding facility in Evansville, WI. | https://registry-edge.dingalinged.workers.dev/c/all-paws-evansville/
+1. Chesterfield Kennels | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Chesterfield Kennels is a dog boarding facility in Evansville, WI at 5641 North Old Highway 92, Evansville, WI 53536. Phone: +16088826197. Website: https://chesterfieldkennel.com/. | https://registry-edge.dingalinged.workers.dev/c/chesterfield-kennels-evansville/
+2. All Paws | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | All Paws is a dog boarding facility in Evansville, WI. | https://registry-edge.dingalinged.workers.dev/c/all-paws-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding evansville wi | category: Pets | industry benchmark: Animals & Pets

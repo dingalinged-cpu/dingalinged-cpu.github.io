@@ -13,7 +13,7 @@ JCC Gan Ami Preschool is a preschool in Whitefish Bay, WI. Phone: +14149678241. 
 - Website: https://www.jccmilwaukee.org/programs/education-families/early-childhood-education/gan-ami-whitefish-bay/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 49% of preschools in Milwaukee, #1 of 1 preschools in Whitefish Bay (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 46% of preschools in Milwaukee, #1 of 1 preschools in Whitefish Bay (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

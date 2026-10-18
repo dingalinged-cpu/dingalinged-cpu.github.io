@@ -13,7 +13,7 @@ Hy-Vee Wine & Spirits is a liquor store in West Des Moines, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Des Moines, IA, #6 of 6 liquor stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 100% of liquor stores in Des Moines, IA, #6 of 6 liquor stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

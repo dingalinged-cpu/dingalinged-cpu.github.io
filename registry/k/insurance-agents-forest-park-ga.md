@@ -7,10 +7,10 @@ Also answers: insurance agents in Forest Park, GA; insurance agents near me (For
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. ATI Insurance | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | ATI Insurance is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/ati-insurance-forest-park/
-2. Brightway Insurance | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Brightway Insurance is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brightway-insurance-forest-park/
-3. Bulldog Insurance | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Bulldog Insurance is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/bulldog-insurance-forest-park/
-4. State Farm | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | State Farm is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/state-farm-forest-park/
-5. State Farm | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | State Farm is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/state-farm-forest-park-w968837620/
+2. Bulldog Insurance | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Bulldog Insurance is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/bulldog-insurance-forest-park/
+3. State Farm | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | State Farm is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/state-farm-forest-park/
+4. State Farm | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | State Farm is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/state-farm-forest-park-w968837620/
+5. Brightway Insurance | Organic #5 | Pulse Score 42.5/100 (Unrated, #5 in city) | Brightway Insurance is an insurance agent in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brightway-insurance-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents forest park ga | category: insurance | industry benchmark: Finance & Insurance

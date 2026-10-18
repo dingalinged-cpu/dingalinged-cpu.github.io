@@ -7,7 +7,7 @@ Also answers: car wash in De Soto, KS; car wash near me (De Soto, KS); best car 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Minit Mart Car Wash | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Minit Mart Car Wash is a car wash in De Soto, KS at 34204 Commerce Drive, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/minit-mart-car-wash-de-soto/
-2. De Soto Car Wash | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | De Soto Car Wash is a car wash in De Soto, KS at 33540 Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/de-soto-car-wash-de-soto/
+2. De Soto Car Wash | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | De Soto Car Wash is a car wash in De Soto, KS at 33540 Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/de-soto-car-wash-de-soto/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash de soto ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

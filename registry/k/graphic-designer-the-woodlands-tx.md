@@ -6,7 +6,7 @@ Also answers: graphic designer in The Woodlands, TX; graphic designer near me (T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DIONECSA | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | DIONECSA is a graphic designer in The Woodlands, TX at 21 Waterway Avenue #300, The Woodlands, TX 77380. Phone: +12813622794. Website: https://dionecsa.com/. | https://registry-edge.dingalinged.workers.dev/c/dionecsa-the-woodlands/
+1. DIONECSA | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | DIONECSA is a graphic designer in The Woodlands, TX at 21 Waterway Avenue #300, The Woodlands, TX 77380. Phone: +12813622794. Website: https://dionecsa.com/. | https://registry-edge.dingalinged.workers.dev/c/dionecsa-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer the woodlands tx | category: professional_marketing | industry benchmark: Business Services

@@ -6,7 +6,7 @@ Also answers: car wash in Village Of Cottage Grove, WI; car wash near me (Villag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Kwik Trip is a car wash in Village of Cottage Grove, WI. Website: https://www.kwiktrip.com/locator/store?id=650. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-village-of-cottage-grove/
+1. Kwik Trip | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Kwik Trip is a car wash in Village of Cottage Grove, WI. Website: https://www.kwiktrip.com/locator/store?id=650. | https://registry-edge.dingalinged.workers.dev/c/kwik-trip-village-of-cottage-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash village of cottage grove wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

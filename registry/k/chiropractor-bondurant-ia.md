@@ -6,7 +6,7 @@ Also answers: chiropractor in Bondurant, IA; chiropractor near me (Bondurant, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Health + Performance | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Elite Health + Performance is a chiropractor in Bondurant, IA. Phone: +15153068211. Website: https://elitehp-ia.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-health-performance-bondurant/
+1. Elite Health + Performance | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Elite Health + Performance is a chiropractor in Bondurant, IA. Phone: +15153068211. Website: https://elitehp-ia.com/. | https://registry-edge.dingalinged.workers.dev/c/elite-health-performance-bondurant/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor bondurant ia | category: Health & medical | industry benchmark: Physicians & Surgeons

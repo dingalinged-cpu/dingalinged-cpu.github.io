@@ -13,7 +13,7 @@ The Abbey at Hightower is a property management company in North Richland Hills,
 - Website: https://www.abbeyresidential.com/apartments/tx/north-richland-hills/hightower/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 28% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of property management companys in Dallas–Fort Worth, #1 of 1 property management companys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

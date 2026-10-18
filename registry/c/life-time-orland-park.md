@@ -13,7 +13,7 @@ Life Time is a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park
 - Website: https://www.lifetime.life/life-time-locations/il-orland-park.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.8/100 — Building — top 50% of gyms in Chicago, #2 of 4 gyms in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 49% of gyms in Chicago, #2 of 4 gyms in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

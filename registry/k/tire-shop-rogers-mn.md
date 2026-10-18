@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Hoosier Tire North | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Hoosier Tire North is a tire shop in Rogers, MN at 21601 John Deere Lane, Rogers, MN 55374. | https://registry-edge.dingalinged.workers.dev/c/hoosier-tire-north-rogers/
 2. Pomp's Tire | Organic #2 | Pulse Score 43/100 (Unrated, #2 in city) | Pomp's Tire is a tire shop in Rogers, MN at Industrial Court, Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/pomps-tire-rogers/
-3. Discount Tire | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Discount Tire is a tire shop in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-rogers/
+3. Discount Tire | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Discount Tire is a tire shop in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-rogers/
 4. Tires Plus | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Tires Plus is a tire shop in Rogers, MN. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-rogers/
 
 ## Market data (for advertisers and agents)

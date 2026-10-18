@@ -13,7 +13,7 @@ La Familia Auto Insurance is an insurance agent in Lewisville, TX. Phone: +19727
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off
-- Pulse Score: 49.5/100 — Building — top 43% of insurance agents in Dallas–Fort Worth, #11 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 42% of insurance agents in Dallas–Fort Worth, #11 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: event venues in Lenexa, KS; event venues near me (Lenexa, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thompson Barn Event Space | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Thompson Barn Event Space is an event venue in Lenexa, KS at 11184 Lackman Road, Lenexa, KS 66219. Phone: +19134777100. Website: https://www.lenexa.com/government/departments___divisions/parks___recreation/facilities/thompson_barn. | https://registry-edge.dingalinged.workers.dev/c/thompson-barn-event-space-lenexa/
+1. Thompson Barn Event Space | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Thompson Barn Event Space is an event venue in Lenexa, KS at 11184 Lackman Road, Lenexa, KS 66219. Phone: +19134777100. Website: https://www.lenexa.com/government/departments___divisions/parks___recreation/facilities/thompson_barn. | https://registry-edge.dingalinged.workers.dev/c/thompson-barn-event-space-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues lenexa ks | category: Events & weddings | industry benchmark: Personal Services

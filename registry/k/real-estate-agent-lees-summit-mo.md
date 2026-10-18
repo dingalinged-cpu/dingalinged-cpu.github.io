@@ -7,8 +7,8 @@ Also answers: real estate agent in Lee'S Summit, MO; real estate agent near me (
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Richey Real Estate Group | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Richey Real Estate Group is a real estate agency in Lee's Summit, MO at 222 Southwest Main Street, Lee's Summit, MO 64063. Phone: +18167868485. Website: https://www.relyonrichey.com/. | https://registry-edge.dingalinged.workers.dev/c/richey-real-estate-group-lees-summit/
-2. Cubmex Property Partners LLC | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Cubmex Property Partners LLC is a real estate agency in Lee's Summit, MO at 312 SW Greenwich Dr, Lee's Summit, MO 64082. Phone: +18165423500. Website: https://www.kcbuymyhouse.com/. | https://registry-edge.dingalinged.workers.dev/c/cubmex-property-partners-llc-lees-summit/
-3. Chartwell Realty | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Chartwell Realty is a real estate agency in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/chartwell-realty-lees-summit/
+2. Cubmex Property Partners LLC | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Cubmex Property Partners LLC is a real estate agency in Lee's Summit, MO at 312 SW Greenwich Dr, Lee's Summit, MO 64082. Phone: +18165423500. Website: https://www.kcbuymyhouse.com/. | https://registry-edge.dingalinged.workers.dev/c/cubmex-property-partners-llc-lees-summit/
+3. Chartwell Realty | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Chartwell Realty is a real estate agency in Lee's Summit, MO. | https://registry-edge.dingalinged.workers.dev/c/chartwell-realty-lees-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent lee's summit mo | category: Professional & financial services | industry benchmark: Finance & Insurance

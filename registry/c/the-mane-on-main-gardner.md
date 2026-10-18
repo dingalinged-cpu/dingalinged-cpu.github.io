@@ -19,6 +19,6 @@ The Mane On Main is a hair salon in Gardner, KS at 611 East Main Street, Gardner
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-mane-on-main-gardner/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-mane-on-main-gardner.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/10003176502 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10003176502 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

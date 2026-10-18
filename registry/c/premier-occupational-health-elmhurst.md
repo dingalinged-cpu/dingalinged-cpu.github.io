@@ -13,7 +13,7 @@ Premier Occupational Health is a family medicine practice in Elmhurst, IL at 300
 - Website: https://premiermedclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 56% of family medicine practices in Chicago, #1 of 1 family medicine practices in Elmhurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 56% of family medicine practices in Chicago, #1 of 1 family medicine practices in Elmhurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

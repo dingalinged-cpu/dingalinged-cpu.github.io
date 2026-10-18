@@ -13,7 +13,7 @@ PT Solutions Physical Therapy is a physical therapy clinic in Cobb County, GA at
 - Website: https://ptsolutions.com/clinics/ga/lower-roswell/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:00; Sa-Su off
-- Pulse Score: 47.8/100 — Building — top 59% of physical therapy clinics in Atlanta, #6 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 55% of physical therapy clinics in Atlanta, #5 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

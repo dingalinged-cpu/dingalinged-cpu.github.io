@@ -6,7 +6,7 @@ Also answers: graphic designer in Lewisville, TX; graphic designer near me (Lewi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kristi Hopper Designs | Organic #1 | Pulse Score 60/100 (Good, #1 in city) | Kristi Hopper Designs is a graphic designer in Lewisville, TX. Phone: +19728979878. Website: https://www.kristihopper.com/. | https://registry-edge.dingalinged.workers.dev/c/kristi-hopper-designs-lewisville/
+1. Kristi Hopper Designs | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Kristi Hopper Designs is a graphic designer in Lewisville, TX. Phone: +19728979878. Website: https://www.kristihopper.com/. | https://registry-edge.dingalinged.workers.dev/c/kristi-hopper-designs-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer lewisville tx | category: professional_marketing | industry benchmark: Business Services

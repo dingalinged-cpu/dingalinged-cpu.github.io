@@ -7,7 +7,7 @@ Also answers: nail salon in Independence, MO; nail salon near me (Independence, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Miss Nailes | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Miss Nailes is a nail salon in Independence, MO at 212 West Maple Avenue, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/miss-nailes-independence/
-2. Princess Nails | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Princess Nails is a nail salon in Independence, MO at 18931 East Valley View Parkway #E, Independence, MO 64055. Phone: +18163731322. | https://registry-edge.dingalinged.workers.dev/c/princess-nails-independence/
+2. Princess Nails | Organic #2 | Pulse Score 50.5/100 (Fair, #2 in city) | Princess Nails is a nail salon in Independence, MO at 18931 East Valley View Parkway #E, Independence, MO 64055. Phone: +18163731322. | https://registry-edge.dingalinged.workers.dev/c/princess-nails-independence/
 3. Super Nails | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | Super Nails is a nail salon in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/super-nails-independence/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Wash Me is a car wash in Minneapolis, MN at 4159 Hiawatha Avenue, Minneapolis, M
 - Website: https://www.washme.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 3% of car washes in Minneapolis–St. Paul, #2 of 7 car washes in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 3% of car washes in Minneapolis–St. Paul, #2 of 7 car washes in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

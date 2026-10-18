@@ -13,7 +13,7 @@ Chi-Town Dog House is a pet store in Chicago, IL at 2231 West Belmont Avenue, Ch
 - Website: https://www.chitowndoghouse.com/
 - Email: chitowndoghouse@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-12:00, 14:00-19:00; Sa-Su 08:00-12:00, 14:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 2% of pet stores in Chicago, #1 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 2% of pet stores in Chicago, #1 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

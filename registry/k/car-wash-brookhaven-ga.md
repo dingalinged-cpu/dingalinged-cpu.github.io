@@ -6,7 +6,7 @@ Also answers: car wash in Brookhaven, GA; car wash near me (Brookhaven, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Car wash | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | Car wash is a car wash in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/car-wash-brookhaven/
+1. Car wash | Organic #1 | Pulse Score 42/100 (Unrated, #1 in city) | Car wash is a car wash in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/car-wash-brookhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash brookhaven ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. ChildServe Woodland Center | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | ChildServe Woodland Center is a preschool in Des Moines, IA at 644 24th Street, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/childserve-woodland-center-des-moines/
 2. Wonder Years Academy | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Wonder Years Academy is a preschool in Des Moines, IA at 3838 Martin Luther King Junior Parkway, Des Moines, IA 50310. | https://registry-edge.dingalinged.workers.dev/c/wonder-years-academy-des-moines/
-3. Child Development Center | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Child Development Center is a preschool in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/child-development-center-des-moines-w1046992555/
-4. Childtime of Des Moines | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Childtime of Des Moines is a preschool in Des Moines, IA at 610 Center Street, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/childtime-of-des-moines-des-moines/
+3. Childtime of Des Moines | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | Childtime of Des Moines is a preschool in Des Moines, IA at 610 Center Street, Des Moines, IA 50309. | https://registry-edge.dingalinged.workers.dev/c/childtime-of-des-moines-des-moines/
+4. Child Development Center | Organic #4 | Pulse Score 42.7/100 (Unrated, #4 in city) | Child Development Center is a preschool in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/child-development-center-des-moines-w1046992555/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool des moines ia | category: Education & childcare | industry benchmark: Education & Instruction

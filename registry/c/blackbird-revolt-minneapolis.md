@@ -13,7 +13,7 @@ Blackbird Revolt is a graphic designer in Minneapolis, MN at 1128 Harmon Place #
 - Website: https://blackbirdrevolt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00
-- Pulse Score: 62.3/100 — Good — top 34% of graphic designers in Minneapolis–St. Paul, #1 of 2 graphic designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 34% of graphic designers in Minneapolis–St. Paul, #1 of 2 graphic designers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

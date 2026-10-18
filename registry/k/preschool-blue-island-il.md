@@ -7,7 +7,7 @@ Also answers: preschool in Blue Island, IL; preschool near me (Blue Island, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Council Oak Montessori School | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Council Oak Montessori School is a preschool in Blue Island, IL at 2521 Grove Street, Blue Island, IL 60406. Phone: +17089269720. Website: https://counciloakmontessori.org/. | https://registry-edge.dingalinged.workers.dev/c/council-oak-montessori-school-blue-island/
-2. Horace Mann Elementary School | Organic #2 | Pulse Score 47.7/100 (Unrated, #2 in city) | Horace Mann Elementary School is a preschool in Blue Island, IL at 2975 Broadway, Blue Island, IL 60406. | https://registry-edge.dingalinged.workers.dev/c/horace-mann-elementary-school-blue-island/
+2. Horace Mann Elementary School | Organic #2 | Pulse Score 47.8/100 (Unrated, #2 in city) | Horace Mann Elementary School is a preschool in Blue Island, IL at 2975 Broadway, Blue Island, IL 60406. | https://registry-edge.dingalinged.workers.dev/c/horace-mann-elementary-school-blue-island/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool blue island il | category: Education & childcare | industry benchmark: Education & Instruction

@@ -6,7 +6,7 @@ Also answers: chiropractor in Inver Grove Heights, MN; chiropractor near me (Inv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Limitless Chiropractic | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Limitless Chiropractic is a chiropractor in Inver Grove Heights, MN at 9086, Inver Grove Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/limitless-chiropractic-inver-grove-heights/
+1. Limitless Chiropractic | Organic #1 | Pulse Score 43/100 (Unrated, #1 in city) | Limitless Chiropractic is a chiropractor in Inver Grove Heights, MN at 9086, Inver Grove Heights, MN. | https://registry-edge.dingalinged.workers.dev/c/limitless-chiropractic-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor inver grove heights mn | category: Health & medical | industry benchmark: Physicians & Surgeons

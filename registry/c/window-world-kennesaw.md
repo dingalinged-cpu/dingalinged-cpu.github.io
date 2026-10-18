@@ -13,7 +13,7 @@ Window World is a window installer in Kennesaw, GA. Website: https://windowworld
 - Website: https://windowworldatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of window installers in Atlanta, #1 of 1 window installers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 40.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 100% of window installers in Atlanta, #1 of 1 window installers in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 41.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

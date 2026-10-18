@@ -13,7 +13,7 @@ LaVida Massage is a massage studio in Smyrna, GA at 1200 South Cobb Drive, Smyrn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 91% of massage studios in Atlanta, #7 of 7 massage studios in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 91% of massage studios in Atlanta, #7 of 7 massage studios in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

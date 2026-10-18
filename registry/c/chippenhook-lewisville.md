@@ -13,7 +13,7 @@ Chippenhook is a marketing agency in Lewisville, TX at 1955 Lakeway Drive #210, 
 - Website: https://www.chippenhook.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Fair — top 58% of marketing agencys in Dallas–Fort Worth, #1 of 2 marketing agencys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 41.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.8/100 — Fair — top 58% of marketing agencys in Dallas–Fort Worth, #1 of 2 marketing agencys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

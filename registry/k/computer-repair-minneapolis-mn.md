@@ -6,7 +6,7 @@ Also answers: computer repair in Minneapolis, MN; computer repair near me (Minne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Asurion Tech Repair & Solutions | Organic #1 | Pulse Score 45.8/100 (Building, #3 in city) | Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone: +16126552890. | https://registry-edge.dingalinged.workers.dev/c/asurion-tech-repair-and-solutions-minneapolis/
+1. Asurion Tech Repair & Solutions | Organic #1 | Pulse Score 45.6/100 (Building, #3 in city) | Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone: +16126552890. | https://registry-edge.dingalinged.workers.dev/c/asurion-tech-repair-and-solutions-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair minneapolis mn | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

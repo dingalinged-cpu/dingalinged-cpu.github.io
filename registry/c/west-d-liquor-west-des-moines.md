@@ -13,7 +13,7 @@ West D Liquor is a liquor store in West Des Moines, IA at 5014 E P True Parkway,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of liquor stores in Des Moines, IA, #2 of 6 liquor stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of liquor stores in Des Moines, IA, #2 of 6 liquor stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

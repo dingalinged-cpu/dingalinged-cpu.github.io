@@ -13,7 +13,7 @@ Triton Roofing & Restoration is a roofer in Lewisville, TX at 206 South Charles 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Fair — top 61% of roofers in Dallas–Fort Worth, #1 of 1 roofers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Fair — top 61% of roofers in Dallas–Fort Worth, #1 of 1 roofers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tanning salon in Johnston, IA; tanning salon near me (Johnston, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun Tan City | Organic #1 | Pulse Score 42.4/100 (Unrated, #1 in city) | Sun Tan City is a tanning salon in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-johnston/
+1. Sun Tan City | Organic #1 | Pulse Score 42.5/100 (Unrated, #1 in city) | Sun Tan City is a tanning salon in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/sun-tan-city-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon johnston ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

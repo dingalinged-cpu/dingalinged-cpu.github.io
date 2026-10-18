@@ -6,7 +6,7 @@ Also answers: architect in Kennesaw, GA; architect near me (Kennesaw, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DGM Land Planning Consultants, Inc. | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | DGM Land Planning Consultants, Inc. is an architect in Kennesaw, GA at 1815 Old 41 Highway Northwest #340, Kennesaw, GA. Website: https://www.dgmlpc.com/. | https://registry-edge.dingalinged.workers.dev/c/dgm-land-planning-consultants-inc-kennesaw/
+1. DGM Land Planning Consultants, Inc. | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | DGM Land Planning Consultants, Inc. is an architect in Kennesaw, GA at 1815 Old 41 Highway Northwest #340, Kennesaw, GA. Website: https://www.dgmlpc.com/. | https://registry-edge.dingalinged.workers.dev/c/dgm-land-planning-consultants-inc-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect kennesaw ga | category: Home services - Design | industry benchmark: Home & Home Improvement

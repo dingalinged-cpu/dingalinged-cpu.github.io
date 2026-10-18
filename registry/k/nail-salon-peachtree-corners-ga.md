@@ -6,7 +6,7 @@ Also answers: nail salon in Peachtree Corners, GA; nail salon near me (Peachtree
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Perfect Nails | Organic #1 | Pulse Score 58.6/100 (Fair, #1 in city) | Perfect Nails is a nail salon in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/perfect-nails-peachtree-corners/
+1. Perfect Nails | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | Perfect Nails is a nail salon in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/perfect-nails-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon peachtree corners ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

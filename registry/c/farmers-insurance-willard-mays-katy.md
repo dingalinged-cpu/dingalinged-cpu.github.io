@@ -13,7 +13,7 @@ Farmers Insurance - Willard Mays is an insurance agent in Katy, TX at 2020 Katy 
 - Website: https://agents.farmers.com/tx/katy/willard-mays
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 45% of insurance agents in Houston, #1 of 3 insurance agents in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 44% of insurance agents in Houston, #1 of 3 insurance agents in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

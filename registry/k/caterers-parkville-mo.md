@@ -6,7 +6,7 @@ Also answers: caterers in Parkville, MO; caterers near me (Parkville, MO); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sugar & Spice Catering | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Sugar & Spice Catering is a caterer in Parkville, MO at 301 Main Street, Parkville, MO. | https://registry-edge.dingalinged.workers.dev/c/sugar-and-spice-catering-parkville/
+1. Sugar & Spice Catering | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Sugar & Spice Catering is a caterer in Parkville, MO at 301 Main Street, Parkville, MO. | https://registry-edge.dingalinged.workers.dev/c/sugar-and-spice-catering-parkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers parkville mo | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Thomas Printworks is a printing service in Minneapolis, MN at 801 2nd Avenue Nor
 - Website: https://thomasprintworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 51% of printing services in Minneapolis–St. Paul, #8 of 12 printing services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 51% of printing services in Minneapolis–St. Paul, #8 of 12 printing services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dryo Cleaners is a dry cleaner in Atlanta, GA at 1270 West Peachtree Street Nort
 - Website: https://dryo.io/
 - Email: premiercleanersusa@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 12:30-17:30
-- Pulse Score: 65/100 — Good — top 2% of dry cleaners in Atlanta, #1 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65/100 — Good — top 2% of dry cleaners in Atlanta, #1 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

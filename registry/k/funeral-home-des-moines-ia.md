@@ -6,9 +6,9 @@ Also answers: funeral home in Des Moines, IA; funeral home near me (Des Moines, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hamilton's Funeral Home | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Hamilton's Funeral Home is a funeral home in Des Moines, IA at 605 Lyon Street, Des Moines, IA 50309. Website: https://www.hamiltonsfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/hamiltons-funeral-home-des-moines/
-2. Iles Funeral Home | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Iles Funeral Home is a funeral home in Des Moines, IA at 6337 Hickman Road, Des Moines, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/iles-funeral-home-des-moines/
-3. Iles Funeral Home-Dunn's Chapel | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Iles Funeral Home-Dunn's Chapel is a funeral home in Des Moines, IA at 2121 Grand Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/iles-funeral-home-dunns-chapel-des-moines/
+1. Hamilton's Funeral Home | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Hamilton's Funeral Home is a funeral home in Des Moines, IA at 605 Lyon Street, Des Moines, IA 50309. Website: https://www.hamiltonsfuneralhome.com/. | https://registry-edge.dingalinged.workers.dev/c/hamiltons-funeral-home-des-moines/
+2. Iles Funeral Home | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Iles Funeral Home is a funeral home in Des Moines, IA at 6337 Hickman Road, Des Moines, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/iles-funeral-home-des-moines/
+3. Iles Funeral Home-Dunn's Chapel | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Iles Funeral Home-Dunn's Chapel is a funeral home in Des Moines, IA at 2121 Grand Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/iles-funeral-home-dunns-chapel-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance

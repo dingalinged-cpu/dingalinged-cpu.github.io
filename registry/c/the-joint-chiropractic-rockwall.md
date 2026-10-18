@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Rockwall, TX at 1053 East Interstate
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 97% of chiropractors in Dallas–Fort Worth, #10 of 10 chiropractors in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 96% of chiropractors in Dallas–Fort Worth, #10 of 10 chiropractors in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

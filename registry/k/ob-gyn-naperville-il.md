@@ -6,7 +6,7 @@ Also answers: ob gyn in Naperville, IL; ob gyn near me (Naperville, IL); best ob
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Wright Center for Women's Health | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | The Wright Center for Women's Health is an OB-GYN practice in Naperville, IL at 1763 Freedom Drive #117, Naperville, IL 60563. Phone: +16306879595. | https://registry-edge.dingalinged.workers.dev/c/the-wright-center-for-womens-health-naperville/
+1. The Wright Center for Women's Health | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | The Wright Center for Women's Health is an OB-GYN practice in Naperville, IL at 1763 Freedom Drive #117, Naperville, IL 60563. Phone: +16306879595. | https://registry-edge.dingalinged.workers.dev/c/the-wright-center-for-womens-health-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -6,7 +6,7 @@ Also answers: flooring companies in Alpharetta, GA; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KTW Hardwood Floor Refinishing & Installation | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | KTW Hardwood Floor Refinishing & Installation is a flooring company in Alpharetta, GA at 230 Holcombe Hill Lane, Alpharetta, GA 30004. Phone: +14704471497. Website: https://ktwhardwoodflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/ktw-hardwood-floor-refinishing-and-installation-alpharetta/
+1. KTW Hardwood Floor Refinishing & Installation | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | KTW Hardwood Floor Refinishing & Installation is a flooring company in Alpharetta, GA at 230 Holcombe Hill Lane, Alpharetta, GA 30004. Phone: +14704471497. Website: https://ktwhardwoodflooring.com/. | https://registry-edge.dingalinged.workers.dev/c/ktw-hardwood-floor-refinishing-and-installation-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies alpharetta ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

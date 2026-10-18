@@ -13,7 +13,7 @@ Kid Talk Counseling is a therapy practice in Frisco, TX at 6942 Main Street, Fri
 - Website: https://kidtalkfrisco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 30% of therapy practices in Dallas–Fort Worth, #4 of 8 therapy practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 30% of therapy practices in Dallas–Fort Worth, #4 of 8 therapy practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

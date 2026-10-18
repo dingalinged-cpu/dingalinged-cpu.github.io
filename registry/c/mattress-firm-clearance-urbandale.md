@@ -13,7 +13,7 @@ Mattress Firm Clearance is a mattress store in Urbandale, IA at 3009 100th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 67% of mattress stores in Des Moines, IA, #2 of 2 mattress stores in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 59% of mattress stores in Des Moines, IA, #2 of 2 mattress stores in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

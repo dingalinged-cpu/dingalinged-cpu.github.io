@@ -13,7 +13,7 @@ CityVet is a veterinarian in Atlanta, GA at 1230 West Peachtree Street Northwest
 - Website: https://www.cityvet.com/location/midtown/
 - Email: midtown@cityvet.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su off
-- Pulse Score: 49.2/100 — Building — top 94% of veterinarians in Atlanta, #16 of 18 veterinarians in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 93% of veterinarians in Atlanta, #16 of 18 veterinarians in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

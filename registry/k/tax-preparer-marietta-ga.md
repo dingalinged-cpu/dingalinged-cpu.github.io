@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Casablanca Taxes | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Casablanca Taxes is a tax preparation service in Marietta, GA at 1450 Roswell Road #c, Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/casablanca-taxes-marietta/
 2. H&R Block | Organic #2 | Pulse Score 53.3/100 (Fair, #2 in city) | H&R Block is a tax preparation service in Marietta, GA at 2858 Delk Road Southeast, Marietta, GA 30067. Phone: +17709809499. Website: https://www.hrblock.com/tax-office-near-me/georgia/marietta/10931/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-marietta/
-3. Tax Services | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Tax Services is a tax preparation service in Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/tax-services-marietta/
+3. Tax Services | Organic #3 | Pulse Score 48.7/100 (Building, #3 in city) | Tax Services is a tax preparation service in Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/tax-services-marietta/
 4. ATC Income Tax | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | ATC Income Tax is a tax preparation service in Marietta, GA. | https://registry-edge.dingalinged.workers.dev/c/atc-income-tax-marietta/
 
 ## Market data (for advertisers and agents)

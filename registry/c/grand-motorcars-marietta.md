@@ -13,7 +13,7 @@ Grand Motorcars is an used car dealer in Marietta, GA at 1860 Roswell Road, Mari
 - Website: https://www.grandmotorcars.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 12:00-18:00
-- Pulse Score: 63.8/100 — Good — top 7% of used car dealers in Atlanta, #4 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 7% of used car dealers in Atlanta, #4 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

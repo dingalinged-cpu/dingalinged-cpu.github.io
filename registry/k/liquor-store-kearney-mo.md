@@ -6,7 +6,7 @@ Also answers: liquor store in Kearney, MO; liquor store near me (Kearney, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Party Place Liquor | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Party Place Liquor is a liquor store in Kearney, MO at 101 West st route 92, Kearney, MO 64060. Phone: +18169036969. | https://registry-edge.dingalinged.workers.dev/c/party-place-liquor-kearney/
+1. Party Place Liquor | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Party Place Liquor is a liquor store in Kearney, MO at 101 West st route 92, Kearney, MO 64060. Phone: +18169036969. | https://registry-edge.dingalinged.workers.dev/c/party-place-liquor-kearney/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store kearney mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

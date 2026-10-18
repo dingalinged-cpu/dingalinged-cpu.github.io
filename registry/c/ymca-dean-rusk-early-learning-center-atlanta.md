@@ -13,7 +13,7 @@ YMCA Dean Rusk Early Learning Center is a daycare in Atlanta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 95% of daycares in Atlanta, #7 of 7 daycares in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 95% of daycares in Atlanta, #7 of 7 daycares in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

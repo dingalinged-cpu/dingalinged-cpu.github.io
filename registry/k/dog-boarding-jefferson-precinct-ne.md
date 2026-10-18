@@ -6,7 +6,7 @@ Also answers: dog boarding in Jefferson Precinct, NE; dog boarding near me (Jeff
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gilbert Boarding Kennels | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Gilbert Boarding Kennels is a dog boarding facility in Bennington, NE at 6904 North 156th Street, Bennington, NE 68007. Phone: +14022383065. Website: https://www.gilbertkennels.com/. | https://registry-edge.dingalinged.workers.dev/c/gilbert-boarding-kennels-bennington/
+1. Gilbert Boarding Kennels | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Gilbert Boarding Kennels is a dog boarding facility in Bennington, NE at 6904 North 156th Street, Bennington, NE 68007. Phone: +14022383065. Website: https://www.gilbertkennels.com/. | https://registry-edge.dingalinged.workers.dev/c/gilbert-boarding-kennels-bennington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding jefferson precinct ne | category: Pets | industry benchmark: Animals & Pets

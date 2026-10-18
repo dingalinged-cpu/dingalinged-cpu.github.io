@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Little Elm, TX at 4150 Gazebo Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 56% of self-storage facilitys in Dallas–Fort Worth, #2 of 4 self-storage facilitys in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 55% of self-storage facilitys in Dallas–Fort Worth, #2 of 4 self-storage facilitys in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Crossway Mechanical LLC is a HVAC contractor in Tomball, TX at 327 South Persimm
 - Website: https://www.crosswaymechanical.com/
 - Email: crosswaymechanical@hotmail.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 11% of HVAC contractors in Houston, #1 of 1 HVAC contractors in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 11% of HVAC contractors in Houston, #1 of 1 HVAC contractors in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

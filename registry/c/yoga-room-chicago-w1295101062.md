@@ -13,7 +13,7 @@ Yoga Room is a yoga studio in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 31% of yoga studios in Chicago, #10 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 47. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 31% of yoga studios in Chicago, #10 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

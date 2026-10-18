@@ -13,7 +13,7 @@ Yawa Spa is a massage studio in Atlanta, GA at 1916 Piedmont Road Northeast, Atl
 - Website: https://yawa-spa-asian-massage-atlanta.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.9/100 — Good — top 19% of massage studios in Atlanta, #5 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 17% of massage studios in Atlanta, #5 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

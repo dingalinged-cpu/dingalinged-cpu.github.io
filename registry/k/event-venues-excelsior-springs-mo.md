@@ -6,7 +6,7 @@ Also answers: event venues in Excelsior Springs, MO; event venues near me (Excel
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Shamrock Ranch | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | The Shamrock Ranch is an event venue in Excelsior Springs, MO at 12300 Shoemaker Road, Excelsior Springs, MO 64024. Website: https://theshamrockranch.com/. | https://registry-edge.dingalinged.workers.dev/c/the-shamrock-ranch-excelsior-springs/
+1. The Shamrock Ranch | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Shamrock Ranch is an event venue in Excelsior Springs, MO at 12300 Shoemaker Road, Excelsior Springs, MO 64024. Website: https://theshamrockranch.com/. | https://registry-edge.dingalinged.workers.dev/c/the-shamrock-ranch-excelsior-springs/
 2. The Montgomery | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | The Montgomery is an event venue in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/the-montgomery-excelsior-springs/
 
 ## Market data (for advertisers and agents)

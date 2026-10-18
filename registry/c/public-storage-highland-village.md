@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Highland Village, TX at 4800 Villag
 - Website: https://www.publicstorage.com/self-storage-tx-highland-village/2601.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.4/100 — Fair — top 34% of self-storage facilitys in Dallas–Fort Worth, #1 of 1 self-storage facilitys in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 32% of self-storage facilitys in Dallas–Fort Worth, #1 of 1 self-storage facilitys in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 65.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

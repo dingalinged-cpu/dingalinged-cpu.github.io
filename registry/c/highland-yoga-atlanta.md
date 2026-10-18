@@ -13,7 +13,7 @@ Highland Yoga is a yoga studio in Atlanta, GA at 857 Collier Road Northwest #22,
 - Website: https://www.highland-yoga.com/westside
 - Email: info@highland-yoga.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 30% of yoga studios in Atlanta, #4 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 30% of yoga studios in Atlanta, #4 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

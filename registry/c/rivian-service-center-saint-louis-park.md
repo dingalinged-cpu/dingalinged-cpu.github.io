@@ -13,7 +13,7 @@ Rivian Service Center is an auto repair shop in Saint Louis Park, MN at 6980 Oxf
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 91% of auto repair shops in Minneapolis–St. Paul, #12 of 12 auto repair shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 90% of auto repair shops in Minneapolis–St. Paul, #12 of 12 auto repair shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

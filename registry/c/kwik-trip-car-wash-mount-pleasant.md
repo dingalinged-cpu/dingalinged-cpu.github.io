@@ -13,7 +13,7 @@ Kwik Trip Car Wash is a car wash in Mount Pleasant, WI. Website: https://www.kwi
 - Website: https://www.kwiktrip.com/locator/store?id=686
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 59% of car washes in Milwaukee, #3 of 3 car washes in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 59% of car washes in Milwaukee, #3 of 3 car washes in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

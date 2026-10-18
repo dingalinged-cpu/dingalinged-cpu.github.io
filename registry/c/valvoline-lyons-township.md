@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Lyons Township, IL. Website: https://store.v
 - Website: https://store.vioc.com/il/lagrangehighlands/oil-change-gr0022.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Building — top 92% of auto repair shops in Chicago, #1 of 1 auto repair shops in Lyons Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 91% of auto repair shops in Chicago, #1 of 1 auto repair shops in Lyons Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

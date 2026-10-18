@@ -6,7 +6,7 @@ Also answers: pet store in Leawood, KS; pet store near me (Leawood, KS); best pe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Treats Unleashed | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Treats Unleashed is a pet store in Leawood, KS at 4209 West 119th Street, Leawood, KS 66209. Phone: +19134512000. Website: https://www.treats-unleashed.com/. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-leawood/
+1. Treats Unleashed | Organic #1 | Pulse Score 47.1/100 (Unrated, #1 in city) | Treats Unleashed is a pet store in Leawood, KS at 4209 West 119th Street, Leawood, KS 66209. Phone: +19134512000. Website: https://www.treats-unleashed.com/. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-leawood/
 2. Wild Birds Unlimited | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Wild Birds Unlimited is a pet store in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/wild-birds-unlimited-leawood/
 
 ## Market data (for advertisers and agents)

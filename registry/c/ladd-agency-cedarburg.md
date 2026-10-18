@@ -13,7 +13,7 @@ Ladd Agency is an insurance agent in Cedarburg, WI at W64N140 Washington Avenue,
 - Website: https://laddagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 52% of insurance agents in Milwaukee, #1 of 1 insurance agents in Cedarburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Unrated (not enough evidence yet) — top 52% of insurance agents in Milwaukee, #1 of 1 insurance agents in Cedarburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sugarcoat is a nail salon in Atlanta, GA at 60 11th Street Northeast #3A, Atlant
 - Website: https://www.sugarcoatbeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
-- Pulse Score: 62.9/100 — Good — top 13% of nail salons in Atlanta, #7 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 13% of nail salons in Atlanta, #7 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

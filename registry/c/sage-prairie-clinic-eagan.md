@@ -13,7 +13,7 @@ Sage Prairie Clinic is an addiction treatment center in Eagan, MN at 1440 Duckwo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of addiction treatment centers in Minneapolis–St. Paul, #1 of 1 addiction treatment centers in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 100% of addiction treatment centers in Minneapolis–St. Paul, #1 of 1 addiction treatment centers in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

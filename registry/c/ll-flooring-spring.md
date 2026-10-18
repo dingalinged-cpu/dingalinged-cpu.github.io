@@ -13,7 +13,7 @@ LL Flooring is a flooring company in Spring, TX at 21755 I-45 #Building 2, Sprin
 - Website: https://www.llflooring.com/stores/tx/spring/21755-i-45
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 72% of flooring companys in Houston, #5 of 5 flooring companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 72% of flooring companys in Houston, #5 of 5 flooring companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

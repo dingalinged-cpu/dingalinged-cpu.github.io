@@ -13,7 +13,7 @@ Furry Finesse is a dog groomer in Highland Park, IL at 737 Broadview Avenue, Hig
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 61% of dog groomers in Chicago, #1 of 1 dog groomers in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 61% of dog groomers in Chicago, #1 of 1 dog groomers in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

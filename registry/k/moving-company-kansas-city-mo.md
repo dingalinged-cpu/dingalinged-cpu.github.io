@@ -6,7 +6,7 @@ Also answers: moving company in Kansas City, MO; moving company near me (Kansas 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dudes Moving Company | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | The Dudes Moving Company is a moving company in Kansas City, MO at 3835 Main Street, Kansas City, MO 64111. Website: https://www.thedudesmovingco.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dudes-moving-company-kansas-city/
+1. The Dudes Moving Company | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | The Dudes Moving Company is a moving company in Kansas City, MO at 3835 Main Street, Kansas City, MO 64111. Website: https://www.thedudesmovingco.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dudes-moving-company-kansas-city/
 2. Two Men and a Truck | Organic #2 | Pulse Score 48.9/100 (Unrated, #2 in city) | Two Men and a Truck is a moving company in Kansas City, MO at 9301 East 47th Street, Kansas City, MO 64133. Phone: +18162674576. Website: https://twomenandatruck.com/movers/mo/kansas-city. | https://registry-edge.dingalinged.workers.dev/c/two-men-and-a-truck-kansas-city/
 
 ## Market data (for advertisers and agents)

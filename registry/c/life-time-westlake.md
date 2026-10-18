@@ -13,7 +13,7 @@ Life Time is a gym in Westlake, TX at 2902 Sam School Road, Westlake, TX 76262. 
 - Website: https://www.lifetime.life/life-time-locations/tx-westlake.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 64% of gyms in Dallas–Fort Worth, #3 of 3 gyms in Westlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 63% of gyms in Dallas–Fort Worth, #3 of 3 gyms in Westlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

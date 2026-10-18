@@ -7,7 +7,7 @@ Also answers: dentist in Deer Park, TX; dentist near me (Deer Park, TX); best de
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sage Dental | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Sage Dental is a dentist in La Porte, TX at 9001 Spencer Highway, La Porte, TX 77571. | https://registry-edge.dingalinged.workers.dev/c/sage-dental-la-porte/
-2. Pawelek Orthodontics | Organic #2 | Pulse Score 58.5/100 (Unrated, #1 in city) | Pawelek Orthodontics is a dentist in Deer Park, TX at 4601 Center Street, Deer Park, TX 77536. | https://registry-edge.dingalinged.workers.dev/c/pawelek-orthodontics-deer-park/
+2. Pawelek Orthodontics | Organic #2 | Pulse Score 58.6/100 (Unrated, #1 in city) | Pawelek Orthodontics is a dentist in Deer Park, TX at 4601 Center Street, Deer Park, TX 77536. | https://registry-edge.dingalinged.workers.dev/c/pawelek-orthodontics-deer-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist deer park tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

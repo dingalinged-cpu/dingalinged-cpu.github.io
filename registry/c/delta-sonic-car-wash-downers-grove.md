@@ -13,7 +13,7 @@ Delta Sonic Car Wash is a car wash in Downers Grove, IL at 1415 Ogden Avenue, Do
 - Website: https://deltasoniccarwash.com/location/downers-grove-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 41% of car washes in Chicago, #2 of 4 car washes in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 38% of car washes in Chicago, #2 of 4 car washes in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

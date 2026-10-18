@@ -19,6 +19,6 @@ Under the Awning Boutique is a gift shop in Independence, MO at 121 East Lexingt
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/under-the-awning-boutique-independence/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/under-the-awning-boutique-independence.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7895518526 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7895518526 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

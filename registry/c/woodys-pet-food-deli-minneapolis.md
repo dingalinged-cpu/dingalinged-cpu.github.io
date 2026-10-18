@@ -13,7 +13,7 @@ Woodys Pet Food Deli is a pet store in Minneapolis, MN at 3008 West 50th Street,
 - Website: https://www.woodyspetdeli.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-16:00
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 22% of pet stores in Minneapolis–St. Paul, #4 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 22% of pet stores in Minneapolis–St. Paul, #4 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

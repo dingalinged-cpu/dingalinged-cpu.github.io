@@ -6,9 +6,9 @@ Also answers: oil change in Kansas City, KS; oil change near me (Kansas City, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jack Swall Auto Care | Organic #1 | Pulse Score 61.1/100 (Unrated, #10 in city) | Jack Swall Auto Care is an auto repair shop in Kansas City, KS at 1233 Central Avenue, Kansas City, KS 66102. | https://registry-edge.dingalinged.workers.dev/c/jack-swall-auto-care-kansas-city/
-2. Tires Plus | Organic #2 | Pulse Score 50/100 (Unrated, #73 in city) | Tires Plus is an auto repair shop in Kansas City, KS at 7815 State Avenue, Kansas City, KS 66112. Phone: +19138711083. Website: https://www.tiresplus.com/kansas/kansas-city/7815-state-ave/. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-kansas-city-w1221402290/
-3. Jiffy Lube | Organic #3 | Pulse Score 49.3/100 (Building, #75 in city) | Jiffy Lube is an auto repair shop in Kansas City, KS at 1010 North 78th Street, Kansas City, KS 66112. Phone: +19133345950. Website: https://www.jiffylube.com/locations/ks/kansas-city/491. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-kansas-city-w1221402289/
+1. Jack Swall Auto Care | Organic #1 | Pulse Score 60.9/100 (Unrated, #12 in city) | Jack Swall Auto Care is an auto repair shop in Kansas City, KS at 1233 Central Avenue, Kansas City, KS 66102. | https://registry-edge.dingalinged.workers.dev/c/jack-swall-auto-care-kansas-city/
+2. Tires Plus | Organic #2 | Pulse Score 50/100 (Unrated, #75 in city) | Tires Plus is an auto repair shop in Kansas City, KS at 7815 State Avenue, Kansas City, KS 66112. Phone: +19138711083. Website: https://www.tiresplus.com/kansas/kansas-city/7815-state-ave/. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-kansas-city-w1221402290/
+3. Jiffy Lube | Organic #3 | Pulse Score 49.3/100 (Building, #77 in city) | Jiffy Lube is an auto repair shop in Kansas City, KS at 1010 North 78th Street, Kansas City, KS 66112. Phone: +19133345950. Website: https://www.jiffylube.com/locations/ks/kansas-city/491. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-kansas-city-w1221402289/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change kansas city ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

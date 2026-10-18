@@ -13,7 +13,7 @@ Firefly Real Estate is a real estate agency in Wauwatosa, WI at 9125 West North 
 - Website: https://fireflyrealestate.net/
 - Email: info@fireflyrealestate.net
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Milwaukee, #1 of 11 real estate agencys in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Milwaukee, #1 of 11 real estate agencys in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

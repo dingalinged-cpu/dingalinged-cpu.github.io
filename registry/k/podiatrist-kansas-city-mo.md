@@ -6,7 +6,7 @@ Also answers: podiatrist in Kansas City, MO; podiatrist near me (Kansas City, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healthy Life Foot Care | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Healthy Life Foot Care is a podiatrist in Kansas City, MO at 8002 North Oak Trafficway #114, Kansas City, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/healthy-life-foot-care-kansas-city/
+1. Healthy Life Foot Care | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Healthy Life Foot Care is a podiatrist in Kansas City, MO at 8002 North Oak Trafficway #114, Kansas City, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/healthy-life-foot-care-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist kansas city mo | category: Health & medical | industry benchmark: Physicians & Surgeons

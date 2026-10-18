@@ -13,7 +13,7 @@ Dino Storage is a self-storage facility in Des Moines, IA at 2725 2nd Avenue, De
 - Website: https://www.dinosstorage.com/dinos-des-moines-storage-2nd-ave/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Des Moines, IA, #1 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Des Moines, IA, #1 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

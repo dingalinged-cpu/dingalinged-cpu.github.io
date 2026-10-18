@@ -6,8 +6,8 @@ Also answers: vet in Belton, MO; vet near me (Belton, MO); best vet Belton, MO; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Belton Veterniary Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Belton Veterniary Center is a veterinarian in Belton, MO at 1001 East North Avenue, Belton, MO 64012. | https://registry-edge.dingalinged.workers.dev/c/belton-veterniary-center-belton/
-2. Animal Clinic | Organic #2 | Pulse Score 42.4/100 (Unrated, #2 in city) | Animal Clinic is a veterinarian in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/animal-clinic-belton/
+1. Belton Veterniary Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Belton Veterniary Center is a veterinarian in Belton, MO at 1001 East North Avenue, Belton, MO 64012. | https://registry-edge.dingalinged.workers.dev/c/belton-veterniary-center-belton/
+2. Animal Clinic | Organic #2 | Pulse Score 42.3/100 (Unrated, #2 in city) | Animal Clinic is a veterinarian in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/animal-clinic-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet belton mo | category: Pets | industry benchmark: Animals & Pets

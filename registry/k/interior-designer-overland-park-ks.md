@@ -6,7 +6,7 @@ Also answers: interior designer in Overland Park, KS; interior designer near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lorax Design Group | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Lorax Design Group is an interior designer in Overland Park, KS at 8021 Santa Fe Drive #200, Overland Park, KS. Website: https://loraxdesigngroup.com/. | https://registry-edge.dingalinged.workers.dev/c/lorax-design-group-overland-park/
+1. Lorax Design Group | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Lorax Design Group is an interior designer in Overland Park, KS at 8021 Santa Fe Drive #200, Overland Park, KS. Website: https://loraxdesigngroup.com/. | https://registry-edge.dingalinged.workers.dev/c/lorax-design-group-overland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer overland park ks | category: Home services - Design | industry benchmark: Home & Home Improvement

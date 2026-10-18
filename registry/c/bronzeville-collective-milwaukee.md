@@ -13,7 +13,7 @@ Bronzeville Collective is a gift shop in Milwaukee, WI at 2236 North Doctor Mart
 - Website: https://www.bronzevillecollective.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 11% of gift shops in Milwaukee, #3 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 8% of gift shops in Milwaukee, #2 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Historic Tattoo is a tattoo shop in Shorewood, MN at 6140 Lake Linden Drive #111
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-10:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 29% of tattoo shops in Minneapolis–St. Paul, #1 of 1 tattoo shops in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 29% of tattoo shops in Minneapolis–St. Paul, #1 of 1 tattoo shops in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

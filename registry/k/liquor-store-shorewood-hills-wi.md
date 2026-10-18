@@ -6,7 +6,7 @@ Also answers: liquor store in Shorewood Hills, WI; liquor store near me (Shorewo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steve's Liquors | Organic #1 | Pulse Score 61.7/100 (Unrated, #4 in city) | Steve's Liquors is a liquor store in Madison, WI at 3618 University Avenue, Madison, WI 53705. | https://registry-edge.dingalinged.workers.dev/c/steves-liquors-madison-w119939381/
+1. Steve's Liquors | Organic #1 | Pulse Score 61.8/100 (Unrated, #4 in city) | Steve's Liquors is a liquor store in Madison, WI at 3618 University Avenue, Madison, WI 53705. | https://registry-edge.dingalinged.workers.dev/c/steves-liquors-madison-w119939381/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store shorewood hills wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Best Friends Pet Hotel is a dog boarding facility in Marietta, GA at 1087 Johnso
 - Website: https://www.bestfriendspetcare.com/location/marietta-ga
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 08:00-17:00; PH off
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Atlanta, #3 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Atlanta, #3 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

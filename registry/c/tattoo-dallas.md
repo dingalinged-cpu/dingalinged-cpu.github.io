@@ -13,7 +13,7 @@ Tattoo is a tattoo shop in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Dallas–Fort Worth, #21 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 100% of tattoo shops in Dallas–Fort Worth, #21 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

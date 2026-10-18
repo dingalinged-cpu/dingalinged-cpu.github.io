@@ -13,7 +13,7 @@ Green Oaks Physical Therapy is a physical therapy clinic in Dallas, TX at 718 No
 - Website: https://greenoakspt.com/location/green-oaks-physical-therapy-white-rock-lake/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 22% of physical therapy clinics in Dallas–Fort Worth, #4 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 23% of physical therapy clinics in Dallas–Fort Worth, #4 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

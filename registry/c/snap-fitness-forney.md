@@ -13,7 +13,7 @@ Snap Fitness is a gym in Forney, TX at 1104 Ranch Road #111, Forney, TX 75126. W
 - Website: https://www.snapfitness.com/us/gyms/forney-tx-1102-ranch-rd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 67% of gyms in Dallas–Fort Worth, #4 of 4 gyms in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 66% of gyms in Dallas–Fort Worth, #4 of 4 gyms in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: pilates in Kansas City, MO; pilates near me (Kansas City, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fit AF Studio | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Fit AF Studio is a pilates studio in Kansas City, MO at 649 East 59th Street, Kansas City, MO 64110. Website: https://fitafkc.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-af-studio-kansas-city/
-2. Club Pilates | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Club Pilates is a pilates studio in Kansas City, MO at 10434 Northeast Cookingham Drive, Kansas City, MO 64157. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-kansas-city/
+1. Fit AF Studio | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Fit AF Studio is a pilates studio in Kansas City, MO at 649 East 59th Street, Kansas City, MO 64110. Website: https://fitafkc.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-af-studio-kansas-city/
+2. Club Pilates | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Club Pilates is a pilates studio in Kansas City, MO at 10434 Northeast Cookingham Drive, Kansas City, MO 64157. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates kansas city mo | category: Fitness | industry benchmark: Health & Fitness

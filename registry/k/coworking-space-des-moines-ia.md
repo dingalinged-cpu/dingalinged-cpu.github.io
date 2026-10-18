@@ -6,7 +6,7 @@ Also answers: coworking space in Des Moines, IA; coworking space near me (Des Mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gravitate Coworking | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Gravitate Coworking is a coworking space in Des Moines, IA at 500 Locust Street, Des Moines, IA 50309. Phone: +15152078105. Website: https://www.gravitatecoworking.com/. | https://registry-edge.dingalinged.workers.dev/c/gravitate-coworking-des-moines/
+1. Gravitate Coworking | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Gravitate Coworking is a coworking space in Des Moines, IA at 500 Locust Street, Des Moines, IA 50309. Phone: +15152078105. Website: https://www.gravitatecoworking.com/. | https://registry-edge.dingalinged.workers.dev/c/gravitate-coworking-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space des moines ia | category: real_estate | industry benchmark: Real Estate

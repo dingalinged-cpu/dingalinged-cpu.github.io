@@ -13,7 +13,7 @@ PetSmart is a pet store in Atlanta, GA at 650 Ponce De Leon Avenue Northeast, At
 - Website: https://stores.petsmart.com/ga/atlanta/midtown-atlanta/dog-training
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 50% of pet stores in Atlanta, #12 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 50% of pet stores in Atlanta, #12 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

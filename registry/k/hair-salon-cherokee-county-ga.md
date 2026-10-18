@@ -6,7 +6,7 @@ Also answers: hair salon in Cherokee County, GA; hair salon near me (Cherokee Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dave’s Barber Shop | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Dave’s Barber Shop is a hair salon in Cherokee County, GA at 1910 Eagle Drive, Cherokee County, GA 30189. Phone: +16784946877. | https://registry-edge.dingalinged.workers.dev/c/dave-s-barber-shop-cherokee-county/
+1. Dave’s Barber Shop | Organic #1 | Pulse Score 46.3/100 (Unrated, #1 in city) | Dave’s Barber Shop is a hair salon in Cherokee County, GA at 1910 Eagle Drive, Cherokee County, GA 30189. Phone: +16784946877. | https://registry-edge.dingalinged.workers.dev/c/dave-s-barber-shop-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon cherokee county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

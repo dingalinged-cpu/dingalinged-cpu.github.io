@@ -6,10 +6,10 @@ Also answers: yoga classes in Madison, WI; yoga classes near me (Madison, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Capital Fitness | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Capital Fitness is a yoga studio in Madison, WI at 15 North Butler Street, Madison, WI. Website: https://www.capitalfitness.net/. | https://registry-edge.dingalinged.workers.dev/c/capital-fitness-madison/
-2. InfiniteFlow Yoga | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | InfiniteFlow Yoga is a yoga studio in Madison, WI. Phone: +16086929172. | https://registry-edge.dingalinged.workers.dev/c/infiniteflow-yoga-madison/
+1. Capital Fitness | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Capital Fitness is a yoga studio in Madison, WI at 15 North Butler Street, Madison, WI. Website: https://www.capitalfitness.net/. | https://registry-edge.dingalinged.workers.dev/c/capital-fitness-madison/
+2. InfiniteFlow Yoga | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | InfiniteFlow Yoga is a yoga studio in Madison, WI. Phone: +16086929172. | https://registry-edge.dingalinged.workers.dev/c/infiniteflow-yoga-madison/
 3. Inner Fire Yoga | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Inner Fire Yoga is a yoga studio in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/inner-fire-yoga-madison/
-4. Dragonfly Hot Yoga | Organic #4 | Pulse Score 43.4/100 (Unrated, #4 in city) | Dragonfly Hot Yoga is a yoga studio in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/dragonfly-hot-yoga-madison/
+4. Dragonfly Hot Yoga | Organic #4 | Pulse Score 43.5/100 (Unrated, #4 in city) | Dragonfly Hot Yoga is a yoga studio in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/dragonfly-hot-yoga-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes madison wi | category: Fitness | industry benchmark: Health & Fitness

@@ -6,7 +6,7 @@ Also answers: pediatrician in Minneapolis, MN; pediatrician near me (Minneapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fairview Children's Clinic | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Fairview Children's Clinic is a pediatrician in Minneapolis, MN at 2535 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16126722350. Website: https://www.fairview.org/Locations/Fairview-Clinics-University-Childrens. | https://registry-edge.dingalinged.workers.dev/c/fairview-childrens-clinic-minneapolis/
+1. Fairview Children's Clinic | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Fairview Children's Clinic is a pediatrician in Minneapolis, MN at 2535 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16126722350. Website: https://www.fairview.org/Locations/Fairview-Clinics-University-Childrens. | https://registry-edge.dingalinged.workers.dev/c/fairview-childrens-clinic-minneapolis/
 2. People's Center Clinics & Services | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | People's Center Clinics & Services is a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/. | https://registry-edge.dingalinged.workers.dev/c/peoples-center-clinics-and-services-minneapolis/
 
 ## Market data (for advertisers and agents)

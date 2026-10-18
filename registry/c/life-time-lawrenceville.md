@@ -13,7 +13,7 @@ Life Time is a gym in Lawrenceville, GA at 1823 North Brown Road, Lawrenceville,
 - Website: https://www.lifetime.life/life-time-locations/ga-lawrenceville-sugarloaf.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.2/100 — Building — top 58% of gyms in Atlanta, #1 of 1 gyms in Lawrenceville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 57% of gyms in Atlanta, #1 of 1 gyms in Lawrenceville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

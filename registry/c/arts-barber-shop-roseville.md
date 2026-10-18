@@ -13,7 +13,7 @@ Art's Barber Shop is a hair salon in Roseville, MN at 1129 1/2 Larpenteur Avenue
 - Website: https://artsbarbershop-barbershop.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-17:30; Sa 09:00-15:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Minneapolis–St. Paul, #2 of 8 hair salons in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Minneapolis–St. Paul, #2 of 8 hair salons in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

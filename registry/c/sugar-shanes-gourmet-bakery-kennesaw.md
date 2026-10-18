@@ -13,7 +13,7 @@ Sugar Shane's Gourmet Bakery is a bakery in Kennesaw, GA at 1635 Old 41 Highway 
 - Website: https://sugarshanes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Fair — top 31% of bakerys in Atlanta, #4 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 31% of bakerys in Atlanta, #4 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

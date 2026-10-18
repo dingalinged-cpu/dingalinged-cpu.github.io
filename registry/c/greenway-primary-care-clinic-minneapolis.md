@@ -13,7 +13,7 @@ Greenway Primary Care Clinic is a family medicine practice in Minneapolis, MN at
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 07:00-17:00; Tu,Th 08:00-18:00; PH closed
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 70% of family medicine practices in Minneapolis–St. Paul, #3 of 3 family medicine practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 42.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 70% of family medicine practices in Minneapolis–St. Paul, #3 of 3 family medicine practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 42.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

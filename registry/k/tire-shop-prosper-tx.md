@@ -7,7 +7,7 @@ Also answers: tire shop in Prosper, TX; tire shop near me (Prosper, TX); best ti
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Costco Tire Center | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Costco Tire Center is a tire shop in Prosper, TX at 5620 West University Drive, Prosper, TX 75078. Phone: +19723466120. Website: https://www.costco.com/w/-/tx/prosper/1694. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-prosper/
-2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Prosper, TX at 2151 University Drive, Prosper, TX 75078. Phone: +19723471218. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-prosper/
+2. Discount Tire | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Discount Tire is a tire shop in Prosper, TX at 2151 University Drive, Prosper, TX 75078. Phone: +19723471218. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop prosper tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

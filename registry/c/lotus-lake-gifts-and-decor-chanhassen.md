@@ -13,7 +13,7 @@ Lotus Lake Gifts & Decor is a gift shop in Chanhassen, MN at 412 West 78th Stree
 - Website: https://lotuslakegifts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We, Fr-Sa 10:00-17:00; Th 10:00-19:00
-- Pulse Score: 64.8/100 — Good — top 3% of gift shops in Minneapolis–St. Paul, #1 of 1 gift shops in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 3% of gift shops in Minneapolis–St. Paul, #1 of 1 gift shops in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 65.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

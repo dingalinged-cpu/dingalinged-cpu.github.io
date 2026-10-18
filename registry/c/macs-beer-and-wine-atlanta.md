@@ -13,7 +13,7 @@ Mac's Beer and Wine is a liquor store in Atlanta, GA at 21 Peachtree Place North
 - Website: https://www.macsbeerandwine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-22:00; Th 10:00-23:00; Fr-Sa 09:00-23:00; Su 11:00-20:00
-- Pulse Score: 63.4/100 — Good — top 12% of liquor stores in Atlanta, #5 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 12% of liquor stores in Atlanta, #5 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

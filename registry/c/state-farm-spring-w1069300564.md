@@ -13,7 +13,7 @@ State Farm is an insurance agent in Spring, TX at 22323 Gosling Road, Spring, TX
 - Website: https://www.jeannawendt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-15:00
-- Pulse Score: 48.5/100 — Building — top 52% of insurance agents in Houston, #5 of 5 insurance agents in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 51% of insurance agents in Houston, #5 of 5 insurance agents in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Lombard, IL at 2770 South Highland Avenue #
 - Website: https://www.mattressfirm.com/en-us/stores/il/lombard/119004/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
-- Pulse Score: 51.8/100 — Fair — top 12% of mattress stores in Chicago, #2 of 2 mattress stores in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 67.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 12% of mattress stores in Chicago, #2 of 2 mattress stores in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 67. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

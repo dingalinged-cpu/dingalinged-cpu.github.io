@@ -7,7 +7,7 @@ Also answers: haircut in Frankfort, IL; haircut near me (Frankfort, IL); best ha
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Planet Color Hair Salon | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Planet Color Hair Salon is a hair salon in Frankfort, IL at 10179 West Lincoln Hwy, Frankfort, IL 60423. Phone: +17084798966. Website: https://planetcolorsalonandsuites.com/. | https://registry-edge.dingalinged.workers.dev/c/planet-color-hair-salon-frankfort/
-2. Ultimate Image | Organic #2 | Pulse Score 57.7/100 (Unrated, #1 in city) | Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205. | https://registry-edge.dingalinged.workers.dev/c/ultimate-image-frankfort/
+2. Ultimate Image | Organic #2 | Pulse Score 57.6/100 (Unrated, #1 in city) | Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205. | https://registry-edge.dingalinged.workers.dev/c/ultimate-image-frankfort/
 3. Hair Cuttery | Organic #3 | Pulse Score 47.5/100 (Building, #2 in city) | Hair Cuttery is a hair salon in Frankfort, IL at 11063 Lincoln Highway, Frankfort, IL 60423. Phone: +18154641565. | https://registry-edge.dingalinged.workers.dev/c/hair-cuttery-frankfort/
 
 ## Market data (for advertisers and agents)

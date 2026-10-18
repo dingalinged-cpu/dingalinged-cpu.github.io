@@ -13,7 +13,7 @@ Century 21 Circle is a real estate agency in Westchester, IL at 1860 South Mannh
 - Website: https://www.century21.com/real-estate-office/profile/circle-10019087
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 75% of real estate agencys in Chicago, #1 of 1 real estate agencys in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 75% of real estate agencys in Chicago, #1 of 1 real estate agencys in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

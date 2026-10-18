@@ -6,7 +6,7 @@ Also answers: vet in Raytown, MO; vet near me (Raytown, MO); best vet Raytown, M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bannister Veterinary Clinic | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Bannister Veterinary Clinic is a veterinarian in Raytown, MO at 8201 East 87th Street, Raytown, MO 64138. Phone: +18167657979. | https://registry-edge.dingalinged.workers.dev/c/bannister-veterinary-clinic-raytown/
+1. Bannister Veterinary Clinic | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Bannister Veterinary Clinic is a veterinarian in Raytown, MO at 8201 East 87th Street, Raytown, MO 64138. Phone: +18167657979. | https://registry-edge.dingalinged.workers.dev/c/bannister-veterinary-clinic-raytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet raytown mo | category: Pets | industry benchmark: Animals & Pets

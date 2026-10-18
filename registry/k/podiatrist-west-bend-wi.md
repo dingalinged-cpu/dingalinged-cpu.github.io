@@ -6,7 +6,7 @@ Also answers: podiatrist in West Bend, WI; podiatrist near me (West Bend, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot Clinic | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Foot Clinic is a podiatrist in West Bend, WI at 2358 West Washington Street, West Bend, WI. Phone: +12623352930. Website: https://www.footclinicofwestbend.com/. | https://registry-edge.dingalinged.workers.dev/c/foot-clinic-west-bend/
+1. Foot Clinic | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Foot Clinic is a podiatrist in West Bend, WI at 2358 West Washington Street, West Bend, WI. Phone: +12623352930. Website: https://www.footclinicofwestbend.com/. | https://registry-edge.dingalinged.workers.dev/c/foot-clinic-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist west bend wi | category: Health & medical | industry benchmark: Physicians & Surgeons

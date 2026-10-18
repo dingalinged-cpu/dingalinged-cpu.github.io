@@ -6,7 +6,7 @@ Also answers: yoga classes in Burlington, WI; yoga classes near me (Burlington, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wisconsin Power Yoga | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Wisconsin Power Yoga is a yoga studio in Burlington, WI at 164 East Washington Street, Burlington, WI 53105. Phone: +12627586099. Website: https://www.wipoweryoga.com/. | https://registry-edge.dingalinged.workers.dev/c/wisconsin-power-yoga-burlington/
+1. Wisconsin Power Yoga | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Wisconsin Power Yoga is a yoga studio in Burlington, WI at 164 East Washington Street, Burlington, WI 53105. Phone: +12627586099. Website: https://www.wipoweryoga.com/. | https://registry-edge.dingalinged.workers.dev/c/wisconsin-power-yoga-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes burlington wi | category: Fitness | industry benchmark: Health & Fitness

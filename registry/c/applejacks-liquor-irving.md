@@ -13,7 +13,7 @@ AppleJack's Liquor is a liquor store in Irving, TX at 8704 Cypress Waters Blvd, 
 - Website: https://applejacksliquor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 1% of liquor stores in Dallas–Fort Worth, #1 of 4 liquor stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 1% of liquor stores in Dallas–Fort Worth, #1 of 4 liquor stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

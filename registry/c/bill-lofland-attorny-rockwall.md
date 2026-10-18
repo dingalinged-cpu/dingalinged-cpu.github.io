@@ -13,7 +13,7 @@ Bill Lofland (Attorny) is a lawyer in Rockwall, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 89% of lawyers in Dallas–Fort Worth, #13 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 88% of lawyers in Dallas–Fort Worth, #13 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 38. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

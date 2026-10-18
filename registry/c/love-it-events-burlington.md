@@ -13,7 +13,7 @@ Love It Events is an event venue in Burlington, WI at 125 East State Street, Bur
 - Website: https://www.loveitevents.com/
 - Email: Info@LoveItEvents.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of event venues in Milwaukee, #1 of 2 event venues in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 26% of event venues in Milwaukee, #1 of 2 event venues in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

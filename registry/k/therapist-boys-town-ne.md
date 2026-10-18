@@ -6,7 +6,7 @@ Also answers: therapist in Boys Town, NE; therapist near me (Boys Town, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Center for behavioral health | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Center for behavioral health is a therapy practice in Boys Town, NE. | https://registry-edge.dingalinged.workers.dev/c/center-for-behavioral-health-boys-town/
+1. Center for behavioral health | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Center for behavioral health is a therapy practice in Boys Town, NE. | https://registry-edge.dingalinged.workers.dev/c/center-for-behavioral-health-boys-town/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist boys town ne | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

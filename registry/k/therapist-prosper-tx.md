@@ -6,7 +6,7 @@ Also answers: therapist in Prosper, TX; therapist near me (Prosper, TX); best th
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Drip Mobile IV | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | The Drip Mobile IV is a therapy practice in Prosper, TX at 130 N Preston Rd #108, Prosper, TX 75078. Phone: +14699123112. Website: https://www.thedripmobileiv.com/. | https://registry-edge.dingalinged.workers.dev/c/the-drip-mobile-iv-prosper/
+1. The Drip Mobile IV | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | The Drip Mobile IV is a therapy practice in Prosper, TX at 130 N Preston Rd #108, Prosper, TX 75078. Phone: +14699123112. Website: https://www.thedripmobileiv.com/. | https://registry-edge.dingalinged.workers.dev/c/the-drip-mobile-iv-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist prosper tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

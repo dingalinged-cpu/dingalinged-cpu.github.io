@@ -13,7 +13,7 @@ Mission AC, Plumbing & Electric Manvel is a plumber in Manvel, TX at 9705 Sandy 
 - Website: https://www.missionac.com/locations/manvel-tx/
 - Email: dispatch@missionac.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-21:00, Sa-Su 08:00-21:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of plumbers in Houston, #1 of 1 plumbers in Manvel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of plumbers in Houston, #1 of 1 plumbers in Manvel (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

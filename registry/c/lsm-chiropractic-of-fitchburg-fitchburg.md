@@ -13,7 +13,7 @@ LSM Chiropractic of Fitchburg is a chiropractor in Fitchburg, WI at 3070 Fish Ha
 - Website: https://www.lsmchiro.com/services/chiropractic-care
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 11% of chiropractors in Madison, #1 of 3 chiropractors in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 11% of chiropractors in Madison, #1 of 3 chiropractors in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

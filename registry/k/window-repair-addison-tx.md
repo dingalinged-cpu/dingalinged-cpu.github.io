@@ -6,7 +6,7 @@ Also answers: window repair in Addison, TX; window repair near me (Addison, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barco Mirror & Glass, Inc | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Barco Mirror & Glass, Inc is a window repair service in Addison, TX. Phone: +19729800151. Website: https://www.barcoglass.com/. | https://registry-edge.dingalinged.workers.dev/c/barco-mirror-and-glass-inc-addison/
+1. Barco Mirror & Glass, Inc | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Barco Mirror & Glass, Inc is a window repair service in Addison, TX. Phone: +19729800151. Website: https://www.barcoglass.com/. | https://registry-edge.dingalinged.workers.dev/c/barco-mirror-and-glass-inc-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair addison tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

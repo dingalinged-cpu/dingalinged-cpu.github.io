@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Grace Tire | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Grace Tire is a tire shop in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/grace-tire-mableton/
 2. Discount Tire | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-mableton/
-3. Tire Discounters | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Tire Discounters is a tire shop in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-mableton/
+3. Tire Discounters | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Tire Discounters is a tire shop in Mableton, GA. | https://registry-edge.dingalinged.workers.dev/c/tire-discounters-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop mableton ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

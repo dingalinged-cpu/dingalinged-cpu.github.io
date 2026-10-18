@@ -6,7 +6,7 @@ Also answers: tax preparation in Vadnais Heights, MN; tax preparation near me (V
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | H&R Block is a tax preparation service in Vadnais Heights, MN at 1036 Highway 96, Vadnais Heights, MN 55127. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-vadnais-heights/
+1. H&R Block | Organic #1 | Pulse Score 44.1/100 (Building, #1 in city) | H&R Block is a tax preparation service in Vadnais Heights, MN at 1036 Highway 96, Vadnais Heights, MN 55127. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-vadnais-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation vadnais heights mn | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Back to Wellness is a chiropractor in Ankeny, IA at 1517 N Ankeny Blvd #f, Anken
 - Website: https://back2wellnesschiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 38% of chiropractors in Des Moines, IA, #2 of 4 chiropractors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 38% of chiropractors in Des Moines, IA, #2 of 4 chiropractors in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

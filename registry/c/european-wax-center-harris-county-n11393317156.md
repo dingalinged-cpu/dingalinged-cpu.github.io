@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Harris County, TX. Website: https://loc
 - Website: https://locations.waxcenter.com/tx/spring/spring-0260.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 64% of waxing salons in Houston, #2 of 2 waxing salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 64% of waxing salons in Houston, #2 of 2 waxing salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

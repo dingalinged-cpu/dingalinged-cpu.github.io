@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. ACO Treasure Chest | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | ACO Treasure Chest is a thrift store in Allen, TX at 301 West Boyd Drive, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/aco-treasure-chest-allen/
 2. All Community Outreach Resale | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | All Community Outreach Resale is a thrift store in Allen, TX at 117 North Greenville Avenue, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/all-community-outreach-resale-allen/
-3. Goodwill | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | Goodwill is a thrift store in Allen, TX at 605 South Custer Road, Allen, TX 75013. Phone: +12146382800. | https://registry-edge.dingalinged.workers.dev/c/goodwill-allen/
+3. Goodwill | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Goodwill is a thrift store in Allen, TX at 605 South Custer Road, Allen, TX 75013. Phone: +12146382800. | https://registry-edge.dingalinged.workers.dev/c/goodwill-allen/
 4. Goodwill Donation Center | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Goodwill Donation Center is a thrift store in Allen, TX at 113 North Greenville Avenue, Allen, TX. | https://registry-edge.dingalinged.workers.dev/c/goodwill-donation-center-allen/
 
 ## Market data (for advertisers and agents)

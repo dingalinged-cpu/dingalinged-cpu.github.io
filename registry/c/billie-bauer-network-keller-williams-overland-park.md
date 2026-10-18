@@ -13,12 +13,12 @@ Billie Bauer Network - Keller Williams is a real estate agency in Overland Park,
 - Website: https://www.billiebauer.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:30-09:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of real estate agencys in Kansas City, MO, #6 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of real estate agencys in Kansas City, MO, #6 of 8 real estate agencys in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/billie-bauer-network-keller-williams-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/billie-bauer-network-keller-williams-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/8079789294 (license ODbL-1.0); source data as of 2026-07-28
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8079789294 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

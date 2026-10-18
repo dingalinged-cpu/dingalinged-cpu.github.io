@@ -7,7 +7,7 @@ Also answers: printing services in Lilburn, GA; printing services near me (Lilbu
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The UPS Store | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | The UPS Store is a printing service in Lilburn, GA at 3050 Five Forks Trickum Road Southwest, Lilburn, GA 30047. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-lilburn/
-2. The UPS Store | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | The UPS Store is a printing service in Lilburn, GA at 4024 Lawrenceville Highway #Suite 17, Lilburn, GA 30047. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-lilburn-n7592335286/
+2. The UPS Store | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | The UPS Store is a printing service in Lilburn, GA at 4024 Lawrenceville Highway #Suite 17, Lilburn, GA 30047. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-lilburn-n7592335286/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services lilburn ga | category: Professional & financial services | industry benchmark: Finance & Insurance

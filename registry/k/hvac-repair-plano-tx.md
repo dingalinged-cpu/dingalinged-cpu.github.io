@@ -6,7 +6,7 @@ Also answers: hvac repair in Plano, TX; hvac repair near me (Plano, TX); best hv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ClassicABC Heating & Air | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | ClassicABC Heating & Air is a HVAC contractor in Plano, TX at 1209 N Avenue #Suite 7, Plano, TX 75074. Phone: +19724232121. Website: https://www.classicheatandair.com/. | https://registry-edge.dingalinged.workers.dev/c/classicabc-heating-and-air-plano/
+1. ClassicABC Heating & Air | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | ClassicABC Heating & Air is a HVAC contractor in Plano, TX at 1209 N Avenue #Suite 7, Plano, TX 75074. Phone: +19724232121. Website: https://www.classicheatandair.com/. | https://registry-edge.dingalinged.workers.dev/c/classicabc-heating-and-air-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair plano tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

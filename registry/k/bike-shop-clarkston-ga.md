@@ -6,7 +6,7 @@ Also answers: bike shop in Clarkston, GA; bike shop near me (Clarkston, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Narrow Path Cycles | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Narrow Path Cycles is a bike shop in Clarkston, GA at 980 Rowland Street #Ste 5100, Clarkston, GA 30021. Phone: +16788942684. Website: https://narrowpathcycles.com/. | https://registry-edge.dingalinged.workers.dev/c/narrow-path-cycles-clarkston/
+1. Narrow Path Cycles | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Narrow Path Cycles is a bike shop in Clarkston, GA at 980 Rowland Street #Ste 5100, Clarkston, GA 30021. Phone: +16788942684. Website: https://narrowpathcycles.com/. | https://registry-edge.dingalinged.workers.dev/c/narrow-path-cycles-clarkston/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop clarkston ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -6,7 +6,7 @@ Also answers: hvac repair in Montgomery County, TX; hvac repair near me (Montgom
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scogin-Aire Mechanical, Inc. | Organic #1 | Pulse Score 53.3/100 (Unrated, #1 in city) | Scogin-Aire Mechanical, Inc. is a HVAC contractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/scogin-aire-mechanical-inc-montgomery-county/
+1. Scogin-Aire Mechanical, Inc. | Organic #1 | Pulse Score 53.4/100 (Unrated, #1 in city) | Scogin-Aire Mechanical, Inc. is a HVAC contractor in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/scogin-aire-mechanical-inc-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair montgomery county tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

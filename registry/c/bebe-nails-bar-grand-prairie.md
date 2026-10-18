@@ -13,7 +13,7 @@ BeBe Nails Bar is a nail salon in Grand Prairie, TX at 7535 Lake Ridge Parkway #
 - Website: https://bebenailsbargrandprairie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:30-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 13% of nail salons in Dallas–Fort Worth, #3 of 6 nail salons in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of nail salons in Dallas–Fort Worth, #3 of 6 nail salons in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: mattress store in Ankeny, IA; mattress store near me (Ankeny, IA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Mattress Firm | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | Mattress Firm is a mattress store in Ankeny, IA at 1802 Southeast Delaware Avenue #110A, Ankeny, IA 50021. Phone: +15152077805. Website: https://www.mattressfirm.com/en-us/stores/ia/ankeny/679006/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-ankeny/
-2. Midwest Mattress | Organic #2 | Pulse Score 44.5/100 (Unrated, #2 in city) | Midwest Mattress is a mattress store in Ankeny, IA at 317 East 1st Street, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/midwest-mattress-ankeny/
+2. Midwest Mattress | Organic #2 | Pulse Score 43.4/100 (Unrated, #2 in city) | Midwest Mattress is a mattress store in Ankeny, IA at 317 East 1st Street, Ankeny, IA 50021. | https://registry-edge.dingalinged.workers.dev/c/midwest-mattress-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store ankeny ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

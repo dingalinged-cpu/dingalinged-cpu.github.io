@@ -1,4 +1,4 @@
-The top unpaid storage units listing for Leavenworth, KS is Mini Storage (a self-storage facility in Leavenworth, KS). 3 storage units businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Leavenworth, KS is Northpointe Mini Storage (a self-storage facility in Leavenworth, KS). 3 storage units businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Leavenworth, KS?
 
@@ -6,9 +6,9 @@ Also answers: storage units in Leavenworth, KS; storage units near me (Leavenwor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mini Storage | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Mini Storage is a self-storage facility in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/mini-storage-leavenworth/
-2. Northpointe Mini Storage | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Northpointe Mini Storage is a self-storage facility in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/northpointe-mini-storage-leavenworth/
-3. U-Haul | Organic #3 | Pulse Score 49.5/100 (Building, #3 in city) | U-Haul is a self-storage facility in Leavenworth, KS at 4820 South 4th Street, Leavenworth, KS 66048. Phone: +19138280743. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Leavenworth-KS-66048/734072. | https://registry-edge.dingalinged.workers.dev/c/u-haul-leavenworth/
+1. Northpointe Mini Storage | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Northpointe Mini Storage is a self-storage facility in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/northpointe-mini-storage-leavenworth/
+2. U-Haul | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | U-Haul is a self-storage facility in Leavenworth, KS at 4820 South 4th Street, Leavenworth, KS 66048. Phone: +19138280743. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Leavenworth-KS-66048/734072. | https://registry-edge.dingalinged.workers.dev/c/u-haul-leavenworth/
+3. Mini Storage | Organic #3 | Pulse Score 41.7/100 (Unrated, #3 in city) | Mini Storage is a self-storage facility in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/mini-storage-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units leavenworth ks | category: Home services - Moving | industry benchmark: Home & Home Improvement

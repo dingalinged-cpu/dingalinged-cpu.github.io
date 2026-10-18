@@ -6,7 +6,7 @@ Also answers: shoe repair in Plano, TX; shoe repair near me (Plano, TX); best sh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kosta Dino's Shoe Repair | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Kosta Dino's Shoe Repair is a shoe repair in Plano, TX. Phone: +12145012140. | https://registry-edge.dingalinged.workers.dev/c/kosta-dinos-shoe-repair-plano/
+1. Kosta Dino's Shoe Repair | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Kosta Dino's Shoe Repair is a shoe repair in Plano, TX. Phone: +12145012140. | https://registry-edge.dingalinged.workers.dev/c/kosta-dinos-shoe-repair-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

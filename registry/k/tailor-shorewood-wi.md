@@ -6,7 +6,7 @@ Also answers: tailor in Shorewood, WI; tailor near me (Shorewood, WI); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oleg Yusufov Master Tailor | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Oleg Yusufov Master Tailor is a tailor in Shorewood, WI at 1810 East Capitol Drive, Shorewood, WI 53211. Phone: +14143326200. | https://registry-edge.dingalinged.workers.dev/c/oleg-yusufov-master-tailor-shorewood/
+1. Oleg Yusufov Master Tailor | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Oleg Yusufov Master Tailor is a tailor in Shorewood, WI at 1810 East Capitol Drive, Shorewood, WI 53211. Phone: +14143326200. | https://registry-edge.dingalinged.workers.dev/c/oleg-yusufov-master-tailor-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor shorewood wi | category: Professional & financial services | industry benchmark: Finance & Insurance

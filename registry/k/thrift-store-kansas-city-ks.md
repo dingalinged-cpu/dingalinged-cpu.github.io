@@ -6,7 +6,7 @@ Also answers: thrift store in Kansas City, KS; thrift store near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mini Thrift Store | Organic #1 | Pulse Score 57.5/100 (Unrated, #8 in city) | Mini Thrift Store is a thrift store in Kansas City, KS at 1113 Kansas Avenue, Kansas City, KS 66105. | https://registry-edge.dingalinged.workers.dev/c/mini-thrift-store-kansas-city/
+1. Mini Thrift Store | Organic #1 | Pulse Score 57.3/100 (Unrated, #6 in city) | Mini Thrift Store is a thrift store in Kansas City, KS at 1113 Kansas Avenue, Kansas City, KS 66105. | https://registry-edge.dingalinged.workers.dev/c/mini-thrift-store-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store kansas city ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

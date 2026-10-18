@@ -13,7 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 206 1st Avenue North, Mi
 - Website: https://www.pilgrimdrycleaners.com/locations/minneapolis-north-loop
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 67% of dry cleaners in Minneapolis–St. Paul, #9 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 60% of dry cleaners in Minneapolis–St. Paul, #9 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

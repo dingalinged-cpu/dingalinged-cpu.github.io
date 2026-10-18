@@ -7,7 +7,7 @@ Also answers: florist in Hurst, TX; florist near me (Hurst, TX); best florist Hu
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Orchid: Luxury Flower Design | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | The Orchid: Luxury Flower Design is a florist in Hurst, TX at 755 Mid Cities Blvd #600, Hurst, TX 76054. Phone: +18179142177. Website: https://www.theorchidflowerdesign.com/. | https://registry-edge.dingalinged.workers.dev/c/the-orchid-luxury-flower-design-hurst/
-2. Cooper's Florist | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Cooper's Florist is a florist in Hurst, TX at 104 West Pipeline Road, Hurst, TX. Phone: +18172822561. Website: https://www.coopersflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/coopers-florist-hurst/
+2. Cooper's Florist | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Cooper's Florist is a florist in Hurst, TX at 104 West Pipeline Road, Hurst, TX. Phone: +18172822561. Website: https://www.coopersflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/coopers-florist-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist hurst tx | category: Events & weddings | industry benchmark: Personal Services

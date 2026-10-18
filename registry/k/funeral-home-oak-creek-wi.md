@@ -6,7 +6,7 @@ Also answers: funeral home in Oak Creek, WI; funeral home near me (Oak Creek, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heritage Funeral Homes | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Heritage Funeral Homes is a funeral home in Oak Creek, WI at 9200 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/heritage-funeral-homes-oak-creek/
+1. Heritage Funeral Homes | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Heritage Funeral Homes is a funeral home in Oak Creek, WI at 9200 South 27th Street, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/heritage-funeral-homes-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home oak creek wi | category: Professional & financial services | industry benchmark: Finance & Insurance

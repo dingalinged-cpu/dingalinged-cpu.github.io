@@ -6,7 +6,7 @@ Also answers: liquor store in South Milwaukee, WI; liquor store near me (South M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. South Milwaukee Liqour | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | South Milwaukee Liqour is a liquor store in South Milwaukee, WI at 309 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14143014051. | https://registry-edge.dingalinged.workers.dev/c/south-milwaukee-liqour-south-milwaukee/
+1. South Milwaukee Liqour | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | South Milwaukee Liqour is a liquor store in South Milwaukee, WI at 309 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14143014051. | https://registry-edge.dingalinged.workers.dev/c/south-milwaukee-liqour-south-milwaukee/
 2. G & K Liquor Mart | Organic #2 | Pulse Score 57.6/100 (Unrated, #1 in city) | G & K Liquor Mart is a liquor store in Oak Creek, WI at 1508 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/g-and-k-liquor-mart-oak-creek/
 
 ## Market data (for advertisers and agents)

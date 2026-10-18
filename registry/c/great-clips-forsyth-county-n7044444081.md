@@ -13,7 +13,7 @@ Great Clips is a hair salon in Forsyth County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Pulse Score: 44.4/100 — Building — top 91% of hair salons in Atlanta, #3 of 5 hair salons in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 90% of hair salons in Atlanta, #3 of 5 hair salons in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

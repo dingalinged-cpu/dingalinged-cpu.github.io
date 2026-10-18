@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Alicia’s Skin Care | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Alicia’s Skin Care is a skin care studio in Arlington, TX. | https://registry-edge.dingalinged.workers.dev/c/alicia-s-skin-care-arlington/
 2. Ulta Beauty | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Arlington, TX at 4000 Retail Connection Way #113, Arlington, TX 76018. Phone: +18174682244. Website: https://www.ulta.com/stores/arlington-tx-205. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-arlington-w1031522837/
-3. Ulta Beauty | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Arlington, TX at 120 Lincoln Square, Arlington, TX 76011. Phone: +18174592550. Website: https://www.ulta.com/stores/arlington-tx-557. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-arlington/
+3. Ulta Beauty | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Arlington, TX at 120 Lincoln Square, Arlington, TX 76011. Phone: +18174592550. Website: https://www.ulta.com/stores/arlington-tx-557. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -6,7 +6,7 @@ Also answers: chiropractor in Blue Springs, MO; chiropractor near me (Blue Sprin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dynamic Chiropractic LLC | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dynamic Chiropractic LLC is a chiropractor in Blue Springs, MO at 2525 Northwest South Outer Road #C, Blue Springs, MO 64015. Phone: +18168008305. Website: https://dynamicchiro.wellnessnow.co/. | https://registry-edge.dingalinged.workers.dev/c/dynamic-chiropractic-llc-blue-springs/
+1. Dynamic Chiropractic LLC | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Dynamic Chiropractic LLC is a chiropractor in Blue Springs, MO at 2525 Northwest South Outer Road #C, Blue Springs, MO 64015. Phone: +18168008305. Website: https://dynamicchiro.wellnessnow.co/. | https://registry-edge.dingalinged.workers.dev/c/dynamic-chiropractic-llc-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor blue springs mo | category: Health & medical | industry benchmark: Physicians & Surgeons

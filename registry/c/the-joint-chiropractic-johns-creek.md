@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Johns Creek, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.1/100 — Building — top 99% of chiropractors in Atlanta, #1 of 1 chiropractors in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.2/100 — Building — top 99% of chiropractors in Atlanta, #1 of 1 chiropractors in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 38.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

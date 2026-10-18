@@ -6,7 +6,7 @@ Also answers: heating and air in Leavenworth, KS; heating and air near me (Leave
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mann Heating and Cooling | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Mann Heating and Cooling is a HVAC contractor in Leavenworth, KS at 700 Spruce Street, Leavenworth, KS 66048. | https://registry-edge.dingalinged.workers.dev/c/mann-heating-and-cooling-leavenworth/
+1. Mann Heating and Cooling | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Mann Heating and Cooling is a HVAC contractor in Leavenworth, KS at 700 Spruce Street, Leavenworth, KS 66048. | https://registry-edge.dingalinged.workers.dev/c/mann-heating-and-cooling-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air leavenworth ks | category: Home Services | industry benchmark: Home & Home Improvement

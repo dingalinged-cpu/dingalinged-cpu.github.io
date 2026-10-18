@@ -13,7 +13,7 @@ Arhaus is a furniture store in Grapevine, TX at 3000 Grapevine Mills Parkway #24
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 71% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 70% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

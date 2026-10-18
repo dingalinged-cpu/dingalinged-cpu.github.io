@@ -13,7 +13,7 @@ Texas Orthopaedic Surgical Associates is an orthopedic surgeon in Dallas, TX at 
 - Website: https://www.thebonedocs.com/north-dallas-office.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 47% of orthopedic surgeons in Dallas–Fort Worth, #2 of 2 orthopedic surgeons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 47% of orthopedic surgeons in Dallas–Fort Worth, #2 of 2 orthopedic surgeons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

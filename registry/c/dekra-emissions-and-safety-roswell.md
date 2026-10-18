@@ -13,7 +13,7 @@ DEKRA Emissions & Safety is a vehicle inspection station in Roswell, GA at 10675
 - Website: https://www.dekra.us/en/georgia/roswell-10675-alpharetta-hwy/
 - Email: gainspections.na@dekra.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00
-- Pulse Score: 50.5/100 — Fair — top 82% of vehicle inspection stations in Atlanta, #1 of 2 vehicle inspection stations in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.4, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 82% of vehicle inspection stations in Atlanta, #1 of 2 vehicle inspection stations in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

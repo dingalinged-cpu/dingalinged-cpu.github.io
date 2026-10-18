@@ -6,7 +6,7 @@ Also answers: dog boarding in Minnetonka, MN; dog boarding near me (Minnetonka, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adogo Minnetonka | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Adogo Minnetonka is a dog boarding facility in Minnetonka, MN at 6133 Baker Road, Minnetonka, MN 55345. | https://registry-edge.dingalinged.workers.dev/c/adogo-minnetonka-minnetonka/
+1. Adogo Minnetonka | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Adogo Minnetonka is a dog boarding facility in Minnetonka, MN at 6133 Baker Road, Minnetonka, MN 55345. | https://registry-edge.dingalinged.workers.dev/c/adogo-minnetonka-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding minnetonka mn | category: Pets | industry benchmark: Animals & Pets

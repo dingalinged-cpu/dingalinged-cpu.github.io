@@ -6,7 +6,7 @@ Also answers: therapist in Denton, TX; therapist near me (Denton, TX); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White Jacquelyn N | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | White Jacquelyn N is a therapy practice in Denton, TX at 1204 Bent Oaks Court #Suite 100, Denton, TX 76210. Phone: +12145876025. | https://registry-edge.dingalinged.workers.dev/c/white-jacquelyn-n-denton/
+1. White Jacquelyn N | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | White Jacquelyn N is a therapy practice in Denton, TX at 1204 Bent Oaks Court #Suite 100, Denton, TX 76210. Phone: +12145876025. | https://registry-edge.dingalinged.workers.dev/c/white-jacquelyn-n-denton/
 2. Planned Parenthood | Organic #2 | Pulse Score 46.8/100 (Unrated, #2 in city) | Planned Parenthood is a therapy practice in Denton, TX at 2436 South Interstate 35E #Suite 360, Denton, TX 76205. Phone: +19408910737. Website: https://www.plannedparenthood.org/health-center/texas/denton/76205/denton-health-center-2190-91620. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-denton/
 
 ## Market data (for advertisers and agents)

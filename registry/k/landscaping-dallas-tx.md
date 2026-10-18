@@ -6,9 +6,9 @@ Also answers: landscaping in Dallas, TX; landscaping near me (Dallas, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. High Quality Landscape Services | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | High Quality Landscape Services is a landscaping company in Dallas, TX at 17726 Frank Jackson Drive, Dallas, TX. Phone: +19727334282. | https://registry-edge.dingalinged.workers.dev/c/high-quality-landscape-services-dallas/
-2. Outside | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Outside is a landscaping company in Dallas, TX at 2343 Charles Street, Dallas, TX. Website: https://www.outsidegarden.com/. | https://registry-edge.dingalinged.workers.dev/c/outside-dallas/
-3. Seamans Lawn and Landscape Services | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Seamans Lawn and Landscape Services is a landscaping company in Dallas, TX at 17727 Frank Jackson Drive, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/seamans-lawn-and-landscape-services-dallas/
+1. High Quality Landscape Services | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | High Quality Landscape Services is a landscaping company in Dallas, TX at 17726 Frank Jackson Drive, Dallas, TX. Phone: +19727334282. | https://registry-edge.dingalinged.workers.dev/c/high-quality-landscape-services-dallas/
+2. Outside | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Outside is a landscaping company in Dallas, TX at 2343 Charles Street, Dallas, TX. Website: https://www.outsidegarden.com/. | https://registry-edge.dingalinged.workers.dev/c/outside-dallas/
+3. Seamans Lawn and Landscape Services | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Seamans Lawn and Landscape Services is a landscaping company in Dallas, TX at 17727 Frank Jackson Drive, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/seamans-lawn-and-landscape-services-dallas/
 4. TX Artificial Turf + Design | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | TX Artificial Turf + Design is a landscaping company in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/tx-artificial-turf-design-dallas/
 
 ## Market data (for advertisers and agents)

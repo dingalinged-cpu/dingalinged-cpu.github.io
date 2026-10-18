@@ -13,7 +13,7 @@ CrossFit is a gym in Richardson, TX at 970 North Coit Road #3073, Richardson, TX
 - Website: https://crossfitrichardson.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 58% of gyms in Dallas–Fort Worth, #8 of 12 gyms in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 57% of gyms in Dallas–Fort Worth, #7 of 12 gyms in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

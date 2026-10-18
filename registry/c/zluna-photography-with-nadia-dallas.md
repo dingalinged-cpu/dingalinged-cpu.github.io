@@ -13,7 +13,7 @@ ZLuna Photography with Nadia is a photographer in Dallas, TX at 3232 McKinney Av
 - Website: https://www.zlunaphotography.com/
 - Email: zlunaphotography@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30, Sa-Su 07:00-23:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 27% of photographers in Dallas–Fort Worth, #2 of 3 photographers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 27% of photographers in Dallas–Fort Worth, #2 of 3 photographers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

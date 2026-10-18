@@ -6,9 +6,9 @@ Also answers: general contractor in Minneapolis, MN; general contractor near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dovetail | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dovetail is a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/. | https://registry-edge.dingalinged.workers.dev/c/dovetail-minneapolis/
-2. Ispiri - Design & Remodel | Organic #2 | Pulse Score 55.5/100 (Fair, #2 in city) | Ispiri - Design & Remodel is a general contractor in Minneapolis, MN. Website: https://ispiri.com/. | https://registry-edge.dingalinged.workers.dev/c/ispiri-design-and-remodel-minneapolis/
-3. w.b. builders | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | w.b. builders is a general contractor in Minneapolis, MN at 3812 West 51st Street, Minneapolis, MN 55410. Website: https://www.wbbuilders.com/. | https://registry-edge.dingalinged.workers.dev/c/w-b-builders-minneapolis/
+1. Dovetail | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Dovetail is a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/. | https://registry-edge.dingalinged.workers.dev/c/dovetail-minneapolis/
+2. Ispiri - Design & Remodel | Organic #2 | Pulse Score 56.1/100 (Fair, #2 in city) | Ispiri - Design & Remodel is a general contractor in Minneapolis, MN. Website: https://ispiri.com/. | https://registry-edge.dingalinged.workers.dev/c/ispiri-design-and-remodel-minneapolis/
+3. w.b. builders | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | w.b. builders is a general contractor in Minneapolis, MN at 3812 West 51st Street, Minneapolis, MN 55410. Website: https://www.wbbuilders.com/. | https://registry-edge.dingalinged.workers.dev/c/w-b-builders-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor minneapolis mn | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

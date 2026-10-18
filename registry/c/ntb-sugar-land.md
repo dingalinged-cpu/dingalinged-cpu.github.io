@@ -13,7 +13,7 @@ NTB is an auto repair shop in Sugar Land, TX. Website: https://www.ntb.com/store
 - Website: https://www.ntb.com/store/tx/sugar-land/6532-highway-90a-77498/4515
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 77% of auto repair shops in Houston, #6 of 6 auto repair shops in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 76% of auto repair shops in Houston, #6 of 6 auto repair shops in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dog groomer in Oakdale, MN; dog groomer near me (Oakdale, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Ribbon Grooming | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517488885. Website: https://www.facebook.com/brgrooming/. | https://registry-edge.dingalinged.workers.dev/c/blue-ribbon-grooming-oakdale/
+1. Blue Ribbon Grooming | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517488885. Website: https://www.facebook.com/brgrooming/. | https://registry-edge.dingalinged.workers.dev/c/blue-ribbon-grooming-oakdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer oakdale mn | category: Pets | industry benchmark: Animals & Pets

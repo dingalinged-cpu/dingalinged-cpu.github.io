@@ -13,7 +13,7 @@ Truly Spoken Cycles is a bike shop in Milwaukee, WI at 604 East Center Street, M
 - Website: https://trulyspokencycles.company.site/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa-Su 12:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of bike shops in Milwaukee, #2 of 8 bike shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of bike shops in Milwaukee, #2 of 8 bike shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

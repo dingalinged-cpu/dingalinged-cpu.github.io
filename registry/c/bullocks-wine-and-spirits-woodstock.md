@@ -13,7 +13,7 @@ Bullock's Wine & Spirits is a liquor store in Woodstock, GA at 1050 Buckhead Cro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-23:00; Fr-Sa 08:00-23:45; Su 12:30-22:00
-- Pulse Score: 61.5/100 — Good — top 23% of liquor stores in Atlanta, #1 of 2 liquor stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 24% of liquor stores in Atlanta, #1 of 2 liquor stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

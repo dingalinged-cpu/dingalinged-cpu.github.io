@@ -13,7 +13,7 @@ e2open is an IT support company in Addison, TX at 14135 Midway Road #G300, Addis
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 71% of IT support companys in Dallas–Fort Worth, #1 of 1 IT support companys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 71% of IT support companys in Dallas–Fort Worth, #1 of 1 IT support companys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

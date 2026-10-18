@@ -6,7 +6,7 @@ Also answers: bike shop in Hiram, GA; bike shop near me (Hiram, GA); best bike s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cycology Bike Shop | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Cycology Bike Shop is a bike shop in Hiram, GA at 4484 Jimmy Lee Smith Parkway, Hiram, GA 30141. Phone: +16789092472. Website: https://www.cycologybikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/cycology-bike-shop-hiram/
+1. Cycology Bike Shop | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Cycology Bike Shop is a bike shop in Hiram, GA at 4484 Jimmy Lee Smith Parkway, Hiram, GA 30141. Phone: +16789092472. Website: https://www.cycologybikeshop.com/. | https://registry-edge.dingalinged.workers.dev/c/cycology-bike-shop-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop hiram ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

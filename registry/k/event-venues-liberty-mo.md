@@ -6,7 +6,7 @@ Also answers: event venues in Liberty, MO; event venues near me (Liberty, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corbin Mill | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Corbin Mill is an event venue in Liberty, MO at 131 South Water Street, Liberty, MO 64068. Phone: +18165364632. Website: https://corbinmillproperties.com/. | https://registry-edge.dingalinged.workers.dev/c/corbin-mill-liberty/
+1. Corbin Mill | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Corbin Mill is an event venue in Liberty, MO at 131 South Water Street, Liberty, MO 64068. Phone: +18165364632. Website: https://corbinmillproperties.com/. | https://registry-edge.dingalinged.workers.dev/c/corbin-mill-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues liberty mo | category: Events & weddings | industry benchmark: Personal Services

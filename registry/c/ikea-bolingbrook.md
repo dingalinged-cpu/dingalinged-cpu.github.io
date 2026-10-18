@@ -13,7 +13,7 @@ IKEA is a furniture store in Bolingbrook, IL at 750 East Boughton Road, Bolingbr
 - Website: https://www.ikea.com/us/en/stores/bolingbrook/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.4/100 — Building — top 58% of furniture stores in Chicago, #3 of 4 furniture stores in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 56% of furniture stores in Chicago, #3 of 4 furniture stores in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

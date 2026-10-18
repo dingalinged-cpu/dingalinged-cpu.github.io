@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Auri Jewelers | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Auri Jewelers is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/auri-jewelers-harris-county/
 2. James Avery | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | James Avery is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-harris-county/
 3. Master's Workshop 2 | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Master's Workshop 2 is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/masters-workshop-2-harris-county/
-4. James Avery Jewelry | Organic #4 | Pulse Score 44/100 (Building, #4 in city) | James Avery Jewelry is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-harris-county-n9921696323/
+4. James Avery Jewelry | Organic #4 | Pulse Score 44.1/100 (Building, #4 in city) | James Avery Jewelry is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-harris-county-n9921696323/
 5. James Avery Jewelry | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | James Avery Jewelry is a jewelry store in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-harris-county/
 
 ## Market data (for advertisers and agents)

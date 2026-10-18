@@ -6,8 +6,8 @@ Also answers: barber shop in Bloomington, MN; barber shop near me (Bloomington, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gifted Barbershop | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/gifted-barbershop-bloomington/
-2. Barbers & Stylists | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351. | https://registry-edge.dingalinged.workers.dev/c/barbers-and-stylists-bloomington/
+1. Gifted Barbershop | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/gifted-barbershop-bloomington/
+2. Barbers & Stylists | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351. | https://registry-edge.dingalinged.workers.dev/c/barbers-and-stylists-bloomington/
 3. B. Roes | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | B. Roes is a barber shop in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/b-roes-bloomington/
 
 ## Market data (for advertisers and agents)

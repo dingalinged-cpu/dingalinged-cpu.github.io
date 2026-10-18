@@ -13,7 +13,7 @@ Jensen Tire & Auto is an auto repair shop in Omaha, NE at 707 North 120th Street
 - Website: https://www.jensentireandauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Omaha, NE, #51 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 66% of auto repair shops in Omaha, NE, #51 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

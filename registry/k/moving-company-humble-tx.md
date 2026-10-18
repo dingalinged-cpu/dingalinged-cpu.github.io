@@ -6,7 +6,7 @@ Also answers: moving company in Humble, TX; moving company near me (Humble, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apple Moving Houston | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Apple Moving Houston is a moving company in Humble, TX at 2235 Atascocita Road, Humble, TX 77396. Phone: +12814460022. Website: https://www.applemovinghouston.com/. | https://registry-edge.dingalinged.workers.dev/c/apple-moving-houston-humble/
+1. Apple Moving Houston | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Apple Moving Houston is a moving company in Humble, TX at 2235 Atascocita Road, Humble, TX 77396. Phone: +12814460022. Website: https://www.applemovinghouston.com/. | https://registry-edge.dingalinged.workers.dev/c/apple-moving-houston-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company humble tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

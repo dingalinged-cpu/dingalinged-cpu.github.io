@@ -6,7 +6,7 @@ Also answers: funeral home in Evanston, IL; funeral home near me (Evanston, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Haliburton Funeral Chapel | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Haliburton Funeral Chapel is a funeral home in Evanston, IL at 1317 Emerson Street, Evanston, IL 60201. Phone: +18478646135. Website: https://www.haliburtonfuneral.com/. | https://registry-edge.dingalinged.workers.dev/c/haliburton-funeral-chapel-evanston/
+1. Haliburton Funeral Chapel | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Haliburton Funeral Chapel is a funeral home in Evanston, IL at 1317 Emerson Street, Evanston, IL 60201. Phone: +18478646135. Website: https://www.haliburtonfuneral.com/. | https://registry-edge.dingalinged.workers.dev/c/haliburton-funeral-chapel-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home evanston il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -6,8 +6,8 @@ Also answers: photographer in Naperville, IL; photographer near me (Naperville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kramer Photographers | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Kramer Photographers is a photographer in Naperville, IL at 921 North Washington Street, Naperville, IL 60563. Phone: +16303553546. Website: https://www.kramerphotographers.com/. | https://registry-edge.dingalinged.workers.dev/c/kramer-photographers-naperville/
-2. Jenny Tailor Photography & Boudoir | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Jenny Tailor Photography & Boudoir is a photographer in Naperville, IL. Website: https://www.jennytaylorboudoirs.com/. | https://registry-edge.dingalinged.workers.dev/c/jenny-tailor-photography-and-boudoir-naperville/
+1. Kramer Photographers | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Kramer Photographers is a photographer in Naperville, IL at 921 North Washington Street, Naperville, IL 60563. Phone: +16303553546. Website: https://www.kramerphotographers.com/. | https://registry-edge.dingalinged.workers.dev/c/kramer-photographers-naperville/
+2. Jenny Tailor Photography & Boudoir | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Jenny Tailor Photography & Boudoir is a photographer in Naperville, IL. Website: https://www.jennytaylorboudoirs.com/. | https://registry-edge.dingalinged.workers.dev/c/jenny-tailor-photography-and-boudoir-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer naperville il | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ UMI is a marketing agency in Dallas, TX at 6220 Campbell Road #304, Dallas, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 86% of marketing agencys in Dallas–Fort Worth, #6 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 83% of marketing agencys in Dallas–Fort Worth, #6 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 40.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

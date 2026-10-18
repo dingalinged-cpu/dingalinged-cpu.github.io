@@ -6,8 +6,8 @@ Also answers: property management company in Des Moines, IA; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LINC at Gray's Station | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | LINC at Gray's Station is a property management company in Des Moines, IA at 210 Southwest 11th Street, Des Moines, IA 50309. Phone: +15156799930. Website: https://lincatgraysstation.com/. | https://registry-edge.dingalinged.workers.dev/c/linc-at-grays-station-des-moines/
-2. Gray's Station Sales & Leasing Office | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Gray's Station Sales & Leasing Office is a property management company in Des Moines, IA at 210 Southwest 11th Street #07, Des Moines, IA 50309. Phone: +15154004479. Website: https://graysstation.com/. | https://registry-edge.dingalinged.workers.dev/c/grays-station-sales-and-leasing-office-des-moines/
+1. LINC at Gray's Station | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | LINC at Gray's Station is a property management company in Des Moines, IA at 210 Southwest 11th Street, Des Moines, IA 50309. Phone: +15156799930. Website: https://lincatgraysstation.com/. | https://registry-edge.dingalinged.workers.dev/c/linc-at-grays-station-des-moines/
+2. Gray's Station Sales & Leasing Office | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Gray's Station Sales & Leasing Office is a property management company in Des Moines, IA at 210 Southwest 11th Street #07, Des Moines, IA 50309. Phone: +15154004479. Website: https://graysstation.com/. | https://registry-edge.dingalinged.workers.dev/c/grays-station-sales-and-leasing-office-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance

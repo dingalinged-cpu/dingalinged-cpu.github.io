@@ -13,7 +13,7 @@ Polar Nite Services is an IT support company in Woodstock, GA at 8744 Main Stree
 - Website: https://polarnite.com/
 - Email: support@ptsnetworking.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 64/100 — Good — top 5% of IT support companys in Atlanta, #1 of 1 IT support companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 5% of IT support companys in Atlanta, #1 of 1 IT support companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

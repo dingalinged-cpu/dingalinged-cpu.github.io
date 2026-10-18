@@ -13,7 +13,7 @@ The Goddard School of Omaha is a preschool in Omaha, NE at 17660 Welch Plaza, Om
 - Website: https://www.goddardschool.com/omaha/omaha-welch-plaza-NE
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 20% of preschools in Omaha, NE, #4 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of preschools in Omaha, NE, #4 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

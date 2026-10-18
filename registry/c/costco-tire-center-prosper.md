@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Prosper, TX at 5620 West University Drive, 
 - Website: https://www.costco.com/w/-/tx/prosper/1694
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
-- Pulse Score: 50/100 — Fair — top 55% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50/100 — Fair — top 55% of tire shops in Dallas–Fort Worth, #1 of 2 tire shops in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

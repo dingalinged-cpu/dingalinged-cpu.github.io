@@ -6,11 +6,11 @@ Also answers: barber shop in Mckinney, TX; barber shop near me (Mckinney, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Boss Barbershop | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Hair Boss Barbershop is a barber shop in McKinney, TX at 8400 Stacy Road #300, McKinney, TX 75070. Phone: +12145484126. | https://registry-edge.dingalinged.workers.dev/c/hair-boss-barbershop-mckinney/
+1. Hair Boss Barbershop | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Hair Boss Barbershop is a barber shop in McKinney, TX at 8400 Stacy Road #300, McKinney, TX 75070. Phone: +12145484126. | https://registry-edge.dingalinged.workers.dev/c/hair-boss-barbershop-mckinney/
 2. Cool Heads Salon for Men | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Cool Heads Salon for Men is a barber shop in McKinney, TX at 7001 South Custer Road #300, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/cool-heads-salon-for-men-mckinney/
 3. Bazooka Charlie's Barber Co. | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Bazooka Charlie's Barber Co. is a barber shop in McKinney, TX at 3194 West University Drive #400, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/bazooka-charlies-barber-co-mckinney/
 4. Up & Up Barber Shop | Organic #4 | Pulse Score 58.5/100 (Unrated, #4 in city) | Up & Up Barber Shop is a barber shop in McKinney, TX at 5121 Collin McKinney Parkway #400, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/up-and-up-barber-shop-mckinney/
-5. Diesel Barbershop | Organic #5 | Pulse Score 58.2/100 (Unrated, #5 in city) | Diesel Barbershop is a barber shop in McKinney, TX at 3905 West University Drive #200, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/diesel-barbershop-mckinney/
+5. Diesel Barbershop | Organic #5 | Pulse Score 45.4/100 (Building, #5 in city) | Diesel Barbershop is a barber shop in McKinney, TX at 3905 West University Drive #200, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/diesel-barbershop-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop mckinney tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

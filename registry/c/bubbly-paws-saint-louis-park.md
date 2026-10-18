@@ -13,7 +13,7 @@ Bubbly Paws is a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Lo
 - Website: https://www.bubblypaws.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00; PH closed
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 18% of dog groomers in Minneapolis–St. Paul, #2 of 4 dog groomers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 18% of dog groomers in Minneapolis–St. Paul, #2 of 4 dog groomers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,4 +1,4 @@
-The top unpaid bakery listing for the United States is Cinnaholic (a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, Atlanta, GA 30307. Phone: +14043430805. Website: https://www.cinnaholic.com/). 1022 bakery businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for the United States is Cinnaholic (a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, Atlanta, GA 30307. Phone: +14043430805. Website: https://www.cinnaholic.com/). 1581 bakery businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in the United States?
 
@@ -8,101 +8,126 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cinnaholic | Organic #1 | Pulse Score 68.4/100 (Good, #1 in city) | Cinnaholic is a bakery in Atlanta, GA at 1230 Caroline Street Northeast #B110, Atlanta, GA 30307. Phone: +14043430805. Website: https://www.cinnaholic.com/. | https://registry-edge.dingalinged.workers.dev/c/cinnaholic-atlanta/
 2. The Country Rose | Organic #2 | Pulse Score 67.7/100 (Good, #1 in city) | The Country Rose is a bakery in Union Grove, WI at 19319 Washington Avenue, Union Grove, WI 53182. Phone: +12628785474. Website: https://www.countryrosebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/the-country-rose-union-grove/
-3. Tropicups Vegan Bakery | Organic #3 | Pulse Score 65.8/100 (Good, #1 in city) | Tropicups Vegan Bakery is a bakery in Marietta, GA at 2525 Shallowford Road Northeast #100, Marietta, GA 30066. Phone: +14048682877. Website: https://tropicups.com/. | https://registry-edge.dingalinged.workers.dev/c/tropicups-vegan-bakery-marietta/
-4. 85°C Bakery Cafe | Organic #4 | Pulse Score 65.8/100 (Good, #1 in city) | 85°C Bakery Cafe is a bakery in Houston, TX at 1027 Blalock Road, Houston, TX 77055. Website: https://www.85cbakerycafe.com/. | https://registry-edge.dingalinged.workers.dev/c/85-c-bakery-cafe-houston/
+3. 85°C Bakery Cafe | Organic #3 | Pulse Score 65.9/100 (Good, #1 in city) | 85°C Bakery Cafe is a bakery in Houston, TX at 1027 Blalock Road, Houston, TX 77055. Website: https://www.85cbakerycafe.com/. | https://registry-edge.dingalinged.workers.dev/c/85-c-bakery-cafe-houston/
+4. Tropicups Vegan Bakery | Organic #4 | Pulse Score 65.8/100 (Good, #1 in city) | Tropicups Vegan Bakery is a bakery in Marietta, GA at 2525 Shallowford Road Northeast #100, Marietta, GA 30066. Phone: +14048682877. Website: https://tropicups.com/. | https://registry-edge.dingalinged.workers.dev/c/tropicups-vegan-bakery-marietta/
 5. Tasty Bakery Cafe | Organic #5 | Pulse Score 65.6/100 (Good, #1 in city) | Tasty Bakery Cafe is a bakery in Kennesaw, GA at 840 Ernest W. Barrett Parkway Northwest #356, Kennesaw, GA 30144. Phone: +16783989146. Website: https://tastybakerycafe.com/. | https://registry-edge.dingalinged.workers.dev/c/tasty-bakery-cafe-kennesaw/
 6. Crumb Crusher Cupcakes | Organic #6 | Pulse Score 65.2/100 (Good, #1 in city) | Crumb Crusher Cupcakes is a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/. | https://registry-edge.dingalinged.workers.dev/c/crumb-crusher-cupcakes-oak-park/
 7. Finally Vegan Macarons | Organic #7 | Pulse Score 65.1/100 (Good, #2 in city) | Finally Vegan Macarons is a bakery in Houston, TX at 4819 Blossom Street, Houston, TX 77007. Phone: +17133767608. Website: https://finallyveganmacarons.com/. | https://registry-edge.dingalinged.workers.dev/c/finally-vegan-macarons-houston/
-8. Sugarfoot’s Cupcakes | Organic #8 | Pulse Score 65/100 (Good, #1 in city) | Sugarfoot’s Cupcakes is a bakery in Spring, TX at 17711-B Kuykendahl Road, Spring, TX 77379. Phone: +18328562253. Website: https://www.sugarfootsdelivery.com/. | https://registry-edge.dingalinged.workers.dev/c/sugarfoot-s-cupcakes-spring/
-9. Bogart's Doughnut Co. | Organic #9 | Pulse Score 65/100 (Good, #1 in city) | Bogart's Doughnut Co. is a bakery in Minneapolis, MN at 904 West 36th Street, Minneapolis, MN 55408. Phone: +16128861670. Website: https://www.bogartsdoughnutco.com/. | https://registry-edge.dingalinged.workers.dev/c/bogarts-doughnut-co-minneapolis/
-10. Lizzie The Baker | Organic #10 | Pulse Score 64.8/100 (Good, #1 in city) | Lizzie The Baker is a bakery in Cherokee County, GA at 204 Trickum Hills Lane, Cherokee County, GA. Phone: +14708155228. Website: https://www.lizziethebaker.com/. | https://registry-edge.dingalinged.workers.dev/c/lizzie-the-baker-cherokee-county/
-11. O&H Danish Bakery | Organic #11 | Pulse Score 64.5/100 (Good, #1 in city) | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://registry-edge.dingalinged.workers.dev/c/o-and-h-danish-bakery-mount-pleasant/
-12. Levain Bakery | Organic #12 | Pulse Score 64.4/100 (Good, #1 in city) | Levain Bakery is a bakery in Chicago, IL at 840 West Randolph Street, Chicago, IL 60607. Phone: +13123000654. Website: https://levainbakery.com/pages/west-loop. | https://registry-edge.dingalinged.workers.dev/c/levain-bakery-chicago/
-13. Ali's Cookies | Organic #13 | Pulse Score 64.2/100 (Good, #2 in city) | Ali's Cookies is a bakery in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709718566. Website: https://www.shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/alis-cookies-marietta/
-14. Heaven in a Jar Desserts | Organic #14 | Pulse Score 64.2/100 (Good, #1 in city) | Heaven in a Jar Desserts is a bakery in Sugar Land, TX at 3159 State Highway 6 South #B, Sugar Land, TX 77478. Phone: +18325327149. Website: https://www.heaveninajardesserts.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-in-a-jar-desserts-sugar-land/
-15. Magnolia Bakery | Organic #15 | Pulse Score 64.2/100 (Good, #2 in city) | Magnolia Bakery is a bakery in Chicago, IL at 108 North State Street, Chicago, IL 60602. Phone: +13123467777. Website: https://www.magnoliabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-bakery-chicago/
-16. Sucre | Organic #16 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://registry-edge.dingalinged.workers.dev/c/sucre-woodstock/
-17. Great Harvest Bakery | Organic #17 | Pulse Score 64.1/100 (Good, #1 in city) | Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bakery-evanston/
-18. Blooming Lotus Bakery | Organic #18 | Pulse Score 63.9/100 (Good, #1 in city) | Blooming Lotus Bakery is a bakery in Milwaukee, WI at 2215 East North Avenue, Milwaukee, WI 53202. Phone: +14142128010. Website: https://www.blbmke.com/. | https://registry-edge.dingalinged.workers.dev/c/blooming-lotus-bakery-milwaukee/
-19. Alliance Bakery | Organic #19 | Pulse Score 63.9/100 (Good, #3 in city) | Alliance Bakery is a bakery in Chicago, IL at 1736 West Division Street, Chicago, IL 60622. Phone: +17732780366. Website: https://www.alliancebakery.com/home/. | https://registry-edge.dingalinged.workers.dev/c/alliance-bakery-chicago/
-20. Mel-O-Glaze Bakery | Organic #20 | Pulse Score 63.9/100 (Unrated, #2 in city) | Mel-O-Glaze Bakery is a bakery in Minneapolis, MN at 4800 28th Avenue South, Minneapolis, MN 55417. Phone: +16127299316. Website: https://www.meloglazebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mel-o-glaze-bakery-minneapolis/
-21. Scratch KC - Wholesale Office | Organic #21 | Pulse Score 63.9/100 (Unrated, #1 in city) | Scratch KC - Wholesale Office is a bakery in North Kansas City, MO at 1250 Burlington Street, North Kansas City, MO 64116. Phone: +18168889186. Website: https://scratchkc.com/. | https://registry-edge.dingalinged.workers.dev/c/scratch-kc-wholesale-office-north-kansas-city/
-22. Mindy’s Bakery | Organic #22 | Pulse Score 63.8/100 (Good, #4 in city) | Mindy’s Bakery is a bakery in Chicago, IL at 1623 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734891747. Website: https://www.mindysbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mindy-s-bakery-chicago/
-23. Madison Sourdough | Organic #23 | Pulse Score 63.7/100 (Good, #1 in city) | Madison Sourdough is a bakery in Madison, WI at 916 Williamson Street, Madison, WI 53703. Phone: +16084428009. Website: https://www.madisonsourdough.com/. | https://registry-edge.dingalinged.workers.dev/c/madison-sourdough-madison/
-24. Dulce Canela Handcrafted Churros And Ice Cream | Organic #24 | Pulse Score 63.6/100 (Good, #2 in city) | Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 2730 Summers Street Northwest, Kennesaw, GA. Phone: +16785403577. Website: https://ww.dulcecanelachurros.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-canela-handcrafted-churros-and-ice-cream-kennesaw/
-25. Miller Bagel | Organic #25 | Pulse Score 63.6/100 (Unrated, #5 in city) | Miller Bagel is a bakery in Chicago, IL at 4655 North Lincoln Avenue, Chicago, IL 60625. Phone: +17736543610. Website: https://www.eatmillerbagel.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-bagel-chicago/
-26. Sicilian Bakery | Organic #26 | Pulse Score 63.6/100 (Unrated, #6 in city) | Sicilian Bakery is a bakery in Chicago, IL at 4632 North Cumberland Avenue, Chicago, IL 60656. Phone: +17735892602. Website: https://sicilianbakeryinc.com/. | https://registry-edge.dingalinged.workers.dev/c/sicilian-bakery-chicago/
-27. Del Norte Bakery | Organic #27 | Pulse Score 63.5/100 (Good, #1 in city) | Del Norte Bakery is a bakery in Dallas, TX at 839 Singleton Boulevard #150, Dallas, TX. Phone: +12143304831. | https://registry-edge.dingalinged.workers.dev/c/del-norte-bakery-dallas/
-28. 9 Rabbits Bakery | Organic #28 | Pulse Score 63.5/100 (Unrated, #2 in city) | 9 Rabbits Bakery is a bakery in Dallas, TX at 2546 Royal Ln, Dallas, TX 75229. Phone: +19722434478. Website: https://www.9rabbitsbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/9-rabbits-bakery-dallas/
-29. Rose Valley Sweets | Organic #29 | Pulse Score 63.4/100 (Good, #1 in city) | Rose Valley Sweets is a bakery in Johns Creek, GA at 6000 Medlock Bridge Road #B100, Johns Creek, GA. Phone: +17706741340. Website: https://www.rosevalleysweets.com/. | https://registry-edge.dingalinged.workers.dev/c/rose-valley-sweets-johns-creek/
-30. Stella's Bakery | Organic #30 | Pulse Score 63.4/100 (Unrated, #2 in city) | Stella's Bakery is a bakery in Madison, WI at 2908 Syene Road, Madison, WI 53713. Phone: +16086632690. Website: https://stellasofmadison.com/. | https://registry-edge.dingalinged.workers.dev/c/stellas-bakery-madison/
-31. Chez Kobayashi Pastries | Organic #31 | Pulse Score 63.4/100 (Unrated, #3 in city) | Chez Kobayashi Pastries is a bakery in Houston, TX at 14522 Memorial Drive, Houston, TX 77079. Phone: +12817419161. Website: https://julies-frenchpastries.com/. | https://registry-edge.dingalinged.workers.dev/c/chez-kobayashi-pastries-houston/
-32. Hot Hands Pie & Biscuit | Organic #32 | Pulse Score 63.3/100 (Good, #1 in city) | Hot Hands Pie & Biscuit is a bakery in Saint Paul, MN at 272 Snelling Avenue South #Suite 100, Saint Paul, MN 55105. Phone: +16513001503. Website: https://www.hothandspie.com/. | https://registry-edge.dingalinged.workers.dev/c/hot-hands-pie-and-biscuit-saint-paul/
-33. Sugar Cakes Patiserrie | Organic #33 | Pulse Score 63.3/100 (Good, #3 in city) | Sugar Cakes Patiserrie is a bakery in Marietta, GA at 101 North Park Square Northeast, Marietta, GA 30060. Phone: +17702189994. Website: https://sugarcakespatisserie.com/. | https://registry-edge.dingalinged.workers.dev/c/sugar-cakes-patiserrie-marietta/
-34. Cafe 53 | Organic #34 | Pulse Score 63.3/100 (Unrated, #7 in city) | Cafe 53 is a bakery in Chicago, IL at 1369 East 53rd Street, Chicago, IL 60615. Phone: +17734931000. Website: https://www.cafe-53.com/. | https://registry-edge.dingalinged.workers.dev/c/cafe-53-chicago/
-35. Mother Dough Bakery | Organic #35 | Pulse Score 63.2/100 (Good, #3 in city) | Mother Dough Bakery is a bakery in Minneapolis, MN at 800 Nicollet Mall #Suite 180, Minneapolis, MN 55402. | https://registry-edge.dingalinged.workers.dev/c/mother-dough-bakery-minneapolis/
-36. Rustica Bakery & Cafe | Organic #36 | Pulse Score 63.1/100 (Good, #4 in city) | Rustica Bakery & Cafe is a bakery in Minneapolis, MN at 3224 Lake Street West, Minneapolis, MN 55416. Phone: +16128221119. Website: https://www.rusticabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/rustica-bakery-and-cafe-minneapolis/
-37. Joy Macrons | Organic #37 | Pulse Score 63.1/100 (Good, #3 in city) | Joy Macrons is a bakery in Dallas, TX at 839 West Davis Street, Dallas, TX. Website: https://www.joymacarons.com/location/joy-macarons-oak-cliff/. | https://registry-edge.dingalinged.workers.dev/c/joy-macrons-dallas/
-38. Il Mulino Di Valenzano Bakery | Organic #38 | Pulse Score 63.1/100 (Unrated, #1 in city) | Il Mulino Di Valenzano Bakery is a bakery in Franklin Park, IL at 3853 Carnation Street, Franklin Park, IL 60131. Phone: +18476715216. | https://registry-edge.dingalinged.workers.dev/c/il-mulino-di-valenzano-bakery-franklin-park/
-39. Peter Sciortino's Bakery | Organic #39 | Pulse Score 63/100 (Good, #2 in city) | Peter Sciortino's Bakery is a bakery in Milwaukee, WI at 1101 East Brady Street, Milwaukee, WI 53202. Phone: +14142724623. Website: https://petersciortinosbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/peter-sciortinos-bakery-milwaukee/
-40. Honeysuckle Biscuits & Bakery | Organic #40 | Pulse Score 63/100 (Good, #3 in city) | Honeysuckle Biscuits & Bakery is a bakery in Kennesaw, GA at 2825 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17706274370. Website: https://www.honeysucklebiscuits.com/. | https://registry-edge.dingalinged.workers.dev/c/honeysuckle-biscuits-and-bakery-kennesaw/
-41. White Windmill Bakery & Cafe | Organic #41 | Pulse Score 63/100 (Good, #2 in city) | White Windmill Bakery & Cafe is a bakery in Atlanta, GA at 1331 Spring Street Northwest, Atlanta, GA. Phone: +17702092557. Website: https://www.whitewbakerycafe.com/locations/midtown. | https://registry-edge.dingalinged.workers.dev/c/white-windmill-bakery-and-cafe-atlanta/
-42. Chiu Quon Bakery | Organic #42 | Pulse Score 63/100 (Unrated, #8 in city) | Chiu Quon Bakery is a bakery in Chicago, IL at 1127 West Argyle Street, Chicago, IL 60640. Phone: +17739078888. Website: https://chiuquonbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/chiu-quon-bakery-chicago/
-43. Pleasant House Pub | Organic #43 | Pulse Score 63/100 (Unrated, #9 in city) | Pleasant House Pub is a bakery in Chicago, IL at 2119 South Halsted Street, Chicago, IL 60608. Phone: +17735237437. Website: https://www.pleasanthousepub.com/. | https://registry-edge.dingalinged.workers.dev/c/pleasant-house-pub-chicago/
-44. Publican Quality Bakery | Organic #44 | Pulse Score 63/100 (Unrated, #10 in city) | Publican Quality Bakery is a bakery in Chicago, IL at 1759 West Grand Avenue, Chicago, IL 60622. Phone: +13126051618. Website: https://www.publicanqualitybread.com/. | https://registry-edge.dingalinged.workers.dev/c/publican-quality-bakery-chicago/
-45. Saint Paul Flatbread | Organic #45 | Pulse Score 63/100 (Unrated, #2 in city) | Saint Paul Flatbread is a bakery in Saint Paul, MN at 439 Robert Street South, Saint Paul, MN 55107. Phone: +16512918700. Website: https://stpaulflatbread.com/. | https://registry-edge.dingalinged.workers.dev/c/saint-paul-flatbread-saint-paul/
-46. Rio Steakhouse & Bakery | Organic #46 | Pulse Score 62.9/100 (Good, #4 in city) | Rio Steakhouse & Bakery is a bakery in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709529556. | https://registry-edge.dingalinged.workers.dev/c/rio-steakhouse-and-bakery-marietta/
-47. Batch Bakehouse | Organic #47 | Pulse Score 62.9/100 (Good, #3 in city) | Batch Bakehouse is a bakery in Madison, WI at 1402 Williamson, Madison, WI 53703. Phone: +16082571652. Website: https://batchbakehouse.com/. | https://registry-edge.dingalinged.workers.dev/c/batch-bakehouse-madison/
-48. Brasil Legal Cafe | Organic #48 | Pulse Score 62.9/100 (Good, #11 in city) | Brasil Legal Cafe is a bakery in Chicago, IL at 2161 North Western Avenue, Chicago, IL 60647. Phone: +17737726650. | https://registry-edge.dingalinged.workers.dev/c/brasil-legal-cafe-chicago/
-49. Defloured | Organic #49 | Pulse Score 62.9/100 (Unrated, #12 in city) | Defloured is a bakery in Chicago, IL at 1477 West Balmoral Avenue, Chicago, IL 60640. Phone: +17732345733. Website: https://www.deflouredbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/defloured-chicago/
-50. Misericordia Hearts & Flour Bakery and Café | Organic #50 | Pulse Score 62.9/100 (Unrated, #13 in city) | Misericordia Hearts & Flour Bakery and Café is a bakery in Chicago, IL at 6130 North Ravenswood Avenue, Chicago, IL 60660. Phone: +17735648403. Website: https://www.misericordia.com/restaurant-stores/hearts-flour-bakery-and-cafe/. | https://registry-edge.dingalinged.workers.dev/c/misericordia-hearts-and-flour-bakery-and-caf-chicago/
+8. GiGi Treats | Organic #8 | Pulse Score 65/100 (Good, #1 in city) | GiGi Treats is a bakery in Eastpointe, MI at 16117 East 10 Mile Road, Eastpointe, MI 48021. Phone: +15863628420. Website: https://site-zhuczs6bb.godaddysites.com/. | https://registry-edge.dingalinged.workers.dev/c/gigi-treats-eastpointe/
+9. Sugarfoot’s Cupcakes | Organic #9 | Pulse Score 65/100 (Good, #1 in city) | Sugarfoot’s Cupcakes is a bakery in Spring, TX at 17711-B Kuykendahl Road, Spring, TX 77379. Phone: +18328562253. Website: https://www.sugarfootsdelivery.com/. | https://registry-edge.dingalinged.workers.dev/c/sugarfoot-s-cupcakes-spring/
+10. Allegro Bakery | Organic #10 | Pulse Score 65/100 (Good, #1 in city) | Allegro Bakery is a bakery in Pittsburgh, PA at 2034 Murray Avenue, Pittsburgh, PA 15217. Phone: +14124215623. Website: https://www.allegropgh.com/. | https://registry-edge.dingalinged.workers.dev/c/allegro-bakery-pittsburgh/
+11. Bogart's Doughnut Co. | Organic #11 | Pulse Score 65/100 (Good, #1 in city) | Bogart's Doughnut Co. is a bakery in Minneapolis, MN at 904 West 36th Street, Minneapolis, MN 55408. Phone: +16128861670. Website: https://www.bogartsdoughnutco.com/. | https://registry-edge.dingalinged.workers.dev/c/bogarts-doughnut-co-minneapolis/
+12. Lizzie The Baker | Organic #12 | Pulse Score 64.8/100 (Good, #1 in city) | Lizzie The Baker is a bakery in Cherokee County, GA at 204 Trickum Hills Lane, Cherokee County, GA. Phone: +14708155228. Website: https://www.lizziethebaker.com/. | https://registry-edge.dingalinged.workers.dev/c/lizzie-the-baker-cherokee-county/
+13. The Bundt Shoppe | Organic #13 | Pulse Score 64.8/100 (Good, #1 in city) | The Bundt Shoppe is a bakery in Greenwood Village, CO at 5910 South University Boulevard #C16, Greenwood Village, CO 80121. Phone: +13037984145. Website: https://wwe.thebundtshoppe.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bundt-shoppe-greenwood-village/
+14. Dan the Baker | Organic #14 | Pulse Score 64.7/100 (Good, #1 in city) | Dan the Baker is a bakery in Columbus, OH at 1028 Ridge Street, Columbus, OH 43215. Phone: +16149289035. Website: https://dan-the-baker.com/. | https://registry-edge.dingalinged.workers.dev/c/dan-the-baker-columbus/
+15. The BonBonerie | Organic #15 | Pulse Score 64.6/100 (Good, #1 in city) | The BonBonerie is a bakery in Cincinnati, OH at 2030 Madison Road, Cincinnati, OH 45208. Phone: +15133213399. Website: https://www.bonbonerie.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bonbonerie-cincinnati/
+16. Hilligoss Bakery | Organic #16 | Pulse Score 64.5/100 (Good, #1 in city) | Hilligoss Bakery is a bakery in Brownsburg, IN at 804 East Main Street, Brownsburg, IN 46112. Phone: +13178527451. Website: https://www.facebook.com/hilligossbakery/. | https://registry-edge.dingalinged.workers.dev/c/hilligoss-bakery-brownsburg/
+17. O&H Danish Bakery | Organic #17 | Pulse Score 64.5/100 (Good, #1 in city) | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://registry-edge.dingalinged.workers.dev/c/o-and-h-danish-bakery-mount-pleasant/
+18. Levain Bakery | Organic #18 | Pulse Score 64.4/100 (Good, #1 in city) | Levain Bakery is a bakery in Chicago, IL at 840 West Randolph Street, Chicago, IL 60607. Phone: +13123000654. Website: https://levainbakery.com/pages/west-loop. | https://registry-edge.dingalinged.workers.dev/c/levain-bakery-chicago/
+19. Ali's Cookies | Organic #19 | Pulse Score 64.2/100 (Good, #2 in city) | Ali's Cookies is a bakery in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709718566. Website: https://www.shipacookie.com/. | https://registry-edge.dingalinged.workers.dev/c/alis-cookies-marietta/
+20. Heaven in a Jar Desserts | Organic #20 | Pulse Score 64.2/100 (Good, #1 in city) | Heaven in a Jar Desserts is a bakery in Sugar Land, TX at 3159 State Highway 6 South #B, Sugar Land, TX 77478. Phone: +18325327149. Website: https://www.heaveninajardesserts.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-in-a-jar-desserts-sugar-land/
+21. Magnolia Bakery | Organic #21 | Pulse Score 64.2/100 (Good, #2 in city) | Magnolia Bakery is a bakery in Chicago, IL at 108 North State Street, Chicago, IL 60602. Phone: +13123467777. Website: https://www.magnoliabakery.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-bakery-chicago/
+22. Sucre | Organic #22 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://registry-edge.dingalinged.workers.dev/c/sucre-woodstock/
+23. Two Seven Two | Organic #23 | Pulse Score 64.2/100 (Good, #2 in city) | Two Seven Two is a bakery in Cincinnati, OH at 272 Ludlow Avenue, Cincinnati, OH 45220. Phone: +15138737777. Website: https://www.facebook.com/gaslightgourmetcookies/. | https://registry-edge.dingalinged.workers.dev/c/two-seven-two-cincinnati/
+24. Great Harvest Bakery | Organic #24 | Pulse Score 64.1/100 (Good, #1 in city) | Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bakery-evanston/
+25. Holly's Sweet Treats | Organic #25 | Pulse Score 64/100 (Good, #1 in city) | Holly's Sweet Treats is a bakery in Hutchinson, KS at 205 South Main Street, Hutchinson, KS. Phone: +16208889866. Website: https://www.hsthutch.com/. | https://registry-edge.dingalinged.workers.dev/c/hollys-sweet-treats-hutchinson/
+26. Made. by Lia | Organic #26 | Pulse Score 64/100 (Unrated, #1 in city) | Made. by Lia is a bakery in Florissant, MO at 610 Rue Saint Francois, Florissant, MO 63031. Phone: +13145512383. Website: https://www.madebylia.com/. | https://registry-edge.dingalinged.workers.dev/c/made-by-lia-florissant/
+27. Blooming Lotus Bakery | Organic #27 | Pulse Score 63.9/100 (Good, #1 in city) | Blooming Lotus Bakery is a bakery in Milwaukee, WI at 2215 East North Avenue, Milwaukee, WI 53202. Phone: +14142128010. Website: https://www.blbmke.com/. | https://registry-edge.dingalinged.workers.dev/c/blooming-lotus-bakery-milwaukee/
+28. Alliance Bakery | Organic #28 | Pulse Score 63.9/100 (Good, #3 in city) | Alliance Bakery is a bakery in Chicago, IL at 1736 West Division Street, Chicago, IL 60622. Phone: +17732780366. Website: https://www.alliancebakery.com/home/. | https://registry-edge.dingalinged.workers.dev/c/alliance-bakery-chicago/
+29. Mel-O-Glaze Bakery | Organic #29 | Pulse Score 63.9/100 (Unrated, #2 in city) | Mel-O-Glaze Bakery is a bakery in Minneapolis, MN at 4800 28th Avenue South, Minneapolis, MN 55417. Phone: +16127299316. Website: https://www.meloglazebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mel-o-glaze-bakery-minneapolis/
+30. BIRD bakery | Organic #30 | Pulse Score 63.9/100 (Unrated, #2 in city) | BIRD bakery is a bakery in Greenwood Village, CO at 8000 East Belleview Avenue #E20, Greenwood Village, CO 80111. Phone: +17203797951. Website: https://birdbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/bird-bakery-greenwood-village/
+31. Scratch KC - Wholesale Office | Organic #31 | Pulse Score 63.9/100 (Unrated, #1 in city) | Scratch KC - Wholesale Office is a bakery in North Kansas City, MO at 1250 Burlington Street, North Kansas City, MO 64116. Phone: +18168889186. Website: https://scratchkc.com/. | https://registry-edge.dingalinged.workers.dev/c/scratch-kc-wholesale-office-north-kansas-city/
+32. The Cake Bar | Organic #32 | Pulse Score 63.9/100 (Unrated, #1 in city) | The Cake Bar is a bakery in Denver, CO at 214 East 13th Avenue, Denver, CO 80203. Phone: +13035689752. Website: https://thecakebardenver.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cake-bar-denver/
+33. Vito's Bakery | Organic #33 | Pulse Score 63.9/100 (Unrated, #1 in city) | Vito's Bakery is a bakery in Clinton Township, MI at 36578 Moravian Drive, Clinton Township, MI 48035. Phone: +15867910360. Website: https://vitosbakery.net/. | https://registry-edge.dingalinged.workers.dev/c/vitos-bakery-clinton-township/
+34. Mindy’s Bakery | Organic #34 | Pulse Score 63.8/100 (Good, #4 in city) | Mindy’s Bakery is a bakery in Chicago, IL at 1623 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734891747. Website: https://www.mindysbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/mindy-s-bakery-chicago/
+35. Anna's Donuts & Burritos | Organic #35 | Pulse Score 63.8/100 (Unrated, #3 in city) | Anna's Donuts & Burritos is a bakery in Greenwood Village, CO at 5999 South University Boulevard, Greenwood Village, CO 80121. Phone: +17209682293. Website: https://annasdonutsburritos.com/. | https://registry-edge.dingalinged.workers.dev/c/annas-donuts-and-burritos-greenwood-village/
+36. Brezel | Organic #36 | Pulse Score 63.8/100 (Unrated, #2 in city) | Brezel is a bakery in Columbus, OH at 59 Spruce Street, Columbus, OH 43215. Phone: +16145860523. Website: https://www.brezelpower.com/. | https://registry-edge.dingalinged.workers.dev/c/brezel-columbus/
+37. Gold 'N Oven | Organic #37 | Pulse Score 63.8/100 (Unrated, #1 in city) | Gold 'N Oven is a bakery in Sterling Heights, MI at 4104 15 Mile Road, Sterling Heights, MI 48310. Phone: +15869797300. Website: https://goldnoven.com/. | https://registry-edge.dingalinged.workers.dev/c/gold-n-oven-sterling-heights/
+38. Sweets of Inspiration | Organic #38 | Pulse Score 63.8/100 (Unrated, #1 in city) | Sweets of Inspiration is a bakery in Westminster, CO at 7305 Unit 180 Lowell Boulevard, Westminster, CO 80030. Phone: +17205426580. Website: https://sweetsofinspiration.com/. | https://registry-edge.dingalinged.workers.dev/c/sweets-of-inspiration-westminster/
+39. Madison Sourdough | Organic #39 | Pulse Score 63.7/100 (Good, #1 in city) | Madison Sourdough is a bakery in Madison, WI at 916 Williamson Street, Madison, WI 53703. Phone: +16084428009. Website: https://www.madisonsourdough.com/. | https://registry-edge.dingalinged.workers.dev/c/madison-sourdough-madison/
+40. Dulce Canela Handcrafted Churros And Ice Cream | Organic #40 | Pulse Score 63.6/100 (Good, #2 in city) | Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 2730 Summers Street Northwest, Kennesaw, GA. Phone: +16785403577. Website: https://ww.dulcecanelachurros.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-canela-handcrafted-churros-and-ice-cream-kennesaw/
+41. Born2Bake | Organic #41 | Pulse Score 63.6/100 (Good, #1 in city) | Born2Bake is a bakery in Littleton, CO at 2540 West Main Street, Littleton, CO 80120. Phone: +13037946375. Website: https://www.born2bakebakery.com/. | https://registry-edge.dingalinged.workers.dev/c/born2bake-littleton/
+42. Canelle detroit | Organic #42 | Pulse Score 63.6/100 (Unrated, #1 in city) | Canelle detroit is a bakery in Detroit, MI at 45, Detroit, MI 48226. Phone: +13136949767. Website: https://www.cannelledetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/canelle-detroit-detroit/
+43. Miller Bagel | Organic #43 | Pulse Score 63.6/100 (Unrated, #5 in city) | Miller Bagel is a bakery in Chicago, IL at 4655 North Lincoln Avenue, Chicago, IL 60625. Phone: +17736543610. Website: https://www.eatmillerbagel.com/. | https://registry-edge.dingalinged.workers.dev/c/miller-bagel-chicago/
+44. Sicilian Bakery | Organic #44 | Pulse Score 63.6/100 (Unrated, #6 in city) | Sicilian Bakery is a bakery in Chicago, IL at 4632 North Cumberland Avenue, Chicago, IL 60656. Phone: +17735892602. Website: https://sicilianbakeryinc.com/. | https://registry-edge.dingalinged.workers.dev/c/sicilian-bakery-chicago/
+45. Del Norte Bakery | Organic #45 | Pulse Score 63.5/100 (Good, #1 in city) | Del Norte Bakery is a bakery in Dallas, TX at 839 Singleton Boulevard #150, Dallas, TX. Phone: +12143304831. | https://registry-edge.dingalinged.workers.dev/c/del-norte-bakery-dallas/
+46. 9 Rabbits Bakery | Organic #46 | Pulse Score 63.5/100 (Unrated, #2 in city) | 9 Rabbits Bakery is a bakery in Dallas, TX at 2546 Royal Ln, Dallas, TX 75229. Phone: +19722434478. Website: https://www.9rabbitsbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/9-rabbits-bakery-dallas/
+47. Rose Valley Sweets | Organic #47 | Pulse Score 63.4/100 (Good, #1 in city) | Rose Valley Sweets is a bakery in Johns Creek, GA at 6000 Medlock Bridge Road #B100, Johns Creek, GA. Phone: +17706741340. Website: https://www.rosevalleysweets.com/. | https://registry-edge.dingalinged.workers.dev/c/rose-valley-sweets-johns-creek/
+48. Stella's Bakery | Organic #48 | Pulse Score 63.4/100 (Unrated, #2 in city) | Stella's Bakery is a bakery in Madison, WI at 2908 Syene Road, Madison, WI 53713. Phone: +16086632690. Website: https://stellasofmadison.com/. | https://registry-edge.dingalinged.workers.dev/c/stellas-bakery-madison/
+49. Galata Sweets | Organic #49 | Pulse Score 63.4/100 (Unrated, #2 in city) | Galata Sweets is a bakery in Sterling Heights, MI at 2079 15 Mile Road, Sterling Heights, MI 48310. Phone: +15862752827. Website: https://www.galatasweetsusa.com/. | https://registry-edge.dingalinged.workers.dev/c/galata-sweets-sterling-heights/
+50. Paris Pastry | Organic #50 | Pulse Score 63.4/100 (Unrated, #3 in city) | Paris Pastry is a bakery in Sterling Heights, MI at 4107 15 Mile Road, Sterling Heights, MI 48310. Phone: +15867227727. Website: https://parispastry.net/. | https://registry-edge.dingalinged.workers.dev/c/paris-pastry-sterling-heights/
 
-## More bakery listings (1022 total; top 50 unpaid shown)
+## More bakery listings (1581 total; top 50 unpaid shown)
 - Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/bakery.jsonl
 - Chicago, IL: 338 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-il/
 - Houston, TX: 75 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-houston-tx/
 - Minneapolis, MN: 37 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-minneapolis-mn/
+- Pittsburgh, PA: 33 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pittsburgh-pa/
+- Indianapolis, IN: 29 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-indianapolis-in/
 - Atlanta, GA: 28 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-atlanta-ga/
-- Kansas City, MO: 24 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-mo/
+- Columbus, OH: 27 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-columbus-oh/
+- Detroit, MI: 25 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-detroit-mi/
+- Kansas City, MO: 25 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-mo/
 - Dallas, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dallas-tx/
 - Saint Paul, MN: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-paul-mn/
+- Cincinnati, OH: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cincinnati-oh/
 - Madison, WI: 19 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-madison-wi/
 - Harris County, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harris-county-tx/
+- Dearborn, MI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dearborn-mi/
 - Milwaukee, WI: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-milwaukee-wi/
 - Omaha, NE: 17 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-omaha-ne/
+- Aurora, CO: 14 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-aurora-co/
 - Marietta, GA: 13 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-marietta-ga/
+- Sterling Heights, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sterling-heights-mi/
 - Des Moines, IA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-des-moines-ia/
+- Wichita, KS: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wichita-ks/
 - Cobb County, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cobb-county-ga/
+- Lawrence, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lawrence-ks/
+- Overland Park, KS: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-overland-park-ks/
 - Grapevine, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grapevine-tx/
 - Plano, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plano-tx/
 - Carrollton, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-carrollton-tx/
-- Richardson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richardson-tx/
-- Mckinney, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckinney-tx/
+- Birmingham, MI: 7 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-birmingham-mi/
 - Evanston, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-evanston-il/
 - Naperville, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-naperville-il/
-- Overland Park, KS: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-overland-park-ks/
+- Richardson, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richardson-tx/
+- Mckinney, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckinney-tx/
+- Centennial, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-centennial-co/
+- Greenwood Village, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-greenwood-village-co/
+- Boulder, CO: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-boulder-co/
+- Mason, OH: 6 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mason-oh/
 - Denton, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-denton-tx/
 - Frisco, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-frisco-tx/
+- Thornton, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-thornton-co/
+- Westminster, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-westminster-co/
+- Arvada, CO: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arvada-co/
+- Carmel, IN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-carmel-in/
 - Kennesaw, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kennesaw-ga/
 - Doraville, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-doraville-ga/
 - Racine, WI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-racine-wi/
+- Manhattan, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-manhattan-ks/
+- Topeka, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-topeka-ks/
+- Kansas City, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-ks/
+- Oak Park, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-oak-park-il/
 - Saint Louis Park, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-louis-park-mn/
 - Bloomington, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bloomington-mn/
 - Edina, MN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-edina-mn/
 - Pearland, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pearland-tx/
 - Sugar Land, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sugar-land-tx/
 - Irving, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-irving-tx/
-- Oak Park, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-oak-park-il/
+- Ferndale, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ferndale-mi/
+- Livonia, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-livonia-mi/
+- Warren, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-warren-mi/
+- Trenton, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-trenton-mi/
+- Jefferson County, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-jefferson-county-co/
+- Parker, CO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-parker-co/
+- Springfield, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-springfield-mo/
+- Columbia, MO: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-columbia-mo/
 - Woodstock, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-woodstock-ga/
 - Tucker, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tucker-ga/
 - Wauwatosa, WI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wauwatosa-wi/
 - West Des Moines, IA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-des-moines-ia/
-- Kansas City, KS: 4 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kansas-city-ks/
-- Maple Grove, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-maple-grove-mn/
-- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mesquite-tx/
-- The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-the-woodlands-tx/
-- Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/
-- Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southlake-tx/
+- Shawnee, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shawnee-ks/
 - Norridge, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-norridge-il/
 - Cicero, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cicero-il/
 - La Grange, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-la-grange-il/
@@ -110,14 +135,56 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Niles, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-niles-il/
 - Glenview, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-glenview-il/
 - Arlington Heights, IL: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arlington-heights-il/
+- Maple Grove, MN: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-maple-grove-mn/
+- Mckees Rocks, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckees-rocks-pa/
+- Mt. Lebanon, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mt-lebanon-pa/
+- Castle Shannon, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-castle-shannon-pa/
+- Pine Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pine-township-pa/
+- Bellevue, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellevue-pa/
+- Ross Township, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ross-township-pa/
+- Mesquite, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mesquite-tx/
+- The Woodlands, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-the-woodlands-tx/
+- Hurst, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/
+- Southlake, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southlake-tx/
+- Rochester, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rochester-mi/
+- West Bloomfield Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-bloomfield-township-mi/
+- Canton Township, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-canton-township-mi/
+- Madison Heights, MI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-madison-heights-mi/
+- Longmont, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-longmont-co/
+- Littleton, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-littleton-co/
+- Wheat Ridge, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wheat-ridge-co/
+- Lakewood, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lakewood-co/
+- Union Township, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-union-township-oh/
+- Upper Arlington, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-upper-arlington-oh/
+- Lancaster, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lancaster-oh/
+- Milford, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-milford-oh/
+- Independence, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-independence-mo/
+- North Kansas City, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-north-kansas-city-mo/
+- Saint Charles, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-charles-mo/
+- Florissant, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-florissant-mo/
 - Roswell, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roswell-ga/
 - Alpharetta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-alpharetta-ga/
 - West Allis, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-allis-wi/
-- Independence, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-independence-mo/
-- North Kansas City, MO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-north-kansas-city-mo/
-- Shawnee, KS: 3 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shawnee-ks/
+- Olathe, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-olathe-ks/
+- Edwardsville, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-edwardsville-il/
+- Bridgeview, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bridgeview-il/
+- Lake Zurich, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lake-zurich-il/
+- Skokie, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-skokie-il/
+- Des Plaines, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-des-plaines-il/
+- Berwyn, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-berwyn-il/
+- Buffalo Grove, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-buffalo-grove-il/
+- Palatine, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palatine-il/
+- Orland Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-orland-park-il/
+- Burr Ridge, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-burr-ridge-il/
+- Forest Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-forest-park-il/
+- Hickory Hills, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hickory-hills-il/
 - Shakopee, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shakopee-mn/
 - Minnetonka, MN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-minnetonka-mn/
+- Bethel Park, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bethel-park-pa/
+- Mccandless, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mccandless-pa/
+- Charleroi, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-charleroi-pa/
+- Rostraver Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-rostraver-township-pa/
+- Cranberry Township, PA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cranberry-township-pa/
 - Murphy, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-murphy-tx/
 - Bedford, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bedford-tx/
 - Lewisville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lewisville-tx/
@@ -131,17 +198,26 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Shenandoah, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shenandoah-tx/
 - Webster, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-webster-tx/
 - Grand Prairie, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grand-prairie-tx/
-- Bridgeview, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bridgeview-il/
-- Lake Zurich, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lake-zurich-il/
-- Skokie, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-skokie-il/
-- Des Plaines, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-des-plaines-il/
-- Berwyn, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-berwyn-il/
-- Buffalo Grove, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-buffalo-grove-il/
-- Palatine, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palatine-il/
-- Orland Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-orland-park-il/
-- Burr Ridge, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-burr-ridge-il/
-- Forest Park, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-forest-park-il/
-- Hickory Hills, IL: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hickory-hills-il/
+- Southgate, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southgate-mi/
+- Novi, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-novi-mi/
+- Troy, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-troy-mi/
+- Allen Park, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-allen-park-mi/
+- Wyandotte, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wyandotte-mi/
+- Hamtramck, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hamtramck-mi/
+- Kingsville, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kingsville-mi/
+- Clinton Township, MI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-clinton-township-mi/
+- Lafayette, CO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lafayette-co/
+- Fishers, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fishers-in/
+- Greenwood, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-greenwood-in/
+- Gary, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gary-in/
+- Sycamore Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sycamore-township-oh/
+- Symmes Township, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-symmes-township-oh/
+- Springdale, OH: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-springdale-oh/
+- Ballwin, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ballwin-mo/
+- Jefferson City, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-jefferson-city-mo/
+- Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-blue-springs-mo/
+- Kirkwood, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-kirkwood-mo/
+- Arnold, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arnold-mo/
 - Dekalb County, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dekalb-county-ga/
 - East Point, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-east-point-ga/
 - Decatur, GA: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-decatur-ga/
@@ -153,10 +229,54 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Union Grove, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-union-grove-wi/
 - Verona, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-verona-wi/
 - Yorkville, WI: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-yorkville-wi/
-- Blue Springs, MO: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-blue-springs-mo/
-- Olathe, KS: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-olathe-ks/
 - La Vista, NE: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-la-vista-ne/
-- Gary, IN: 2 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gary-in/
+- Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leawood-ks/
+- Salina, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-salina-ks/
+- Newton, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-newton-ks/
+- Basehor, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-basehor-ks/
+- Lansing, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lansing-ks/
+- Prairie Village, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-prairie-village-ks/
+- Roeland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roeland-park-ks/
+- Hutchinson, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hutchinson-ks/
+- South Hutchinson, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-south-hutchinson-ks/
+- Mission, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mission-ks/
+- Leavenworth, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leavenworth-ks/
+- Waterloo, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-waterloo-il/
+- Burbank, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-burbank-il/
+- Bedford Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bedford-park-il/
+- Palos Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palos-heights-il/
+- Lansing, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lansing-il/
+- Mount Prospect, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mount-prospect-il/
+- Godfrey, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-godfrey-il/
+- Winfield, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-winfield-il/
+- Alton, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-alton-il/
+- Palos Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palos-hills-il/
+- Mokena, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mokena-il/
+- Lake Forest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lake-forest-il/
+- South Chicago Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-south-chicago-heights-il/
+- Franklin Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-franklin-park-il/
+- Elk Grove Village, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elk-grove-village-il/
+- Summit, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-summit-il/
+- Itasca, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-itasca-il/
+- Manhattan, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-manhattan-il/
+- Western Springs, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-western-springs-il/
+- Collinsville, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-collinsville-il/
+- Chicago Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-heights-il/
+- Lincolnwood, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lincolnwood-il/
+- Harwood Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harwood-heights-il/
+- Glen Ellyn, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-glen-ellyn-il/
+- Countryside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-countryside-il/
+- Lyons, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lyons-il/
+- Lemont Township, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lemont-township-il/
+- Darien, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-darien-il/
+- Long Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-long-grove-il/
+- Wilmette, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wilmette-il/
+- Willowbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-willowbrook-il/
+- Joliet, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-joliet-il/
+- Elmwood Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elmwood-park-il/
+- Vernon Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-vernon-hills-il/
+- Evergreen Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-evergreen-park-il/
+- Wood River, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wood-river-il/
 - Andover, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-andover-mn/
 - Eagan, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-eagan-mn/
 - Ramsey, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ramsey-mn/
@@ -175,6 +295,33 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - New Hope, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-new-hope-mn/
 - Golden Valley, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-golden-valley-mn/
 - Robbinsdale, MN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-robbinsdale-mn/
+- Plum, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plum-pa/
+- Peters Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-peters-township-pa/
+- Sewickley Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sewickley-township-pa/
+- Baldwin, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-baldwin-pa/
+- Hampton Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hampton-township-pa/
+- Richland Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richland-township-pa/
+- Millvale, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-millvale-pa/
+- Washington, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-washington-pa/
+- Beaver, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-beaver-pa/
+- Canonsburg, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-canonsburg-pa/
+- Collier Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-collier-township-pa/
+- Bridgeville, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bridgeville-pa/
+- O'Hara Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ohara-township-pa/
+- Stowe Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-stowe-township-pa/
+- Mckeesport, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mckeesport-pa/
+- Oakmont, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-oakmont-pa/
+- Pleasant Hills, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-pleasant-hills-pa/
+- Dormont, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dormont-pa/
+- Monongahela, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-monongahela-pa/
+- West View, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-view-pa/
+- Versailles, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-versailles-pa/
+- Ambridge, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-ambridge-pa/
+- Mars, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mars-pa/
+- Shaler Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shaler-township-pa/
+- Elizabeth, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elizabeth-pa/
+- Sewickley, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sewickley-pa/
+- Middlesex Township, PA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-middlesex-township-pa/
 - Farmersville, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-farmersville-tx/
 - Tomball, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-tomball-tx/
 - Flower Mound, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-flower-mound-tx/
@@ -196,37 +343,106 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stafford, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-stafford-tx/
 - Argyle, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-argyle-tx/
 - West University Place, TX: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-university-place-tx/
-- Burbank, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-burbank-il/
-- Bedford Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bedford-park-il/
-- Palos Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palos-heights-il/
-- Lansing, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lansing-il/
-- Mount Prospect, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mount-prospect-il/
-- Winfield, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-winfield-il/
-- Palos Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-palos-hills-il/
-- Mokena, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mokena-il/
-- Lake Forest, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lake-forest-il/
-- South Chicago Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-south-chicago-heights-il/
-- Franklin Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-franklin-park-il/
-- Elk Grove Village, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elk-grove-village-il/
-- Summit, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-summit-il/
-- Itasca, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-itasca-il/
-- Manhattan, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-manhattan-il/
-- Western Springs, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-western-springs-il/
-- Chicago Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-heights-il/
-- Lincolnwood, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lincolnwood-il/
-- Harwood Heights, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harwood-heights-il/
-- Glen Ellyn, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-glen-ellyn-il/
-- Countryside, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-countryside-il/
-- Lyons, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lyons-il/
-- Lemont Township, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lemont-township-il/
-- Darien, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-darien-il/
-- Long Grove, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-long-grove-il/
-- Wilmette, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wilmette-il/
-- Willowbrook, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-willowbrook-il/
-- Joliet, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-joliet-il/
-- Elmwood Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-elmwood-park-il/
-- Vernon Hills, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-vernon-hills-il/
-- Evergreen Park, IL: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-evergreen-park-il/
+- Riverview, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-riverview-mi/
+- Redford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-redford-township-mi/
+- Wayne, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-wayne-mi/
+- New Baltimore, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-new-baltimore-mi/
+- Romulus, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-romulus-mi/
+- Center Line, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-center-line-mi/
+- Bloomfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bloomfield-township-mi/
+- Bloomfield Hills, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bloomfield-hills-mi/
+- Clawson, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-clawson-mi/
+- Saint Clair Shores, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-clair-shores-mi/
+- Berkley, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-berkley-mi/
+- Eastpointe, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-eastpointe-mi/
+- Dearborn Heights, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-dearborn-heights-mi/
+- Commerce Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-commerce-charter-township-mi/
+- Northville, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northville-mi/
+- Grosse Ile Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grosse-ile-township-mi/
+- Royal Oak, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-royal-oak-mi/
+- Lakeshore, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lakeshore-mi/
+- Melvindale, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-melvindale-mi/
+- Lincoln Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lincoln-park-mi/
+- Westland, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-westland-mi/
+- Southfield Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southfield-township-mi/
+- Taylor, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-taylor-mi/
+- Grosse Pointe Farms, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grosse-pointe-farms-mi/
+- Farmington, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-farmington-mi/
+- Walled Lake, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-walled-lake-mi/
+- Waterford Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-waterford-township-mi/
+- Northville Charter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northville-charter-township-mi/
+- Oak Park, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-oak-park-mi/
+- Sumpter Township, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sumpter-township-mi/
+- Town Of Essex, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-town-of-essex-mi/
+- Amherstburg, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-amherstburg-mi/
+- Plymouth, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plymouth-mi/
+- Woodhaven, MI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-woodhaven-mi/
+- Edgewater, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-edgewater-co/
+- Northglenn, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northglenn-co/
+- Golden, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-golden-co/
+- Arapahoe County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-arapahoe-county-co/
+- Federal Heights, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-federal-heights-co/
+- Louisville, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-louisville-co/
+- Boulder County, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-boulder-county-co/
+- Fort Lupton, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fort-lupton-co/
+- Castle Pines, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-castle-pines-co/
+- Englewood, CO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-englewood-co/
+- Lapel, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lapel-in/
+- Danville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-danville-in/
+- Noblesville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-noblesville-in/
+- Westfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-westfield-in/
+- Brownsburg, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-brownsburg-in/
+- East Chicago, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-east-chicago-in/
+- Shelbyville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-shelbyville-in/
+- Southport, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-southport-in/
+- Speedway, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-speedway-in/
+- Schererville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-schererville-in/
+- Plainfield, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-plainfield-in/
+- Whitehall, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-whitehall-oh/
+- Grandview Heights, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-grandview-heights-oh/
+- Hilliard, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hilliard-oh/
+- Batavia, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-batavia-oh/
+- Bexley, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bexley-oh/
+- Westerville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-westerville-oh/
+- Madeira, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-madeira-oh/
+- Harrison, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-harrison-oh/
+- Canal Winchester, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-canal-winchester-oh/
+- Miami Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-miami-township-oh/
+- Delaware, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-delaware-oh/
+- Fairfield, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fairfield-oh/
+- Colerain Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-colerain-township-oh/
+- Sharonville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sharonville-oh/
+- Circleville, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-circleville-oh/
+- Worthington, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-worthington-oh/
+- Hamilton, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hamilton-oh/
+- Cheviot, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cheviot-oh/
+- Gahanna, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gahanna-oh/
+- Columbia Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-columbia-township-oh/
+- Blue Ash, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-blue-ash-oh/
+- Fairfax, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-fairfax-oh/
+- Green Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-green-township-oh/
+- West Chester Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-west-chester-township-oh/
+- Jerome Township, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-jerome-township-oh/
+- London, OH: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-london-oh/
+- Cape Girardeau, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-cape-girardeau-mo/
+- Richmond Heights, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-richmond-heights-mo/
+- Excelsior Springs, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-excelsior-springs-mo/
+- Saint Louis County, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-louis-county-mo/
+- Maryland Heights, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-maryland-heights-mo/
+- Maplewood, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-maplewood-mo/
+- Windsor Township, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-windsor-township-mo/
+- Clayton, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-clayton-mo/
+- Northmoor, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northmoor-mo/
+- Riverside, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-riverside-mo/
+- Eureka, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-eureka-mo/
+- Saint Peters, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-peters-mo/
+- Sunset Hills, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-sunset-hills-mo/
+- Olivette, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-olivette-mo/
+- Gladstone, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gladstone-mo/
+- O’Fallon, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-o-fallon-mo/
+- Nixa, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-nixa-mo/
+- Manchester, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-manchester-mo/
+- University City, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-university-city-mo/
 - Hapeville, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-hapeville-ga/
 - Coweta County, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-coweta-county-ga/
 - Avondale Estates, GA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-avondale-estates-ga/
@@ -255,26 +471,19 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Saint Francis, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-saint-francis-wi/
 - Glendale, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-glendale-wi/
 - Village Of Pewaukee, WI: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-village-of-pewaukee-wi/
-- Excelsior Springs, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-excelsior-springs-mo/
-- Northmoor, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-northmoor-mo/
-- Riverside, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-riverside-mo/
-- Gladstone, MO: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-gladstone-mo/
 - Urbandale, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-urbandale-ia/
 - Council Bluffs, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-council-bluffs-ia/
 - Clive, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-clive-ia/
 - Madrid, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-madrid-ia/
 - Indianola, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-indianola-ia/
 - Windsor Heights, IA: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-windsor-heights-ia/
-- Leawood, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leawood-ks/
-- Basehor, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-basehor-ks/
-- Lansing, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-lansing-ks/
-- Prairie Village, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-prairie-village-ks/
-- Roeland Park, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-roeland-park-ks/
-- Mission, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-mission-ks/
-- Leavenworth, KS: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-leavenworth-ks/
 - Bellevue, NE: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellevue-ne/
-- East Chicago, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-east-chicago-in/
-- Schererville, IN: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-schererville-in/
+- Bellevue, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-bellevue-ky/
+- Covington, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-covington-ky/
+- Newport, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-newport-ky/
+- Erlanger, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-erlanger-ky/
+- Florence, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-florence-ky/
+- Crestview Hills, KY: 1 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-crestview-hills-ky/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery | category: Events & weddings | industry benchmark: Personal Services
@@ -282,7 +491,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1022
+- Registry businesses competing: 1581
 - Equivalent Google Ads cost per month: ~$120,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Sugar Land, TX at 16525 Lexington Boulevard #100, 
 - Website: https://www.goodwillhouston.org/locations/lexington/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 08:00-18:00
-- Pulse Score: 50.1/100 — Fair — top 41% of thrift stores in Houston, #1 of 2 thrift stores in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 41% of thrift stores in Houston, #1 of 2 thrift stores in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 64.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

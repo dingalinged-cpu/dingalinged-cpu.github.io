@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Modern Physical Therapy | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Modern Physical Therapy is a physical therapy clinic in Kansas City, MO at 335 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164685278. Website: https://www.modernpt.com/. | https://registry-edge.dingalinged.workers.dev/c/modern-physical-therapy-kansas-city/
 2. Nothland Physical Therapy | Organic #2 | Pulse Score 55.1/100 (Unrated, #3 in city) | Nothland Physical Therapy is a physical therapy clinic in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/nothland-physical-therapy-kansas-city/
 3. SERC Physical & Hand Therapy | Organic #3 | Pulse Score 55.1/100 (Unrated, #4 in city) | SERC Physical & Hand Therapy is a physical therapy clinic in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/serc-physical-and-hand-therapy-kansas-city/
-4. SERC | Organic #4 | Pulse Score 45.7/100 (Unrated, #6 in city) | SERC is a physical therapy clinic in Kansas City, MO at 9760 North Ash Avenue, Kansas City, MO 64157. | https://registry-edge.dingalinged.workers.dev/c/serc-kansas-city-n12380077127/
-5. SERC | Organic #5 | Pulse Score 44/100 (Unrated, #7 in city) | SERC is a physical therapy clinic in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/serc-kansas-city/
+4. SERC | Organic #4 | Pulse Score 45.6/100 (Unrated, #6 in city) | SERC is a physical therapy clinic in Kansas City, MO at 9760 North Ash Avenue, Kansas City, MO 64157. | https://registry-edge.dingalinged.workers.dev/c/serc-kansas-city-n12380077127/
+5. SERC | Organic #5 | Pulse Score 44.1/100 (Unrated, #7 in city) | SERC is a physical therapy clinic in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/serc-kansas-city/
 6. Select Physical Therapy | Organic #6 | Pulse Score 42.3/100 (Unrated, #8 in city) | Select Physical Therapy is a physical therapy clinic in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/select-physical-therapy-kansas-city/
 
 ## Market data (for advertisers and agents)

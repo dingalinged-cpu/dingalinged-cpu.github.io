@@ -6,7 +6,7 @@ Also answers: landscaping in Excelsior, MN; landscaping near me (Excelsior, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gray Gardens | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Gray Gardens is a landscaping company in Excelsior, MN. | https://registry-edge.dingalinged.workers.dev/c/gray-gardens-excelsior/
+1. Gray Gardens | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Gray Gardens is a landscaping company in Excelsior, MN. | https://registry-edge.dingalinged.workers.dev/c/gray-gardens-excelsior/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping excelsior mn | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: pet store in Palatine, IL; pet store near me (Palatine, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palatine Family Pet Care LLC | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Palatine Family Pet Care LLC is a pet store in Palatine, IL at 1100 West Northwest Highway, Palatine, IL 60067. Website: https://www.palatinepet.com/. | https://registry-edge.dingalinged.workers.dev/c/palatine-family-pet-care-llc-palatine/
+1. Palatine Family Pet Care LLC | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Palatine Family Pet Care LLC is a pet store in Palatine, IL at 1100 West Northwest Highway, Palatine, IL 60067. Website: https://www.palatinepet.com/. | https://registry-edge.dingalinged.workers.dev/c/palatine-family-pet-care-llc-palatine/
 2. Pet & Mac's Pet Resort | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Pet & Mac's Pet Resort is a pet store in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/pet-and-macs-pet-resort-palatine/
 
 ## Market data (for advertisers and agents)

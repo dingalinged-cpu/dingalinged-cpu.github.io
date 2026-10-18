@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Clair Physical Therapy | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Clair Physical Therapy is a physical therapy clinic in Plano, TX at 4621 West Park Boulevard #102, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/clair-physical-therapy-plano/
 2. Covenant Hand Therapy | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Covenant Hand Therapy is a physical therapy clinic in Plano, TX at 1101 Ohio Drive #105, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/covenant-hand-therapy-plano/
 3. Sullivan Chiropractic Center | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Sullivan Chiropractic Center is a physical therapy clinic in Plano, TX at 428 Maplelawn Drive #100, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/sullivan-chiropractic-center-plano/
-4. ATI Physical Therapy | Organic #4 | Pulse Score 47.3/100 (Building, #4 in city) | ATI Physical Therapy is a physical therapy clinic in Plano, TX at 9613 Coit Road #110, Plano, TX 75024. Phone: +19455444792. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-plano/
+4. ATI Physical Therapy | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | ATI Physical Therapy is a physical therapy clinic in Plano, TX at 9613 Coit Road #110, Plano, TX 75024. Phone: +19455444792. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

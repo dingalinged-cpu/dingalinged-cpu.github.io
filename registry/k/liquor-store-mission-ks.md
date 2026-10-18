@@ -6,7 +6,7 @@ Also answers: liquor store in Mission, KS; liquor store near me (Mission, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tipsy's Wine & Spirits | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Tipsy's Wine & Spirits is a liquor store in Mission, KS at 6840 Johnson Drive, Mission, KS. | https://registry-edge.dingalinged.workers.dev/c/tipsys-wine-and-spirits-mission/
+1. Tipsy's Wine & Spirits | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Tipsy's Wine & Spirits is a liquor store in Mission, KS at 6840 Johnson Drive, Mission, KS. | https://registry-edge.dingalinged.workers.dev/c/tipsys-wine-and-spirits-mission/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store mission ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

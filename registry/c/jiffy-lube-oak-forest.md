@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Oak Forest, IL at 5401 West 159th Street, O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Building — top 86% of auto repair shops in Chicago, #5 of 5 auto repair shops in Oak Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 85% of auto repair shops in Chicago, #5 of 5 auto repair shops in Oak Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

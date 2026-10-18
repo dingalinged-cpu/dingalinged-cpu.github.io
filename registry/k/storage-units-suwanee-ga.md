@@ -6,7 +6,7 @@ Also answers: storage units in Suwanee, GA; storage units near me (Suwanee, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midgard Self Storage | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-suwanee/
+1. Midgard Self Storage | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556. | https://registry-edge.dingalinged.workers.dev/c/midgard-self-storage-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units suwanee ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

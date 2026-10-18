@@ -6,8 +6,8 @@ Also answers: barber shop in Fort Bend County, TX; barber shop near me (Fort Ben
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alibaba Barber | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Alibaba Barber is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/alibaba-barber-fort-bend-county/
-2. Blueprint Barbershop | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Blueprint Barbershop is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blueprint-barbershop-fort-bend-county/
+1. Alibaba Barber | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Alibaba Barber is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/alibaba-barber-fort-bend-county/
+2. Blueprint Barbershop | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Blueprint Barbershop is a barber shop in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/blueprint-barbershop-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop fort bend county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Third Power PT Pilates Studio is a pilates studio in Des Moines, IA at 2822 Beav
 - Website: https://www.thirdpowerpt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 67% of pilates studios in Des Moines, IA, #2 of 2 pilates studios in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of pilates studios in Des Moines, IA, #2 of 2 pilates studios in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

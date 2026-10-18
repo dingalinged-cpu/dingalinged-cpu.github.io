@@ -13,7 +13,7 @@ Firestone Complete Auto Care is an auto repair shop in Duncanville, TX at 210 Ea
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00, Su 09:00-17:00
-- Pulse Score: 48/100 — Building — top 67% of auto repair shops in Dallas–Fort Worth, #5 of 6 auto repair shops in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 66% of auto repair shops in Dallas–Fort Worth, #4 of 6 auto repair shops in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

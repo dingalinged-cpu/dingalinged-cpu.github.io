@@ -13,7 +13,7 @@ Intown Bicycles is a bike shop in Atlanta, GA at 1035 Monroe Drive Northeast, At
 - Website: n/a
 - Email: info@intownbicycles.com
 - Opening hours (OSM syntax): Su 12:02-17:00; Tu-Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Atlanta, #6 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Atlanta, #6 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Physicians Immediate Care is an urgent care clinic in Chicago, IL at 121 West No
 - Website: https://physiciansimmediatecare.com/clinics/old-town/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 08:00-16:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of urgent care clinics in Chicago, #1 of 3 urgent care clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of urgent care clinics in Chicago, #1 of 3 urgent care clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Jason Guven Fine Jewelry is a jewelry store in Roswell, GA at 1327 Holcomb Bridg
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr,Su 10:00-18:30; Sa 12:00-17:00
-- Pulse Score: 61.7/100 — Good — top 12% of jewelry stores in Atlanta, #1 of 4 jewelry stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 12% of jewelry stores in Atlanta, #1 of 4 jewelry stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

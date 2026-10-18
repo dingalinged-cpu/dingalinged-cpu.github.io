@@ -13,7 +13,7 @@ Skon Chiropractic Clinic is a chiropractor in Saint Paul, MN at 856 Raymond Aven
 - Website: https://skonchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 07:00-16:00; Tu 07:00-11:00; Su 08:00-10:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Minneapolis–St. Paul, #3 of 19 chiropractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Minneapolis–St. Paul, #3 of 19 chiropractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

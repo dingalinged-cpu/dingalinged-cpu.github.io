@@ -13,7 +13,7 @@ FedEx Office is a printing service in Harris County, TX. Phone: +17133303933. We
 - Website: https://local.fedex.com/en-us/tx/houston/office-0394
 - Email: USA0394@FEDEX.COM
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-18:00
-- Pulse Score: 51.1/100 — Fair — top 29% of printing services in Houston, #3 of 7 printing services in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 29% of printing services in Houston, #3 of 7 printing services in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

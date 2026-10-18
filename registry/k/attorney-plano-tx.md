@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Law Offices of Richard C. McConathy | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Law Offices of Richard C. McConathy is a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/. | https://registry-edge.dingalinged.workers.dev/c/law-offices-of-richard-c-mcconathy-plano/
 2. The Cole Law Firm - Plano | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cole-law-firm-plano-plano/
-3. Mullen & Mullen Law Firm | Organic #3 | Pulse Score 50.3/100 (Unrated, #3 in city) | Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237, Plano, TX 75024. Phone: +19729473370. Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/mullen-and-mullen-law-firm-plano/
+3. Mullen & Mullen Law Firm | Organic #3 | Pulse Score 49.2/100 (Unrated, #3 in city) | Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237, Plano, TX 75024. Phone: +19729473370. Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/mullen-and-mullen-law-firm-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney plano tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

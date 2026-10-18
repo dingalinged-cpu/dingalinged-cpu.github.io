@@ -13,7 +13,7 @@ Charles Elite Shoe Shine and Repair is a shoe repair in Milwaukee, WI at 4009 W 
 - Website: https://www.charlesshoedaddy.com/
 - Email: cpenterprise1953@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.6/100 — Good — top 20% of shoe repairs in Milwaukee, #1 of 1 shoe repairs in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 20% of shoe repairs in Milwaukee, #1 of 1 shoe repairs in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

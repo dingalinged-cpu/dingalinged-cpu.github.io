@@ -13,7 +13,7 @@ Sloane's Beauty Bar is a hair salon in Edina, MN at 4388 France Avenue South, Ed
 - Website: https://www.sloanesbeautybar.com/
 - Email: info44@sloanesbeautybar.com
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 08:00-16:00
-- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 76% of hair salons in Minneapolis–St. Paul, #9 of 10 hair salons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 47.2, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 75% of hair salons in Minneapolis–St. Paul, #9 of 10 hair salons in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 47.2, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

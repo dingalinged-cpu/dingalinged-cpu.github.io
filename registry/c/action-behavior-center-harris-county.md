@@ -13,7 +13,7 @@ Action Behavior Center is a therapy practice in Harris County, TX at 19111 Walde
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 57% of therapy practices in Houston, #1 of 1 therapy practices in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.9, Trust 39.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 57% of therapy practices in Houston, #1 of 1 therapy practices in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Ha
 - Website: https://www.missionac.com/locations/pasadena-tx/
 - Email: dispatch@missionac.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00, Sa 08:00-16:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 29% of plumbers in Houston, #1 of 1 plumbers in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 29% of plumbers in Houston, #1 of 1 plumbers in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

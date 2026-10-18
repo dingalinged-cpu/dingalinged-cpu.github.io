@@ -6,7 +6,7 @@ Also answers: tailor in Urbandale, IA; tailor near me (Urbandale, IA); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Geysa's Tailors | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Geysa's Tailors is a tailor in Urbandale, IA at 6827 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/geysas-tailors-urbandale/
+1. Geysa's Tailors | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Geysa's Tailors is a tailor in Urbandale, IA at 6827 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/geysas-tailors-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor urbandale ia | category: Professional & financial services | industry benchmark: Finance & Insurance

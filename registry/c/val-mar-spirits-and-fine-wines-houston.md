@@ -13,7 +13,7 @@ Val Mar Spirits & Fine Wines is a liquor store in Houston, TX at 2240 Navigation
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 22:00-24:00; Tu-Sa 00:00-21:00,22:00-24:00; Su 00:00-21:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of liquor stores in Houston, #4 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 4% of liquor stores in Houston, #4 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

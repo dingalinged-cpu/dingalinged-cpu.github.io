@@ -13,7 +13,7 @@ Morgan & Morgan is a lawyer in Milwaukee, WI at 250 East Wisconsin Avenue #Suite
 - Website: https://www.forthepeople.com/milwaukee/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.5/100 — Building — top 99% of lawyers in Milwaukee, #48 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 99% of lawyers in Milwaukee, #48 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

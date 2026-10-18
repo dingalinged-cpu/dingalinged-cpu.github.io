@@ -13,7 +13,7 @@ Bittercube Apothecary is a gift shop in Milwaukee, WI at 4828 West Lisbon Avenue
 - Website: https://bittercube.com/places/apothecary
 - Email: n/a
 - Opening hours (OSM syntax): Th-Fr 12:00-19:00
-- Pulse Score: 61.6/100 — Good — top 13% of gift shops in Milwaukee, #4 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 11% of gift shops in Milwaukee, #3 of 13 gift shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

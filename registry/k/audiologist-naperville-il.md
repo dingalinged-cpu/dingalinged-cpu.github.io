@@ -6,7 +6,7 @@ Also answers: audiologist in Naperville, IL; audiologist near me (Naperville, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hearing Health Center | Organic #1 | Pulse Score 57.9/100 (Fair, #1 in city) | Hearing Health Center is an audiologist in Naperville, IL at 1212 South Naper Boulevard #103, Naperville, IL 60540. Phone: +16303698878. Website: https://hearinghealthcenter.com/locations/naperville-audiologists/. | https://registry-edge.dingalinged.workers.dev/c/hearing-health-center-naperville/
+1. Hearing Health Center | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Hearing Health Center is an audiologist in Naperville, IL at 1212 South Naper Boulevard #103, Naperville, IL 60540. Phone: +16303698878. Website: https://hearinghealthcenter.com/locations/naperville-audiologists/. | https://registry-edge.dingalinged.workers.dev/c/hearing-health-center-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

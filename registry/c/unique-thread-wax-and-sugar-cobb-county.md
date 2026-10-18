@@ -13,7 +13,7 @@ Unique Thread Wax & Sugar is a waxing salon in Cobb County, GA at 2900 Delk Road
 - Website: https://utwaxing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 00:00-20:00; Sa 10:00-20:00; Su 11:00-18:00
-- Pulse Score: 59.8/100 — Fair — top 24% of waxing salons in Atlanta, #4 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 24% of waxing salons in Atlanta, #4 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

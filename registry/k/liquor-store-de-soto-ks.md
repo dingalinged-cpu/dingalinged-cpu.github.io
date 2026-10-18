@@ -6,8 +6,8 @@ Also answers: liquor store in De Soto, KS; liquor store near me (De Soto, KS); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mikes Liquor | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Mikes Liquor is a liquor store in De Soto, KS at Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/mikes-liquor-de-soto/
-2. De Soto Wines and Spirits | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | De Soto Wines and Spirits is a liquor store in De Soto, KS. | https://registry-edge.dingalinged.workers.dev/c/de-soto-wines-and-spirits-de-soto/
+1. Mikes Liquor | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Mikes Liquor is a liquor store in De Soto, KS at Lexington Avenue, De Soto, KS 66018. | https://registry-edge.dingalinged.workers.dev/c/mikes-liquor-de-soto/
+2. De Soto Wines and Spirits | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | De Soto Wines and Spirits is a liquor store in De Soto, KS. | https://registry-edge.dingalinged.workers.dev/c/de-soto-wines-and-spirits-de-soto/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store de soto ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

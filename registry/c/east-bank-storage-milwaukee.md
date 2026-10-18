@@ -13,7 +13,7 @@ East Bank Storage is a self-storage facility in Milwaukee, WI at 2025 North Doct
 - Website: https://eastbankstorage.com/downtown-milwaukee/
 - Email: third@eastbankstorage.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00
-- Pulse Score: 65.2/100 — Good — top 2% of self-storage facilitys in Milwaukee, #1 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 67.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 2% of self-storage facilitys in Milwaukee, #1 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 67.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

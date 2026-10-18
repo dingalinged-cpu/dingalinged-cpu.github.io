@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Richardson, TX at 819 West Arapaho Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 72% of tax preparation services in Dallas–Fort Worth, #2 of 2 tax preparation services in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 71% of tax preparation services in Dallas–Fort Worth, #2 of 2 tax preparation services in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

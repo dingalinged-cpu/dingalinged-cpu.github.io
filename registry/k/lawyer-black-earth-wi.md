@@ -6,7 +6,7 @@ Also answers: lawyer in Black Earth, WI; lawyer near me (Black Earth, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Millonzi Law LLC | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Millonzi Law LLC is a lawyer in Black Earth, WI at 1104 Mills Street, Black Earth, WI 53515. | https://registry-edge.dingalinged.workers.dev/c/millonzi-law-llc-black-earth/
+1. Millonzi Law LLC | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Millonzi Law LLC is a lawyer in Black Earth, WI at 1104 Mills Street, Black Earth, WI 53515. | https://registry-edge.dingalinged.workers.dev/c/millonzi-law-llc-black-earth/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer black earth wi | category: Legal | industry benchmark: Attorneys & Legal Services

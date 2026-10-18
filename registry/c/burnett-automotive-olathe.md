@@ -13,12 +13,12 @@ Burnett Automotive is an auto repair shop in Olathe, KS at 1001 East 151st Stree
 - Website: https://www.burnettauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Kansas City, MO, #2 of 23 auto repair shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 70% of auto repair shops in Kansas City, MO, #10 of 23 auto repair shops in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/burnett-automotive-olathe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/burnett-automotive-olathe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/208929467 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/208929467 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

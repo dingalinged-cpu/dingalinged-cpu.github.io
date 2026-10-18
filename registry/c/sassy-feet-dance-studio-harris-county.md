@@ -13,7 +13,7 @@ Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta R
 - Website: https://sassyfeetdancestudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 17:00-21:00; Fr 17:00-20:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 9% of dance studios in Houston, #1 of 4 dance studios in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of dance studios in Houston, #1 of 4 dance studios in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

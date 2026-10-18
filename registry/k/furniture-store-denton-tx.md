@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Denton, TX is Overstock Furniture & Mattress (a furniture store in Denton, TX). 5 furniture store businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Denton, TX is Aaron's (a furniture store in Denton, TX at 910 West University Drive, Denton, TX 76201. Website: https://locations.aarons.com/us/tx/denton/910-w-university-dr). 5 furniture store businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Denton, TX?
 
@@ -6,11 +6,11 @@ Also answers: furniture store in Denton, TX; furniture store near me (Denton, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Overstock Furniture & Mattress | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Overstock Furniture & Mattress is a furniture store in Denton, TX. | https://registry-edge.dingalinged.workers.dev/c/overstock-furniture-and-mattress-denton/
-2. Aaron's | Organic #2 | Pulse Score 48.2/100 (Building, #2 in city) | Aaron's is a furniture store in Denton, TX at 910 West University Drive, Denton, TX 76201. Website: https://locations.aarons.com/us/tx/denton/910-w-university-dr. | https://registry-edge.dingalinged.workers.dev/c/aarons-denton/
-3. Home Zone Furniture | Organic #3 | Pulse Score 45.7/100 (Unrated, #3 in city) | Home Zone Furniture is a furniture store in Denton, TX at 600 North Loop 288, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/home-zone-furniture-denton/
-4. Rent-A-Center | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Rent-A-Center is a furniture store in Denton, TX at 606 West University Drive, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-denton/
-5. Rooms To Go | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | Rooms To Go is a furniture store in Denton, TX at 3120 North Interstate 35, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-denton/
+1. Aaron's | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Aaron's is a furniture store in Denton, TX at 910 West University Drive, Denton, TX 76201. Website: https://locations.aarons.com/us/tx/denton/910-w-university-dr. | https://registry-edge.dingalinged.workers.dev/c/aarons-denton/
+2. Home Zone Furniture | Organic #2 | Pulse Score 45.7/100 (Unrated, #2 in city) | Home Zone Furniture is a furniture store in Denton, TX at 600 North Loop 288, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/home-zone-furniture-denton/
+3. Rent-A-Center | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Rent-A-Center is a furniture store in Denton, TX at 606 West University Drive, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-denton/
+4. Rooms To Go | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Rooms To Go is a furniture store in Denton, TX at 3120 North Interstate 35, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-denton/
+5. Overstock Furniture & Mattress | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Overstock Furniture & Mattress is a furniture store in Denton, TX. | https://registry-edge.dingalinged.workers.dev/c/overstock-furniture-and-mattress-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store denton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

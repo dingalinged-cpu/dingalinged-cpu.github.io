@@ -13,7 +13,7 @@ Goodwill is a thrift store in Smyrna, GA at 2449 Cobb Parkway South, Smyrna, GA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00
-- Pulse Score: 45.9/100 — Building — top 68% of thrift stores in Atlanta, #6 of 7 thrift stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 67% of thrift stores in Atlanta, #6 of 7 thrift stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

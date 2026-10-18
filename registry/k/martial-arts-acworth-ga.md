@@ -6,7 +6,7 @@ Also answers: martial arts in Acworth, GA; martial arts near me (Acworth, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Warrior Brazilian Jiu Jitsu Academy | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Warrior Brazilian Jiu Jitsu Academy is a martial arts school in Acworth, GA at 4871 North Main Street, Acworth, GA 30101. | https://registry-edge.dingalinged.workers.dev/c/warrior-brazilian-jiu-jitsu-academy-acworth/
+1. Warrior Brazilian Jiu Jitsu Academy | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Warrior Brazilian Jiu Jitsu Academy is a martial arts school in Acworth, GA at 4871 North Main Street, Acworth, GA 30101. | https://registry-edge.dingalinged.workers.dev/c/warrior-brazilian-jiu-jitsu-academy-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts acworth ga | category: Fitness | industry benchmark: Health & Fitness

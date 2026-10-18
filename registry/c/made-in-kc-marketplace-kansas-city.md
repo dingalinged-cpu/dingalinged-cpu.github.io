@@ -19,6 +19,6 @@ Made in KC Marketplace is a gift shop in Kansas City, MO at 306 West 47th Street
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/made-in-kc-marketplace-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/made-in-kc-marketplace-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/9966487035 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9966487035 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

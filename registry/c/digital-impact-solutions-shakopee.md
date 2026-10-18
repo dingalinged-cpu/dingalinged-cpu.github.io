@@ -13,7 +13,7 @@ Digital Impact Solutions is a marketing agency in Shakopee, MN at 128 Holmes Str
 - Website: https://digitalimpactsolutions.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-15:00
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 78% of marketing agencys in Minneapolis–St. Paul, #1 of 1 marketing agencys in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 78% of marketing agencys in Minneapolis–St. Paul, #1 of 1 marketing agencys in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

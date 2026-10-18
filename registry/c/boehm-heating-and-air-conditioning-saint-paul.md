@@ -13,7 +13,7 @@ Boehm Heating & Air Conditioning is a HVAC contractor in Saint Paul, MN at 1598 
 - Website: https://www.boehmheatingco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.8/100 — Fair — top 100% of HVAC contractors in Minneapolis–St. Paul, #9 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 33.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53.4/100 — Fair — top 96% of HVAC contractors in Minneapolis–St. Paul, #8 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 35. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

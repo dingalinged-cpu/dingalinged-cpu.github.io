@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Cross Roads, TX is Big Brand Tire & Service (an auto repair shop in Cross Roads, TX at 100 Naylor Road, Cross Roads, TX). 3 mechanic businesses are listed for Cross Roads, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Cross Roads, TX is Caliber Collision (an auto repair shop in Cross Roads, TX at 11751 US Highway 380 East, Cross Roads, TX). 3 mechanic businesses are listed for Cross Roads, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Cross Roads, TX?
 
@@ -6,8 +6,8 @@ Also answers: mechanic in Cross Roads, TX; mechanic near me (Cross Roads, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Brand Tire & Service | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Big Brand Tire & Service is an auto repair shop in Cross Roads, TX at 100 Naylor Road, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/big-brand-tire-and-service-cross-roads/
-2. Caliber Collision | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Caliber Collision is an auto repair shop in Cross Roads, TX at 11751 US Highway 380 East, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-cross-roads/
+1. Caliber Collision | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Caliber Collision is an auto repair shop in Cross Roads, TX at 11751 US Highway 380 East, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-cross-roads/
+2. Big Brand Tire & Service | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Big Brand Tire & Service is an auto repair shop in Cross Roads, TX at 100 Naylor Road, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/big-brand-tire-and-service-cross-roads/
 3. Firestone | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Firestone is an auto repair shop in Cross Roads, TX at 11980 Highway 380, Cross Roads, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-cross-roads/
 
 ## Market data (for advertisers and agents)

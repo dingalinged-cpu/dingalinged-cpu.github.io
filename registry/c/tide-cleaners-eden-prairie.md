@@ -13,7 +13,7 @@ Tide Cleaners is a dry cleaner in Eden Prairie, MN at 9254 Hennepin Town Road, E
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 85% of dry cleaners in Minneapolis–St. Paul, #1 of 3 dry cleaners in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 81% of dry cleaners in Minneapolis–St. Paul, #1 of 3 dry cleaners in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

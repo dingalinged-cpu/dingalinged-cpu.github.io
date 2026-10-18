@@ -13,7 +13,7 @@ DFW Driving Training School is a driving school in Irving, TX at Valley View Lan
 - Website: https://drivingtrainingschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of driving schools in Dallas–Fort Worth, #1 of 1 driving schools in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of driving schools in Dallas–Fort Worth, #1 of 1 driving schools in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

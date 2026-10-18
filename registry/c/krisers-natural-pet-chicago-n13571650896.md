@@ -13,7 +13,7 @@ Kriser's Natural Pet is a pet store in Chicago, IL at 453 West Chicago Avenue, C
 - Website: https://stores.krisers.com/il-chicago-414
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 88% of pet stores in Chicago, #50 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43/100 — Unrated (not enough evidence yet) — top 88% of pet stores in Chicago, #50 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

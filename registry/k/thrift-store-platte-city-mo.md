@@ -6,7 +6,7 @@ Also answers: thrift store in Platte City, MO; thrift store near me (Platte City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hillcrest Thrift Shop- Platte City | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Hillcrest Thrift Shop- Platte City is a thrift store in Platte City, MO at 1305 Branch Street, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/hillcrest-thrift-shop-platte-city-platte-city/
+1. Hillcrest Thrift Shop- Platte City | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Hillcrest Thrift Shop- Platte City is a thrift store in Platte City, MO at 1305 Branch Street, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/hillcrest-thrift-shop-platte-city-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store platte city mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

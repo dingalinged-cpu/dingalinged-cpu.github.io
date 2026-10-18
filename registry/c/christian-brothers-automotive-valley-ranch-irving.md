@@ -13,7 +13,7 @@ Christian Brothers Automotive Valley Ranch is an auto repair shop in Irving, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 51.4/100 — Fair — top 56% of auto repair shops in Dallas–Fort Worth, #10 of 21 auto repair shops in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 55% of auto repair shops in Dallas–Fort Worth, #10 of 21 auto repair shops in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

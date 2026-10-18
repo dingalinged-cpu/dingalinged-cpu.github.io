@@ -13,7 +13,7 @@ Josh Johnson Law is a lawyer in Minneapolis, MN at 310 4th Avenue South #7000, M
 - Website: https://joshjohnsonlaw.com/
 - Email: admin@joshjohnsonlaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of lawyers in Minneapolis–St. Paul, #2 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of lawyers in Minneapolis–St. Paul, #2 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

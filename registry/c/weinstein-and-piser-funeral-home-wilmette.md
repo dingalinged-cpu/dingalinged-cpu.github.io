@@ -13,7 +13,7 @@ Weinstein & Piser Funeral Home is a funeral home in Wilmette, IL at 111 Skokie B
 - Website: https://www.dignitymemorialjewish.com/weinstein-and-piser-funeral-home/en-us/index.page
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 33% of funeral homes in Chicago, #1 of 1 funeral homes in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 33% of funeral homes in Chicago, #1 of 1 funeral homes in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

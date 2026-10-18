@@ -13,7 +13,7 @@ Ale's Salon is a nail salon in Lewisville, TX. Phone: +19724366724.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-14:00; PH off
-- Pulse Score: 63/100 — Good — top 6% of nail salons in Dallas–Fort Worth, #4 of 14 nail salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 6% of nail salons in Dallas–Fort Worth, #4 of 14 nail salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

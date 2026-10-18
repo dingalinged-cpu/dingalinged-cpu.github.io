@@ -6,7 +6,7 @@ Also answers: landscaping in Middleton, WI; landscaping near me (Middleton, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carrington Lawn & Landscape | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Carrington Lawn & Landscape is a landscaping company in Middleton, WI at 4387 Schwartz Rd, Middleton, WI 53562. Phone: +16088210322. Website: https://www.carringtonlawn.com/. | https://registry-edge.dingalinged.workers.dev/c/carrington-lawn-and-landscape-middleton/
+1. Carrington Lawn & Landscape | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Carrington Lawn & Landscape is a landscaping company in Middleton, WI at 4387 Schwartz Rd, Middleton, WI 53562. Phone: +16088210322. Website: https://www.carringtonlawn.com/. | https://registry-edge.dingalinged.workers.dev/c/carrington-lawn-and-landscape-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping middleton wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

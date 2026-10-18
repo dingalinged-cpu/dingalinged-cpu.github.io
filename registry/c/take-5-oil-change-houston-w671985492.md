@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Houston, TX at 4081 Cypress Creek Pa
 - Website: https://www.take5oilchange.com/locations/tx/houston-640/
 - Email: n/a
 - Opening hours (OSM syntax): Su 09:00-17:00; Mo-Fr 07:00-19:00; Sa 07:00-18:00
-- Pulse Score: 49/100 — Building — top 64% of auto repair shops in Houston, #159 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 64% of auto repair shops in Houston, #158 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

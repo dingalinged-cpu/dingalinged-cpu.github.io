@@ -13,7 +13,7 @@ Bob's Barber Shop is a hair salon in Milwaukee, WI. Phone: +14142883924. Website
 - Website: https://www.facebook.com/pg/marquettebobsbarbershop/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-12:00
-- Pulse Score: 64.5/100 — Good — top 1% of hair salons in Milwaukee, #2 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 80% of hair salons in Milwaukee, #143 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 67.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

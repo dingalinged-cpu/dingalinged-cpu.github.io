@@ -13,7 +13,7 @@ Second Life Upscale Resale is a thrift store in Avondale Estates, GA at 1 N Clar
 - Website: https://www.secondlifeatlanta.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 25% of thrift stores in Atlanta, #1 of 1 thrift stores in Avondale Estates (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 24% of thrift stores in Atlanta, #1 of 1 thrift stores in Avondale Estates (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

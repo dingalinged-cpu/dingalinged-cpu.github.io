@@ -13,7 +13,7 @@ ERA Naper Realty is a real estate agency in Naperville, IL at 865 North Columbia
 - Website: https://www.eranaper.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 73% of real estate agencys in Chicago, #6 of 9 real estate agencys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 73% of real estate agencys in Chicago, #5 of 9 real estate agencys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

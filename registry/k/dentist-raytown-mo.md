@@ -6,7 +6,7 @@ Also answers: dentist in Raytown, MO; dentist near me (Raytown, MO); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orthodontist | Organic #1 | Pulse Score 41.7/100 (Unrated, #1 in city) | Orthodontist is a dentist in Raytown, MO. | https://registry-edge.dingalinged.workers.dev/c/orthodontist-raytown/
+1. Orthodontist | Organic #1 | Pulse Score 41.6/100 (Unrated, #1 in city) | Orthodontist is a dentist in Raytown, MO. | https://registry-edge.dingalinged.workers.dev/c/orthodontist-raytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist raytown mo | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

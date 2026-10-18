@@ -6,7 +6,7 @@ Also answers: phone repair in Olathe, KS; phone repair near me (Olathe, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 42/100 (Unrated, #1 in city) | uBreakiFix is a phone repair shop in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-olathe/
+1. uBreakiFix | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | uBreakiFix is a phone repair shop in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair olathe ks | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

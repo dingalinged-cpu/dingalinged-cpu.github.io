@@ -6,11 +6,11 @@ Also answers: auto repair in Platte City, MO; auto repair near me (Platte City, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Platte City Qwik Lube | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Platte City Qwik Lube is an auto repair shop in Platte City, MO at 1701 Prairie View Road, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/platte-city-qwik-lube-platte-city/
-2. Ferrel Auto Services | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Ferrel Auto Services is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/ferrel-auto-services-platte-city/
-3. Kossen Auto Body | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Kossen Auto Body is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/kossen-auto-body-platte-city/
-4. Quality Auto Body | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Quality Auto Body is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/quality-auto-body-platte-city/
-5. Platte City Service Center | Organic #5 | Pulse Score 46.1/100 (Building, #5 in city) | Platte City Service Center is an auto repair shop in Platte City, MO at 2439 Northwest Prairie View Road, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/platte-city-service-center-platte-city/
+1. Platte City Qwik Lube | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Platte City Qwik Lube is an auto repair shop in Platte City, MO at 1701 Prairie View Road, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/platte-city-qwik-lube-platte-city/
+2. Ferrel Auto Services | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Ferrel Auto Services is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/ferrel-auto-services-platte-city/
+3. Kossen Auto Body | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Kossen Auto Body is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/kossen-auto-body-platte-city/
+4. Quality Auto Body | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Quality Auto Body is an auto repair shop in Platte City, MO. | https://registry-edge.dingalinged.workers.dev/c/quality-auto-body-platte-city/
+5. Platte City Service Center | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Platte City Service Center is an auto repair shop in Platte City, MO at 2439 Northwest Prairie View Road, Platte City, MO 64079. | https://registry-edge.dingalinged.workers.dev/c/platte-city-service-center-platte-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair platte city mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

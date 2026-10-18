@@ -13,7 +13,7 @@ Goodwill is a thrift store in Decatur, GA at 2201 Lawrenceville Hwy, Decatur, GA
 - Website: https://goodwillng.org/gw-locations/decatur-store-donation-career-center-30033/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Building — top 59% of thrift stores in Atlanta, #1 of 1 thrift stores in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 58% of thrift stores in Atlanta, #1 of 1 thrift stores in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

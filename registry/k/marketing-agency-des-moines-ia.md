@@ -6,9 +6,9 @@ Also answers: marketing agency in Des Moines, IA; marketing agency near me (Des 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Two Rivers Marketing | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Two Rivers Marketing is a marketing agency in Des Moines, IA at 106 East 6th Street, Des Moines, IA 50309. Phone: +15155572000. Website: https://tworiversmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-marketing-des-moines/
-2. TH MEDIA | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | TH MEDIA is a marketing agency in Des Moines, IA at 118 Southeast 4th Street #108, Des Moines, IA 50309. Phone: +15154233221. Website: https://thmediahouse.com/. | https://registry-edge.dingalinged.workers.dev/c/th-media-des-moines/
-3. ZLR IGNITION | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | ZLR IGNITION is a marketing agency in Des Moines, IA at 303 Watson Powell Junior Way #100, Des Moines, IA 50309. Phone: +15152444456. Website: https://www.zlrignition.com/. | https://registry-edge.dingalinged.workers.dev/c/zlr-ignition-des-moines/
+1. Two Rivers Marketing | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Two Rivers Marketing is a marketing agency in Des Moines, IA at 106 East 6th Street, Des Moines, IA 50309. Phone: +15155572000. Website: https://tworiversmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-marketing-des-moines/
+2. TH MEDIA | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | TH MEDIA is a marketing agency in Des Moines, IA at 118 Southeast 4th Street #108, Des Moines, IA 50309. Phone: +15154233221. Website: https://thmediahouse.com/. | https://registry-edge.dingalinged.workers.dev/c/th-media-des-moines/
+3. ZLR IGNITION | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | ZLR IGNITION is a marketing agency in Des Moines, IA at 303 Watson Powell Junior Way #100, Des Moines, IA 50309. Phone: +15152444456. Website: https://www.zlrignition.com/. | https://registry-edge.dingalinged.workers.dev/c/zlr-ignition-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance

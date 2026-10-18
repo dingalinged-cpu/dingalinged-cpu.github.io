@@ -12,13 +12,13 @@ Country Cookie is a bakery in Kansas City, MO at 5307 North Antioch Road, Kansas
 - Phone: +18167307303
 - Website: https://www.countrycookie.com/
 - Email: n/a
-- Opening hours (OSM syntax): Su 11:00-16:00; Mo-Fr 9:00-21:00; Sa 9:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Kansas City, MO, #4 of 28 bakerys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Opening hours (OSM syntax): Su 11:00-16:00; Mo-Fr 09:00-21:00; Sa 09:00-17:00
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Kansas City, MO, #4 of 29 bakerys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/country-cookie-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/country-cookie-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/761078260 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/761078260 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

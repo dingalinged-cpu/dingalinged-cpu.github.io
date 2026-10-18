@@ -13,7 +13,7 @@ SpurIT is an IT support company in Palatine, IL at 2155 North Ginger Creek Circl
 - Website: https://spur-i-t.com/
 - Email: contact@spur-i-t.com
 - Opening hours (OSM syntax): Mo-Fr 00:00-24:00; Sa-Su 09:00-07:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 10% of IT support companys in Chicago, #1 of 1 IT support companys in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 10% of IT support companys in Chicago, #1 of 1 IT support companys in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

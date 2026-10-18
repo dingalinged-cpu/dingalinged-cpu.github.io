@@ -6,8 +6,8 @@ Also answers: marketing agency in Golden Valley, MN; marketing agency near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GVM Food Marketing | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/gvm-food-marketing-golden-valley/
-2. Taiyo International | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Taiyo International is a marketing agency in Golden Valley, MN at 5960 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17633983003. Website: https://www.taiyointernational.com/. | https://registry-edge.dingalinged.workers.dev/c/taiyo-international-golden-valley/
+1. GVM Food Marketing | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/gvm-food-marketing-golden-valley/
+2. Taiyo International | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Taiyo International is a marketing agency in Golden Valley, MN at 5960 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17633983003. Website: https://www.taiyointernational.com/. | https://registry-edge.dingalinged.workers.dev/c/taiyo-international-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency golden valley mn | category: Professional & financial services | industry benchmark: Finance & Insurance

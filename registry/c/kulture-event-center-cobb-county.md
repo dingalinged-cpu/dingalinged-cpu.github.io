@@ -13,7 +13,7 @@ Kulture Event Center is an event venue in Cobb County, GA at 2932 Canton Road #2
 - Website: https://kultureevents.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-12:00; Fr-Su 09:00-01:00
-- Pulse Score: 62.9/100 — Good — top 19% of event venues in Atlanta, #2 of 11 event venues in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 19% of event venues in Atlanta, #2 of 11 event venues in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

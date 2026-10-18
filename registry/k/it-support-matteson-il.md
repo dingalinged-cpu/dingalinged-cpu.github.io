@@ -6,7 +6,7 @@ Also answers: it support in Matteson, IL; it support near me (Matteson, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Software Tech Enterprises | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Software Tech Enterprises is an IT support company in Matteson, IL at 4801 Southwick Drive, Matteson, IL 60443. | https://registry-edge.dingalinged.workers.dev/c/software-tech-enterprises-matteson/
+1. Software Tech Enterprises | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Software Tech Enterprises is an IT support company in Matteson, IL at 4801 Southwick Drive, Matteson, IL 60443. | https://registry-edge.dingalinged.workers.dev/c/software-tech-enterprises-matteson/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support matteson il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

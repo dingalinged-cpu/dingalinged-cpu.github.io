@@ -7,7 +7,7 @@ Also answers: attorney in Pearland, TX; attorney near me (Pearland, TX); best at
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Norman & Associates | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Norman & Associates is a lawyer in Pearland, TX at 6069 West Broadway Street, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/norman-and-associates-pearland/
-2. Scott M. Brown & Associates | Organic #2 | Pulse Score 45.4/100 (Unrated, #2 in city) | Scott M. Brown & Associates is a lawyer in Pearland, TX at 6302 Broadway St ##250, Pearland, TX 77581. Phone: +18325369547. Website: https://sbrownlawyer.com/pearland/. | https://registry-edge.dingalinged.workers.dev/c/scott-m-brown-and-associates-pearland/
+2. Scott M. Brown & Associates | Organic #2 | Pulse Score 45.5/100 (Unrated, #2 in city) | Scott M. Brown & Associates is a lawyer in Pearland, TX at 6302 Broadway St ##250, Pearland, TX 77581. Phone: +18325369547. Website: https://sbrownlawyer.com/pearland/. | https://registry-edge.dingalinged.workers.dev/c/scott-m-brown-and-associates-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney pearland tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

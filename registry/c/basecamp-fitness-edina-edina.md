@@ -13,7 +13,7 @@ Basecamp Fitness Edina is a gym in Edina, MN. Website: https://www.basecampfitne
 - Website: https://www.basecampfitness.com/studio/edina
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 20% of gyms in Minneapolis–St. Paul, #5 of 16 gyms in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 45.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 19% of gyms in Minneapolis–St. Paul, #5 of 16 gyms in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

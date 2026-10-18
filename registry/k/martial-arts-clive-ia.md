@@ -6,7 +6,7 @@ Also answers: martial arts in Clive, IA; martial arts near me (Clive, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Two Rivers Martial Arts Clive | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Two Rivers Martial Arts Clive is a martial arts school in Clive, IA at 8801 University Avenue #Suite 23, Clive, IA 50325. Phone: +15156503808. Website: https://tworiversmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-martial-arts-clive-clive/
+1. Two Rivers Martial Arts Clive | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Two Rivers Martial Arts Clive is a martial arts school in Clive, IA at 8801 University Avenue #Suite 23, Clive, IA 50325. Phone: +15156503808. Website: https://tworiversmartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/two-rivers-martial-arts-clive-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts clive ia | category: Fitness | industry benchmark: Health & Fitness

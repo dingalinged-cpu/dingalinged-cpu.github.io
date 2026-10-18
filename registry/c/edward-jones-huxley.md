@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Huxley, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 100% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 39. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.3/100 — Building — top 100% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 38.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

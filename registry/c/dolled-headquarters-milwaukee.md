@@ -13,7 +13,7 @@ Dolled HeadQuarters is a hair salon in Milwaukee, WI at 2000 North Doctor Martin
 - Website: https://www.dolledlife.com/
 - Email: info@dolledlife.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 12% of hair salons in Milwaukee, #27 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 11% of hair salons in Milwaukee, #26 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

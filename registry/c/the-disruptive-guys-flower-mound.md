@@ -13,7 +13,7 @@ The Disruptive Guys is an IT support company in Flower Mound, TX. Phone: +146995
 - Website: https://thedisruptiveguys.com/
 - Email: fahey@thedisruptiveguys.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 37% of IT support companys in Dallas–Fort Worth, #1 of 2 IT support companys in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 37% of IT support companys in Dallas–Fort Worth, #1 of 2 IT support companys in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

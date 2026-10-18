@@ -13,7 +13,7 @@ Petco is a pet store in Mansfield, TX at 2041 Highway 287 North #601, Mansfield,
 - Website: https://stores.petco.com/tx/mansfield/pet-supplies-mansfield-tx-1458.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 47.3/100 — Building — top 53% of pet stores in Dallas–Fort Worth, #2 of 2 pet stores in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 53% of pet stores in Dallas–Fort Worth, #2 of 2 pet stores in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

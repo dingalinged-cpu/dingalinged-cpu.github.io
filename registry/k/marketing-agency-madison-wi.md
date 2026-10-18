@@ -7,12 +7,12 @@ Also answers: marketing agency in Madison, WI; marketing agency near me (Madison
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Madison Marketing Group | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Madison Marketing Group is a marketing agency in Madison, WI at 2921 Landmark Pl ##215-317, Madison, WI 53713. Phone: +16087092185. Website: https://www.madisonmarketing.com/. | https://registry-edge.dingalinged.workers.dev/c/madison-marketing-group-madison/
-2. S/B Strategic Marketing | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | S/B Strategic Marketing is a marketing agency in Madison, WI at 1352 East Wilson Street, Madison, WI. Phone: +16082414141. Website: https://stephanbrady.com/. | https://registry-edge.dingalinged.workers.dev/c/s-b-strategic-marketing-madison/
-3. Planet Propaganda | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Planet Propaganda is a marketing agency in Madison, WI at 605 Williamson Street, Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/planet-propaganda-madison/
-4. Creative Company | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Creative Company is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/creative-company-madison/
-5. Greenleaf Media | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Greenleaf Media is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/greenleaf-media-madison/
-6. Shine United | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Shine United is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/shine-united-madison/
-7. Distillery | Organic #7 | Pulse Score 53.6/100 (Unrated, #7 in city) | Distillery is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/distillery-madison/
+2. S/B Strategic Marketing | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | S/B Strategic Marketing is a marketing agency in Madison, WI at 1352 East Wilson Street, Madison, WI. Phone: +16082414141. Website: https://stephanbrady.com/. | https://registry-edge.dingalinged.workers.dev/c/s-b-strategic-marketing-madison/
+3. Planet Propaganda | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Planet Propaganda is a marketing agency in Madison, WI at 605 Williamson Street, Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/planet-propaganda-madison/
+4. Creative Company | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Creative Company is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/creative-company-madison/
+5. Greenleaf Media | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | Greenleaf Media is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/greenleaf-media-madison/
+6. Shine United | Organic #6 | Pulse Score 54.3/100 (Unrated, #6 in city) | Shine United is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/shine-united-madison/
+7. Distillery | Organic #7 | Pulse Score 53.7/100 (Unrated, #7 in city) | Distillery is a marketing agency in Madison, WI. | https://registry-edge.dingalinged.workers.dev/c/distillery-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency madison wi | category: Professional & financial services | industry benchmark: Finance & Insurance

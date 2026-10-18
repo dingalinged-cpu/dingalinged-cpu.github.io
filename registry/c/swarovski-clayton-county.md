@@ -13,7 +13,7 @@ Swarovski is a jewelry store in Clayton County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 100% of jewelry stores in Atlanta, #2 of 2 jewelry stores in Clayton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 100% of jewelry stores in Atlanta, #2 of 2 jewelry stores in Clayton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

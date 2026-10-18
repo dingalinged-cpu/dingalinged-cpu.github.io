@@ -6,7 +6,7 @@ Also answers: tanning salon in Sun Prairie, WI; tanning salon near me (Sun Prair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L.A. Tan | Organic #1 | Pulse Score 44.9/100 (Building, #1 in city) | L.A. Tan is a tanning salon in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/l-a-tan-sun-prairie/
+1. L.A. Tan | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | L.A. Tan is a tanning salon in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/l-a-tan-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon sun prairie wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

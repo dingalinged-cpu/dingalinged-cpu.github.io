@@ -13,7 +13,7 @@ Resorts at 925 Main is a real estate agency in Grapevine, TX at 925 South Main S
 - Website: https://www.925mainstreet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30, Sa 10:00-17:00
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

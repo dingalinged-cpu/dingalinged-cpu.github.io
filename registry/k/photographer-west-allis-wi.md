@@ -6,7 +6,7 @@ Also answers: photographer in West Allis, WI; photographer near me (West Allis, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jennifer Brindley Portrait | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Jennifer Brindley Portrait is a photographer in West Allis, WI at 6127A West Greenfield Avenue, West Allis, WI 53214. Phone: +14142179014. Website: https://jenniferbrindley.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-brindley-portrait-west-allis/
+1. Jennifer Brindley Portrait | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Jennifer Brindley Portrait is a photographer in West Allis, WI at 6127A West Greenfield Avenue, West Allis, WI 53214. Phone: +14142179014. Website: https://jenniferbrindley.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-brindley-portrait-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer west allis wi | category: Events & weddings | industry benchmark: Personal Services

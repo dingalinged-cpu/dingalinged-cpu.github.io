@@ -13,7 +13,7 @@ James C Provenza & Associates, PC is a lawyer in Glenview, IL at 1701 East Lake 
 - Website: https://www.provenzalaw.com/
 - Email: jprovenza@provenzalaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 43% of lawyers in Chicago, #1 of 1 lawyers in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 43% of lawyers in Chicago, #1 of 1 lawyers in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

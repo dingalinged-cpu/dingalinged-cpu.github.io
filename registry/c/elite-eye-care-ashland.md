@@ -13,7 +13,7 @@ Elite Eye Care is an eye care practice in Ashland, NE at 705 N 17th Ave, Ashland
 - Website: https://eliteeyecarene.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00, Fr 08:00-12:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of eye care practices in Omaha, NE, #1 of 1 eye care practices in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 58.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of eye care practices in Omaha, NE, #1 of 1 eye care practices in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

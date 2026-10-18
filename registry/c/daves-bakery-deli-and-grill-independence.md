@@ -13,12 +13,12 @@ Dave's Bakery, Deli & Grill is a bakery in Independence, MO at 214 West Maple Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 65% of bakerys in Kansas City, MO, #2 of 3 bakerys in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 58% of bakerys in Kansas City, MO, #2 of 3 bakerys in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/daves-bakery-deli-and-grill-independence/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/daves-bakery-deli-and-grill-independence.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/7895484942 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7895484942 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

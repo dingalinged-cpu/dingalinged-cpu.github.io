@@ -13,7 +13,7 @@ Venice Nails is a nail salon in Dallas, TX. Phone: +19723121239.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:00; Sa 09:00-19:00; Su 12:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of nail salons in Dallas–Fort Worth, #7 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of nail salons in Dallas–Fort Worth, #7 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

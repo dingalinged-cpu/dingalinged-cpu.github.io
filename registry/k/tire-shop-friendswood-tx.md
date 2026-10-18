@@ -7,7 +7,7 @@ Also answers: tire shop in Friendswood, TX; tire shop near me (Friendswood, TX);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Discount Tire | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Discount Tire is a tire shop in Friendswood, TX at 1555 South Friendswood Drive, Friendswood, TX 77546. Phone: +12819935225. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-friendswood/
-2. NTB | Organic #2 | Pulse Score 43.9/100 (Unrated, #2 in city) | NTB is a tire shop in Friendswood, TX at 1505 Broadway Street, Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/ntb-friendswood/
+2. NTB | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | NTB is a tire shop in Friendswood, TX at 1505 Broadway Street, Friendswood, TX. | https://registry-edge.dingalinged.workers.dev/c/ntb-friendswood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop friendswood tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

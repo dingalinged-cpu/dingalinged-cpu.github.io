@@ -6,8 +6,8 @@ Also answers: it support in Richardson, TX; it support near me (Richardson, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CMIT Solutions of Richardson | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | CMIT Solutions of Richardson is an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/. | https://registry-edge.dingalinged.workers.dev/c/cmit-solutions-of-richardson-richardson/
-2. Action Video Service | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Action Video Service is an IT support company in Richardson, TX at 819 West Arapaho Road #23, Richardson, TX 75080. Website: https://actionvideoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/action-video-service-richardson/
+1. CMIT Solutions of Richardson | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | CMIT Solutions of Richardson is an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/. | https://registry-edge.dingalinged.workers.dev/c/cmit-solutions-of-richardson-richardson/
+2. Action Video Service | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Action Video Service is an IT support company in Richardson, TX at 819 West Arapaho Road #23, Richardson, TX 75080. Website: https://actionvideoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/action-video-service-richardson/
 3. Qorvo | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Qorvo is an IT support company in Richardson, TX. | https://registry-edge.dingalinged.workers.dev/c/qorvo-richardson/
 
 ## Market data (for advertisers and agents)

@@ -6,7 +6,7 @@ Also answers: event venues in Cambridge, IA; event venues near me (Cambridge, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Chateau at White Oak | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Chateau at White Oak is an event venue in Cambridge, IA at 15065 Northeast White Oak Drive, Cambridge, IA 50046. Phone: +15153677933. Website: https://www.whiteoakchateau.com/. | https://registry-edge.dingalinged.workers.dev/c/the-chateau-at-white-oak-cambridge/
+1. The Chateau at White Oak | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | The Chateau at White Oak is an event venue in Cambridge, IA at 15065 Northeast White Oak Drive, Cambridge, IA 50046. Phone: +15153677933. Website: https://www.whiteoakchateau.com/. | https://registry-edge.dingalinged.workers.dev/c/the-chateau-at-white-oak-cambridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues cambridge ia | category: Events & weddings | industry benchmark: Personal Services

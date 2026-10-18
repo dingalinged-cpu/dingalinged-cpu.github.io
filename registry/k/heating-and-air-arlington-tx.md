@@ -6,7 +6,7 @@ Also answers: heating and air in Arlington, TX; heating and air near me (Arlingt
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minuteman Heating & AC Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Minuteman Heating & AC Repair is a HVAC contractor in Arlington, TX at 7501 US 287 Frontage Road #Suite B-2, Arlington, TX 76001. Phone: +18172842569. Website: https://minutemanheatingandac.com/. | https://registry-edge.dingalinged.workers.dev/c/minuteman-heating-and-ac-repair-arlington/
+1. Minuteman Heating & AC Repair | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Minuteman Heating & AC Repair is a HVAC contractor in Arlington, TX at 7501 US 287 Frontage Road #Suite B-2, Arlington, TX 76001. Phone: +18172842569. Website: https://minutemanheatingandac.com/. | https://registry-edge.dingalinged.workers.dev/c/minuteman-heating-and-ac-repair-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air arlington tx | category: Home Services | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Saint Paul's Thrift Shop is a thrift store in Milwaukee, WI at 1324 North Marsha
 - Website: https://www.stpaulsmilwaukee.org/building/thrift-shop/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-15:00; Sa[1,3] 09:00-12:00
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of thrift stores in Milwaukee, #1 of 12 thrift stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of thrift stores in Milwaukee, #1 of 12 thrift stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

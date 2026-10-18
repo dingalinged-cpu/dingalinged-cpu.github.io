@@ -13,7 +13,7 @@ Vet Center is a therapy practice in Crown Point, IN at 107 East 93rd Avenue, Cro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Building — top 93% of therapy practices in Chicago, #2 of 2 therapy practices in Crown Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 93% of therapy practices in Chicago, #2 of 2 therapy practices in Crown Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

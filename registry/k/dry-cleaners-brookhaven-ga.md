@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Brookhaven, GA is Quality Cleaners (a dry cleaner in Brookhaven, GA). 4 dry cleaners businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Brookhaven, GA is Clothing Care (a dry cleaner in Brookhaven, GA). 4 dry cleaners businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Brookhaven, GA?
 
@@ -6,10 +6,10 @@ Also answers: dry cleaners in Brookhaven, GA; dry cleaners near me (Brookhaven, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quality Cleaners | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Quality Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/quality-cleaners-brookhaven/
-2. Clothing Care | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Clothing Care is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/clothing-care-brookhaven/
-3. Cambridge Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Cambridge Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/cambridge-cleaners-brookhaven/
-4. Esquire Cleaners | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Esquire Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/esquire-cleaners-brookhaven/
+1. Clothing Care | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Clothing Care is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/clothing-care-brookhaven/
+2. Cambridge Cleaners | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Cambridge Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/cambridge-cleaners-brookhaven/
+3. Esquire Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Esquire Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/esquire-cleaners-brookhaven/
+4. Quality Cleaners | Organic #4 | Pulse Score 45/100 (Unrated, #4 in city) | Quality Cleaners is a dry cleaner in Brookhaven, GA. | https://registry-edge.dingalinged.workers.dev/c/quality-cleaners-brookhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners brookhaven ga | category: Professional & financial services | industry benchmark: Finance & Insurance

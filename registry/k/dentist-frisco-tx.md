@@ -45,15 +45,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 37. ChildSmile | Organic #37 | Pulse Score 54.5/100 (Unrated, #37 in city) | ChildSmile is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/childsmile-frisco/
 38. Custer Star Dental Group | Organic #38 | Pulse Score 54.5/100 (Unrated, #38 in city) | Custer Star Dental Group is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/custer-star-dental-group-frisco/
 39. Molar Bear Family Dental | Organic #39 | Pulse Score 54.5/100 (Unrated, #39 in city) | Molar Bear Family Dental is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/molar-bear-family-dental-frisco/
-40. My Kid's Dentist | Organic #40 | Pulse Score 54.5/100 (Unrated, #40 in city) | My Kid's Dentist is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/my-kids-dentist-frisco/
-41. Promont Dental Design | Organic #41 | Pulse Score 54.5/100 (Unrated, #41 in city) | Promont Dental Design is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/promont-dental-design-frisco/
-42. Say Smile Dental | Organic #42 | Pulse Score 54.5/100 (Unrated, #42 in city) | Say Smile Dental is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/say-smile-dental-frisco/
-43. Stonelake Family Dentistry | Organic #43 | Pulse Score 54.5/100 (Unrated, #43 in city) | Stonelake Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/stonelake-family-dentistry-frisco/
-44. Twins Family Dentistry | Organic #44 | Pulse Score 54.5/100 (Unrated, #44 in city) | Twins Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/twins-family-dentistry-frisco/
-45. Twins Family Dentistry | Organic #45 | Pulse Score 54.5/100 (Unrated, #45 in city) | Twins Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/twins-family-dentistry-frisco-w919025278/
-46. Xpress Whitening | Organic #46 | Pulse Score 54.5/100 (Unrated, #46 in city) | Xpress Whitening is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/xpress-whitening-frisco/
-47. MINT Dentistry | Frisco | Organic #47 | Pulse Score 48.9/100 (Unrated, #47 in city) | MINT Dentistry | Frisco is a dentist in Frisco, TX at 4611 Preston Road #100, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/mint-dentistry-frisco-frisco/
-48. Ideal Dental | Organic #48 | Pulse Score 45.8/100 (Building, #48 in city) | Ideal Dental is a dentist in Frisco, TX at 5110 Main Street, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/ideal-dental-frisco/
+40. Promont Dental Design | Organic #40 | Pulse Score 54.5/100 (Unrated, #40 in city) | Promont Dental Design is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/promont-dental-design-frisco/
+41. Say Smile Dental | Organic #41 | Pulse Score 54.5/100 (Unrated, #41 in city) | Say Smile Dental is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/say-smile-dental-frisco/
+42. Stonelake Family Dentistry | Organic #42 | Pulse Score 54.5/100 (Unrated, #42 in city) | Stonelake Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/stonelake-family-dentistry-frisco/
+43. Twins Family Dentistry | Organic #43 | Pulse Score 54.5/100 (Unrated, #43 in city) | Twins Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/twins-family-dentistry-frisco/
+44. Twins Family Dentistry | Organic #44 | Pulse Score 54.5/100 (Unrated, #44 in city) | Twins Family Dentistry is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/twins-family-dentistry-frisco-w919025278/
+45. Xpress Whitening | Organic #45 | Pulse Score 54.5/100 (Unrated, #45 in city) | Xpress Whitening is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/xpress-whitening-frisco/
+46. MINT Dentistry | Frisco | Organic #46 | Pulse Score 48.9/100 (Unrated, #46 in city) | MINT Dentistry | Frisco is a dentist in Frisco, TX at 4611 Preston Road #100, Frisco, TX 75034. | https://registry-edge.dingalinged.workers.dev/c/mint-dentistry-frisco-frisco/
+47. Ideal Dental | Organic #47 | Pulse Score 45.8/100 (Building, #47 in city) | Ideal Dental is a dentist in Frisco, TX at 5110 Main Street, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/ideal-dental-frisco/
+48. My Kid's Dentist | Organic #48 | Pulse Score 41.7/100 (Unrated, #48 in city) | My Kid's Dentist is a dentist in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/my-kids-dentist-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist frisco tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

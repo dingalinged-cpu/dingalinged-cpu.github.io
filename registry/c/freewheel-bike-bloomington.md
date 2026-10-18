@@ -13,7 +13,7 @@ Freewheel Bike is a bike shop in Bloomington, MN at 3916 West Old Shakopee Road,
 - Website: https://www.freewheelbike.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
-- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 86% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 86% of bike shops in Minneapolis–St. Paul, #2 of 2 bike shops in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

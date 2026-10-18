@@ -6,7 +6,7 @@ Also answers: funeral home in Westchester, IL; funeral home near me (Westchester
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Perkins & Sons LLC | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Perkins & Sons LLC is a funeral home in Westchester, IL at 1923 South Mannheim Road, Westchester, IL 60154. Phone: +17084838900. Website: https://www.dlperkinsandsons.com/. | https://registry-edge.dingalinged.workers.dev/c/perkins-and-sons-llc-westchester/
+1. Perkins & Sons LLC | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Perkins & Sons LLC is a funeral home in Westchester, IL at 1923 South Mannheim Road, Westchester, IL 60154. Phone: +17084838900. Website: https://www.dlperkinsandsons.com/. | https://registry-edge.dingalinged.workers.dev/c/perkins-and-sons-llc-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home westchester il | category: Professional & financial services | industry benchmark: Finance & Insurance

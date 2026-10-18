@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for Edina, MN is Brilliant Earth (a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/). 3 jewelry store businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Edina, MN is R.F. Moeller Jeweler (a jewelry store in Edina, MN. Website: https://rfmoeller.com/). 3 jewelry store businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Edina, MN?
 
@@ -6,8 +6,8 @@ Also answers: jewelry store in Edina, MN; jewelry store near me (Edina, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brilliant Earth | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Brilliant Earth is a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/. | https://registry-edge.dingalinged.workers.dev/c/brilliant-earth-edina/
-2. R.F. Moeller Jeweler | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller.com/. | https://registry-edge.dingalinged.workers.dev/c/r-f-moeller-jeweler-edina/
+1. R.F. Moeller Jeweler | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller.com/. | https://registry-edge.dingalinged.workers.dev/c/r-f-moeller-jeweler-edina/
+2. Brilliant Earth | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Brilliant Earth is a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/. | https://registry-edge.dingalinged.workers.dev/c/brilliant-earth-edina/
 3. Jared | Organic #3 | Pulse Score 41.5/100 (Unrated, #3 in city) | Jared is a jewelry store in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/jared-edina/
 
 ## Market data (for advertisers and agents)

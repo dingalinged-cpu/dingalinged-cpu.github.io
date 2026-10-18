@@ -13,7 +13,7 @@ EarthWise Pet is a pet store in Richardson, TX at 1310 West Campbell Road #128, 
 - Website: https://richardson.earthwisepet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 12:00-17:00
-- Pulse Score: 44.8/100 — Building — top 73% of pet stores in Dallas–Fort Worth, #5 of 5 pet stores in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 72% of pet stores in Dallas–Fort Worth, #5 of 5 pet stores in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

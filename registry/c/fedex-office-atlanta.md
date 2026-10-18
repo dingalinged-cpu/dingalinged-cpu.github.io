@@ -13,7 +13,7 @@ FedEx Office is a printing service in Atlanta, GA at 2980 Cobb Parkway South, At
 - Website: https://local.fedex.com/ga/atlanta/office-1952/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-21:00; Sa 08:00-18:00
-- Pulse Score: 52.3/100 — Fair — top 19% of printing services in Atlanta, #4 of 12 printing services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 69.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.3/100 — Fair — top 19% of printing services in Atlanta, #4 of 12 printing services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 69.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Quick State Inspection is a vehicle inspection station in Duncanville, TX at 103
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 60% of vehicle inspection stations in Dallas–Fort Worth, #1 of 1 vehicle inspection stations in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 60% of vehicle inspection stations in Dallas–Fort Worth, #1 of 1 vehicle inspection stations in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

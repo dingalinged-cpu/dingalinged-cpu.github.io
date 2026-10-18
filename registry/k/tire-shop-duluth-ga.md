@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Duluth, GA at 3048 Buford Highway, Duluth, GA 30096. Phone: +17708130800. Website: https://www.expressoil.com/stores/duluth/ga/1835/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-duluth/
 2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Duluth, GA at 3425 Peachtree Industrial Boulevard, Duluth, GA 30096. Phone: +17706239448. Website: https://www.expressoil.com/stores/duluth/ga/1836/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-duluth-w389575035/
-3. Tires Plus | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Tires Plus is a tire shop in Duluth, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-duluth/
+3. Tires Plus | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Tires Plus is a tire shop in Duluth, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop duluth ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

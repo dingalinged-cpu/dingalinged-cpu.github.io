@@ -6,7 +6,7 @@ Also answers: dermatologist in Duncanville, TX; dermatologist near me (Duncanvil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dermatology Institute | Organic #1 | Pulse Score 53.7/100 (Fair, #1 in city) | Dermatology Institute is a dermatologist in Duncanville, TX. Website: https://dermatologyinstitute.us/. | https://registry-edge.dingalinged.workers.dev/c/dermatology-institute-duncanville/
+1. Dermatology Institute | Organic #1 | Pulse Score 53.8/100 (Fair, #1 in city) | Dermatology Institute is a dermatologist in Duncanville, TX. Website: https://dermatologyinstitute.us/. | https://registry-edge.dingalinged.workers.dev/c/dermatology-institute-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist duncanville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

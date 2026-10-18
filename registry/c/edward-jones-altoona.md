@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Altoona, IA at 2437 Adventureland Drive #
 - Website: https://www.edwardjones.com/us-en/financial-advisor/lori-baldwin
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30 || "Fr by appointment"
-- Pulse Score: 48.6/100 — Building — top 67% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 60% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

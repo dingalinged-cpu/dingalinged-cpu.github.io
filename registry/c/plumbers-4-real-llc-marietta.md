@@ -13,7 +13,7 @@ Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southea
 - Website: https://www.plumbers4real.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.8/100 — Good — top 8% of plumbers in Atlanta, #1 of 3 plumbers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Good — top 8% of plumbers in Atlanta, #1 of 3 plumbers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Glass Shine is a shoe repair in Atlanta, GA at 1180 Peachtree Street Northea
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 07:00-13:00; Tu,Th-Su off
-- Pulse Score: 63.4/100 — Good — top 13% of shoe repairs in Atlanta, #1 of 3 shoe repairs in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 13% of shoe repairs in Atlanta, #1 of 3 shoe repairs in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

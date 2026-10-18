@@ -6,7 +6,7 @@ Also answers: pet store in Wilmette, IL; pet store near me (Wilmette, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dog Wash | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | The Dog Wash is a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/the-dog-wash-wilmette/
+1. The Dog Wash | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | The Dog Wash is a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/the-dog-wash-wilmette/
 2. Wilmette Pet Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Wilmette Pet Center is a pet store in Wilmette, IL at 625 Green Bay Road, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/wilmette-pet-center-wilmette/
 3. Kriser's Natural Pet | Organic #3 | Pulse Score 43.6/100 (Unrated, #3 in city) | Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wilmette, IL 60091. Website: https://stores.krisers.com/il-wilmette-403/. | https://registry-edge.dingalinged.workers.dev/c/krisers-natural-pet-wilmette/
 

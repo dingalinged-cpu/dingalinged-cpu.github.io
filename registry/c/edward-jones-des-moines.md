@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Des Moines, IA. Website: https://www.edwa
 - Website: https://www.edwardjones.com/us-en
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 74% of financial advisors in Des Moines, IA, #3 of 3 financial advisors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45/100 — Building — top 74% of financial advisors in Des Moines, IA, #3 of 3 financial advisors in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

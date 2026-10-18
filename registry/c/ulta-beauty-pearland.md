@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Pearland, TX at 3133 Silverlake Village Dri
 - Website: https://www.ulta.com/stores/pearland-tx-165
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 44.8/100 — Building — top 81% of skin care studios in Houston, #1 of 1 skin care studios in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 81% of skin care studios in Houston, #1 of 1 skin care studios in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Borges Brazilian Jiu-Jitsu is a martial arts school in Cobb County, GA at 2809 C
 - Website: https://borgesbjj.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 09:00-20:00; Fr 10:00-14:00; Sa 09:00-12:00
-- Pulse Score: 64.2/100 — Good — top 7% of martial arts schools in Atlanta, #1 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 7% of martial arts schools in Atlanta, #1 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 65.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

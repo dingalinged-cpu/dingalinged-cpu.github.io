@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 3233 West Ad
 - Website: https://locations.atipt.com/chicago-il-avondale
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Pulse Score: 49.3/100 — Building — top 32% of physical therapy clinics in Chicago, #14 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 31% of physical therapy clinics in Chicago, #14 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

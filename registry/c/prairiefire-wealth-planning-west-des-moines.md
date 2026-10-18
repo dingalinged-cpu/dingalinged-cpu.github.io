@@ -13,7 +13,7 @@ Prairiefire Wealth Planning is a financial advisor in West Des Moines, IA at 114
 - Website: https://www.prairiefirewealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa "by appointment"
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 14% of financial advisors in Des Moines, IA, #1 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 7% of financial advisors in Des Moines, IA, #1 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Huffman, Usem, Crawford, Greenberg & Smith P.A. is a lawyer in Golden Valley, MN
 - Website: https://www.hucglaw.com/?npcmp=dir%3Alocal%3A1378161%3A55422
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 62% of lawyers in Minneapolis–St. Paul, #1 of 1 lawyers in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 62% of lawyers in Minneapolis–St. Paul, #1 of 1 lawyers in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Harwood Heights, IL at 4747 North Harlem Avenue
 - Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 53% of gyms in Chicago, #1 of 1 gyms in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 52% of gyms in Chicago, #1 of 1 gyms in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

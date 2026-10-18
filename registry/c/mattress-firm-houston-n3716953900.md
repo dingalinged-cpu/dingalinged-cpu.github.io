@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 398 Meyerland Plaza Mall, Ho
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001143/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.4/100 — Building — top 34% of mattress stores in Houston, #10 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 32% of mattress stores in Houston, #10 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 58.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

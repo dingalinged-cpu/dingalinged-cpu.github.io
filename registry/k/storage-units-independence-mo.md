@@ -6,12 +6,12 @@ Also answers: storage units in Independence, MO; storage units near me (Independ
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Public Storage is a self-storage facility in Independence, MO at 109 East 31st Street South, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence-w1070092189/
-2. U-Haul | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | U-Haul is a self-storage facility in Independence, MO at 4312 South Noland Road, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/u-haul-independence/
-3. Public Storage | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Public Storage is a self-storage facility in Independence, MO at 2700 Frontage Road, Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence/
-4. Public Storage | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Public Storage is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence-w1145479724/
-5. StorageMart | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | StorageMart is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/storagemart-independence/
-6. StorageMart | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | StorageMart is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/storagemart-independence-n10660439959/
+1. Public Storage | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Public Storage is a self-storage facility in Independence, MO at 109 East 31st Street South, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence-w1070092189/
+2. U-Haul | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | U-Haul is a self-storage facility in Independence, MO at 4312 South Noland Road, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/u-haul-independence/
+3. Public Storage | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Public Storage is a self-storage facility in Independence, MO at 2700 Frontage Road, Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence/
+4. Public Storage | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Public Storage is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/public-storage-independence-w1145479724/
+5. StorageMart | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | StorageMart is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/storagemart-independence/
+6. StorageMart | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | StorageMart is a self-storage facility in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/storagemart-independence-n10660439959/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units independence mo | category: Home services - Moving | industry benchmark: Home & Home Improvement

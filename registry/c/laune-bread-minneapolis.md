@@ -13,7 +13,7 @@ Laune Bread is a bakery in Minneapolis, MN at 3605 East Lake Street, Minneapolis
 - Website: https://launebread.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 08:00-14:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 37% of bakerys in Minneapolis–St. Paul, #21 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Minneapolis–St. Paul, #20 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

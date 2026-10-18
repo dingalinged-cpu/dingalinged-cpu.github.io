@@ -13,7 +13,7 @@ Micki's Dance Studio is a dance studio in Omaha, NE at 6839 Grover Street, Omaha
 - Website: https://mickisdancestudio.om/
 - Email: mickisdancestudio@yahoo.com
 - Opening hours (OSM syntax): Mo,We 16:30-20:30; Tu 16:30-21:30; Sa 09:30-13:30
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 17% of dance studios in Omaha, NE, #1 of 3 dance studios in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 17% of dance studios in Omaha, NE, #1 of 3 dance studios in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

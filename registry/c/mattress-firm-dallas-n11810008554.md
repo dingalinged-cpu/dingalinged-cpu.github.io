@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Dallas, TX at 5000 Belt Line Road #110, Dal
 - Website: https://www.mattressfirm.com/en-us/stores/tx/dallas/002046/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.1/100 — Building — top 37% of mattress stores in Dallas–Fort Worth, #2 of 4 mattress stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 35% of mattress stores in Dallas–Fort Worth, #2 of 4 mattress stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 63.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

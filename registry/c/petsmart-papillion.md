@@ -13,7 +13,7 @@ PetSmart is a pet store in Papillion, NE at 7903 Towne Center Parkway, Papillion
 - Website: https://www.petsmart.com/stores/us/ne/papillion-store1514.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 49.1/100 — Building — top 74% of pet stores in Omaha, NE, #2 of 2 pet stores in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 74% of pet stores in Omaha, NE, #2 of 2 pet stores in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Transmission Shop & Auto Repair is an auto repair shop in Golden Valley, MN at 6
 - Website: https://www.transmissionshopinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of auto repair shops in Minneapolis–St. Paul, #6 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in Minneapolis–St. Paul, #6 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

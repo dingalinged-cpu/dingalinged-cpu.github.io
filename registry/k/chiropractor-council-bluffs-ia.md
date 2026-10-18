@@ -6,8 +6,8 @@ Also answers: chiropractor in Council Bluffs, IA; chiropractor near me (Council 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Broadway Chiropractic Clinic | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Broadway Chiropractic Clinic is a chiropractor in Council Bluffs, IA at 103 North Avenue #Suite 4, Council Bluffs, IA 51503. Phone: +17123228504. Website: https://www.broadwaychiropracticclinic.net/. | https://registry-edge.dingalinged.workers.dev/c/broadway-chiropractic-clinic-council-bluffs/
-2. Orth Chiropractic | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Orth Chiropractic is a chiropractor in Council Bluffs, IA at 1702 West Broadway #Suite 7, Council Bluffs, IA 51501. Phone: +17123230400. Website: https://www.orthchiropractic.com/. | https://registry-edge.dingalinged.workers.dev/c/orth-chiropractic-council-bluffs/
+1. Broadway Chiropractic Clinic | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Broadway Chiropractic Clinic is a chiropractor in Council Bluffs, IA at 103 North Avenue #Suite 4, Council Bluffs, IA 51503. Phone: +17123228504. Website: https://www.broadwaychiropracticclinic.net/. | https://registry-edge.dingalinged.workers.dev/c/broadway-chiropractic-clinic-council-bluffs/
+2. Orth Chiropractic | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Orth Chiropractic is a chiropractor in Council Bluffs, IA at 1702 West Broadway #Suite 7, Council Bluffs, IA 51501. Phone: +17123230400. Website: https://www.orthchiropractic.com/. | https://registry-edge.dingalinged.workers.dev/c/orth-chiropractic-council-bluffs/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor council bluffs ia | category: Health & medical | industry benchmark: Physicians & Surgeons

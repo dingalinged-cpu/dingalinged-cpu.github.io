@@ -6,7 +6,7 @@ Also answers: it support in Pearland, TX; it support near me (Pearland, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Essential Information Technologies | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Essential Information Technologies is an IT support company in Pearland, TX at 3208 Orchard Mill Lane, Pearland, TX 77584. Phone: +12819306629. Website: https://essential-it.com/. | https://registry-edge.dingalinged.workers.dev/c/essential-information-technologies-pearland/
+1. Essential Information Technologies | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Essential Information Technologies is an IT support company in Pearland, TX at 3208 Orchard Mill Lane, Pearland, TX 77584. Phone: +12819306629. Website: https://essential-it.com/. | https://registry-edge.dingalinged.workers.dev/c/essential-information-technologies-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support pearland tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

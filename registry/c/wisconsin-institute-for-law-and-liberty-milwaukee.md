@@ -13,7 +13,7 @@ Wisconsin Institute for Law & Liberty is a lawyer in Milwaukee, WI. Phone: +1414
 - Website: https://www.will-law.org/
 - Email: info@will-law.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Fair — top 35% of lawyers in Milwaukee, #22 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Fair — top 34% of lawyers in Milwaukee, #21 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

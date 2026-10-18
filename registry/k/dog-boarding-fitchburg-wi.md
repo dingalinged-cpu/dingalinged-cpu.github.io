@@ -6,8 +6,8 @@ Also answers: dog boarding in Fitchburg, WI; dog boarding near me (Fitchburg, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy Dogz Daycare | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Happy Dogz Daycare is a dog boarding facility in Fitchburg, WI. Website: https://happyz.com/. | https://registry-edge.dingalinged.workers.dev/c/happy-dogz-daycare-fitchburg/
-2. Waggin' Tails | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Waggin' Tails is a dog boarding facility in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/waggin-tails-fitchburg/
+1. Happy Dogz Daycare | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Happy Dogz Daycare is a dog boarding facility in Fitchburg, WI. Website: https://happyz.com/. | https://registry-edge.dingalinged.workers.dev/c/happy-dogz-daycare-fitchburg/
+2. Waggin' Tails | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Waggin' Tails is a dog boarding facility in Fitchburg, WI. | https://registry-edge.dingalinged.workers.dev/c/waggin-tails-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding fitchburg wi | category: Pets | industry benchmark: Animals & Pets

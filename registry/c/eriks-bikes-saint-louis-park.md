@@ -13,7 +13,7 @@ Erik's Bikes is a bike shop in Saint Louis Park, MN at 8006 Minnetonka Boulevard
 - Website: https://www.eriksbikeshop.com/store/st-louis-park-mn-55426/Park
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa,Su 11:00-17:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of bike shops in Minneapolis–St. Paul, #1 of 3 bike shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 30% of bike shops in Minneapolis–St. Paul, #1 of 3 bike shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

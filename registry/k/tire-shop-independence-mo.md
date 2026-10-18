@@ -6,10 +6,10 @@ Also answers: tire shop in Independence, MO; tire shop near me (Independence, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anchor Sales and Service Co, Inc. | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Anchor Sales and Service Co, Inc. is a tire shop in Independence, MO at 106 West 31st Street, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/anchor-sales-and-service-co-inc-independence/
-2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Independence, MO at 18817 East Valley View Parkway, Independence, MO 64055. Phone: +18166838600. Website: https://www.expressoil.com/stores/independence/mo/3077. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-independence/
+1. Anchor Sales and Service Co, Inc. | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Anchor Sales and Service Co, Inc. is a tire shop in Independence, MO at 106 West 31st Street, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/anchor-sales-and-service-co-inc-independence/
+2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Independence, MO at 18817 East Valley View Parkway, Independence, MO 64055. Phone: +18166838600. Website: https://www.expressoil.com/stores/independence/mo/3077. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-independence/
 3. Tires Plus | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Tires Plus is a tire shop in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-independence/
-4. NTB | Organic #4 | Pulse Score 41.7/100 (Unrated, #4 in city) | NTB is a tire shop in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/ntb-independence/
+4. NTB | Organic #4 | Pulse Score 41.6/100 (Unrated, #4 in city) | NTB is a tire shop in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/ntb-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop independence mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

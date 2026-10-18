@@ -6,7 +6,7 @@ Also answers: dog groomer in Cudahy, WI; dog groomer near me (Cudahy, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fancy Paws Dog Grooming | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Fancy Paws Dog Grooming is a dog groomer in Cudahy, WI at 3524 East Layton Avenue, Cudahy, WI 53110. | https://registry-edge.dingalinged.workers.dev/c/fancy-paws-dog-grooming-cudahy/
+1. Fancy Paws Dog Grooming | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Fancy Paws Dog Grooming is a dog groomer in Cudahy, WI at 3524 East Layton Avenue, Cudahy, WI 53110. | https://registry-edge.dingalinged.workers.dev/c/fancy-paws-dog-grooming-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer cudahy wi | category: Pets | industry benchmark: Animals & Pets

@@ -7,11 +7,11 @@ Also answers: nail salon in Mount Pleasant, WI; nail salon near me (Mount Pleasa
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Utopia Nails & Spa | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Utopia Nails & Spa is a nail salon in Mount Pleasant, WI at 2860 South Green Bay Road #200, Mount Pleasant, WI. Website: https://utopianailspa.com/locations. | https://registry-edge.dingalinged.workers.dev/c/utopia-nails-and-spa-mount-pleasant/
-2. Diva Nails | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Diva Nails is a nail salon in Racine, WI at 5201 Washington Avenue #K, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/diva-nails-racine/
-3. Racine Nail | Organic #3 | Pulse Score 55.9/100 (Unrated, #2 in city) | Racine Nail is a nail salon in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/racine-nail-mount-pleasant/
-4. Polished Beauty Bar | Organic #4 | Pulse Score 55.2/100 (Unrated, #3 in city) | Polished Beauty Bar is a nail salon in Mount Pleasant, WI at 6012 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/polished-beauty-bar-mount-pleasant/
-5. Laguna Nails and Spa | Organic #5 | Pulse Score 54.1/100 (Unrated, #4 in city) | Laguna Nails and Spa is a nail salon in Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/laguna-nails-and-spa-mount-pleasant/
-6. POLISH NAIL SALON | Organic #6 | Pulse Score 54.1/100 (Unrated, #5 in city) | POLISH NAIL SALON is a nail salon in Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/polish-nail-salon-mount-pleasant/
+2. Racine Nail | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Racine Nail is a nail salon in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/racine-nail-mount-pleasant/
+3. Polished Beauty Bar | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Polished Beauty Bar is a nail salon in Mount Pleasant, WI at 6012 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/polished-beauty-bar-mount-pleasant/
+4. Laguna Nails and Spa | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Laguna Nails and Spa is a nail salon in Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/laguna-nails-and-spa-mount-pleasant/
+5. POLISH NAIL SALON | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | POLISH NAIL SALON is a nail salon in Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/polish-nail-salon-mount-pleasant/
+6. Diva Nails | Organic #6 | Pulse Score 43.4/100 (Unrated, #2 in city) | Diva Nails is a nail salon in Racine, WI at 5201 Washington Avenue #K, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/diva-nails-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon mount pleasant wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

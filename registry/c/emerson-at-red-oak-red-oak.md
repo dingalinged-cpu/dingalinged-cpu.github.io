@@ -13,7 +13,7 @@ Emerson at Red Oak is a property management company in Red Oak, TX at 351 Hickor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 69% of property management companys in Dallas–Fort Worth, #3 of 4 property management companys in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 70% of property management companys in Dallas–Fort Worth, #3 of 4 property management companys in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

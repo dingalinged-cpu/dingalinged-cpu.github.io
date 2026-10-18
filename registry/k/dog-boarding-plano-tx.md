@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cosmic Canine | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Cosmic Canine is a dog boarding facility in Plano, TX at 1101 Ohio Drive #101, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/cosmic-canine-plano/
 2. Pet Paradise | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | Pet Paradise is a dog boarding facility in Plano, TX at 3365 Premier Drive, Plano, TX 75023. Phone: +19724247387. Website: https://www.petparadiseresort.com/location/plano-premier. | https://registry-edge.dingalinged.workers.dev/c/pet-paradise-plano/
-3. Dogtopia | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Dogtopia is a dog boarding facility in Plano, TX at 1501 Preston Road #600, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-plano/
+3. Dogtopia | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Dogtopia is a dog boarding facility in Plano, TX at 1501 Preston Road #600, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding plano tx | category: Pets | industry benchmark: Animals & Pets

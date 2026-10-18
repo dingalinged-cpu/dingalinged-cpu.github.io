@@ -13,7 +13,7 @@ Mindful Pediatrics & Adolescent Medicine is a pediatrician in Johns Creek, GA at
 - Website: n/a
 - Email: info@mpaam.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 47% of pediatricians in Atlanta, #1 of 2 pediatricians in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 47% of pediatricians in Atlanta, #1 of 2 pediatricians in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

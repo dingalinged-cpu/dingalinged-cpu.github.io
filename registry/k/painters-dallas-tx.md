@@ -6,9 +6,9 @@ Also answers: painters in Dallas, TX; painters near me (Dallas, TX); best painte
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EC Maintenance | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | EC Maintenance is a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/. | https://registry-edge.dingalinged.workers.dev/c/ec-maintenance-dallas/
-2. Rodriguez Painting, LLC | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Rodriguez Painting, LLC is a painting contractor in Dallas, TX. Phone: +12149003944. | https://registry-edge.dingalinged.workers.dev/c/rodriguez-painting-llc-dallas/
-3. Sundance Painting | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Sundance Painting is a painting contractor in Dallas, TX at 3702 North Buckner Boulevard, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/sundance-painting-dallas/
+1. EC Maintenance | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | EC Maintenance is a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/. | https://registry-edge.dingalinged.workers.dev/c/ec-maintenance-dallas/
+2. Rodriguez Painting, LLC | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Rodriguez Painting, LLC is a painting contractor in Dallas, TX. Phone: +12149003944. | https://registry-edge.dingalinged.workers.dev/c/rodriguez-painting-llc-dallas/
+3. Sundance Painting | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Sundance Painting is a painting contractor in Dallas, TX at 3702 North Buckner Boulevard, Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/sundance-painting-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters dallas tx | category: Home services - Painting | industry benchmark: Home & Home Improvement

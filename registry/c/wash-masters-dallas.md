@@ -13,7 +13,7 @@ Wash Masters is a car wash in Dallas, TX at 10666 East Northwest Highway, Dallas
 - Website: https://washmasters.com/locations/northwest/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 67% of car washes in Dallas–Fort Worth, #12 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 66% of car washes in Dallas–Fort Worth, #12 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

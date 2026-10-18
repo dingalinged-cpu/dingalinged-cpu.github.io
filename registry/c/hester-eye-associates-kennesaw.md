@@ -13,7 +13,7 @@ Hester Eye Associates is an eye care practice in Kennesaw, GA at 3745 Cherokee S
 - Website: https://hestereye.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-12:30,13:30-17:00; We 07:00-12:30,13:30-16:30; Th 09:00-13:00,14:00-18:30; Fr 08:00-12:00; Sa-Su off
-- Pulse Score: 62.3/100 — Good — top 17% of eye care practices in Atlanta, #1 of 2 eye care practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 17% of eye care practices in Atlanta, #1 of 2 eye care practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

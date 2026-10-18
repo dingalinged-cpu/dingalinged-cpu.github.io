@@ -6,8 +6,8 @@ Also answers: orthopedic surgeon in Houston, TX; orthopedic surgeon near me (Hou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crescent Medical Group | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Crescent Medical Group is an orthopedic surgeon in Houston, TX at 17070 Red Oak Drive #507, Houston, TX 77090. Phone: +17133898875. | https://registry-edge.dingalinged.workers.dev/c/crescent-medical-group-houston/
-2. Dr. Wame Waggenspack | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Dr. Wame Waggenspack is an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024. | https://registry-edge.dingalinged.workers.dev/c/dr-wame-waggenspack-houston/
+1. Crescent Medical Group | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Crescent Medical Group is an orthopedic surgeon in Houston, TX at 17070 Red Oak Drive #507, Houston, TX 77090. Phone: +17133898875. | https://registry-edge.dingalinged.workers.dev/c/crescent-medical-group-houston/
+2. Dr. Wame Waggenspack | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Dr. Wame Waggenspack is an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024. | https://registry-edge.dingalinged.workers.dev/c/dr-wame-waggenspack-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

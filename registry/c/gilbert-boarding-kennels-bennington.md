@@ -13,7 +13,7 @@ Gilbert Boarding Kennels is a dog boarding facility in Bennington, NE at 6904 No
 - Website: https://www.gilbertkennels.com/
 - Email: kennels@gilbertkennels.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-11:00, 16:30-18:00; Su 16:30-18:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Bennington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

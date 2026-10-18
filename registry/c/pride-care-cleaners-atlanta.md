@@ -13,7 +13,7 @@ Pride Care Cleaners is a dry cleaner in Atlanta, GA at 860 Ponce de Leon Avenue 
 - Website: https://www.pridecarecleaners.com/
 - Email: pridecarecleaners@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 65/100 — Good — top 3% of dry cleaners in Atlanta, #2 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 3% of dry cleaners in Atlanta, #2 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

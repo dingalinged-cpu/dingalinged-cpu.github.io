@@ -13,7 +13,7 @@ Lebeda Mattress Factory is a furniture store in Des Moines, IA at 4019 Merle Hay
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 82% of furniture stores in Des Moines, IA, #17 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 89% of furniture stores in Des Moines, IA, #19 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

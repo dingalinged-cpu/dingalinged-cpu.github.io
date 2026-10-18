@@ -13,7 +13,7 @@ Memorial School of Music is a music school in Houston, TX at 14520 Memorial Driv
 - Website: https://www.memorialschoolofmusic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 9% of music schools in Houston, #1 of 4 music schools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of music schools in Houston, #1 of 4 music schools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

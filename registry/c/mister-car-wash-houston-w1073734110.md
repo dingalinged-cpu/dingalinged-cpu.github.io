@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in Houston, TX at 8810 Main Street, Houston, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-18:00
-- Pulse Score: 48.6/100 — Building — top 48% of car washes in Houston, #44 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 47% of car washes in Houston, #43 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

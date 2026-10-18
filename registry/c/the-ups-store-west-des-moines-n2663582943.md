@@ -13,7 +13,7 @@ The UPS Store is a printing service in West Des Moines, IA at 6750 Westown Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 08:00-13:30; Su 12:00-17:00
-- Pulse Score: 46.8/100 — Building — top 53% of printing services in Des Moines, IA, #1 of 3 printing services in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 53% of printing services in Des Moines, IA, #1 of 3 printing services in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: storage units in Brooklyn Park, MN; storage units near me (Brookly
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UHaul Climate Controlled Self Storage | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | UHaul Climate Controlled Self Storage is a self-storage facility in Brooklyn Park, MN at 7007 Lakeland Avenue North, Brooklyn Park, MN. | https://registry-edge.dingalinged.workers.dev/c/uhaul-climate-controlled-self-storage-brooklyn-park/
+1. UHaul Climate Controlled Self Storage | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | UHaul Climate Controlled Self Storage is a self-storage facility in Brooklyn Park, MN at 7007 Lakeland Avenue North, Brooklyn Park, MN. | https://registry-edge.dingalinged.workers.dev/c/uhaul-climate-controlled-self-storage-brooklyn-park/
 2. Extra Space Storage | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Brooklyn Park, MN at 8570 Aspen Lane North, Brooklyn Park, MN 55445. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-brooklyn-park/
 3. Acorn Mini Storage | Organic #3 | Pulse Score 43.1/100 (Unrated, #3 in city) | Acorn Mini Storage is a self-storage facility in Brooklyn Park, MN. | https://registry-edge.dingalinged.workers.dev/c/acorn-mini-storage-brooklyn-park/
 

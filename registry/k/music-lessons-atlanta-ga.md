@@ -6,7 +6,7 @@ Also answers: music lessons in Atlanta, GA; music lessons near me (Atlanta, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Music Class Kirkwood | Organic #1 | Pulse Score 46/100 (Unrated, #1 in city) | The Music Class Kirkwood is a music school in Atlanta, GA at 1963 Hosea L Williams Drive Southeast #R108, Atlanta, GA 30317. Phone: +17706455578. | https://registry-edge.dingalinged.workers.dev/c/the-music-class-kirkwood-atlanta/
+1. The Music Class Kirkwood | Organic #1 | Pulse Score 46.1/100 (Unrated, #1 in city) | The Music Class Kirkwood is a music school in Atlanta, GA at 1963 Hosea L Williams Drive Southeast #R108, Atlanta, GA 30317. Phone: +17706455578. | https://registry-edge.dingalinged.workers.dev/c/the-music-class-kirkwood-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons atlanta ga | category: Education & childcare | industry benchmark: Education & Instruction

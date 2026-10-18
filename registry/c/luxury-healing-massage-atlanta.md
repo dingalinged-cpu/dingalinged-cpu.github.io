@@ -13,7 +13,7 @@ Luxury Healing Massage is a massage studio in Atlanta, GA at 1619 Buchanan Stree
 - Website: https://luxuryhealingmassa.wixsite.com/website
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 08:00-23:30; We 09:00-21:00; Sa 08:00-20:00; Su 08:00-18:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 10% of massage studios in Atlanta, #1 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 9% of massage studios in Atlanta, #1 of 13 massage studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

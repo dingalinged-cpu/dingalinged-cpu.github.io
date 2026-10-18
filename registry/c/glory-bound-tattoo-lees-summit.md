@@ -19,6 +19,6 @@ Glory Bound Tattoo is a tattoo shop in Lee's Summit, MO.
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/glory-bound-tattoo-lees-summit/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/glory-bound-tattoo-lees-summit.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/488794898 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/488794898 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

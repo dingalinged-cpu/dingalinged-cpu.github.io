@@ -13,7 +13,7 @@ Agape Family Medicine is a family medicine practice in Flower Mound, TX at Morri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 09:00-17:00; Sa 08:00-13:00
-- Pulse Score: 56.2/100 — Fair — top 64% of family medicine practices in Dallas–Fort Worth, #6 of 8 family medicine practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.2/100 — Fair — top 64% of family medicine practices in Dallas–Fort Worth, #6 of 8 family medicine practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

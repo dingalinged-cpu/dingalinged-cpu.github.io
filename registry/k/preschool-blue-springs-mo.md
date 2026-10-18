@@ -6,8 +6,8 @@ Also answers: preschool in Blue Springs, MO; preschool near me (Blue Springs, MO
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kinder Care Learning Center | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Kinder Care Learning Center is a preschool in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/kinder-care-learning-center-blue-springs/
-2. La Petite Academy | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | La Petite Academy is a preschool in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-blue-springs/
+1. Kinder Care Learning Center | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Kinder Care Learning Center is a preschool in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/kinder-care-learning-center-blue-springs/
+2. La Petite Academy | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | La Petite Academy is a preschool in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool blue springs mo | category: Education & childcare | industry benchmark: Education & Instruction

@@ -6,7 +6,7 @@ Also answers: haircut in Excelsior Springs, MO; haircut near me (Excelsior Sprin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Great Clips is a hair salon in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-excelsior-springs/
+1. Great Clips | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Great Clips is a hair salon in Excelsior Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-excelsior-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut excelsior springs mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

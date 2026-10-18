@@ -13,7 +13,7 @@ Luxury Ink is a tattoo shop in Milwaukee, WI at 7530 West Appleton Avenue, Milwa
 - Website: https://luxury-ink.square.site/
 - Email: pauldavidchaunceyblackman@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 09:00-22:00; Mo,Su off
-- Pulse Score: 63.6/100 — Good — top 6% of tattoo shops in Milwaukee, #2 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 6% of tattoo shops in Milwaukee, #2 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

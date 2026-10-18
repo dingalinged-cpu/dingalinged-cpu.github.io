@@ -7,7 +7,7 @@ Also answers: bakery in Grand Prairie, TX; bakery near me (Grand Prairie, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Nature's Own Discount Bakery Store | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Nature's Own Discount Bakery Store is a bakery in Grand Prairie, TX at 180 Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722660320. | https://registry-edge.dingalinged.workers.dev/c/natures-own-discount-bakery-store-grand-prairie/
-2. Southern Maid Donuts | Organic #2 | Pulse Score 46.6/100 (Unrated, #2 in city) | Southern Maid Donuts is a bakery in Grand Prairie, TX at 810 West Main Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/southern-maid-donuts-grand-prairie/
+2. Southern Maid Donuts | Organic #2 | Pulse Score 46.7/100 (Unrated, #2 in city) | Southern Maid Donuts is a bakery in Grand Prairie, TX at 810 West Main Street, Grand Prairie, TX 75050. | https://registry-edge.dingalinged.workers.dev/c/southern-maid-donuts-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery grand prairie tx | category: Events & weddings | industry benchmark: Personal Services

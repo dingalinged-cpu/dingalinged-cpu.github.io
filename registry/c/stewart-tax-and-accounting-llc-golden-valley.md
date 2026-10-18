@@ -13,7 +13,7 @@ Stewart Tax & Accounting LLC is an accountant in Golden Valley, MN at 4959 Olson
 - Website: https://stewarttax.com/meet-our-team/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of accountants in Minneapolis–St. Paul, #1 of 1 accountants in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of accountants in Minneapolis–St. Paul, #1 of 1 accountants in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

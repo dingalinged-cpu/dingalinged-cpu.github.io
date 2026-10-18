@@ -13,7 +13,7 @@ Kanwa Nails & Spa is a nail salon in Omaha, NE at 3606 North 156th Street ##106,
 - Website: https://www.kanwanailsandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 10:00-20:00; Th 10:00-20:30; Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of nail salons in Omaha, NE, #1 of 10 nail salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of nail salons in Omaha, NE, #1 of 10 nail salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Right Turn Recruiting, Inc (RTR) is a marketing agency in Saint Louis Park, MN a
 - Website: https://www.rightturnrecruiting.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 52% of marketing agencys in Minneapolis–St. Paul, #2 of 3 marketing agencys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 52% of marketing agencys in Minneapolis–St. Paul, #2 of 3 marketing agencys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

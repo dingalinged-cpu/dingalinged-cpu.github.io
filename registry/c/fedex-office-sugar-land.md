@@ -13,7 +13,7 @@ FedEx Office is a printing service in Sugar Land, TX at 1865 State Highway 6 #10
 - Website: https://local.fedex.com/en-us/tx/sugar-land/office-1917
 - Email: USA1917@FEDEX.COM
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-18:00
-- Pulse Score: 51.1/100 — Fair — top 28% of printing services in Houston, #1 of 1 printing services in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 69.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 28% of printing services in Houston, #1 of 1 printing services in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

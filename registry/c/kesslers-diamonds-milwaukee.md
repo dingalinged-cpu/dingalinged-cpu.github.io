@@ -13,7 +13,7 @@ Kesslers Diamonds is a jewelry store in Milwaukee, WI at 450 East Mason Street, 
 - Website: https://www.kesslersdiamonds.com/company/locations/milwaukee/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00
-- Pulse Score: 63.1/100 — Good — top 8% of jewelry stores in Milwaukee, #4 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 8% of jewelry stores in Milwaukee, #4 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

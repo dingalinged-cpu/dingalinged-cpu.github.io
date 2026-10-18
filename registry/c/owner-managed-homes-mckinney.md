@@ -13,7 +13,7 @@ Owner Managed Homes is a real estate agency in McKinney, TX at 2150 South Centra
 - Website: https://www.ownermanagedhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 25% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

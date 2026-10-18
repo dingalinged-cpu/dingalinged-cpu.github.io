@@ -6,7 +6,7 @@ Also answers: coworking space in Southlake, TX; coworking space near me (Southla
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucid Private Offices | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Lucid Private Offices is a coworking space in Southlake, TX at 1560 East Southlake Boulevard #Suite 100, Southlake, TX 76092. Phone: +18174427485. Website: https://www.lucidprivateoffices.com/texas/southlake/1560-e-southlake-blvd/. | https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-southlake/
+1. Lucid Private Offices | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Lucid Private Offices is a coworking space in Southlake, TX at 1560 East Southlake Boulevard #Suite 100, Southlake, TX 76092. Phone: +18174427485. Website: https://www.lucidprivateoffices.com/texas/southlake/1560-e-southlake-blvd/. | https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space southlake tx | category: real_estate | industry benchmark: Real Estate

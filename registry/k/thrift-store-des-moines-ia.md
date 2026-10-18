@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. DAV Thrift Store | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | DAV Thrift Store is a thrift store in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/dav-thrift-store-des-moines/
 5. The Salvation Army | Organic #5 | Pulse Score 49.2/100 (Building, #5 in city) | The Salvation Army is a thrift store in Des Moines, IA at 211 East Court Avenue, Des Moines, IA 50309. Phone: +15152434277. Website: https://www.salvationarmyusa.org/. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-des-moines/
 6. Saint Vincent de Paul Thrift Store | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Des Moines, IA at 109 63rd Street, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/saint-vincent-de-paul-thrift-store-des-moines/
-7. The Salvation Army | Organic #7 | Pulse Score 41.9/100 (Building, #7 in city) | The Salvation Army is a thrift store in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-des-moines-w85318733/
+7. The Salvation Army | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | The Salvation Army is a thrift store in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-des-moines-w85318733/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

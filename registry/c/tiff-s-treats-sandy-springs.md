@@ -13,7 +13,7 @@ Tiff’s Treats is a bakery in Sandy Springs, GA at 1165 Perimeter Center West #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa,Su 10:00-22:00
-- Pulse Score: 47/100 — Building — top 94% of bakerys in Atlanta, #2 of 2 bakerys in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 94% of bakerys in Atlanta, #2 of 2 bakerys in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Animal Motel is a dog boarding facility in Butler, WI at 13175 West Silver Sprin
 - Website: https://animalmotel.net/
 - Email: info@animalmotel.net
 - Opening hours (OSM syntax): Mo,We,Th,Fr 06:00-19:00; Tu 06:00-13:00,14:00-19:00; Sa 07:00-15:00; Su 09:00-10:00,16:00-19:00
-- Pulse Score: 62.6/100 — Good — top 38% of dog boarding facilitys in Milwaukee, #1 of 1 dog boarding facilitys in Butler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 38% of dog boarding facilitys in Milwaukee, #1 of 1 dog boarding facilitys in Butler (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

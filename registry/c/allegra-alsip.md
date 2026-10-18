@@ -13,7 +13,7 @@ Allegra is a marketing agency in Alsip, IL at 12549 South Holiday Drive, Alsip, 
 - Website: https://www.allegramarketingprint.com/locations/alsip-il
 - Email: info@alsipallegra.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of marketing agencys in Chicago, #1 of 1 marketing agencys in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 100% of marketing agencys in Chicago, #1 of 1 marketing agencys in Alsip (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Perrine's Wine Shop is a liquor store in Atlanta, GA at 1168 Howell Mill Road No
 - Website: https://perrineswine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:30; Su off
-- Pulse Score: 63.6/100 — Good — top 9% of liquor stores in Atlanta, #4 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 9% of liquor stores in Atlanta, #4 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

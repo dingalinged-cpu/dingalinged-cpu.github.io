@@ -13,7 +13,7 @@ Zilli Lake & Gardens is an event venue in Milwaukee, WI at 931 East Wisconsin Av
 - Website: https://zillilakeandgardens.com/
 - Email: info@zillilakeandgardens.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 15% of event venues in Milwaukee, #8 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 15% of event venues in Milwaukee, #8 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: pilates in Prosper, TX; pilates near me (Prosper, TX); best pilate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | Organic #1 | Pulse Score 42.6/100 (Building, #1 in city) | Club Pilates is a pilates studio in Prosper, TX at 4740 West University Drive #120, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-prosper/
+1. Club Pilates | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Club Pilates is a pilates studio in Prosper, TX at 4740 West University Drive #120, Prosper, TX. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates prosper tx | category: Fitness | industry benchmark: Health & Fitness

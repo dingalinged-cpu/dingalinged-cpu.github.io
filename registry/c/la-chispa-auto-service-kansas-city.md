@@ -13,12 +13,12 @@ La Chispa Auto Service is an auto repair shop in Kansas City, MO at 822 Van Brun
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Kansas City, MO, #38 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Kansas City, MO, #41 of 102 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-chispa-auto-service-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-chispa-auto-service-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/508146234 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/508146234 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

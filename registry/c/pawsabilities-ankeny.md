@@ -13,7 +13,7 @@ PawsAbilities is a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Anke
 - Website: https://www.pawsabilitiesia.org/
 - Email: info@hope-pawsabilities.org
 - Opening hours (OSM syntax): Sa-Su closed; Mo-Fr 06:45-17:30
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 25% of dog groomers in Des Moines, IA, #1 of 3 dog groomers in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 25% of dog groomers in Des Moines, IA, #1 of 3 dog groomers in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

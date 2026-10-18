@@ -13,7 +13,7 @@ The Hive is a coworking space in Milwaukee, WI at 720 North Milwaukee Street #30
 - Website: https://www.thehivemke.com/milwaukee-st.html
 - Email: info@thehivemke.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 46.9/100 — Building — top 80% of coworking spaces in Milwaukee, #11 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 74% of coworking spaces in Milwaukee, #10 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

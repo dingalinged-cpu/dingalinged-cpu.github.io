@@ -13,7 +13,7 @@ Affordable Self Storage is a self-storage facility in Denton, TX at 1029 Shady O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 47% of self-storage facilitys in Dallas–Fort Worth, #7 of 10 self-storage facilitys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 45% of self-storage facilitys in Dallas–Fort Worth, #6 of 10 self-storage facilitys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

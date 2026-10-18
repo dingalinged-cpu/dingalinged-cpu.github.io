@@ -13,7 +13,7 @@ Faded Barbershop Uptown is a hair salon in Minneapolis, MN at 2649 Lyndale Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-16:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Minneapolis–St. Paul, #38 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Minneapolis–St. Paul, #37 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

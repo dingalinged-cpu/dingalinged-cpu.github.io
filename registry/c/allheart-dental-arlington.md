@@ -13,7 +13,7 @@ Allheart Dental is a dentist in Arlington, TX at 901 West Pioneer Parkway ##101,
 - Website: https://www.allheartdentalcare.com/
 - Email: allheartdentalarlington@gmail.com
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00, Fr 10:00-19:00, Sa 09:00-04:00
-- Pulse Score: 52.6/100 — Fair — top 88% of dentists in Dallas–Fort Worth, #14 of 17 dentists in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.6/100 — Fair — top 87% of dentists in Dallas–Fort Worth, #14 of 17 dentists in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 68.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

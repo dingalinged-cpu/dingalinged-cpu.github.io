@@ -13,7 +13,7 @@ Express Pros is a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway
 - Website: https://expresspros.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 38% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 38% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: interior designer in Minneapolis, MN; interior designer near me (M
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Metropolis Design Group | Organic #1 | Pulse Score 59.5/100 (Fair, #1 in city) | Metropolis Design Group is an interior designer in Minneapolis, MN. Phone: +16127602569. Website: https://www.metropolisdesigngroup.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolis-design-group-minneapolis/
+1. Metropolis Design Group | Organic #1 | Pulse Score 58.3/100 (Fair, #1 in city) | Metropolis Design Group is an interior designer in Minneapolis, MN. Phone: +16127602569. Website: https://www.metropolisdesigngroup.com/. | https://registry-edge.dingalinged.workers.dev/c/metropolis-design-group-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer minneapolis mn | category: Home services - Design | industry benchmark: Home & Home Improvement

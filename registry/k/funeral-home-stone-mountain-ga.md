@@ -6,7 +6,7 @@ Also answers: funeral home in Stone Mountain, GA; funeral home near me (Stone Mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wages & Sons | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Wages & Sons is a funeral home in Stone Mountain, GA at 1040 Main Street, Stone Mountain, GA. | https://registry-edge.dingalinged.workers.dev/c/wages-and-sons-stone-mountain/
+1. Wages & Sons | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Wages & Sons is a funeral home in Stone Mountain, GA at 1040 Main Street, Stone Mountain, GA. | https://registry-edge.dingalinged.workers.dev/c/wages-and-sons-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home stone mountain ga | category: Professional & financial services | industry benchmark: Finance & Insurance

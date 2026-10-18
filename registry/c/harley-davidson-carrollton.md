@@ -13,7 +13,7 @@ Harley-Davidson is a motorcycle repair shop in Carrollton, TX. Phone: +197284557
 - Website: https://www.maverickhd.com/service/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 75% of motorcycle repair shops in Dallas–Fort Worth, #1 of 1 motorcycle repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 75% of motorcycle repair shops in Dallas–Fort Worth, #1 of 1 motorcycle repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

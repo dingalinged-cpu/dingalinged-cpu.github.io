@@ -6,7 +6,7 @@ Also answers: gym in Papillion, NE; gym near me (Papillion, NE); best gym Papill
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Anytime Fitness is a gym in Papillion, NE at 11336 South 96th Street, Papillion, NE 68046. Phone: +14025049555. Website: https://www.anytimefitness.com/gyms/1239/papillion-ne-68046/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-papillion/
+1. Anytime Fitness | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Papillion, NE at 11336 South 96th Street, Papillion, NE 68046. Phone: +14025049555. Website: https://www.anytimefitness.com/gyms/1239/papillion-ne-68046/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-papillion/
 2. Orangetheory Fitness | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Papillion, NE at 9820 South 71st Plaza, Papillion, NE 68133. Phone: +14029150111. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-papillion/
 3. Genesis Health Club | Organic #3 | Pulse Score 45/100 (Unrated, #3 in city) | Genesis Health Club is a gym in Papillion, NE at 845 Tara Plaza, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/genesis-health-club-papillion/
 

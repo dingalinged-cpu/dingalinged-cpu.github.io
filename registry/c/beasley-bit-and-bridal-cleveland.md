@@ -13,7 +13,7 @@ Beasley Bit and Bridal is an event venue in Cleveland, TX at 2218 County Road 22
 - Website: https://beasleybitandbridal.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of event venues in Houston, #1 of 1 event venues in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 11% of event venues in Houston, #1 of 1 event venues in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

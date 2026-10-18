@@ -6,7 +6,7 @@ Also answers: spa in Pleasant Hill, MO; spa near me (Pleasant Hill, MO); best sp
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shae Moon | Organic #1 | Pulse Score 58/100 (Fair, #1 in city) | Shae Moon is a spa in Pleasant Hill, MO. Website: https://www.facebook.com/ShaeMoonLLC/. | https://registry-edge.dingalinged.workers.dev/c/shae-moon-pleasant-hill/
+1. Shae Moon | Organic #1 | Pulse Score 57.5/100 (Fair, #1 in city) | Shae Moon is a spa in Pleasant Hill, MO. Website: https://www.facebook.com/ShaeMoonLLC/. | https://registry-edge.dingalinged.workers.dev/c/shae-moon-pleasant-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa pleasant hill mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

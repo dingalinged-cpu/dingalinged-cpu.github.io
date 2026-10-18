@@ -13,7 +13,7 @@ Valu+Pawn is a thrift store in Dallas, TX at 400 West Jefferson Boulevard, Dalla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00, Su 11:00-17:00
-- Pulse Score: 61/100 — Good — top 15% of thrift stores in Dallas–Fort Worth, #6 of 33 thrift stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61/100 — Good — top 15% of thrift stores in Dallas–Fort Worth, #6 of 33 thrift stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

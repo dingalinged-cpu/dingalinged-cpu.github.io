@@ -13,7 +13,7 @@ Bright Horizons is a preschool in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 99% of preschools in Chicago, #58 of 58 preschools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 99% of preschools in Chicago, #58 of 58 preschools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 42.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fiant Dental is a dentist in Minneapolis, MN at 3225 Lyndale Avenue South, Minne
 - Website: https://fiantdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 63.9/100 — Good — top 3% of dentists in Minneapolis–St. Paul, #4 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 3% of dentists in Minneapolis–St. Paul, #4 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

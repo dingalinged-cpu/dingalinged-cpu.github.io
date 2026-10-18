@@ -6,10 +6,10 @@ Also answers: mechanic in Clarkston, GA; mechanic near me (Clarkston, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alex Car Care | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Alex Car Care is an auto repair shop in Clarkston, GA at 4130 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14044990024. | https://registry-edge.dingalinged.workers.dev/c/alex-car-care-clarkston/
-2. No Automotive Repair | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | No Automotive Repair is an auto repair shop in Clarkston, GA at 3666 Market Street, Clarkston, GA 30021. Phone: +14042926990. | https://registry-edge.dingalinged.workers.dev/c/no-automotive-repair-clarkston/
-3. Tam's Auto Repair | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Tam's Auto Repair is an auto repair shop in Clarkston, GA at 4186 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14045081275. | https://registry-edge.dingalinged.workers.dev/c/tams-auto-repair-clarkston/
-4. Tran Auto Service | Organic #4 | Pulse Score 59/100 (Unrated, #4 in city) | Tran Auto Service is an auto repair shop in Clarkston, GA at 4202 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14042929777. | https://registry-edge.dingalinged.workers.dev/c/tran-auto-service-clarkston/
+1. Alex Car Care | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Alex Car Care is an auto repair shop in Clarkston, GA at 4130 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14044990024. | https://registry-edge.dingalinged.workers.dev/c/alex-car-care-clarkston/
+2. No Automotive Repair | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | No Automotive Repair is an auto repair shop in Clarkston, GA at 3666 Market Street, Clarkston, GA 30021. Phone: +14042926990. | https://registry-edge.dingalinged.workers.dev/c/no-automotive-repair-clarkston/
+3. Tam's Auto Repair | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Tam's Auto Repair is an auto repair shop in Clarkston, GA at 4186 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14045081275. | https://registry-edge.dingalinged.workers.dev/c/tams-auto-repair-clarkston/
+4. Tran Auto Service | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Tran Auto Service is an auto repair shop in Clarkston, GA at 4202 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +14042929777. | https://registry-edge.dingalinged.workers.dev/c/tran-auto-service-clarkston/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic clarkston ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

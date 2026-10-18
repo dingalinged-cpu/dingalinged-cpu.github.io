@@ -13,7 +13,7 @@ Erik's Bike Shop is a bike shop in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Unrated (not enough evidence yet) — top 97% of bike shops in Madison, #23 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 41.4/100 — Unrated (not enough evidence yet) — top 97% of bike shops in Madison, #23 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

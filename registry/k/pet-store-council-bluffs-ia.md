@@ -6,9 +6,9 @@ Also answers: pet store in Council Bluffs, IA; pet store near me (Council Bluffs
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Best Friends Pet Palace | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Best Friends Pet Palace is a pet store in Council Bluffs, IA at 2705 West Broadway, Council Bluffs, IA 51501. | https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-palace-council-bluffs/
-2. Bird Cage | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Bird Cage is a pet store in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/bird-cage-council-bluffs/
-3. Tropical Fish | Organic #3 | Pulse Score 53.7/100 (Unrated, #3 in city) | Tropical Fish is a pet store in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/tropical-fish-council-bluffs/
+1. Best Friends Pet Palace | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Best Friends Pet Palace is a pet store in Council Bluffs, IA at 2705 West Broadway, Council Bluffs, IA 51501. | https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-palace-council-bluffs/
+2. Bird Cage | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Bird Cage is a pet store in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/bird-cage-council-bluffs/
+3. Tropical Fish | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Tropical Fish is a pet store in Council Bluffs, IA. | https://registry-edge.dingalinged.workers.dev/c/tropical-fish-council-bluffs/
 4. PetSmart | Organic #4 | Pulse Score 49.1/100 (Building, #4 in city) | PetSmart is a pet store in Council Bluffs, IA at 815 McDermott Street, Council Bluffs, IA 51501. Phone: +17123668060. Website: https://www.petsmart.com/stores/us/ia/council-bluffs-store1943.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-council-bluffs/
 5. Petco | Organic #5 | Pulse Score 45.8/100 (Building, #5 in city) | Petco is a pet store in Council Bluffs, IA at 3271 Marketplace Drive #B7, Council Bluffs, IA 51501. Phone: +17123662913. Website: https://www.petco.com/. | https://registry-edge.dingalinged.workers.dev/c/petco-council-bluffs/
 

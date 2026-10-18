@@ -13,7 +13,7 @@ Custer Road Tire & Service (Goodyear) is an auto repair shop in Plano, TX at 105
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 74% of auto repair shops in Dallas–Fort Worth, #32 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 73% of auto repair shops in Dallas–Fort Worth, #32 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

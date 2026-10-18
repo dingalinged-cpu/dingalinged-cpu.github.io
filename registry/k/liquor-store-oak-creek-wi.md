@@ -7,8 +7,8 @@ Also answers: liquor store in Oak Creek, WI; liquor store near me (Oak Creek, WI
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. G & K Liquor Mart | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | G & K Liquor Mart is a liquor store in Oak Creek, WI at 1508 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/g-and-k-liquor-mart-oak-creek/
-2. Wine & Spirits | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Wine & Spirits is a liquor store in Oak Creek, WI at 2111 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/wine-and-spirits-oak-creek/
-3. Gary's Beer and Liquor | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Gary's Beer and Liquor is a liquor store in Oak Creek, WI at 9555 South Howell Avenue #200, Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/garys-beer-and-liquor-oak-creek/
+2. Gary's Beer and Liquor | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Gary's Beer and Liquor is a liquor store in Oak Creek, WI at 9555 South Howell Avenue #200, Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/garys-beer-and-liquor-oak-creek/
+3. Wine & Spirits | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Wine & Spirits is a liquor store in Oak Creek, WI at 2111 East Rawson Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/wine-and-spirits-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Alliance Clinic is an addiction treatment center in Minneapolis, MN at 3329 Univ
 - Website: https://www.meridianprograms.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of addiction treatment centers in Minneapolis–St. Paul, #1 of 1 addiction treatment centers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 25% of addiction treatment centers in Minneapolis–St. Paul, #1 of 1 addiction treatment centers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

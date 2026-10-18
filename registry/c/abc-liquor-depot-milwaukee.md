@@ -13,7 +13,7 @@ ABC Liquor Depot is a liquor store in Milwaukee, WI at 1606, 1608 North 35th Str
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-21:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Milwaukee, #5 of 37 liquor stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Milwaukee, #5 of 37 liquor stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

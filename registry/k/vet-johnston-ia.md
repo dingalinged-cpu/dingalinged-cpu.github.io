@@ -6,9 +6,9 @@ Also answers: vet in Johnston, IA; vet near me (Johnston, IA); best vet Johnston
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Value Vet | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Value Vet is a veterinarian in Johnston, IA at 8851 Northpark Drive #100, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/value-vet-johnston/
-2. Village Veterinary Hospital | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Village Veterinary Hospital is a veterinarian in Johnston, IA at 5305 Merle Hay Road, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/village-veterinary-hospital-johnston/
-3. Westfield Veterinary Hospital | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Westfield Veterinary Hospital is a veterinarian in Johnston, IA at 8789 Northwest 54th Avenue, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/westfield-veterinary-hospital-johnston/
+1. Value Vet | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Value Vet is a veterinarian in Johnston, IA at 8851 Northpark Drive #100, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/value-vet-johnston/
+2. Village Veterinary Hospital | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Village Veterinary Hospital is a veterinarian in Johnston, IA at 5305 Merle Hay Road, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/village-veterinary-hospital-johnston/
+3. Westfield Veterinary Hospital | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Westfield Veterinary Hospital is a veterinarian in Johnston, IA at 8789 Northwest 54th Avenue, Johnston, IA 50131. | https://registry-edge.dingalinged.workers.dev/c/westfield-veterinary-hospital-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet johnston ia | category: Pets | industry benchmark: Animals & Pets

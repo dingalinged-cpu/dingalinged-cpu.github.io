@@ -7,8 +7,8 @@ Also answers: nail salon in Paulding County, GA; nail salon near me (Paulding Co
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dallas Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Dallas Nails is a nail salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/dallas-nails-paulding-county/
-2. Elite Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Elite Nails is a nail salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/elite-nails-paulding-county/
-3. Nails & Toes | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Nails & Toes is a nail salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/nails-and-toes-paulding-county/
+2. Nails & Toes | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Nails & Toes is a nail salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/nails-and-toes-paulding-county/
+3. Elite Nails | Organic #3 | Pulse Score 42/100 (Unrated, #3 in city) | Elite Nails is a nail salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/elite-nails-paulding-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon paulding county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

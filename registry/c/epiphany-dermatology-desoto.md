@@ -13,7 +13,7 @@ Epiphany Dermatology is a dermatologist in DeSoto, TX at 2805 Prince George Aven
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.4/100 — Building — top 95% of dermatologists in Dallas–Fort Worth, #1 of 1 dermatologists in DeSoto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 95% of dermatologists in Dallas–Fort Worth, #1 of 1 dermatologists in DeSoto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

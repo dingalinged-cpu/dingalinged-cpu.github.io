@@ -6,7 +6,7 @@ Also answers: tattoo shop in West Des Moines, IA; tattoo shop near me (West Des 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Union Station West | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Union Station West is a tattoo shop in West Des Moines, IA at 519 Maple Street, West Des Moines, IA 50265. Phone: +15152744848. Website: https://unionstationwesttattoo.jimdo.com/. | https://registry-edge.dingalinged.workers.dev/c/union-station-west-west-des-moines/
+1. Union Station West | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Union Station West is a tattoo shop in West Des Moines, IA at 519 Maple Street, West Des Moines, IA 50265. Phone: +15152744848. Website: https://unionstationwesttattoo.jimdo.com/. | https://registry-edge.dingalinged.workers.dev/c/union-station-west-west-des-moines/
 2. Trinity Tattoo | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Trinity Tattoo is a tattoo shop in West Des Moines, IA at 123 5th Street #Suite 105, West Des Moines, IA 50265. Phone: +13195306998. | https://registry-edge.dingalinged.workers.dev/c/trinity-tattoo-west-des-moines/
 3. Skin Ritual | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Skin Ritual is a tattoo shop in West Des Moines, IA at 520 Elm Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/skin-ritual-west-des-moines/
 

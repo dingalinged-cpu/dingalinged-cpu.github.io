@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Milwaukee, WI at 2170 North Farwell Avenue, Milwauke
 - Website: https://www.anytimefitness.com/gyms/804/milwaukee-wi-53202/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.2/100 — Fair — top 50% of gyms in Milwaukee, #19 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 48% of gyms in Milwaukee, #18 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

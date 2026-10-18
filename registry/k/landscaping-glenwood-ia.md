@@ -6,7 +6,7 @@ Also answers: landscaping in Glenwood, IA; landscaping near me (Glenwood, IA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Indoor Garden | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | The Indoor Garden is a landscaping company in Glenwood, IA. | https://registry-edge.dingalinged.workers.dev/c/the-indoor-garden-glenwood/
+1. The Indoor Garden | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | The Indoor Garden is a landscaping company in Glenwood, IA. | https://registry-edge.dingalinged.workers.dev/c/the-indoor-garden-glenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping glenwood ia | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

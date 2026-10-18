@@ -13,7 +13,7 @@ Kenwood Pet Clinic is a veterinarian in Minneapolis, MN at 2107 Penn Avenue Sout
 - Website: https://www.kenwoodpetclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Minneapolis–St. Paul, #8 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Minneapolis–St. Paul, #8 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

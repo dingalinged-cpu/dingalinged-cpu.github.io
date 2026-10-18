@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Argyle
 - Website: https://www.actionbehavior.com/locations/texas/dallas-fort-worth/aba-therapy-northlake-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 84% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Argyle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 82% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Argyle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

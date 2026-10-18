@@ -6,7 +6,7 @@ Also answers: tax preparer in Corinth, TX; tax preparer near me (Corinth, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-corinth/
+1. H&R Block | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | H&R Block is a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer corinth tx | category: professional_accounting | industry benchmark: Business Services

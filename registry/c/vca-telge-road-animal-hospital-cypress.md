@@ -13,7 +13,7 @@ VCA Telge Road Animal Hospital is a veterinarian in Cypress, TX at 11430 Telge R
 - Website: https://vcahospitals.com/telge-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 08:00-14:00
-- Pulse Score: 62.1/100 — Good — top 12% of veterinarians in Houston, #1 of 2 veterinarians in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 12% of veterinarians in Houston, #1 of 2 veterinarians in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

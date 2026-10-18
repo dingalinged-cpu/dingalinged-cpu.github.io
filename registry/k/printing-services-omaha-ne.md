@@ -7,10 +7,10 @@ Also answers: printing services in Omaha, NE; printing services near me (Omaha, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. ABC Printing | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | ABC Printing is a printing service in Omaha, NE at 13302 Millard Avenue #104, Omaha, NE 68137. Phone: +14028950222. Website: https://abcprintingomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/abc-printing-omaha/
-2. FedEx Office | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | FedEx Office is a printing service in Omaha, NE at 16811 Burke Street, Omaha, NE 68118. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha/
-3. FedEx Office | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | FedEx Office is a printing service in Omaha, NE at 7110 Dodge Street, Omaha, NE 68132. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha-n1967920289/
-4. The UPS Store (Coming Soon) | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | The UPS Store (Coming Soon) is a printing service in Omaha, NE at 321 South 17th Street, Omaha, NE 68102. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-coming-soon-omaha/
-5. FedEx Office | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | FedEx Office is a printing service in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha-n9162843020/
+2. FedEx Office | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | FedEx Office is a printing service in Omaha, NE at 16811 Burke Street, Omaha, NE 68118. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha/
+3. FedEx Office | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | FedEx Office is a printing service in Omaha, NE at 7110 Dodge Street, Omaha, NE 68132. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha-n1967920289/
+4. The UPS Store (Coming Soon) | Organic #4 | Pulse Score 44.6/100 (Building, #4 in city) | The UPS Store (Coming Soon) is a printing service in Omaha, NE at 321 South 17th Street, Omaha, NE 68102. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-coming-soon-omaha/
+5. FedEx Office | Organic #5 | Pulse Score 41.2/100 (Building, #5 in city) | FedEx Office is a printing service in Omaha, NE. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-omaha-n9162843020/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services omaha ne | category: Professional & financial services | industry benchmark: Finance & Insurance

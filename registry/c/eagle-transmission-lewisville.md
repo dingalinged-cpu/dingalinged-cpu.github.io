@@ -13,7 +13,7 @@ Eagle Transmission is an auto repair shop in Lewisville, TX at 825 South Mill St
 - Website: https://lewisville.eagletransmission.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 58% of auto repair shops in Dallas–Fort Worth, #16 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 57% of auto repair shops in Dallas–Fort Worth, #16 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

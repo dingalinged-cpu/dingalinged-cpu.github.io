@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Chicago, IL at 213 West Grand Avenue
 - Website: https://www.binnys.com/store-locator/chicago-downtown/
 - Email: grand@binnys.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51/100 — Fair — top 85% of liquor stores in Chicago, #110 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51/100 — Fair — top 82% of liquor stores in Chicago, #110 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

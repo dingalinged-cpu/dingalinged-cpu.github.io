@@ -13,7 +13,7 @@ Salvation Army Family Store is a thrift store in Burlington, WI at 248 South Pin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 11% of thrift stores in Milwaukee, #1 of 1 thrift stores in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 11% of thrift stores in Milwaukee, #1 of 1 thrift stores in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

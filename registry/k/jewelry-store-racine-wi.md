@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Plumb Gold | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Plumb Gold is a jewelry store in Racine, WI at 322 Main Street, Racine, WI. Website: https://www.plumbgoldltd.com/. | https://registry-edge.dingalinged.workers.dev/c/plumb-gold-racine/
 2. Plumb Silver | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Plumb Silver is a jewelry store in Racine, WI at 324 Main Street, Racine, WI. Website: https://www.plumbgoldltd.com/. | https://registry-edge.dingalinged.workers.dev/c/plumb-silver-racine/
-3. Brandt Jewelers | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Brandt Jewelers is a jewelry store in Racine, WI at 218 6th Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/brandt-jewelers-racine/
+3. Brandt Jewelers | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Brandt Jewelers is a jewelry store in Racine, WI at 218 6th Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/brandt-jewelers-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

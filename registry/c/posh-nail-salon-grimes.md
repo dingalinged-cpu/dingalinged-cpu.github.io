@@ -13,7 +13,7 @@ Posh Nail Salon is a nail salon in Grimes, IA at 1895 Southeast 19th Street #105
 - Website: https://www.facebook.com/poshnailsalongrimes
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 15% of nail salons in Des Moines, IA, #1 of 2 nail salons in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 15% of nail salons in Des Moines, IA, #1 of 2 nail salons in Grimes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

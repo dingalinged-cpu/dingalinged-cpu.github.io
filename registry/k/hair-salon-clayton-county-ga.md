@@ -8,10 +8,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Headz Up Barbershop | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Headz Up Barbershop is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/headz-up-barbershop-clayton-county/
 2. Klutch ATL Barbershop | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Klutch ATL Barbershop is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/klutch-atl-barbershop-clayton-county/
-3. Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Salon is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/salon-clayton-county-n11085606695/
-4. The Braid Bar | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | The Braid Bar is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/the-braid-bar-clayton-county/
-5. Thrive Hair Salon | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Thrive Hair Salon is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/thrive-hair-salon-clayton-county/
-6. Virgin Hair | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Virgin Hair is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/virgin-hair-clayton-county/
+3. The Braid Bar | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | The Braid Bar is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/the-braid-bar-clayton-county/
+4. Thrive Hair Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Thrive Hair Salon is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/thrive-hair-salon-clayton-county/
+5. Virgin Hair | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Virgin Hair is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/virgin-hair-clayton-county/
+6. Salon | Organic #6 | Pulse Score 42/100 (Unrated, #6 in city) | Salon is a hair salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/salon-clayton-county-n11085606695/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon clayton county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

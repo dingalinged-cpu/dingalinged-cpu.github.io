@@ -13,7 +13,7 @@ Clement Chiropractic is a chiropractor in West Des Moines, IA at 475 South 50th 
 - Website: https://www.clementchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-18:00; Tu 14:00-18:00; We 08:00-16:00; Th 14:00-18:00; Fr 07:00-13:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 13% of chiropractors in Des Moines, IA, #2 of 3 chiropractors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 16% of chiropractors in Des Moines, IA, #2 of 3 chiropractors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

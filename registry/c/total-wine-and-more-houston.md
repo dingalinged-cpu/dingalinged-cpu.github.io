@@ -13,7 +13,7 @@ Total Wine & More is a liquor store in Houston, TX at 12516 Memorial Drive, Hous
 - Website: https://www.totalwine.com/store-info/texas-memorial/517
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 3% of liquor stores in Houston, #2 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 3% of liquor stores in Houston, #2 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

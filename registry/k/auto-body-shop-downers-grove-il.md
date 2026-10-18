@@ -6,7 +6,7 @@ Also answers: auto body shop in Downers Grove, IL; auto body shop near me (Downe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob Carter's Auto Body Inc | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://registry-edge.dingalinged.workers.dev/c/bob-carters-auto-body-inc-downers-grove/
+1. Bob Carter's Auto Body Inc | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://registry-edge.dingalinged.workers.dev/c/bob-carters-auto-body-inc-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop downers grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

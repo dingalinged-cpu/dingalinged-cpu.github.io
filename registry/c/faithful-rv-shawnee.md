@@ -13,12 +13,12 @@ Faithful RV is an auto repair shop in Shawnee, KS at 5900 Nieman Rd, Suite 100B,
 - Website: https://faithfulrv.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Kansas City, MO, #1 of 20 auto repair shops in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Kansas City, MO, #1 of 21 auto repair shops in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/faithful-rv-shawnee/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/faithful-rv-shawnee.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/12736232445 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12736232445 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

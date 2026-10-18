@@ -6,7 +6,7 @@ Also answers: landscaping in Forney, TX; landscaping near me (Forney, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Starr Turf Grass Inc. | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Starr Turf Grass Inc. is a landscaping company in Forney, TX at 15651 West US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/starr-turf-grass-inc-forney/
+1. Starr Turf Grass Inc. | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Starr Turf Grass Inc. is a landscaping company in Forney, TX at 15651 West US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/starr-turf-grass-inc-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping forney tx | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

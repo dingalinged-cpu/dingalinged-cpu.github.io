@@ -13,7 +13,7 @@ Mayberry Gardens Assisted Living and Memory Care Homes is an assisted living fac
 - Website: https://www.mayberrygardens.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of assisted living facilitys in Dallas–Fort Worth, #1 of 1 assisted living facilitys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of assisted living facilitys in Dallas–Fort Worth, #1 of 1 assisted living facilitys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

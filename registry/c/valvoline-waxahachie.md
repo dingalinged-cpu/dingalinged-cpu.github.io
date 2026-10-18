@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Waxahachie, TX at 1740 North US Highway 77, 
 - Website: https://store.vioc.com/tx/waxahachie/oil-change-070102.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 70% of auto repair shops in Dallas–Fort Worth, #11 of 17 auto repair shops in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47/100 — Building — top 69% of auto repair shops in Dallas–Fort Worth, #11 of 17 auto repair shops in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

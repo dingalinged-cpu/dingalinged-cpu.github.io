@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Jerry's Printing | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Jerry's Printing is a printing service in Edina, MN. Phone: +19529201949. Website: https://www.jerrysprinting.com/. | https://registry-edge.dingalinged.workers.dev/c/jerrys-printing-edina/
 2. The UPS Store | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | The UPS Store is a printing service in Edina, MN at 5021 Vernon Avenue, Edina, MN 55436. Website: https://locations.theupsstore.com/mn/edina/5021-vernon-ave. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-edina/
-3. The UPS Store | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | The UPS Store is a printing service in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-edina-n11449400290/
+3. The UPS Store | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | The UPS Store is a printing service in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-edina-n11449400290/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services edina mn | category: Professional & financial services | industry benchmark: Finance & Insurance

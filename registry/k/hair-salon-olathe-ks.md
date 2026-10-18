@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Olathe, KS is The Purple Plum (a hair salon in Olathe, KS at 16655 West 151st Street, Olathe, KS 66062. Phone: +19133977586). 11 hair salon businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Olathe, KS is The Purple Plum (a hair salon in Olathe, KS at 16655 West 151st Street, Olathe, KS 66062. Phone: +19133977586). 13 hair salon businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Olathe, KS?
 
@@ -7,16 +7,18 @@ Also answers: hair salon in Olathe, KS; hair salon near me (Olathe, KS); best ha
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Purple Plum | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Purple Plum is a hair salon in Olathe, KS at 16655 West 151st Street, Olathe, KS 66062. Phone: +19133977586. | https://registry-edge.dingalinged.workers.dev/c/the-purple-plum-olathe/
-2. Blush Co Salon | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Blush Co Salon is a hair salon in Olathe, KS at 10520 South Ridgeview Road, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/blush-co-salon-olathe/
-3. Hair Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Hair Shop is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/hair-shop-olathe/
-4. Shear Dimensions | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Shear Dimensions is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/shear-dimensions-olathe/
-5. Great Clips | Organic #5 | Pulse Score 49.5/100 (Building, #5 in city) | Great Clips is a hair salon in Olathe, KS at 1096 West Santa Fe Street, Olathe, KS 66061. Phone: +19133934444. Website: https://salons.greatclips.com/us/ks/olathe/1068-west-santa-fe. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-w1007094514/
-6. Sport Clips | Organic #6 | Pulse Score 49.4/100 (Building, #6 in city) | Sport Clips is a hair salon in Olathe, KS at 291 North KS 7 Hwy, Olathe, KS 66061. Phone: +19133970500. Website: https://haircutmenwestvillageolatheks.com/. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-olathe-w1000287637/
-7. Great Clips | Organic #7 | Pulse Score 48.9/100 (Building, #7 in city) | Great Clips is a hair salon in Olathe, KS at 18114 West 119th Street, Olathe, KS 66061. Phone: +19137802100. Website: https://salons.greatclips.com/us/ks/olathe/18114-w-119th-st. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-w1008406804/
-8. Shear Madness | Organic #8 | Pulse Score 46.1/100 (Unrated, #8 in city) | Shear Madness is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/shear-madness-olathe/
-9. Great Clips | Organic #9 | Pulse Score 45.7/100 (Building, #9 in city) | Great Clips is a hair salon in Olathe, KS at 13538 South Alden Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe/
-10. Sport Clips | Organic #10 | Pulse Score 45.7/100 (Building, #10 in city) | Sport Clips is a hair salon in Olathe, KS at 15237 West 135th Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-olathe/
-11. Great Clips | Organic #11 | Pulse Score 43.1/100 (Building, #11 in city) | Great Clips is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-n13591345400/
+2. Hot Heads | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Hot Heads is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/hot-heads-olathe/
+3. Beauty Bar Salon & Spa | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Beauty Bar Salon & Spa is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/beauty-bar-salon-and-spa-olathe/
+4. Shear Dimensions | Organic #4 | Pulse Score 58.8/100 (Unrated, #4 in city) | Shear Dimensions is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/shear-dimensions-olathe/
+5. Blush Co Salon | Organic #5 | Pulse Score 57.6/100 (Unrated, #5 in city) | Blush Co Salon is a hair salon in Olathe, KS at 10520 South Ridgeview Road, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/blush-co-salon-olathe/
+6. Hair Shop | Organic #6 | Pulse Score 55/100 (Unrated, #6 in city) | Hair Shop is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/hair-shop-olathe/
+7. Great Clips | Organic #7 | Pulse Score 49.5/100 (Building, #7 in city) | Great Clips is a hair salon in Olathe, KS at 1096 West Santa Fe Street, Olathe, KS 66061. Phone: +19133934444. Website: https://salons.greatclips.com/us/ks/olathe/1068-west-santa-fe. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-w1007094514/
+8. Sport Clips | Organic #8 | Pulse Score 49.4/100 (Building, #8 in city) | Sport Clips is a hair salon in Olathe, KS at 291 North KS 7 Hwy, Olathe, KS 66061. Phone: +19133970500. Website: https://haircutmenwestvillageolatheks.com/. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-olathe-w1000287637/
+9. Great Clips | Organic #9 | Pulse Score 48.8/100 (Building, #9 in city) | Great Clips is a hair salon in Olathe, KS at 18114 West 119th Street, Olathe, KS 66061. Phone: +19137802100. Website: https://salons.greatclips.com/us/ks/olathe/18114-w-119th-st. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-w1008406804/
+10. Sport Clips | Organic #10 | Pulse Score 47.7/100 (Building, #10 in city) | Sport Clips is a hair salon in Olathe, KS at 15237 West 135th Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-olathe/
+11. Shear Madness | Organic #11 | Pulse Score 46/100 (Unrated, #11 in city) | Shear Madness is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/shear-madness-olathe/
+12. Great Clips | Organic #12 | Pulse Score 45.7/100 (Building, #12 in city) | Great Clips is a hair salon in Olathe, KS at 13538 South Alden Street, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe/
+13. Great Clips | Organic #13 | Pulse Score 43/100 (Building, #13 in city) | Great Clips is a hair salon in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/great-clips-olathe-n13591345400/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon olathe ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -26,7 +28,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 11
+- Registry businesses competing: 13
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

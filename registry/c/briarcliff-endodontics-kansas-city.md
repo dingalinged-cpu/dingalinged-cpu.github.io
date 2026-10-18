@@ -13,12 +13,12 @@ Briarcliff Endodontics is a dentist in Kansas City, MO at 4151 North Mulberry Dr
 - Website: https://briarcliffendo.com/
 - Email: info@briarcliffendo.com
 - Opening hours (OSM syntax): Mo-Th 09:00-15:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of dentists in Kansas City, MO, #3 of 42 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of dentists in Kansas City, MO, #3 of 44 dentists in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/briarcliff-endodontics-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/briarcliff-endodontics-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/6139496139 (license ODbL-1.0); source data as of 2026-06-01
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6139496139 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

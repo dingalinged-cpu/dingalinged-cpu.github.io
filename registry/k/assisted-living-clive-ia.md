@@ -7,7 +7,7 @@ Also answers: assisted living in Clive, IA; assisted living near me (Clive, IA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Walnut Ridge Senior Living Community | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Walnut Ridge Senior Living Community is an assisted living facility in Clive, IA. Phone: +15154571111. Website: https://www.preshomes.org/our-communities/walnut-ridge. | https://registry-edge.dingalinged.workers.dev/c/walnut-ridge-senior-living-community-clive/
-2. Meadowview of Clive | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Meadowview of Clive is an assisted living facility in Clive, IA. Website: https://www.meadowviewclive.com/. | https://registry-edge.dingalinged.workers.dev/c/meadowview-of-clive-clive/
+2. Meadowview of Clive | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Meadowview of Clive is an assisted living facility in Clive, IA. Website: https://www.meadowviewclive.com/. | https://registry-edge.dingalinged.workers.dev/c/meadowview-of-clive-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living clive ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

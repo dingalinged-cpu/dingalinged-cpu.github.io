@@ -13,7 +13,7 @@ Orange Tree Imports is a gift shop in Madison, WI at 1721 Monroe Street, Madison
 - Website: https://www.orangetreeimports.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:30; Su 12:00-16:00
-- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 6% of gift shops in Madison, #1 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 6% of gift shops in Madison, #1 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

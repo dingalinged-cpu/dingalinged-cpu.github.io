@@ -13,7 +13,7 @@ Truficient Energy Solutions is a HVAC contractor in Richardson, TX at 808 Busine
 - Website: https://truficient.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 21% of HVAC contractors in Dallas–Fort Worth, #3 of 5 HVAC contractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 21% of HVAC contractors in Dallas–Fort Worth, #3 of 5 HVAC contractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

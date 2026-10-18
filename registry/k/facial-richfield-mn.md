@@ -6,7 +6,7 @@ Also answers: facial in Richfield, MN; facial near me (Richfield, MN); best faci
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 49.4/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-minneapolis/
+1. Ulta Beauty | Organic #1 | Pulse Score 49.5/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial richfield mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

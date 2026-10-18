@@ -6,7 +6,7 @@ Also answers: funeral home in Wilmette, IL; funeral home near me (Wilmette, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weinstein & Piser Funeral Home | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Weinstein & Piser Funeral Home is a funeral home in Wilmette, IL at 111 Skokie Boulevard, Wilmette, IL 60091. Website: https://www.dignitymemorialjewish.com/weinstein-and-piser-funeral-home/en-us/index.page. | https://registry-edge.dingalinged.workers.dev/c/weinstein-and-piser-funeral-home-wilmette/
+1. Weinstein & Piser Funeral Home | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Weinstein & Piser Funeral Home is a funeral home in Wilmette, IL at 111 Skokie Boulevard, Wilmette, IL 60091. Website: https://www.dignitymemorialjewish.com/weinstein-and-piser-funeral-home/en-us/index.page. | https://registry-edge.dingalinged.workers.dev/c/weinstein-and-piser-funeral-home-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home wilmette il | category: Professional & financial services | industry benchmark: Finance & Insurance

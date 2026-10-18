@@ -13,7 +13,7 @@ Art in Gold Jewelers is a jewelry store in Lewisville, TX. Phone: +12142519365.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00; PH closed
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 8% of jewelry stores in Dallas–Fort Worth, #5 of 7 jewelry stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 8% of jewelry stores in Dallas–Fort Worth, #5 of 7 jewelry stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

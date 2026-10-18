@@ -13,7 +13,7 @@ Pebbles Polish is a nail salon in Cobb County, GA at 2809 Canton Road #600, Cobb
 - Website: https://www.pebblespolish.com/
 - Email: Customerservice@pebblespolish.com
 - Opening hours (OSM syntax): Mo-Tu off; We-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 64.1/100 — Good — top 5% of nail salons in Atlanta, #2 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 5% of nail salons in Atlanta, #2 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

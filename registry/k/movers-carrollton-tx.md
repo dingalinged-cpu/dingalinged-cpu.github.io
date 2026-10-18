@@ -6,7 +6,7 @@ Also answers: movers in Carrollton, TX; movers near me (Carrollton, TX); best mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McMurry Piano Moving Co. | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | McMurry Piano Moving Co. is a moving company in Carrollton, TX at 1717 East Crosby Road, Carrollton, TX 75006. Phone: +19722421990. Website: https://pianosonthemove.com/. | https://registry-edge.dingalinged.workers.dev/c/mcmurry-piano-moving-co-carrollton/
+1. McMurry Piano Moving Co. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | McMurry Piano Moving Co. is a moving company in Carrollton, TX at 1717 East Crosby Road, Carrollton, TX 75006. Phone: +19722421990. Website: https://pianosonthemove.com/. | https://registry-edge.dingalinged.workers.dev/c/mcmurry-piano-moving-co-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers carrollton tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

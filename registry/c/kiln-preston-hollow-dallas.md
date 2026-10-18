@@ -13,7 +13,7 @@ Kiln Preston Hollow is a coworking space in Dallas, TX at 9850 North Central Exp
 - Website: https://www.kiln.com/communities/preston-hollow
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 12% of coworking spaces in Dallas–Fort Worth, #3 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 12% of coworking spaces in Dallas–Fort Worth, #3 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

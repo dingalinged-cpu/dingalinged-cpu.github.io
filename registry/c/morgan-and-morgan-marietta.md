@@ -13,7 +13,7 @@ Morgan & Morgan is a lawyer in Marietta, GA at 1350 Church Street Extension Nort
 - Website: https://www.forthepeople.com/office-locations/georgia/marietta/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 46.8/100 — Building — top 98% of lawyers in Atlanta, #13 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 98% of lawyers in Atlanta, #13 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

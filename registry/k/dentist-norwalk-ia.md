@@ -7,7 +7,7 @@ Also answers: dentist in Norwalk, IA; dentist near me (Norwalk, IA); best dentis
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Norwalk Family Dentistry | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Norwalk Family Dentistry is a dentist in Norwalk, IA at 1101 Chatham Avenue, Norwalk, IA 50211. Phone: +15152569000. Website: https://norwalkfamilydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/norwalk-family-dentistry-norwalk/
-2. Johnson Orthodontics | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Johnson Orthodontics is a dentist in Norwalk, IA at 2251 Sunset Dr #Unit 1, Norwalk, IA 50211. | https://registry-edge.dingalinged.workers.dev/c/johnson-orthodontics-norwalk/
+2. Johnson Orthodontics | Organic #2 | Pulse Score 45/100 (Unrated, #2 in city) | Johnson Orthodontics is a dentist in Norwalk, IA at 2251 Sunset Dr #Unit 1, Norwalk, IA 50211. | https://registry-edge.dingalinged.workers.dev/c/johnson-orthodontics-norwalk/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist norwalk ia | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

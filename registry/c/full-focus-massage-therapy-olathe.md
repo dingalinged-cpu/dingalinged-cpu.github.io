@@ -13,12 +13,12 @@ Full Focus Massage Therapy is a massage studio in Olathe, KS at 153 West 151st S
 - Website: https://www.massagebook.com/Olathe~Massage~FullFocusMassageTherapy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of massage studios in Kansas City, MO, #2 of 3 massage studios in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of massage studios in Kansas City, MO, #3 of 4 massage studios in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/full-focus-massage-therapy-olathe/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/full-focus-massage-therapy-olathe.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/1006639965 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1006639965 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

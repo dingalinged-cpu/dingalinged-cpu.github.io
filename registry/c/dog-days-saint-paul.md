@@ -13,7 +13,7 @@ Dog Days is a dog boarding facility in Saint Paul, MN at 350 University Avenue E
 - Website: https://www.dogdaysinc.com/
 - Email: capitol@dogdaysinc.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30; Sa 08:00-10:30,16:30-19:30
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 9% of dog boarding facilitys in Minneapolis–St. Paul, #2 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 9% of dog boarding facilitys in Minneapolis–St. Paul, #2 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

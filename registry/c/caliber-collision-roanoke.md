@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Roanoke, TX at 1361 North US Highway
 - Website: https://www.caliber.com/find-a-location/roanoke
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; Sa-Su off
-- Pulse Score: 49.1/100 — Building — top 62% of auto repair shops in Dallas–Fort Worth, #2 of 9 auto repair shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 61% of auto repair shops in Dallas–Fort Worth, #2 of 9 auto repair shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

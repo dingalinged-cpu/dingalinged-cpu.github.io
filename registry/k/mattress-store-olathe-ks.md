@@ -6,7 +6,7 @@ Also answers: mattress store in Olathe, KS; mattress store near me (Olathe, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Olathe, KS at 15245 West 119th Street, Olathe, KS 66062. Phone: +19137643435. Website: https://www.mattressfirm.com/en-us/stores/ks/olathe/009003/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-olathe/
+1. Mattress Firm | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Mattress Firm is a mattress store in Olathe, KS at 15245 West 119th Street, Olathe, KS 66062. Phone: +19137643435. Website: https://www.mattressfirm.com/en-us/stores/ks/olathe/009003/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store olathe ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

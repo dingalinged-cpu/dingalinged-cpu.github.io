@@ -13,7 +13,7 @@ Lassiter Animal Hospital is a veterinarian in Cobb County, GA at 2960 Johnson Fe
 - Website: https://lassiteranimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off
-- Pulse Score: 59.8/100 — Fair — top 43% of veterinarians in Atlanta, #11 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 43% of veterinarians in Atlanta, #11 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: accountant in Valley, NE; accountant near me (Valley, NE); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert Kingston CPA | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Robert Kingston CPA is an accountant in Valley, NE at 222 North Spruce Street, Valley, NE 68064. | https://registry-edge.dingalinged.workers.dev/c/robert-kingston-cpa-valley/
+1. Robert Kingston CPA | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Robert Kingston CPA is an accountant in Valley, NE at 222 North Spruce Street, Valley, NE 68064. | https://registry-edge.dingalinged.workers.dev/c/robert-kingston-cpa-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant valley ne | category: professional_accounting | industry benchmark: Business Services

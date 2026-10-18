@@ -6,8 +6,8 @@ Also answers: heating and air in Oak Creek, WI; heating and air near me (Oak Cre
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. E & R Heating and Cooling | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | E & R Heating and Cooling is a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/. | https://registry-edge.dingalinged.workers.dev/c/e-and-r-heating-and-cooling-oak-creek/
-2. Stramowski Heating Inc | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Stramowski Heating Inc is a HVAC contractor in Oak Creek, WI at 6508 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147626457. Website: https://www.stramowski.com/. | https://registry-edge.dingalinged.workers.dev/c/stramowski-heating-inc-oak-creek/
+1. E & R Heating and Cooling | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | E & R Heating and Cooling is a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/. | https://registry-edge.dingalinged.workers.dev/c/e-and-r-heating-and-cooling-oak-creek/
+2. Stramowski Heating Inc | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Stramowski Heating Inc is a HVAC contractor in Oak Creek, WI at 6508 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147626457. Website: https://www.stramowski.com/. | https://registry-edge.dingalinged.workers.dev/c/stramowski-heating-inc-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air oak creek wi | category: Home Services | industry benchmark: Home & Home Improvement

@@ -7,7 +7,7 @@ Also answers: nail salon in Racine, WI; nail salon near me (Racine, WI); best na
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Michelles Nails & Spa | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Michelles Nails & Spa is a nail salon in Racine, WI at 4111 Durand Avenue #13a, Racine, WI 53405. Phone: +12628003464. Website: https://michellesnailsparacine.com/. | https://registry-edge.dingalinged.workers.dev/c/michelles-nails-and-spa-racine/
-2. Diva Nails | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Diva Nails is a nail salon in Racine, WI at 5201 Washington Avenue #K, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/diva-nails-racine/
+2. Diva Nails | Organic #2 | Pulse Score 43.4/100 (Unrated, #2 in city) | Diva Nails is a nail salon in Racine, WI at 5201 Washington Avenue #K, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/diva-nails-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon racine wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

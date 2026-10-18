@@ -6,7 +6,7 @@ Also answers: furniture store in Waller County, TX; furniture store near me (Wal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rooms To Go | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | Rooms To Go is a furniture store in Waller County, TX. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-waller-county/
+1. Rooms To Go | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | Rooms To Go is a furniture store in Waller County, TX. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-waller-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store waller county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

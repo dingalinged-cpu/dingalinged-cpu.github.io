@@ -7,7 +7,7 @@ Also answers: haircut in Paulding County, GA; haircut near me (Paulding County, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Evan-Blake Salon | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Evan-Blake Salon is a hair salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/evan-blake-salon-paulding-county/
-2. Pete's Barber Shop | Organic #2 | Pulse Score 54.2/100 (Unrated, #1 in city) | Pete's Barber Shop is a barber shop in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/petes-barber-shop-paulding-county/
+2. Pete's Barber Shop | Organic #2 | Pulse Score 54.1/100 (Unrated, #1 in city) | Pete's Barber Shop is a barber shop in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/petes-barber-shop-paulding-county/
 3. Great Clips | Organic #3 | Pulse Score 42.3/100 (Building, #2 in city) | Great Clips is a hair salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/great-clips-paulding-county/
 4. Sport Clips | Organic #4 | Pulse Score 42.3/100 (Building, #3 in city) | Sport Clips is a hair salon in Paulding County, GA. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-paulding-county/
 

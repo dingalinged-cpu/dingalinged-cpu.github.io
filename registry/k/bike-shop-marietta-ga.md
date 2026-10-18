@@ -6,7 +6,7 @@ Also answers: bike shop in Marietta, GA; bike shop near me (Marietta, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Free-Flite Bicycles | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Free-Flite Bicycles is a bike shop in Marietta, GA at 4177 Roswell Road, Marietta, GA 30062. Phone: +17709779696. Website: https://www.freeflite.com/articles/free-flite-bicycles-stores-east-cobb-pg672.htm. | https://registry-edge.dingalinged.workers.dev/c/free-flite-bicycles-marietta/
+1. Free-Flite Bicycles | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Free-Flite Bicycles is a bike shop in Marietta, GA at 4177 Roswell Road, Marietta, GA 30062. Phone: +17709779696. Website: https://www.freeflite.com/articles/free-flite-bicycles-stores-east-cobb-pg672.htm. | https://registry-edge.dingalinged.workers.dev/c/free-flite-bicycles-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop marietta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

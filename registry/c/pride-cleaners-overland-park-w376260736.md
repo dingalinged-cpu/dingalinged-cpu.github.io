@@ -19,6 +19,6 @@ Pride Cleaners is a dry cleaner in Overland Park, KS at 5700 West 95th Street, O
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-overland-park-w376260736/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pride-cleaners-overland-park-w376260736.json
-- Source: OpenStreetMap https://www.openstreetmap.org/way/376260736 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/way/376260736 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

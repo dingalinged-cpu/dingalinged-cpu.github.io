@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 1261 West 11th Street, Houst
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001049/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.7/100 — Fair — top 25% of mattress stores in Houston, #8 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 68. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 24% of mattress stores in Houston, #8 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 67.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

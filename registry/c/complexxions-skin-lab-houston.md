@@ -13,7 +13,7 @@ Complexxions Skin Lab is a spa in Houston, TX at 2855 Mangum Road, Houston, TX 7
 - Website: https://www.complexxionsskinlab.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,Fr 10:30-18:00; We 10:30-19:00; Sa 10:30-15:30
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of spas in Houston, #1 of 3 spas in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 20% of spas in Houston, #1 of 3 spas in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

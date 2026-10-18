@@ -13,7 +13,7 @@ Salon Amroze is a hair salon in Milwaukee, WI. Phone: +14145507788. Website: htt
 - Website: https://www.facebook.com/pg/Salon-Amroze-233823496957842/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Pulse Score: 62.4/100 — Good — top 13% of hair salons in Milwaukee, #31 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 13% of hair salons in Milwaukee, #30 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

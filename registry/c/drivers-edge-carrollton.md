@@ -13,7 +13,7 @@ Driver's Edge is an auto repair shop in Carrollton, TX at 1401 Wainwright Way, C
 - Website: https://www.mydriversedge.com/locations/carrollton-auto-repair/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
-- Pulse Score: 50.5/100 — Unrated (not enough evidence yet) — top 58% of auto repair shops in Dallas–Fort Worth, #11 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.5/100 — Unrated (not enough evidence yet) — top 57% of auto repair shops in Dallas–Fort Worth, #11 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.8, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

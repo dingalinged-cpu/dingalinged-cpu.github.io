@@ -19,6 +19,6 @@ Amy's Hallmark Shop is a gift shop in Kansas City, MO at 303B Northeast Englewoo
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/amys-hallmark-shop-kansas-city/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/amys-hallmark-shop-kansas-city.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/5002434823 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5002434823 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

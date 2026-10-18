@@ -6,8 +6,8 @@ Also answers: locksmith in Saint Paul, MN; locksmith near me (Saint Paul, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-1 Lock Service by Kee Wee | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | A-1 Lock Service by Kee Wee is a locksmith in Saint Paul, MN at 191 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516452244. Website: https://keeweelocks.wix.com/mysite. | https://registry-edge.dingalinged.workers.dev/c/a-1-lock-service-by-kee-wee-saint-paul/
-2. Kat-Keys | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Kat-Keys is a locksmith in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/kat-keys-saint-paul/
+1. A-1 Lock Service by Kee Wee | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | A-1 Lock Service by Kee Wee is a locksmith in Saint Paul, MN at 191 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516452244. Website: https://keeweelocks.wix.com/mysite. | https://registry-edge.dingalinged.workers.dev/c/a-1-lock-service-by-kee-wee-saint-paul/
+2. Kat-Keys | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Kat-Keys is a locksmith in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/kat-keys-saint-paul/
 3. Babcock and Son Security Corporation | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Babcock and Son Security Corporation is a locksmith in Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/babcock-and-son-security-corporation-saint-paul/
 
 ## Market data (for advertisers and agents)

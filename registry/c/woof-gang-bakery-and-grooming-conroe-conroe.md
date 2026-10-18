@@ -13,7 +13,7 @@ Woof Gang Bakery & Grooming Conroe is a dog groomer in Conroe, TX at 525 Woodlan
 - Website: n/a
 - Email: conroe@woofgangbakery.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 46% of dog groomers in Houston, #1 of 2 dog groomers in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 42% of dog groomers in Houston, #1 of 2 dog groomers in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

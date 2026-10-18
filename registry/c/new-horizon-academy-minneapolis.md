@@ -13,7 +13,7 @@ New Horizon Academy is a preschool in Minneapolis, MN. Phone: +16123542470.
 - Website: n/a
 - Email: 58@nhacademy.net
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 48.6/100 — Building — top 53% of preschools in Minneapolis–St. Paul, #8 of 9 preschools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 53% of preschools in Minneapolis–St. Paul, #8 of 9 preschools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

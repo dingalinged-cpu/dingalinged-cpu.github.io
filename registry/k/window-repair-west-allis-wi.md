@@ -6,7 +6,7 @@ Also answers: window repair in West Allis, WI; window repair near me (West Allis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luhman's Glass Co., Inc | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Luhman's Glass Co., Inc is a window repair service in West Allis, WI at 7533 West National Avenue, West Allis, WI 53214. Phone: +14142589830. Website: https://www.luhmansglass.com/. | https://registry-edge.dingalinged.workers.dev/c/luhmans-glass-co-inc-west-allis/
+1. Luhman's Glass Co., Inc | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Luhman's Glass Co., Inc is a window repair service in West Allis, WI at 7533 West National Avenue, West Allis, WI 53214. Phone: +14142589830. Website: https://www.luhmansglass.com/. | https://registry-edge.dingalinged.workers.dev/c/luhmans-glass-co-inc-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair west allis wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

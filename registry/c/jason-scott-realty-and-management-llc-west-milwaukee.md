@@ -13,7 +13,7 @@ Jason Scott Realty & Management, LLC is a real estate agency in West Milwaukee, 
 - Website: https://jsrm.net/about/
 - Email: info@jsrm.net
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 13% of real estate agencys in Milwaukee, #1 of 1 real estate agencys in West Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of real estate agencys in Milwaukee, #1 of 1 real estate agencys in West Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

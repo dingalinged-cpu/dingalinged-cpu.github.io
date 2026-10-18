@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Niles, IL at 7900 North Milwaukee Avenue, Niles, IL 
 - Website: https://www.anytimefitness.com/gyms/5005/niles-il-60714/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.1/100 — Fair — top 44% of gyms in Chicago, #2 of 5 gyms in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 43% of gyms in Chicago, #2 of 5 gyms in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

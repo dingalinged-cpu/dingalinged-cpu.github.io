@@ -13,7 +13,7 @@ Mims Ballew Hollingsworth, PLLC is a lawyer in Southlake, TX at 700 North Carrol
 - Website: https://mbhtexaslaw.com/southlake-family-law-attorney/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00, Fr 09:00-13:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Dallas–Fort Worth, #4 of 6 lawyers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 37% of lawyers in Dallas–Fort Worth, #4 of 6 lawyers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Eden Prairie, MN at 335 Prairie Center Driv
 - Website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 48% of mattress stores in Minneapolis–St. Paul, #1 of 2 mattress stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 56.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 48% of mattress stores in Minneapolis–St. Paul, #1 of 2 mattress stores in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

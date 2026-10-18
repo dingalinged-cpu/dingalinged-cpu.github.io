@@ -6,7 +6,7 @@ Also answers: staffing agency in Inver Grove Heights, MN; staffing agency near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Masterson Staffing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Masterson Staffing is a staffing agency in Inver Grove Heights, MN at 1354 Mendota Road East, Inver Grove Heights, MN 55077. Website: https://www.mastersonstaffing.com/staffing-solutions/staffing-agency-inver-grove-heights/. | https://registry-edge.dingalinged.workers.dev/c/masterson-staffing-inver-grove-heights/
+1. Masterson Staffing | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Masterson Staffing is a staffing agency in Inver Grove Heights, MN at 1354 Mendota Road East, Inver Grove Heights, MN 55077. Website: https://www.mastersonstaffing.com/staffing-solutions/staffing-agency-inver-grove-heights/. | https://registry-edge.dingalinged.workers.dev/c/masterson-staffing-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency inver grove heights mn | category: b2b_services | industry benchmark: Business Services

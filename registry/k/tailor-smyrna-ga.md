@@ -6,8 +6,8 @@ Also answers: tailor in Smyrna, GA; tailor near me (Smyrna, GA); best tailor Smy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alterations By Julie | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Alterations By Julie is a tailor in Smyrna, GA at 2384 Cobb Parkway South, Smyrna, GA. Phone: +17708501422. | https://registry-edge.dingalinged.workers.dev/c/alterations-by-julie-smyrna/
-2. Quick Alterations | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Quick Alterations is a tailor in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/quick-alterations-smyrna/
+1. Alterations By Julie | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Alterations By Julie is a tailor in Smyrna, GA at 2384 Cobb Parkway South, Smyrna, GA. Phone: +17708501422. | https://registry-edge.dingalinged.workers.dev/c/alterations-by-julie-smyrna/
+2. Quick Alterations | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Quick Alterations is a tailor in Smyrna, GA. | https://registry-edge.dingalinged.workers.dev/c/quick-alterations-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor smyrna ga | category: Professional & financial services | industry benchmark: Finance & Insurance

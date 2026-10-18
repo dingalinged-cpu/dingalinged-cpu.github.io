@@ -6,7 +6,7 @@ Also answers: eye doctor in Edina, MN; eye doctor near me (Edina, MN); best eye 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southdale Eye Clinic | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Southdale Eye Clinic is an eye care practice in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/southdale-eye-clinic-edina/
+1. Southdale Eye Clinic | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Southdale Eye Clinic is an eye care practice in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/southdale-eye-clinic-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor edina mn | category: Health & medical | industry benchmark: Physicians & Surgeons

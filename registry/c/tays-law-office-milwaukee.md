@@ -13,7 +13,7 @@ Tays Law Office is a lawyer in Milwaukee, WI. Phone: +14142234555. Website: http
 - Website: https://tayslaw.net/
 - Email: rgt@tayslaw.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Milwaukee, #25 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Milwaukee, #25 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

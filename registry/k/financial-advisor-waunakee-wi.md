@@ -6,7 +6,7 @@ Also answers: financial advisor in Waunakee, WI; financial advisor near me (Waun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madison Partners | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Madison Partners is a financial advisor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/madison-partners-waunakee/
+1. Madison Partners | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Madison Partners is a financial advisor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/madison-partners-waunakee/
 2. Edward Jones | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-waunakee/
 3. Edward Jones | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Edward Jones is a financial advisor in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-waunakee-n9414181395/
 

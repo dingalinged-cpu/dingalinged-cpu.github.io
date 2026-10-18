@@ -6,7 +6,7 @@ Also answers: architect in Roanoke, TX; architect near me (Roanoke, TX); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RGA Architects, Inc | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | RGA Architects, Inc is an architect in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/rga-architects-inc-roanoke/
+1. RGA Architects, Inc | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | RGA Architects, Inc is an architect in Roanoke, TX. | https://registry-edge.dingalinged.workers.dev/c/rga-architects-inc-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect roanoke tx | category: Home services - Design | industry benchmark: Home & Home Improvement

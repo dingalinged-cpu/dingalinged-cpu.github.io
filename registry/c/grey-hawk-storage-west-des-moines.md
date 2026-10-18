@@ -13,7 +13,7 @@ Grey Hawk Storage is a self-storage facility in West Des Moines, IA at 935 South
 - Website: https://www.greyhawkstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 23% of self-storage facilitys in Des Moines, IA, #1 of 2 self-storage facilitys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 23% of self-storage facilitys in Des Moines, IA, #1 of 2 self-storage facilitys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

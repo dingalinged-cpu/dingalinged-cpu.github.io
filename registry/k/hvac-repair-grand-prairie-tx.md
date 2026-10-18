@@ -6,7 +6,7 @@ Also answers: hvac repair in Grand Prairie, TX; hvac repair near me (Grand Prair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Conditioned Air Services | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Conditioned Air Services is a HVAC contractor in Grand Prairie, TX at 217 South Belt Line Road, Grand Prairie, TX 75051. Phone: +19722631800. Website: https://www.conditionedairservice.com/. | https://registry-edge.dingalinged.workers.dev/c/conditioned-air-services-grand-prairie/
+1. Conditioned Air Services | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Conditioned Air Services is a HVAC contractor in Grand Prairie, TX at 217 South Belt Line Road, Grand Prairie, TX 75051. Phone: +19722631800. Website: https://www.conditionedairservice.com/. | https://registry-edge.dingalinged.workers.dev/c/conditioned-air-services-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair grand prairie tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

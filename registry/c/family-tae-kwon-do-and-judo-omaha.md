@@ -13,7 +13,7 @@ Family Tae Kwon DO & Judo is a martial arts school in Omaha, NE at 6813 Grover S
 - Website: https://taekwondoomaha.com/
 - Email: questions@taekwondoomaha.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 50% of martial arts schools in Omaha, NE, #2 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 50% of martial arts schools in Omaha, NE, #2 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

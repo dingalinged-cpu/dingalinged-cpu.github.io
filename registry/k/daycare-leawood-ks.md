@@ -6,8 +6,8 @@ Also answers: daycare in Leawood, KS; daycare near me (Leawood, KS); best daycar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Primrose School of Leawood | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Primrose School of Leawood is a daycare in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-leawood-leawood/
-2. Crème de la Crème | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Crème de la Crème is a daycare in Leawood, KS at 4600 West 115th Street, Leawood, KS 66211. | https://registry-edge.dingalinged.workers.dev/c/cr-me-de-la-cr-me-leawood/
+1. Primrose School of Leawood | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Primrose School of Leawood is a daycare in Leawood, KS. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-leawood-leawood/
+2. Crème de la Crème | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Crème de la Crème is a daycare in Leawood, KS at 4600 West 115th Street, Leawood, KS 66211. | https://registry-edge.dingalinged.workers.dev/c/cr-me-de-la-cr-me-leawood/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare leawood ks | category: Education & childcare | industry benchmark: Education & Instruction

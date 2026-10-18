@@ -13,7 +13,7 @@ Blue District Logistics & Transportation is a moving company in Milwaukee, WI at
 - Website: https://bluedist.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00
-- Pulse Score: 59.3/100 — Fair — top 34% of moving companys in Milwaukee, #1 of 1 moving companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 34% of moving companys in Milwaukee, #1 of 1 moving companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

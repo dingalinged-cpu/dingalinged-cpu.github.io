@@ -13,7 +13,7 @@ Marcy Mortuary is a funeral home in Ashland, NE at 104 North 15th Street, Ashlan
 - Website: https://marcysvoboda.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Omaha, NE, #1 of 1 funeral homes in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Omaha, NE, #1 of 1 funeral homes in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

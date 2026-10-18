@@ -7,7 +7,7 @@ Also answers: flooring companies in Countryside, IL; flooring companies near me 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Floor & Decor | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | Floor & Decor is a flooring company in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-countryside/
-2. The Tile Shop | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | The Tile Shop is a flooring company in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/the-tile-shop-countryside/
+2. The Tile Shop | Organic #2 | Pulse Score 41.5/100 (Unrated, #2 in city) | The Tile Shop is a flooring company in Countryside, IL. | https://registry-edge.dingalinged.workers.dev/c/the-tile-shop-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies countryside il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

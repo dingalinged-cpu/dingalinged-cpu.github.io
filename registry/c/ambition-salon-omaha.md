@@ -13,7 +13,7 @@ Ambition Salon is a hair salon in Omaha, NE at 316 South 72nd Street, Omaha, NE 
 - Website: https://www.sbi-omaha.com/sw/swchannel/homepage/internet/schomepage.asp?traffictype=Direct
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Omaha, NE, #14 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 23% of hair salons in Omaha, NE, #14 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

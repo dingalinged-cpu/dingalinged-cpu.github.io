@@ -13,7 +13,7 @@ Tanya's Hair, Nails, etc. is a nail salon in Wauwatosa, WI at 8822 West North Av
 - Website: n/a
 - Email: mikhail.nenaydykh@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 21% of nail salons in Milwaukee, #3 of 10 nail salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 19% of nail salons in Milwaukee, #3 of 10 nail salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

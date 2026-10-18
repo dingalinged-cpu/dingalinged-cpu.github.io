@@ -9,37 +9,37 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. The PICKLR | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | The PICKLR is a gym in Harris County, TX at 8920 Barker Cypress Road, Harris County, TX 77433. Phone: +13466058808. Website: https://thepicklr.com/location/cypress/. | https://registry-edge.dingalinged.workers.dev/c/the-picklr-harris-county/
 2. BBB Fit Club | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | BBB Fit Club is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/bbb-fit-club-harris-county/
 3. Gleannloch Fitness Center | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Gleannloch Fitness Center is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/gleannloch-fitness-center-harris-county/
-4. 9 Round | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | 9 Round is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/9-round-harris-county/
-5. Armed Sports | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Armed Sports is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/armed-sports-harris-county/
-6. D1 Training | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | D1 Training is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/d1-training-harris-county/
-7. Elite MMA | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Elite MMA is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-mma-harris-county/
-8. Fitness Unlimited | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Fitness Unlimited is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-unlimited-harris-county/
-9. Juergen's Gymnastics | Organic #9 | Pulse Score 54.6/100 (Unrated, #9 in city) | Juergen's Gymnastics is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/juergens-gymnastics-harris-county/
-10. K.D. Fit Factory | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | K.D. Fit Factory is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/k-d-fit-factory-harris-county/
-11. mygym | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | mygym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/mygym-harris-county/
-12. Pilates CNTR | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | Pilates CNTR is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pilates-cntr-harris-county/
-13. Pre-K Gym | Organic #13 | Pulse Score 54.6/100 (Unrated, #13 in city) | Pre-K Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pre-k-gym-harris-county/
-14. Renew U4 Life | Organic #14 | Pulse Score 54.6/100 (Unrated, #14 in city) | Renew U4 Life is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/renew-u4-life-harris-county/
-15. The Lodge Fitness Facilty | Organic #15 | Pulse Score 54.6/100 (Unrated, #15 in city) | The Lodge Fitness Facilty is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-fitness-facilty-harris-county/
-16. Xplosive Athletics | Organic #16 | Pulse Score 54.6/100 (Unrated, #16 in city) | Xplosive Athletics is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/xplosive-athletics-harris-county/
-17. Planet Fitness | Organic #17 | Pulse Score 45.3/100 (Building, #17 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-w543807605/
-18. Hotworx | Organic #18 | Pulse Score 43.7/100 (Building, #18 in city) | Hotworx is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-harris-county/
-19. F45 Training | Organic #19 | Pulse Score 42.8/100 (Building, #19 in city) | F45 Training is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-harris-county/
-20. 24 Hour Fitness | Organic #20 | Pulse Score 42.3/100 (Building, #20 in city) | 24 Hour Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-harris-county/
-21. 24 Hour Fitness | Organic #21 | Pulse Score 42.3/100 (Building, #21 in city) | 24 Hour Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-harris-county-n3929113458/
-22. Burn Boot Camp | Organic #22 | Pulse Score 42.3/100 (Building, #22 in city) | Burn Boot Camp is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/burn-boot-camp-harris-county/
-23. Gold's Gym | Organic #23 | Pulse Score 42.3/100 (Building, #23 in city) | Gold's Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/golds-gym-harris-county/
-24. Gold's Gym | Organic #24 | Pulse Score 42.3/100 (Building, #24 in city) | Gold's Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/golds-gym-harris-county-n13520309184/
-25. Jazzercise | Organic #25 | Pulse Score 42.3/100 (Building, #25 in city) | Jazzercise is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/jazzercise-harris-county/
-26. KidStrong | Organic #26 | Pulse Score 42.3/100 (Building, #26 in city) | KidStrong is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/kidstrong-harris-county/
-27. LA Fitness | Organic #27 | Pulse Score 42.3/100 (Building, #27 in city) | LA Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-harris-county/
-28. Planet Fitness | Organic #28 | Pulse Score 42.3/100 (Building, #28 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county/
-29. Planet Fitness | Organic #29 | Pulse Score 42.3/100 (Building, #29 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-n12294822749/
-30. Planet Fitness | Organic #30 | Pulse Score 42.3/100 (Building, #30 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-w720419684/
-31. Crunch Fitness | Organic #31 | Pulse Score 41.8/100 (Unrated, #31 in city) | Crunch Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-harris-county/
-32. Crunch Fitness | Organic #32 | Pulse Score 41.8/100 (Unrated, #32 in city) | Crunch Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-harris-county-n13341730301/
-33. EoS Fitness | Organic #33 | Pulse Score 41.8/100 (Unrated, #33 in city) | EoS Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/eos-fitness-harris-county/
-34. Fitness 19 | Organic #34 | Pulse Score 41.8/100 (Unrated, #34 in city) | Fitness 19 is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-19-harris-county/
+4. Armed Sports | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Armed Sports is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/armed-sports-harris-county/
+5. Elite MMA | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Elite MMA is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/elite-mma-harris-county/
+6. Fitness Unlimited | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Fitness Unlimited is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-unlimited-harris-county/
+7. Juergen's Gymnastics | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Juergen's Gymnastics is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/juergens-gymnastics-harris-county/
+8. K.D. Fit Factory | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | K.D. Fit Factory is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/k-d-fit-factory-harris-county/
+9. mygym | Organic #9 | Pulse Score 54.6/100 (Unrated, #9 in city) | mygym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/mygym-harris-county/
+10. Pilates CNTR | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | Pilates CNTR is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pilates-cntr-harris-county/
+11. Pre-K Gym | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | Pre-K Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/pre-k-gym-harris-county/
+12. Renew U4 Life | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | Renew U4 Life is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/renew-u4-life-harris-county/
+13. The Lodge Fitness Facilty | Organic #13 | Pulse Score 54.6/100 (Unrated, #13 in city) | The Lodge Fitness Facilty is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-lodge-fitness-facilty-harris-county/
+14. Xplosive Athletics | Organic #14 | Pulse Score 54.6/100 (Unrated, #14 in city) | Xplosive Athletics is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/xplosive-athletics-harris-county/
+15. Planet Fitness | Organic #15 | Pulse Score 45.3/100 (Building, #15 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-w543807605/
+16. Hotworx | Organic #16 | Pulse Score 43.7/100 (Building, #16 in city) | Hotworx is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/hotworx-harris-county/
+17. F45 Training | Organic #17 | Pulse Score 42.9/100 (Building, #17 in city) | F45 Training is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/f45-training-harris-county/
+18. 9 Round | Organic #18 | Pulse Score 42.4/100 (Unrated, #18 in city) | 9 Round is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/9-round-harris-county/
+19. 24 Hour Fitness | Organic #19 | Pulse Score 42.3/100 (Building, #19 in city) | 24 Hour Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-harris-county/
+20. 24 Hour Fitness | Organic #20 | Pulse Score 42.3/100 (Building, #20 in city) | 24 Hour Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-harris-county-n3929113458/
+21. Burn Boot Camp | Organic #21 | Pulse Score 42.3/100 (Building, #21 in city) | Burn Boot Camp is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/burn-boot-camp-harris-county/
+22. Gold's Gym | Organic #22 | Pulse Score 42.3/100 (Building, #22 in city) | Gold's Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/golds-gym-harris-county/
+23. Gold's Gym | Organic #23 | Pulse Score 42.3/100 (Building, #23 in city) | Gold's Gym is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/golds-gym-harris-county-n13520309184/
+24. Jazzercise | Organic #24 | Pulse Score 42.3/100 (Building, #24 in city) | Jazzercise is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/jazzercise-harris-county/
+25. KidStrong | Organic #25 | Pulse Score 42.3/100 (Building, #25 in city) | KidStrong is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/kidstrong-harris-county/
+26. LA Fitness | Organic #26 | Pulse Score 42.3/100 (Building, #26 in city) | LA Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-harris-county/
+27. Planet Fitness | Organic #27 | Pulse Score 42.3/100 (Building, #27 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county/
+28. Planet Fitness | Organic #28 | Pulse Score 42.3/100 (Building, #28 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-n12294822749/
+29. Planet Fitness | Organic #29 | Pulse Score 42.3/100 (Building, #29 in city) | Planet Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-harris-county-w720419684/
+30. Crunch Fitness | Organic #30 | Pulse Score 41.9/100 (Unrated, #30 in city) | Crunch Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-harris-county/
+31. Crunch Fitness | Organic #31 | Pulse Score 41.9/100 (Unrated, #31 in city) | Crunch Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-harris-county-n13341730301/
+32. D1 Training | Organic #32 | Pulse Score 41.9/100 (Unrated, #32 in city) | D1 Training is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/d1-training-harris-county/
+33. EoS Fitness | Organic #33 | Pulse Score 41.9/100 (Unrated, #33 in city) | EoS Fitness is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/eos-fitness-harris-county/
+34. Fitness 19 | Organic #34 | Pulse Score 41.9/100 (Unrated, #34 in city) | Fitness 19 is a gym in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-19-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym harris county tx | category: Fitness | industry benchmark: Health & Fitness

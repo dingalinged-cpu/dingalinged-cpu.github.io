@@ -13,7 +13,7 @@ GEICO | Jerry Sorrels is an insurance agent in Marietta, GA at 2125 Roswell Road
 - Website: https://www.geico.com/insurance-agents/georgia/atlanta/jerry-sorrels/
 - Email: jsorrels@geico.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Building — top 99% of insurance agents in Atlanta, #10 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 98% of insurance agents in Atlanta, #10 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

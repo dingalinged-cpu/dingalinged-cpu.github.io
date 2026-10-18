@@ -6,7 +6,7 @@ Also answers: hvac repair in West Des Moines, IA; hvac repair near me (West Des 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob Oliver Heating & Air Conditioning | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Bob Oliver Heating & Air Conditioning is a HVAC contractor in West Des Moines, IA at 115 12th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/bob-oliver-heating-and-air-conditioning-west-des-moines/
+1. Bob Oliver Heating & Air Conditioning | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Bob Oliver Heating & Air Conditioning is a HVAC contractor in West Des Moines, IA at 115 12th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/bob-oliver-heating-and-air-conditioning-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair west des moines ia | category: Home services - HVAC | industry benchmark: Home & Home Improvement

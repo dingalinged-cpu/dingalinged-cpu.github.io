@@ -6,8 +6,8 @@ Also answers: dermatologist in Frisco, TX; dermatologist near me (Frisco, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dermatology & Skin Surgery Institute of North Texas | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Dermatology & Skin Surgery Institute of North Texas is a dermatologist in Frisco, TX at 3535 Victory Group Way #Bldg 2, Frisco, TX 75034. Phone: +19727125100. Website: https://dermntx.com/. | https://registry-edge.dingalinged.workers.dev/c/dermatology-and-skin-surgery-institute-of-north-texas-frisco/
-2. It's A Secret Med Spa | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | It's A Secret Med Spa is a dermatologist in Frisco, TX at 6947 Main Street, Frisco, TX 75034. Phone: +14692008850. | https://registry-edge.dingalinged.workers.dev/c/its-a-secret-med-spa-frisco/
+1. Dermatology & Skin Surgery Institute of North Texas | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Dermatology & Skin Surgery Institute of North Texas is a dermatologist in Frisco, TX at 3535 Victory Group Way #Bldg 2, Frisco, TX 75034. Phone: +19727125100. Website: https://dermntx.com/. | https://registry-edge.dingalinged.workers.dev/c/dermatology-and-skin-surgery-institute-of-north-texas-frisco/
+2. It's A Secret Med Spa | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | It's A Secret Med Spa is a dermatologist in Frisco, TX at 6947 Main Street, Frisco, TX 75034. Phone: +14692008850. | https://registry-edge.dingalinged.workers.dev/c/its-a-secret-med-spa-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

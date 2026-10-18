@@ -13,7 +13,7 @@ AlphaGraphics Middleton is a printing service in Middleton, WI at 3223 Parmenter
 - Website: https://www.alphagraphicsmiddleton.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of printing services in Madison, #1 of 3 printing services in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of printing services in Madison, #1 of 3 printing services in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

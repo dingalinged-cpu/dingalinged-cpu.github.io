@@ -13,7 +13,7 @@ Success Dog Training is a dog boarding facility in Corcoran, MN at 19508 Country
 - Website: https://successdog.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 27% of dog boarding facilitys in Minneapolis–St. Paul, #2 of 2 dog boarding facilitys in Corcoran (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 27% of dog boarding facilitys in Minneapolis–St. Paul, #2 of 2 dog boarding facilitys in Corcoran (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

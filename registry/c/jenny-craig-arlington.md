@@ -13,7 +13,7 @@ Jenny Craig is a therapy practice in Arlington, TX at 137 Merchants Row Drive #B
 - Website: https://locations.jennycraig.com/tx/arlington/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-19:00; Tu 08:00-17:00; We 08:00-18:00; Th 08:00-18:00; Fr 08:00-14:00; Sa 07:00-14:00
-- Pulse Score: 48.2/100 — Building — top 82% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 86% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

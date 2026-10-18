@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Lewisville, TX at 501 East State Highway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 61% of self-storage facilitys in Dallas–Fort Worth, #6 of 9 self-storage facilitys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 60% of self-storage facilitys in Dallas–Fort Worth, #6 of 9 self-storage facilitys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 50.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: tire shop in Clive, IA; tire shop near me (Clive, IA); best tire s
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Discount Tire is a tire shop in Clive, IA at 1229 Northwest 86th Street, Clive, IA 50325. Phone: +15156356037. Website: https://www.discounttire.com/. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-clive/
+1. Discount Tire | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | Discount Tire is a tire shop in Clive, IA at 1229 Northwest 86th Street, Clive, IA 50325. Phone: +15156356037. Website: https://www.discounttire.com/. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop clive ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Planet Fitness is a gym in Carrollton, TX at 3065 North Josey Lane, Carrollton, 
 - Website: https://www.planetfitness.com/gyms/carrollton-tx
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.1/100 — Fair — top 44% of gyms in Dallas–Fort Worth, #6 of 14 gyms in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 43% of gyms in Dallas–Fort Worth, #6 of 14 gyms in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

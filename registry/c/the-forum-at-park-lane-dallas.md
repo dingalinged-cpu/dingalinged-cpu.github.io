@@ -13,7 +13,7 @@ The Forum at Park Lane is an assisted living facility in Dallas, TX at 7831 Park
 - Website: https://theforumatparklane.seniorlivingnearme.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 45% of assisted living facilitys in Dallas–Fort Worth, #2 of 7 assisted living facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 45% of assisted living facilitys in Dallas–Fort Worth, #2 of 7 assisted living facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

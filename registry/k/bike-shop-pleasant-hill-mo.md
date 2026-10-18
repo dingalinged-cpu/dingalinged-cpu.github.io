@@ -6,7 +6,7 @@ Also answers: bike shop in Pleasant Hill, MO; bike shop near me (Pleasant Hill, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Town Bicycle & Coffee Shop | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | New Town Bicycle & Coffee Shop is a bike shop in Pleasant Hill, MO at 209 Cedar St, Pleasant Hill, MO 64080. | https://registry-edge.dingalinged.workers.dev/c/new-town-bicycle-and-coffee-shop-pleasant-hill/
+1. New Town Bicycle & Coffee Shop | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | New Town Bicycle & Coffee Shop is a bike shop in Pleasant Hill, MO at 209 Cedar St, Pleasant Hill, MO 64080. | https://registry-edge.dingalinged.workers.dev/c/new-town-bicycle-and-coffee-shop-pleasant-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop pleasant hill mo | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

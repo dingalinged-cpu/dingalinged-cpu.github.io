@@ -13,7 +13,7 @@ The Alchemy Yoga is a yoga studio in Frisco, TX at 8877 Wade Boulevard #100, Fri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 48% of yoga studios in Dallas–Fort Worth, #2 of 4 yoga studios in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 48% of yoga studios in Dallas–Fort Worth, #2 of 4 yoga studios in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

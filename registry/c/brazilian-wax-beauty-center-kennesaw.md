@@ -13,7 +13,7 @@ Brazilian Wax Beauty Center is a waxing salon in Kennesaw, GA at 3920 Cherokee S
 - Website: https://bwbeautycenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off
-- Pulse Score: 58.4/100 — Fair — top 28% of waxing salons in Atlanta, #1 of 1 waxing salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.5/100 — Fair — top 28% of waxing salons in Atlanta, #1 of 1 waxing salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

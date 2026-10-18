@@ -13,7 +13,7 @@ GPS Waste - Waste and Recycling Services is a business consultant in Atlanta, GA
 - Website: n/a
 - Email: store1909@theupsstore.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 93% of business consultants in Atlanta, #6 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.3, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 93% of business consultants in Atlanta, #6 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 44.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

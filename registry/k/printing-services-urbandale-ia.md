@@ -6,8 +6,8 @@ Also answers: printing services in Urbandale, IA; printing services near me (Urb
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plaza Printers | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Plaza Printers is a printing service in Urbandale, IA at 6762 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/plaza-printers-urbandale/
-2. Primary Source | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Primary Source is a printing service in Urbandale, IA at 10441 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/primary-source-urbandale/
+1. Plaza Printers | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Plaza Printers is a printing service in Urbandale, IA at 6762 Douglas Avenue, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/plaza-printers-urbandale/
+2. Primary Source | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Primary Source is a printing service in Urbandale, IA at 10441 Hickman Road, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/primary-source-urbandale/
 3. The UPS Store | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | The UPS Store is a printing service in Urbandale, IA at 2815 100th Street, Urbandale, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-urbandale/
 
 ## Market data (for advertisers and agents)

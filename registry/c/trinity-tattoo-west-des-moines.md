@@ -13,7 +13,7 @@ Trinity Tattoo is a tattoo shop in West Des Moines, IA at 123 5th Street #Suite 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Des Moines, IA, #2 of 3 tattoo shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Des Moines, IA, #2 of 3 tattoo shops in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

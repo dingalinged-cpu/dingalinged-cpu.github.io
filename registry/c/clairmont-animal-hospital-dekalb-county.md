@@ -13,7 +13,7 @@ Clairmont Animal Hospital is a veterinarian in DeKalb County, GA at 1226 Clairmo
 - Website: https://www.clairmontanimalhospital.net/
 - Email: clairmont@clairmontvets.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 13:00-17:00
-- Pulse Score: 61.9/100 — Good — top 12% of veterinarians in Atlanta, #1 of 6 veterinarians in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 12% of veterinarians in Atlanta, #1 of 6 veterinarians in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

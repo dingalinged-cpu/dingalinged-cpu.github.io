@@ -34,7 +34,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 381,
+    "registry_competitors": 664,
     "ranked_by": "by_cpc"
    },
    {
@@ -48,7 +48,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 28,
+    "registry_competitors": 42,
     "ranked_by": "by_cpc"
    },
    {
@@ -62,7 +62,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 6600,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 5,
+    "registry_competitors": 10,
     "ranked_by": "by_cpc"
    },
    {
@@ -160,7 +160,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 959,
+    "registry_competitors": 1630,
     "ranked_by": "by_cpc"
    },
    {
@@ -174,7 +174,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 6600,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 678,
+    "registry_competitors": 1111,
     "ranked_by": "by_cpc"
    },
    {
@@ -188,7 +188,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 797,
+    "registry_competitors": 1256,
     "ranked_by": "by_cpc"
    },
    {
@@ -202,7 +202,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 1171,
+    "registry_competitors": 2404,
     "ranked_by": "by_cpc"
    },
    {
@@ -216,7 +216,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 377,
+    "registry_competitors": 622,
     "ranked_by": "by_cpc"
    },
    {
@@ -236,7 +236,7 @@
    {
     "keyword": "office supplies",
     "slug": "office-supplies",
-    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#office-supplies",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/office-supplies/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -244,7 +244,7 @@
     "search_value_index_usd": 75000,
     "equivalent_google_ads_cost_month_usd": 6600,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
@@ -258,7 +258,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 694,
+    "registry_competitors": 1199,
     "ranked_by": "by_cpc"
    },
    {
@@ -300,7 +300,7 @@
     "search_value_index_usd": 580000,
     "equivalent_google_ads_cost_month_usd": 52000,
     "featured_spot_min_usd": 50,
-    "registry_competitors": 679,
+    "registry_competitors": 1123,
     "ranked_by": "by_cpc"
    }
   ],

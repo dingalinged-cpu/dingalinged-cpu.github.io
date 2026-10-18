@@ -13,7 +13,7 @@ Planet Fitness is a gym in Woodstock, GA at 299 Molly Lane, Woodstock, GA 30189.
 - Website: https://www.planetfitness.com/gyms/woodstock-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 07:00-19:00; Dec 25 off; Nov Th[-1] off
-- Pulse Score: 50.1/100 — Fair — top 54% of gyms in Atlanta, #8 of 11 gyms in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 53% of gyms in Atlanta, #8 of 11 gyms in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.9, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

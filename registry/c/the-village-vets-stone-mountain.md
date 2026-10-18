@@ -13,7 +13,7 @@ The Village Vets is a veterinarian in Stone Mountain, GA at 5460 Five Forks Tric
 - Website: https://www.thevillagevets.com/stone-mountain/
 - Email: sm@thevillagevets.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 07:30-14:00
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 93% of veterinarians in Atlanta, #3 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 92% of veterinarians in Atlanta, #3 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

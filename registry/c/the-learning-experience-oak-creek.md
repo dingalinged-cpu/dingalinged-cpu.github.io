@@ -13,7 +13,7 @@ The Learning Experience is a daycare in Oak Creek, WI at 8206 South Anthony Way,
 - Website: https://thelearningexperience.com/centers/oak-creek-wi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 98% of daycares in Milwaukee, #2 of 2 daycares in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 98% of daycares in Milwaukee, #2 of 2 daycares in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

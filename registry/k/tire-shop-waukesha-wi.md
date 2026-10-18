@@ -6,7 +6,7 @@ Also answers: tire shop in Waukesha, WI; tire shop near me (Waukesha, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Discount Tire is a tire shop in Waukesha, WI at 1111 Spring City Lane, Waukesha, WI 53186. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-waukesha/
+1. Discount Tire | Organic #1 | Pulse Score 44.9/100 (Building, #1 in city) | Discount Tire is a tire shop in Waukesha, WI at 1111 Spring City Lane, Waukesha, WI 53186. | https://registry-edge.dingalinged.workers.dev/c/discount-tire-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop waukesha wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

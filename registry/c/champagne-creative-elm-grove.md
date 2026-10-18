@@ -13,7 +13,7 @@ Champagne Creative is a graphic designer in Elm Grove, WI at 925 Elm Grove Rd, #
 - Website: https://champagnecreativedesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of graphic designers in Milwaukee, #1 of 1 graphic designers in Elm Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 17% of graphic designers in Milwaukee, #1 of 1 graphic designers in Elm Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

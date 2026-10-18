@@ -6,7 +6,7 @@ Also answers: yoga classes in Evanston, IL; yoga classes near me (Evanston, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heaven Meets Earth  YOGA, Ecstatic Dance Evolution | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/
+1. Heaven Meets Earth  YOGA, Ecstatic Dance Evolution | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes evanston il | category: Fitness | industry benchmark: Health & Fitness

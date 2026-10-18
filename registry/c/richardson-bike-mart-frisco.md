@@ -13,7 +13,7 @@ Richardson Bike Mart is a bike shop in Frisco, TX at 8820 John Hickman Parkway, 
 - Website: https://www.bikemart.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-17:00
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Dallas–Fort Worth, #1 of 2 bike shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Dallas–Fort Worth, #1 of 2 bike shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

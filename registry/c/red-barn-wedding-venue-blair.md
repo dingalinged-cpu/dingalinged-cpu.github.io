@@ -13,7 +13,7 @@ Red Barn Wedding Venue is an event venue in Blair, NE at 16512 County Road 18, B
 - Website: https://redbarnchapelhistory.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 45% of event venues in Omaha, NE, #1 of 1 event venues in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 45% of event venues in Omaha, NE, #1 of 1 event venues in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

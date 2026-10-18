@@ -13,12 +13,12 @@ Style Me Up Hair Salon is a hair salon in Overland Park, KS at 6917 West 135th S
 - Website: https://stylemeuphair.salon/
 - Email: hello@stylemeuphair.salon
 - Opening hours (OSM syntax): Mo,Fr,Sa 09:00-16:00; Tu-Th 09:00-18:00
-- Pulse Score: 65.1/100 — Good — top 1% of hair salons in Kansas City, MO, #1 of 26 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 1% of hair salons in Kansas City, MO, #1 of 27 hair salons in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
 - Registry URL: https://registry-edge.dingalinged.workers.dev/c/style-me-up-hair-salon-overland-park/
 - JSON: https://registry-edge.dingalinged.workers.dev/api/companies/style-me-up-hair-salon-overland-park.json
-- Source: OpenStreetMap https://www.openstreetmap.org/node/13419025703 (license ODbL-1.0); source data as of 2026-07-24
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13419025703 (license ODbL-1.0); source data as of 2026-10-17
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

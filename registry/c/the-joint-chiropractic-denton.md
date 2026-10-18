@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Denton, TX at 2430 South Interstate 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 95% of chiropractors in Dallas–Fort Worth, #6 of 6 chiropractors in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44/100 — Building — top 94% of chiropractors in Dallas–Fort Worth, #6 of 6 chiropractors in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

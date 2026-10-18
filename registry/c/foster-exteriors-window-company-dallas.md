@@ -13,7 +13,7 @@ Foster Exteriors Window Company is a window installer in Dallas, TX at 1350 Nort
 - Website: https://www.fosterexteriors.com/
 - Email: info@fosterexteriors.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; "By Appointment"
-- Pulse Score: 63.8/100 — Good — top 23% of window installers in Dallas–Fort Worth, #2 of 4 window installers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 12% of window installers in Dallas–Fort Worth, #1 of 4 window installers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 67.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

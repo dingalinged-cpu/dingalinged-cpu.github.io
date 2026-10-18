@@ -13,7 +13,7 @@ Nove Jazz & Cabaret is an event venue in Des Moines, IA at 1326 Walnut Street, D
 - Website: https://www.nocedsm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Good — top 24% of event venues in Des Moines, IA, #2 of 8 event venues in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 24% of event venues in Des Moines, IA, #2 of 8 event venues in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

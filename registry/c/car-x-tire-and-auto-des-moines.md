@@ -13,7 +13,7 @@ Car-X Tire & Auto is an auto repair shop in Des Moines, IA at 3901 Southeast 14t
 - Website: https://www.carx.com/des-moines/3901-se-14th-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 07:30-18:00
-- Pulse Score: 49.6/100 — Building — top 70% of auto repair shops in Des Moines, IA, #38 of 49 auto repair shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 68% of auto repair shops in Des Moines, IA, #37 of 49 auto repair shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

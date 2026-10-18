@@ -13,7 +13,7 @@ Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 55% of gift shops in Minneapolis–St. Paul, #3 of 3 gift shops in Excelsior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 54% of gift shops in Minneapolis–St. Paul, #3 of 3 gift shops in Excelsior (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

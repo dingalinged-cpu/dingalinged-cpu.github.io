@@ -13,7 +13,7 @@ Century 21 is a real estate agency in New Lenox, IL at 208 North Cedar Road, New
 - Website: https://www.c21pride.com/Home.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 76% of real estate agencys in Chicago, #3 of 4 real estate agencys in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48/100 — Building — top 76% of real estate agencys in Chicago, #3 of 4 real estate agencys in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

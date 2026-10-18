@@ -13,7 +13,7 @@ LifeStorage is a self-storage facility in Marietta, GA at 1525 Williams Drive No
 - Website: https://www.lifestorage.com/storage-units/georgia/marietta/30066/43-in-marietta/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:00-17:30; Su off
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 30% of self-storage facilitys in Atlanta, #14 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Atlanta, #13 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

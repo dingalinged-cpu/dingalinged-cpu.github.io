@@ -13,7 +13,7 @@ Chiro One Wellness Centers is a chiropractor in Hales Corners, WI at 5305 South 
 - Website: https://www.chiroone.com/locations/hales-corners-wisconsin/
 - Email: n/a
 - Opening hours (OSM syntax): mo-th 07:30-10:30, 15:00-18:30,
-- Pulse Score: 49.3/100 — Building — top 85% of chiropractors in Milwaukee, #2 of 2 chiropractors in Hales Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 85% of chiropractors in Milwaukee, #2 of 2 chiropractors in Hales Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

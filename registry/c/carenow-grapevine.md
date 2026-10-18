@@ -13,7 +13,7 @@ CareNow is an urgent care clinic in Grapevine, TX at 5301 William D Tate Avenue 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 75% of urgent care clinics in Dallas–Fort Worth, #1 of 1 urgent care clinics in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 75% of urgent care clinics in Dallas–Fort Worth, #1 of 1 urgent care clinics in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Merit School of Music is a music school in Chicago, IL at 38 South Peoria Street
 - Website: https://meritmusic.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.6/100 — Good — top 3% of music schools in Chicago, #1 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of music schools in Chicago, #1 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

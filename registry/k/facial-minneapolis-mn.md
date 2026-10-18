@@ -6,10 +6,10 @@ Also answers: facial in Minneapolis, MN; facial near me (Minneapolis, MN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Watershed Spa | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/watershed-spa-minneapolis/
+1. Watershed Spa | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/watershed-spa-minneapolis/
 2. Wrinkleboss | Organic #2 | Pulse Score 63/100 (Good, #1 in city) | Wrinkleboss is a skin care studio in Minneapolis, MN at 4308 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16124052326. Website: https://wrinkleboss.co/. | https://registry-edge.dingalinged.workers.dev/c/wrinkleboss-minneapolis/
 3. Spa Sweet | Organic #3 | Pulse Score 59.7/100 (Unrated, #6 in city) | Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588. | https://registry-edge.dingalinged.workers.dev/c/spa-sweet-minneapolis/
-4. Ulta Beauty | Organic #4 | Pulse Score 49.4/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-minneapolis/
+4. Ulta Beauty | Organic #4 | Pulse Score 49.5/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial minneapolis mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

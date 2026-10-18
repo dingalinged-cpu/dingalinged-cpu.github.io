@@ -13,7 +13,7 @@ Hagen CPA is an accountant in Evansville, WI at 1 North Madison Street, Evansvil
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Jun-Aug: Mo-Th 08:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 17% of accountants in Madison, #1 of 1 accountants in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of accountants in Madison, #1 of 1 accountants in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Mattress Express Plus Fine Furniture | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Mattress Express Plus Fine Furniture is a mattress store in Racine, WI at 2504 Douglas Avenue, Racine, WI 53402. | https://registry-edge.dingalinged.workers.dev/c/mattress-express-plus-fine-furniture-racine/
 2. Verlo Mattress Factory | Organic #2 | Pulse Score 54.9/100 (Unrated, #1 in city) | Verlo Mattress Factory is a mattress store in Mount Pleasant, WI at 2510 South Green Bay Road, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/verlo-mattress-factory-mount-pleasant/
-3. Mattress Firm | Organic #3 | Pulse Score 48.5/100 (Building, #2 in city) | Mattress Firm is a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-racine/
+3. Mattress Firm | Organic #3 | Pulse Score 48.6/100 (Building, #2 in city) | Mattress Firm is a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

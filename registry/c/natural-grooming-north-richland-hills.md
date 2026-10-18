@@ -13,7 +13,7 @@ Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boul
 - Website: https://natural-grooming.edan.io/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-15:00; Sa 08:00-14:00
-- Pulse Score: 63.9/100 — Good — top 4% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 4% of dog groomers in Dallas–Fort Worth, #1 of 2 dog groomers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

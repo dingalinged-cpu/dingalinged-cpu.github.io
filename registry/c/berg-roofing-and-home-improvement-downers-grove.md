@@ -13,7 +13,7 @@ Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden 
 - Website: https://www.bergext.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Fair — top 40% of roofers in Chicago, #2 of 2 roofers in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 40% of roofers in Chicago, #2 of 2 roofers in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

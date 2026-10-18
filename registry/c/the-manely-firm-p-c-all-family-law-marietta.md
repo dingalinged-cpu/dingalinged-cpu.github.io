@@ -13,7 +13,7 @@ The Manely Firm P.C. - All Family Law is a lawyer in Marietta, GA at 211 Roswell
 - Website: https://www.allfamilylaw.com/marietta-georgia-and-international-family-law-attorneys-office/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Fair — top 58% of lawyers in Atlanta, #8 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 57.1/100 — Fair — top 58% of lawyers in Atlanta, #8 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

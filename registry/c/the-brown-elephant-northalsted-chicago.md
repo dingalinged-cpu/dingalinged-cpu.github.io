@@ -13,7 +13,7 @@ The Brown Elephant – Northalsted is a thrift store in Chicago, IL at 812 West 
 - Website: https://howardbrown.org/get-involved/brown-elephant/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-18:00
-- Pulse Score: 64.2/100 — Good — top 3% of thrift stores in Chicago, #2 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 69. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 3% of thrift stores in Chicago, #2 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 68.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

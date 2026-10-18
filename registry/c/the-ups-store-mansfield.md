@@ -13,7 +13,7 @@ The UPS Store is a printing service in Mansfield, TX at 3540 East Broad Street #
 - Website: n/a
 - Email: store6870@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-15:00
-- Pulse Score: 48.1/100 — Building — top 43% of printing services in Dallas–Fort Worth, #1 of 2 printing services in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 42% of printing services in Dallas–Fort Worth, #1 of 2 printing services in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

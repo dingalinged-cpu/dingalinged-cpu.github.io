@@ -13,7 +13,7 @@ Charlie's Liquor & Tobacco Mart is a liquor store in Cudahy, WI at 6143,6145 Sou
 - Website: https://www.charliesliquor-tobacco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of liquor stores in Milwaukee, #1 of 1 liquor stores in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 20% of liquor stores in Milwaukee, #1 of 1 liquor stores in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

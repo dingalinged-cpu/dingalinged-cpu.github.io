@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Cobb County, GA. Phone: +17706440001
 - Website: https://www.thejoint.com/georgia/atlanta/marietta-04032
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-16:00
-- Pulse Score: 45.4/100 — Building — top 95% of chiropractors in Atlanta, #15 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 95% of chiropractors in Atlanta, #15 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 51.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

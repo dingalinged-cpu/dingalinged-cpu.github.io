@@ -13,7 +13,7 @@ KinderCare is a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 535
 - Website: https://www.kindercare.com/our-centers/waunakee/wi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 55% of preschools in Madison, #1 of 2 preschools in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 55% of preschools in Madison, #1 of 2 preschools in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

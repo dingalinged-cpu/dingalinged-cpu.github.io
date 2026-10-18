@@ -6,8 +6,8 @@ Also answers: eye doctor in Des Moines, IA; eye doctor near me (Des Moines, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westrum Optometry | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Westrum Optometry is an eye care practice in Des Moines, IA at 315 East 5th Street, Des Moines, IA 50309. Phone: +15152825005. Website: https://westrumoptometry.com/. | https://registry-edge.dingalinged.workers.dev/c/westrum-optometry-des-moines/
-2. Beaverdale Eye | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Beaverdale Eye is an eye care practice in Des Moines, IA at 2628 Beaver Avenue, Des Moines, IA 50310. Website: https://beaverdaleeye.com/. | https://registry-edge.dingalinged.workers.dev/c/beaverdale-eye-des-moines/
+1. Westrum Optometry | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Westrum Optometry is an eye care practice in Des Moines, IA at 315 East 5th Street, Des Moines, IA 50309. Phone: +15152825005. Website: https://westrumoptometry.com/. | https://registry-edge.dingalinged.workers.dev/c/westrum-optometry-des-moines/
+2. Beaverdale Eye | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Beaverdale Eye is an eye care practice in Des Moines, IA at 2628 Beaver Avenue, Des Moines, IA 50310. Website: https://beaverdaleeye.com/. | https://registry-edge.dingalinged.workers.dev/c/beaverdale-eye-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor des moines ia | category: Health & medical | industry benchmark: Physicians & Surgeons

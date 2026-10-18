@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Canada Tire Company | Organic #3 | Pulse Score 60/100 (Unrated, #1 in city) | Canada Tire Company is a tire shop in Alpharetta, GA at 2965 B Holcomb Bridge Road #Suite B2, Alpharetta, GA 30022. Phone: +17705527511. Website: https://www.canadatireco.com/. | https://registry-edge.dingalinged.workers.dev/c/canada-tire-company-alpharetta/
 4. Express Oil Change & Tire Engineers | Organic #4 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Roswell, GA at 895 Mansell Road, Roswell, GA 30076. Phone: +17705186272. Website: https://www.expressoil.com/stores/roswell/ga/1338/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-roswell/
 5. Express Oil Change & Tire Engineers | Organic #5 | Pulse Score 48.3/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Roswell, GA at 1577 Holcomb Bridge Road, Roswell, GA 30076. Phone: +17706420133. Website: https://www.expressoil.com/stores/roswell/ga/1317/. | https://registry-edge.dingalinged.workers.dev/c/express-oil-change-and-tire-engineers-roswell-n6522268870/
-6. Tires Plus | Organic #6 | Pulse Score 42.3/100 (Building, #3 in city) | Tires Plus is a tire shop in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-roswell/
+6. Tires Plus | Organic #6 | Pulse Score 42.4/100 (Building, #3 in city) | Tires Plus is a tire shop in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/tires-plus-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop roswell ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

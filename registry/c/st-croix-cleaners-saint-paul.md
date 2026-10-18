@@ -13,7 +13,7 @@ St Croix Cleaners is a dry cleaner in Saint Paul, MN at 678 Grand Avenue, Saint 
 - Website: https://stcroixcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-15:00
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 58% of dry cleaners in Minneapolis–St. Paul, #7 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 51% of dry cleaners in Minneapolis–St. Paul, #6 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

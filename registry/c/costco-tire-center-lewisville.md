@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Lewisville, TX at 851 East State Highway 12
 - Website: https://www.costco.com/warehouse-locations/lewisville-tx-683.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00; PH closed
-- Pulse Score: 50.1/100 — Fair — top 53% of tire shops in Dallas–Fort Worth, #3 of 5 tire shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 53% of tire shops in Dallas–Fort Worth, #3 of 5 tire shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

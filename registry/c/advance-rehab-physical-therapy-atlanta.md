@@ -13,7 +13,7 @@ Advance Rehab Physical Therapy is a physical therapy clinic in Atlanta, GA at 60
 - Website: https://advancerehab.com/location/midtown/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00; Fr 07:00-14:00; Sa-Su off
-- Pulse Score: 60.5/100 — Good — top 14% of physical therapy clinics in Atlanta, #3 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 14% of physical therapy clinics in Atlanta, #3 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

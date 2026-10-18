@@ -13,7 +13,7 @@ Bayshore Veterinary Clinic is a veterinarian in Shorewood, WI at 3723 North Oakl
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 65% of veterinarians in Milwaukee, #2 of 2 veterinarians in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 65% of veterinarians in Milwaukee, #2 of 2 veterinarians in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

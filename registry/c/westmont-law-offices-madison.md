@@ -13,7 +13,7 @@ Westmont Law Offices is a lawyer in Madison, WI at 1837 Aberg Avenue, Madison, W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Madison, #4 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Madison, #4 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

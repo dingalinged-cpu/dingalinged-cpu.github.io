@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Maple Grove, MN; plastic surgeon near me (Maple
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Light Rx Face and Body | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/. | https://registry-edge.dingalinged.workers.dev/c/light-rx-face-and-body-maple-grove/
+1. Light Rx Face and Body | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/. | https://registry-edge.dingalinged.workers.dev/c/light-rx-face-and-body-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon maple grove mn | category: Health & medical | industry benchmark: Physicians & Surgeons

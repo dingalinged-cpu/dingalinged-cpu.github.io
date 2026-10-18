@@ -13,7 +13,7 @@ Delta Sonic Car Wash is a car wash in Tinley Park, IL at 6800 West 159th Street,
 - Website: https://deltasoniccarwash.com/location/tinley-park-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49/100 — Building — top 39% of car washes in Chicago, #2 of 3 car washes in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49/100 — Building — top 37% of car washes in Chicago, #2 of 3 car washes in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

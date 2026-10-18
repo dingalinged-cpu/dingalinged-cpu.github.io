@@ -1,4 +1,4 @@
-The top unpaid tailor listing for Olathe, KS is AM Tailor (a tailor in Olathe, KS). 2 tailor businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Olathe, KS is AM Tailor (a tailor in Olathe, KS. Phone: +19132868030). 2 tailor businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Olathe, KS?
 
@@ -6,8 +6,8 @@ Also answers: tailor in Olathe, KS; tailor near me (Olathe, KS); best tailor Ola
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AM Tailor | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | AM Tailor is a tailor in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/am-tailor-olathe/
-2. Nick & Lana's Shoe & Tailor | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Nick & Lana's Shoe & Tailor is a tailor in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/nick-and-lanas-shoe-and-tailor-olathe/
+1. AM Tailor | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | AM Tailor is a tailor in Olathe, KS. Phone: +19132868030. | https://registry-edge.dingalinged.workers.dev/c/am-tailor-olathe/
+2. Nick & Lana's Shoe & Tailor | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Nick & Lana's Shoe & Tailor is a tailor in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/nick-and-lanas-shoe-and-tailor-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor olathe ks | category: Professional & financial services | industry benchmark: Finance & Insurance

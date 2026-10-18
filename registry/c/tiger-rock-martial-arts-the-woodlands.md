@@ -13,7 +13,7 @@ Tiger Rock Martial Arts is a martial arts school in The Woodlands, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Houston, #5 of 5 martial arts schools in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Houston, #5 of 5 martial arts schools in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

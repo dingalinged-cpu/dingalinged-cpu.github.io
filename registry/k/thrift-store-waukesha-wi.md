@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Saint Vincent de Paul Thrift Store | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Waukesha, WI at S30 W24896 Sunset Drive, Waukesha, WI 53189. Phone: +12625473281. Website: https://www.svdpthrift.net/. | https://registry-edge.dingalinged.workers.dev/c/saint-vincent-de-paul-thrift-store-waukesha/
 2. Goodwill | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Goodwill is a thrift store in Waukesha, WI at 1400 Nike Drive, Waukesha, WI 53186. | https://registry-edge.dingalinged.workers.dev/c/goodwill-waukesha-w1014267624/
-3. Goodwill | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Goodwill is a thrift store in Waukesha, WI at 2015 Meadow Lane, Waukesha, WI 53072. | https://registry-edge.dingalinged.workers.dev/c/goodwill-waukesha/
+3. Goodwill | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Goodwill is a thrift store in Waukesha, WI at 2015 Meadow Lane, Waukesha, WI 53072. | https://registry-edge.dingalinged.workers.dev/c/goodwill-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store waukesha wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

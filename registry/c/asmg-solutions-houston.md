@@ -13,7 +13,7 @@ ASMG Solutions is an accountant in Houston, TX at 5850 San Felipe Street #500, H
 - Website: https://asmgsolutions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 34% of accountants in Houston, #3 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of accountants in Houston, #3 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 58.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

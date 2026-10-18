@@ -13,7 +13,7 @@ The Gym is a gym in Golden Valley, MN at 830 Decatur Avenue North, Golden Valley
 - Website: https://thegymmpls.com/
 - Email: ledbetterm@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 4% of gyms in Minneapolis–St. Paul, #1 of 1 gyms in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 62% of gyms in Minneapolis–St. Paul, #1 of 1 gyms in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dog boarding in Humble, TX; dog boarding near me (Humble, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wet Nose Lodge & Spa | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Wet Nose Lodge & Spa is a dog boarding facility in Humble, TX at 19540 Ramblewood Drive, Humble, TX 77338. Phone: +12814469083. Website: https://wetnoselodge.com/. | https://registry-edge.dingalinged.workers.dev/c/wet-nose-lodge-and-spa-humble/
+1. Wet Nose Lodge & Spa | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Wet Nose Lodge & Spa is a dog boarding facility in Humble, TX at 19540 Ramblewood Drive, Humble, TX 77338. Phone: +12814469083. Website: https://wetnoselodge.com/. | https://registry-edge.dingalinged.workers.dev/c/wet-nose-lodge-and-spa-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding humble tx | category: Pets | industry benchmark: Animals & Pets

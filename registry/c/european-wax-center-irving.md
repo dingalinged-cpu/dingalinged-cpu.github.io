@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Irving, TX. Website: https://locations.
 - Website: https://locations.waxcenter.com/tx/irving/irving-las-colinas-0068.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 66% of waxing salons in Dallas–Fort Worth, #2 of 2 waxing salons in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 66% of waxing salons in Dallas–Fort Worth, #2 of 2 waxing salons in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

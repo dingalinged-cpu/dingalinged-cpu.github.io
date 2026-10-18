@@ -7,9 +7,9 @@ Also answers: car wash in Romeoville, IL; car wash near me (Romeoville, IL); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Emerald's Car Wash | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Emerald's Car Wash is a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446. | https://registry-edge.dingalinged.workers.dev/c/emeralds-car-wash-romeoville/
-2. $3 Car Wash | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | $3 Car Wash is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/3-car-wash-romeoville/
-3. NASCAR Car Wash | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | NASCAR Car Wash is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/nascar-car-wash-romeoville/
-4. Circle K | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Circle K is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/circle-k-romeoville/
+2. NASCAR Car Wash | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | NASCAR Car Wash is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/nascar-car-wash-romeoville/
+3. Circle K | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Circle K is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/circle-k-romeoville/
+4. $3 Car Wash | Organic #4 | Pulse Score 41.6/100 (Unrated, #4 in city) | $3 Car Wash is a car wash in Romeoville, IL. | https://registry-edge.dingalinged.workers.dev/c/3-car-wash-romeoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash romeoville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

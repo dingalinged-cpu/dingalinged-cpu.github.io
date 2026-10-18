@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. The Puddery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Puddery is a bakery in Pearland, TX at 5517 West Broadway Street #M, Pearland, TX 77581. | https://registry-edge.dingalinged.workers.dev/c/the-puddery-pearland/
 2. Smallcakes Cupcakery | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Smallcakes Cupcakery is a bakery in Pearland, TX at 11200 West Broadway Street #655, Pearland, TX 77584. | https://registry-edge.dingalinged.workers.dev/c/smallcakes-cupcakery-pearland/
 3. Eight Turn Crepe | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Eight Turn Crepe is a bakery in Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/eight-turn-crepe-pearland/
-4. Cinnaholic | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Cinnaholic is a bakery in Pearland, TX. Website: https://locations.cinnaholic.com/ll/us/tx/pearland/39/. | https://registry-edge.dingalinged.workers.dev/c/cinnaholic-pearland/
+4. Cinnaholic | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Cinnaholic is a bakery in Pearland, TX. Website: https://locations.cinnaholic.com/ll/us/tx/pearland/39/. | https://registry-edge.dingalinged.workers.dev/c/cinnaholic-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery pearland tx | category: Events & weddings | industry benchmark: Personal Services

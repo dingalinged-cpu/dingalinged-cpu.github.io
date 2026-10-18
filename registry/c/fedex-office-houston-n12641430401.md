@@ -13,7 +13,7 @@ FedEx Office is a printing service in Houston, TX at 315 North Sam Houston Parkw
 - Website: https://local.fedex.com/en-us/tx/houston/office-2109
 - Email: USA2109@FEDEX.COM
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00; Su 00:00-18:00
-- Pulse Score: 52.1/100 — Fair — top 26% of printing services in Houston, #11 of 36 printing services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 26% of printing services in Houston, #11 of 36 printing services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 68.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

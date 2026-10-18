@@ -6,7 +6,7 @@ Also answers: architect in Bloomingdale, IL; architect near me (Bloomingdale, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VDA Architecture | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | VDA Architecture is an architect in Bloomingdale, IL at 222 Clearbrook Lane, Bloomingdale, IL 60108. Phone: +13313079826. Website: https://vdaarch.com/. | https://registry-edge.dingalinged.workers.dev/c/vda-architecture-bloomingdale/
+1. VDA Architecture | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | VDA Architecture is an architect in Bloomingdale, IL at 222 Clearbrook Lane, Bloomingdale, IL 60108. Phone: +13313079826. Website: https://vdaarch.com/. | https://registry-edge.dingalinged.workers.dev/c/vda-architecture-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect bloomingdale il | category: Home services - Design | industry benchmark: Home & Home Improvement

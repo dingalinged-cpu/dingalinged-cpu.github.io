@@ -13,7 +13,7 @@ Nail Art is a nail salon in Chicago, IL at 10606 South Ewing Avenue, Chicago, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Chicago, #14 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Chicago, #75 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

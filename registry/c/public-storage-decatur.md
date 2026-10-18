@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Decatur, GA at 1210 Clairmont Road,
 - Website: https://www.publicstorage.com/self-storage-ga-decatur/1962.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00
-- Pulse Score: 53/100 — Fair — top 17% of self-storage facilitys in Atlanta, #1 of 1 self-storage facilitys in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 71.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 53/100 — Fair — top 16% of self-storage facilitys in Atlanta, #1 of 1 self-storage facilitys in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 71.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

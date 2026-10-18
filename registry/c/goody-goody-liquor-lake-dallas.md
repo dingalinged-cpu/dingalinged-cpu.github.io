@@ -13,7 +13,7 @@ Goody Goody Liquor is a liquor store in Lake Dallas, TX at 104 North Stemmons Fr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 85% of liquor stores in Dallas–Fort Worth, #4 of 4 liquor stores in Lake Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 45.3/100 — Unrated (not enough evidence yet) — top 84% of liquor stores in Dallas–Fort Worth, #4 of 4 liquor stores in Lake Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

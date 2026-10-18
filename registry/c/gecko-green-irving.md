@@ -13,7 +13,7 @@ Gecko Green is a landscaping company in Irving, TX at 6015 Commerce Drive #Ste 4
 - Website: https://www.geckogreen.com/
 - Email: customercare@geckogreen.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-14:00
-- Pulse Score: 65.4/100 — Good — top 15% of landscaping companys in Dallas–Fort Worth, #1 of 1 landscaping companys in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 72.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 15% of landscaping companys in Dallas–Fort Worth, #1 of 1 landscaping companys in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 71.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

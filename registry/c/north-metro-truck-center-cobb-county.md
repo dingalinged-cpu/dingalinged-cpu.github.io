@@ -13,7 +13,7 @@ North Metro Truck Center is an auto repair shop in Cobb County, GA at 2009 Dorse
 - Website: https://www.northmetrotruckcenter.com/
 - Email: info@northmetrotruckcenter.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 71% of auto repair shops in Atlanta, #57 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 70% of auto repair shops in Atlanta, #57 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

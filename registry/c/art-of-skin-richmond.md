@@ -13,7 +13,7 @@ Art Of Skin is a skin care studio in Richmond, TX at 111 South 3rd Street, Richm
 - Website: https://www.theartofskin.co/
 - Email: ladonna@theartofskin.net
 - Opening hours (OSM syntax): Mo,Tu,We,Fr 10:00-17:00; Th 12:00-17:00
-- Pulse Score: 62/100 — Good — top 8% of skin care studios in Houston, #1 of 2 skin care studios in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 62/100 — Good — top 8% of skin care studios in Houston, #1 of 2 skin care studios in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

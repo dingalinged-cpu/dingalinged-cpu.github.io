@@ -6,7 +6,7 @@ Also answers: eye doctor in Anoka, MN; eye doctor near me (Anoka, MN); best eye 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bridge Square Optical | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Bridge Square Optical is an eye care practice in Anoka, MN. | https://registry-edge.dingalinged.workers.dev/c/bridge-square-optical-anoka/
+1. Bridge Square Optical | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Bridge Square Optical is an eye care practice in Anoka, MN. | https://registry-edge.dingalinged.workers.dev/c/bridge-square-optical-anoka/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor anoka mn | category: Health & medical | industry benchmark: Physicians & Surgeons

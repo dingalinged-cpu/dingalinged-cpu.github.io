@@ -6,7 +6,7 @@ Also answers: tanning salon in Golden Valley, MN; tanning salon near me (Golden 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bronze Boss Tanned by Tasheena | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +16128171101. Website: https://bronzebosstannedbytasheena.business.site/. | https://registry-edge.dingalinged.workers.dev/c/bronze-boss-tanned-by-tasheena-golden-valley/
+1. Bronze Boss Tanned by Tasheena | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +16128171101. Website: https://bronzebosstannedbytasheena.business.site/. | https://registry-edge.dingalinged.workers.dev/c/bronze-boss-tanned-by-tasheena-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon golden valley mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

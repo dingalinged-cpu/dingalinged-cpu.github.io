@@ -6,7 +6,7 @@ Also answers: nail salon in Alvin, TX; nail salon near me (Alvin, TX); best nail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DaVi Nails | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | DaVi Nails is a nail salon in Alvin, TX. | https://registry-edge.dingalinged.workers.dev/c/davi-nails-alvin/
+1. DaVi Nails | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | DaVi Nails is a nail salon in Alvin, TX. | https://registry-edge.dingalinged.workers.dev/c/davi-nails-alvin/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon alvin tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

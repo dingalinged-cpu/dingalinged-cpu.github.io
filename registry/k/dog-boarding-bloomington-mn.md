@@ -6,7 +6,7 @@ Also answers: dog boarding in Bloomington, MN; dog boarding near me (Bloomington
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Bloomington, MN at 5208 West 84th Street, Bloomington, MN. Phone: +16128140616. Website: https://www.dogtopia.com/bloomington/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-bloomington/
+1. Dogtopia | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in Bloomington, MN at 5208 West 84th Street, Bloomington, MN. Phone: +16128140616. Website: https://www.dogtopia.com/bloomington/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding bloomington mn | category: Pets | industry benchmark: Animals & Pets

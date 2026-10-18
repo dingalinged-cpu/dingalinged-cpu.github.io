@@ -13,7 +13,7 @@ The Thirsty Whale is a bakery in Minneapolis, MN at 4149 North Fremont Avenue, M
 - Website: https://www.thirstywhalebakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 06:30-18:00; Sa 07:00-15:00; Su 07:00-13:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of bakerys in Minneapolis–St. Paul, #19 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 28% of bakerys in Minneapolis–St. Paul, #19 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
