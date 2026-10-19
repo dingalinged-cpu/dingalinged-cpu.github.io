@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. North Hills Dermatology, PLLC | Organic #50 | Pulse Score 59.5/100 (Unrated, #1 in city) | North Hills Dermatology, PLLC is a dermatologist in Fayetteville, AR at 3256 North Northhills Boulevard, Fayetteville, AR 72703. Phone: +14794424617. | https://registry-edge.dingalinged.workers.dev/c/north-hills-dermatology-pllc-fayetteville/
 
 ## More dermatologist listings (153 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dermatologist.jsonl
 - Houston, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dermatologist-houston-tx/
 - Austin, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/dermatologist-austin-tx/
 - Flower Mound, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/dermatologist-flower-mound-tx/

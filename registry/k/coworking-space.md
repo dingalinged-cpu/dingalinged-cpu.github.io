@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. PlexPod Crossroads | Organic #50 | Pulse Score 59.7/100 (Unrated, #3 in city) | PlexPod Crossroads is a coworking space in Kansas City, MO at 1712 Main Street, Kansas City, MO 64108. Website: https://www.plexpod.com/locations/crossroads. | https://registry-edge.dingalinged.workers.dev/c/plexpod-crossroads-kansas-city/
 
 ## More coworking space listings (223 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/coworking-space.jsonl
 - Chicago, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/coworking-space-chicago-il/
 - Atlanta, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/coworking-space-atlanta-ga/
 - Milwaukee, WI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/coworking-space-milwaukee-wi/

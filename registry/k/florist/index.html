@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Woodstock Flowers | Organic #50 | Pulse Score 62.6/100 (Good, #3 in city) | Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/woodstock-flowers-woodstock/
 
 ## More florist listings (755 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/florist.jsonl
 - Chicago, IL: 43 listings: https://registry-edge.dingalinged.workers.dev/k/florist-chicago-il/
 - Houston, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/florist-houston-tx/
 - Minneapolis, MN: 18 listings: https://registry-edge.dingalinged.workers.dev/k/florist-minneapolis-mn/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Chaffey Construction LLC | Organic #50 | Pulse Score 56.8/100 (Unrated, #1 in city) | Chaffey Construction LLC is a general contractor in Fort Smith, AR at 3701 Jenny Lind Road, Fort Smith, AR. Phone: +14794345203. | https://registry-edge.dingalinged.workers.dev/c/chaffey-construction-llc-fort-smith/
 
 ## More general contractor listings (85 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/general-contractor.jsonl
 - Naperville, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/general-contractor-naperville-il/
 - Dallas, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/general-contractor-dallas-tx/
 - Leander, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/general-contractor-leander-tx/

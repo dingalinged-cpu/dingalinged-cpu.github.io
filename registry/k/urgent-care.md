@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Healthpartners Como | Organic #50 | Pulse Score 55.6/100 (Unrated, #1 in city) | Healthpartners Como is an urgent care clinic in Saint Paul, MN at 2500 Como Avenue, Saint Paul, MN 55108. | https://registry-edge.dingalinged.workers.dev/c/healthpartners-como-saint-paul/
 
 ## More urgent care listings (104 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/urgent-care.jsonl
 - Chicago, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/urgent-care-chicago-il/
 - Beaumont, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/urgent-care-beaumont-tx/
 - Odessa, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/urgent-care-odessa-tx/

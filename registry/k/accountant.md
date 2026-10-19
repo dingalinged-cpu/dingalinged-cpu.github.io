@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Omotosho & Associates | Organic #50 | Pulse Score 61.7/100 (Unrated, #2 in city) | Omotosho & Associates is an accountant in Chicago, IL at 1525 East 53rd Street ##620, Chicago, IL 60615. Phone: +17737520035. Website: https://www.omotoshocpa.net/. | https://registry-edge.dingalinged.workers.dev/c/omotosho-and-associates-chicago/
 
 ## More accountant listings (379 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/accountant.jsonl
 - Houston, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/accountant-houston-tx/
 - Chicago, IL: 12 listings: https://registry-edge.dingalinged.workers.dev/k/accountant-chicago-il/
 - Dallas, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/accountant-dallas-tx/

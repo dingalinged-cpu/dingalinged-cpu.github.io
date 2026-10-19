@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Houston DBT Center | Organic #50 | Pulse Score 61.8/100 (Unrated, #3 in city) | Houston DBT Center is a therapy practice in Houston, TX at 1348 Heights Boulevard, Houston, TX 77008. Phone: +17139732800. Website: https://houstondbtcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/houston-dbt-center-houston/
 
 ## More therapist listings (640 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/therapist.jsonl
 - Chicago, IL: 34 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-chicago-il/
 - Milwaukee, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-milwaukee-wi/
 - Houston, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/therapist-houston-tx/

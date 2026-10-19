@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Brandt Auto Brokers | Organic #50 | Pulse Score 62.3/100 (Good, #11 in city) | Brandt Auto Brokers is an used car dealer in Marietta, GA at 633 Cobb Parkway North, Marietta, GA. Phone: +16785940300. Website: https://www.brandtautobrokers.net/. | https://registry-edge.dingalinged.workers.dev/c/brandt-auto-brokers-marietta/
 
 ## More used cars for sale listings (1265 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/used-cars-for-sale.jsonl
 - Amarillo, TX: 71 listings: https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-amarillo-tx/
 - Indianapolis, IN: 64 listings: https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-indianapolis-in/
 - Houston, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-houston-tx/

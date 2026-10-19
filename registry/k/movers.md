@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Atlanta Home Movers & Real Estate | Organic #50 | Pulse Score 58.5/100 (Fair, #2 in city) | Atlanta Home Movers & Real Estate is a moving company in Cobb County, GA at 3020 Canton Road #216, Cobb County, GA. Phone: +16784484816. Website: https://www.atlantahomemovers.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-home-movers-and-real-estate-cobb-county/
 
 ## More movers listings (124 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/movers.jsonl
 - San Antonio, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/movers-san-antonio-tx/
 - Chicago, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/movers-chicago-il/
 - Amarillo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/movers-amarillo-tx/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Crabapple Martial Arts Academy | Organic #50 | Pulse Score 62.5/100 (Unrated, #1 in city) | Crabapple Martial Arts Academy is a martial arts school in Alpharetta, GA at 12315 Crabapple Road, Alpharetta, GA 30004. Phone: +17706450930. Website: https://www.crabapplemartialarts.com/. | https://registry-edge.dingalinged.workers.dev/c/crabapple-martial-arts-academy-alpharetta/
 
 ## More martial arts listings (643 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/martial-arts.jsonl
 - Chicago, IL: 20 listings: https://registry-edge.dingalinged.workers.dev/k/martial-arts-chicago-il/
 - Austin, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/martial-arts-austin-tx/
 - Houston, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/martial-arts-houston-tx/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Waterford Place Assisted Living & Memory Care | Organic #50 | Pulse Score 62.2/100 (Unrated, #1 in city) | Waterford Place Assisted Living & Memory Care is an assisted living facility in Waterford, WI at 808 Cornerstone Crossing, Waterford, WI 53185. Phone: +12625140120. Website: https://waterfordplace-assistedliving.com/. | https://registry-edge.dingalinged.workers.dev/c/waterford-place-assisted-living-and-memory-care-waterford/
 
 ## More assisted living listings (572 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/assisted-living.jsonl
 - Houston, TX: 34 listings: https://registry-edge.dingalinged.workers.dev/k/assisted-living-houston-tx/
 - Chicago, IL: 16 listings: https://registry-edge.dingalinged.workers.dev/k/assisted-living-chicago-il/
 - Milwaukee, WI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/assisted-living-milwaukee-wi/

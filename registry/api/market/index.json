@@ -150,7 +150,7 @@
   },
   "registry": {
    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
-   "url": "https://registry-edge.dingalinged.workers.dev/api/companies.json",
+   "url": "https://registry-edge.dingalinged.workers.dev/",
    "as_of": "2026-10-18"
   },
   "registry_estimate": {
@@ -160,7 +160,7 @@
   },
   "registry_auction": {
    "name": "Registry keyword auction catalog and rules",
-   "url": "https://registry-edge.dingalinged.workers.dev/api/keyword-prices.json",
+   "url": "https://registry-edge.dingalinged.workers.dev/market/",
    "as_of": "2026-10-18"
   },
   "r_meetadmiral-com-downloads-google-ads-cost-us-2025-09-to-2026": {

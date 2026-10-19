@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Matillion | Organic #50 | Pulse Score 62/100 (Unrated, #7 in city) | Matillion is an IT support company in Denver, CO at 1200 17th Street, Denver, CO 80202. Phone: +17209304647. Website: https://www.matillion.com/. | https://registry-edge.dingalinged.workers.dev/c/matillion-denver/
 
 ## More it support listings (412 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/it-support.jsonl
 - Austin, TX: 24 listings: https://registry-edge.dingalinged.workers.dev/k/it-support-austin-tx/
 - Houston, TX: 14 listings: https://registry-edge.dingalinged.workers.dev/k/it-support-houston-tx/
 - Centennial, CO: 13 listings: https://registry-edge.dingalinged.workers.dev/k/it-support-centennial-co/

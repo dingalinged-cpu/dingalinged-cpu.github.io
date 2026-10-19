@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Inspection Express | Organic #50 | Pulse Score 55.4/100 (Unrated, #1 in city) | Inspection Express is a vehicle inspection station in Round Rock, TX. | https://registry-edge.dingalinged.workers.dev/c/inspection-express-round-rock/
 
 ## More car inspection listings (80 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/car-inspection.jsonl
 - Coryell County, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/car-inspection-coryell-county-tx/
 - Cobb County, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-inspection-cobb-county-ga/
 - Marietta, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/car-inspection-marietta-ga/

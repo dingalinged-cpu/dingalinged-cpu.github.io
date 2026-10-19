@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Casual Image Furniture | Organic #50 | Pulse Score 62.9/100 (Good, #4 in city) | Casual Image Furniture is a furniture store in Cobb County, GA at 1893 Piedmont Road Northeast, Cobb County, GA 30066. Phone: +17709715605. Website: https://www.casualimage.com/. | https://registry-edge.dingalinged.workers.dev/c/casual-image-furniture-cobb-county/
 
 ## More furniture store listings (2123 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/furniture-store.jsonl
 - Houston, TX: 72 listings: https://registry-edge.dingalinged.workers.dev/k/furniture-store-houston-tx/
 - Austin, TX: 57 listings: https://registry-edge.dingalinged.workers.dev/k/furniture-store-austin-tx/
 - Chicago, IL: 57 listings: https://registry-edge.dingalinged.workers.dev/k/furniture-store-chicago-il/

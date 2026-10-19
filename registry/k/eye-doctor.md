@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Arnold Eyecare Center | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | Arnold Eyecare Center is an eye care practice in Arnold, MO at 1235 Water Tower Place, Arnold, MO 63010. Phone: +16362968612. Website: https://www.arnoldeye.com/. | https://registry-edge.dingalinged.workers.dev/c/arnold-eyecare-center-arnold/
 
 ## More eye doctor listings (711 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/eye-doctor.jsonl
 - Chicago, IL: 29 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-chicago-il/
 - Houston, TX: 20 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-houston-tx/
 - San Antonio, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/eye-doctor-san-antonio-tx/

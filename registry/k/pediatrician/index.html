@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Tosa Pediatrics | Organic #50 | Pulse Score 61.2/100 (Unrated, #2 in city) | Tosa Pediatrics is a pediatrician in Wauwatosa, WI at 8651 West North Avenue, Wauwatosa, WI 53226. Phone: +14147749200. Website: https://www.tosapediatrics.com/. | https://registry-edge.dingalinged.workers.dev/c/tosa-pediatrics-wauwatosa/
 
 ## More pediatrician listings (237 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/pediatrician.jsonl
 - Chicago, IL: 11 listings: https://registry-edge.dingalinged.workers.dev/k/pediatrician-chicago-il/
 - San Antonio, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/pediatrician-san-antonio-tx/
 - Amarillo, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/pediatrician-amarillo-tx/

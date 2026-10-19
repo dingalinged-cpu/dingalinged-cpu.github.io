@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. PREAM Lands | Organic #50 | Pulse Score 62.7/100 (Good, #1 in city) | PREAM Lands is a real estate agency in Dallas, TX at 6060 North Central Expressway #Suite 510, Dallas, TX 75206. Phone: +14698404449. Website: https://www.webuylandntx.com/. | https://registry-edge.dingalinged.workers.dev/c/pream-lands-dallas/
 
 ## More real estate agent listings (1505 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/real-estate-agent.jsonl
 - Chicago, IL: 69 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-chicago-il/
 - Dallas, TX: 36 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-dallas-tx/
 - Columbus, OH: 35 listings: https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-columbus-oh/

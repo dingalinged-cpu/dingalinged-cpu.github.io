@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Truong An Gifts | Organic #50 | Pulse Score 63.1/100 (Unrated, #1 in city) | Truong An Gifts is a gift shop in Denver, CO at 333 South Federal Boulevard, Denver, CO 80219. Phone: +13039365004. Website: https://truongangifts.com/. | https://registry-edge.dingalinged.workers.dev/c/truong-an-gifts-denver/
 
 ## More gift shop listings (1381 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/gift-shop.jsonl
 - Houston, TX: 60 listings: https://registry-edge.dingalinged.workers.dev/k/gift-shop-houston-tx/
 - Chicago, IL: 60 listings: https://registry-edge.dingalinged.workers.dev/k/gift-shop-chicago-il/
 - San Antonio, TX: 57 listings: https://registry-edge.dingalinged.workers.dev/k/gift-shop-san-antonio-tx/

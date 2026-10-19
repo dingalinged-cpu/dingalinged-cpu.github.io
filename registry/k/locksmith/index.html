@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. UTS Locksmith Atlanta | Organic #50 | Pulse Score 59.8/100 (Unrated, #1 in city) | UTS Locksmith Atlanta is a locksmith in Atlanta, GA at 100 Edgewood Avenue Northeast, Atlanta, GA 30303. Phone: +14045513820. Website: https://www.atlanta-locksmith.com/. | https://registry-edge.dingalinged.workers.dev/c/uts-locksmith-atlanta-atlanta/
 
 ## More locksmith listings (147 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/locksmith.jsonl
 - Houston, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/locksmith-houston-tx/
 - Chicago, IL: 10 listings: https://registry-edge.dingalinged.workers.dev/k/locksmith-chicago-il/
 - Dallas, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/locksmith-dallas-tx/

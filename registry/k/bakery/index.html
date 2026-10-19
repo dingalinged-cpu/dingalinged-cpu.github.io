@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Dulce Canela Handcrafted Churros And Ice Cream | Organic #50 | Pulse Score 63.6/100 (Good, #2 in city) | Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 2730 Summers Street Northwest, Kennesaw, GA. Phone: +16785403577. Website: https://ww.dulcecanelachurros.com/. | https://registry-edge.dingalinged.workers.dev/c/dulce-canela-handcrafted-churros-and-ice-cream-kennesaw/
 
 ## More bakery listings (1863 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/bakery.jsonl
 - Chicago, IL: 338 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-il/
 - Houston, TX: 73 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-houston-tx/
 - Austin, TX: 45 listings: https://registry-edge.dingalinged.workers.dev/k/bakery-austin-tx/

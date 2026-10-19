@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Yoga on High | Organic #50 | Pulse Score 61.8/100 (Unrated, #2 in city) | Yoga on High is a yoga studio in Columbus, OH at 1020 Dennison Avenue #202, Columbus, OH 43201. Phone: +16142914444. Website: https://www.yogaonhigh.com/. | https://registry-edge.dingalinged.workers.dev/c/yoga-on-high-columbus/
 
 ## More yoga classes listings (424 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/yoga-classes.jsonl
 - Chicago, IL: 28 listings: https://registry-edge.dingalinged.workers.dev/k/yoga-classes-chicago-il/
 - Austin, TX: 21 listings: https://registry-edge.dingalinged.workers.dev/k/yoga-classes-austin-tx/
 - Minneapolis, MN: 16 listings: https://registry-edge.dingalinged.workers.dev/k/yoga-classes-minneapolis-mn/

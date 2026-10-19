@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. FCS Painting | Organic #50 | Pulse Score 58.2/100 (Unrated, #2 in city) | FCS Painting is a painting contractor in Des Moines, IA at 118 Southeast 4th Street #101, Des Moines, IA 50309. Phone: +15158088268. Website: https://fcspaintingia.com/. | https://registry-edge.dingalinged.workers.dev/c/fcs-painting-des-moines/
 
 ## More painters listings (101 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/painters.jsonl
 - Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/painters-indianapolis-in/
 - Littleton, CO: 3 listings: https://registry-edge.dingalinged.workers.dev/k/painters-littleton-co/
 - Roswell, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/painters-roswell-ga/

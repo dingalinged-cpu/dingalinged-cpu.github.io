@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Nebraskaland Wellness Center | Organic #50 | Pulse Score 62.9/100 (Unrated, #1 in city) | Nebraskaland Wellness Center is a chiropractor in Gretna, NE at 428 Bryan Street #200, Gretna, NE 68028. Phone: +15313591552. Website: https://www.nebraskalandwellness.com/. | https://registry-edge.dingalinged.workers.dev/c/nebraskaland-wellness-center-gretna/
 
 ## More chiropractor listings (1126 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/chiropractor.jsonl
 - Austin, TX: 22 listings: https://registry-edge.dingalinged.workers.dev/k/chiropractor-austin-tx/
 - Houston, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/chiropractor-houston-tx/
 - Saint Paul, MN: 19 listings: https://registry-edge.dingalinged.workers.dev/k/chiropractor-saint-paul-mn/

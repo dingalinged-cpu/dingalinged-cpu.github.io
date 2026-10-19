@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Nicolae Pop Photography | Organic #50 | Pulse Score 61.2/100 (Unrated, #3 in city) | Nicolae Pop Photography is a photographer in Cincinnati, OH at 838 Reedy Street, Cincinnati, OH 45202. Phone: +15132536079. Website: https://www.npopphotography.com/. | https://registry-edge.dingalinged.workers.dev/c/nicolae-pop-photography-cincinnati/
 
 ## More photographer listings (250 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/photographer.jsonl
 - Houston, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/photographer-houston-tx/
 - Springfield, MO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/photographer-springfield-mo/
 - Chicago, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/photographer-chicago-il/

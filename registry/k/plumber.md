@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. SMP Plumbing Company | Organic #50 | Pulse Score 61.4/100 (Unrated, #1 in city) | SMP Plumbing Company is a plumber in Bridgeton, MO at 3275 Lake Avenue, Bridgeton, MO 63044. Phone: +13146774763. Website: https://smpplumbingcompany.com/. | https://registry-edge.dingalinged.workers.dev/c/smp-plumbing-company-bridgeton/
 
 ## More plumber listings (340 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/plumber.jsonl
 - San Antonio, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-san-antonio-tx/
 - Amarillo, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-amarillo-tx/
 - Chicago, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/plumber-chicago-il/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Champion Performance Physical Therapy | Organic #50 | Pulse Score 61.9/100 (Unrated, #1 in city) | Champion Performance Physical Therapy is a physical therapy clinic in Cedar Park, TX at 12617 Ridgeline Boulevard #C-105, Cedar Park, TX 78613. Phone: +15129960441. Website: https://www.cp-pt.com/. | https://registry-edge.dingalinged.workers.dev/c/champion-performance-physical-therapy-cedar-park/
 
 ## More physical therapy listings (726 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/physical-therapy.jsonl
 - Chicago, IL: 55 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-chicago-il/
 - Sterling Heights, MI: 23 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-sterling-heights-mi/
 - Dallas, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/physical-therapy-dallas-tx/

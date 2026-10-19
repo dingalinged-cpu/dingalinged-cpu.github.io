@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Magnolia Acupuncture | Organic #50 | Pulse Score 59/100 (Unrated, #2 in city) | Magnolia Acupuncture is an acupuncture clinic in Minneapolis, MN at 4250 Upton Avenue South, Minneapolis, MN 55410. Phone: +16122082881. Website: https://www.magnoliaintegrative.com/. | https://registry-edge.dingalinged.workers.dev/c/magnolia-acupuncture-minneapolis/
 
 ## More acupuncture listings (97 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/acupuncture.jsonl
 - Chicago, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/acupuncture-chicago-il/
 - Saint Paul, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/acupuncture-saint-paul-mn/
 - Minneapolis, MN: 5 listings: https://registry-edge.dingalinged.workers.dev/k/acupuncture-minneapolis-mn/

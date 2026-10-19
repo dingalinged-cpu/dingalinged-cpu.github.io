@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Core Pilates | Organic #50 | Pulse Score 54.3/100 (Unrated, #1 in city) | Core Pilates is a pilates studio in Highland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/core-pilates-highland-park/
 
 ## More pilates listings (131 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/pilates.jsonl
 - Chicago, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/pilates-chicago-il/
 - Houston, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/pilates-houston-tx/
 - Dallas, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/pilates-dallas-tx/

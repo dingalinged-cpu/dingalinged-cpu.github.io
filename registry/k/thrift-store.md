@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Boysville Thrift Store | Organic #50 | Pulse Score 62.1/100 (Unrated, #3 in city) | Boysville Thrift Store is a thrift store in San Antonio, TX at 307 West Olmos Drive, San Antonio, TX 78212. Phone: +12108262195. Website: https://boysvillethriftstore.com/. | https://registry-edge.dingalinged.workers.dev/c/boysville-thrift-store-san-antonio/
 
 ## More thrift store listings (1428 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/thrift-store.jsonl
 - Chicago, IL: 45 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-chicago-il/
 - Houston, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-houston-tx/
 - Austin, TX: 37 listings: https://registry-edge.dingalinged.workers.dev/k/thrift-store-austin-tx/

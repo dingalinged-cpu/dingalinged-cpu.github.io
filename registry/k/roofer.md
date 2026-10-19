@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Fasto Roofing | Organic #50 | Pulse Score 61.5/100 (Unrated, #1 in city) | Fasto Roofing is a roofer in Mason, OH at 1233 Castle Drive #J4, Mason, OH 45040. Phone: +15136017306. Website: https://www.fastoroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/fasto-roofing-mason/
 
 ## More roofer listings (368 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/roofer.jsonl
 - Indianapolis, IN: 16 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-indianapolis-in/
 - Austin, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-austin-tx/
 - Lubbock, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/roofer-lubbock-tx/

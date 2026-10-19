@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Hello Gorgeous Hair Co | Organic #50 | Pulse Score 64.9/100 (Good, #1 in city) | Hello Gorgeous Hair Co is a hair salon in Lubbock, TX at 4418 74th Street #54, Lubbock, TX 79424. Phone: +18065165548. Website: https://hellogorgeoushair.co/. | https://registry-edge.dingalinged.workers.dev/c/hello-gorgeous-hair-co-lubbock/
 
 ## More hair salon listings (6650 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/hair-salon.jsonl
 - Chicago, IL: 220 listings: https://registry-edge.dingalinged.workers.dev/k/hair-salon-chicago-il/
 - Houston, TX: 191 listings: https://registry-edge.dingalinged.workers.dev/k/hair-salon-houston-tx/
 - Austin, TX: 169 listings: https://registry-edge.dingalinged.workers.dev/k/hair-salon-austin-tx/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Enchanted Escape Nail Spa | Organic #50 | Pulse Score 64/100 (Unrated, #1 in city) | Enchanted Escape Nail Spa is a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/. | https://registry-edge.dingalinged.workers.dev/c/enchanted-escape-nail-spa-katy/
 
 ## More nail salon listings (2691 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/nail-salon.jsonl
 - Houston, TX: 107 listings: https://registry-edge.dingalinged.workers.dev/k/nail-salon-houston-tx/
 - Chicago, IL: 93 listings: https://registry-edge.dingalinged.workers.dev/k/nail-salon-chicago-il/
 - Harris County, TX: 61 listings: https://registry-edge.dingalinged.workers.dev/k/nail-salon-harris-county-tx/

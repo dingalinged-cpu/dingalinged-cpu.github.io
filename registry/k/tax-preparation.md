@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Dance, Bigelow & Co. PC | Organic #50 | Pulse Score 61.9/100 (Good, #1 in city) | Dance, Bigelow & Co. PC is a tax preparation service in Flower Mound, TX at 3942 Churchill Drive #100, Flower Mound, TX 75022. | https://registry-edge.dingalinged.workers.dev/c/dance-bigelow-and-co-pc-flower-mound/
 
 ## More tax preparation listings (1206 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tax-preparation.jsonl
 - Chicago, IL: 87 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparation-chicago-il/
 - Houston, TX: 45 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparation-houston-tx/
 - Milwaukee, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/tax-preparation-milwaukee-wi/

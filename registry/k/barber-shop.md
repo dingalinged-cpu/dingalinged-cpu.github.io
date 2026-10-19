@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Jose Bonilla at Estilos Barber Shop | Organic #50 | Pulse Score 63.2/100 (Good, #1 in city) | Jose Bonilla at Estilos Barber Shop is a barber shop in Killeen, TX at 2800 Illinois Avenue #200, Killeen, TX 76543. Phone: +12549529373. Website: https://www.estilobarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/jose-bonilla-at-estilos-barber-shop-killeen/
 
 ## More barber shop listings (539 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/barber-shop.jsonl
 - Dallas, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/barber-shop-dallas-tx/
 - Minneapolis, MN: 21 listings: https://registry-edge.dingalinged.workers.dev/k/barber-shop-minneapolis-mn/
 - Amarillo, TX: 19 listings: https://registry-edge.dingalinged.workers.dev/k/barber-shop-amarillo-tx/

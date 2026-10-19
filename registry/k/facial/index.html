@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Purity Spa | Organic #50 | Pulse Score 61.6/100 (Unrated, #1 in city) | Purity Spa is a spa in Willow Springs, IL at 151 Market Street, Willow Springs, IL 60480. Phone: +17083305357. Website: https://purityspa.us/. | https://registry-edge.dingalinged.workers.dev/c/purity-spa-willow-springs/
 
 ## More facial listings (323 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/facial.jsonl
 - Houston, TX: 16 listings: https://registry-edge.dingalinged.workers.dev/k/facial-houston-tx/
 - Chicago, IL: 15 listings: https://registry-edge.dingalinged.workers.dev/k/facial-chicago-il/
 - Cobb County, GA: 12 listings: https://registry-edge.dingalinged.workers.dev/k/facial-cobb-county-ga/

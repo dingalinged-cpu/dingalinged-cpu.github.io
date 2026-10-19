@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Mattress2Go | Organic #50 | Pulse Score 57.3/100 (Unrated, #1 in city) | Mattress2Go is a mattress store in Weatherford, TX at 1402 South Main Street, Weatherford, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress2go-weatherford/
 
 ## More mattress store listings (829 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/mattress-store.jsonl
 - Houston, TX: 26 listings: https://registry-edge.dingalinged.workers.dev/k/mattress-store-houston-tx/
 - Austin, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mattress-store-austin-tx/
 - Chicago, IL: 23 listings: https://registry-edge.dingalinged.workers.dev/k/mattress-store-chicago-il/

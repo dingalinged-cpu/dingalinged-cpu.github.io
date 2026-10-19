@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Garden Fresh Foods | Organic #50 | Pulse Score 59.6/100 (Unrated, #1 in city) | Garden Fresh Foods is a caterer in Milwaukee, WI at 726 South 12th Street, Milwaukee, WI 53204. Phone: +14146451000. Website: https://garden-freshfoods.com/. | https://registry-edge.dingalinged.workers.dev/c/garden-fresh-foods-milwaukee/
 
 ## More caterers listings (191 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/caterers.jsonl
 - Pittsburgh, PA: 9 listings: https://registry-edge.dingalinged.workers.dev/k/caterers-pittsburgh-pa/
 - Austin, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/caterers-austin-tx/
 - Beaumont, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/caterers-beaumont-tx/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Old Town School of Folk Music | Organic #50 | Pulse Score 60.6/100 (Unrated, #4 in city) | Old Town School of Folk Music is a music school in Chicago, IL at 4544 North Lincoln Avenue, Chicago, IL 60625. Website: https://www.oldtownschool.org/. | https://registry-edge.dingalinged.workers.dev/c/old-town-school-of-folk-music-chicago-w209477826/
 
 ## More music lessons listings (207 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/music-lessons.jsonl
 - Chicago, IL: 22 listings: https://registry-edge.dingalinged.workers.dev/k/music-lessons-chicago-il/
 - Austin, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/music-lessons-austin-tx/
 - Saint Paul, MN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/music-lessons-saint-paul-mn/

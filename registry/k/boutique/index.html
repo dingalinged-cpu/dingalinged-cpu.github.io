@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Urban Layce Boutique | Organic #50 | Pulse Score 55.4/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/urban-layce-boutique-houston/
 
 ## More boutique listings (59 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/boutique.jsonl
 - Houston, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/boutique-houston-tx/
 - Dallas, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/boutique-dallas-tx/
 - Lubbock, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/boutique-lubbock-tx/

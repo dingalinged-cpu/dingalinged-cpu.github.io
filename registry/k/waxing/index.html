@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Salon Lotus | Organic #50 | Pulse Score 61.7/100 (Unrated, #1 in city) | Salon Lotus is a nail salon in Lawrence, KS at 4101 West 6th Street #A, Lawrence, KS 66049. Phone: +17858321121. Website: https://www.salonlotuslawrence.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-lotus-lawrence/
 
 ## More waxing listings (285 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/waxing.jsonl
 - Houston, TX: 15 listings: https://registry-edge.dingalinged.workers.dev/k/waxing-houston-tx/
 - Cobb County, GA: 14 listings: https://registry-edge.dingalinged.workers.dev/k/waxing-cobb-county-ga/
 - Chicago, IL: 14 listings: https://registry-edge.dingalinged.workers.dev/k/waxing-chicago-il/

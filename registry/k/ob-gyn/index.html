@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Pittsburgh Gynob | Organic #50 | Pulse Score 57.4/100 (Unrated, #1 in city) | Pittsburgh Gynob is an OB-GYN practice in Shaler Township, PA. Phone: +14124863181. | https://registry-edge.dingalinged.workers.dev/c/pittsburgh-gynob-shaler-township/
 
 ## More ob gyn listings (93 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/ob-gyn.jsonl
 - Madison, WI: 6 listings: https://registry-edge.dingalinged.workers.dev/k/ob-gyn-madison-wi/
 - Amarillo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/ob-gyn-amarillo-tx/
 - Houston, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/ob-gyn-houston-tx/

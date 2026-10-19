@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. StrikeBox Fitness | Organic #50 | Pulse Score 63.3/100 (Good, #3 in city) | StrikeBox Fitness is a gym in San Antonio, TX at 7350 Tezel Road #102, San Antonio, TX 78250. Phone: +12105602041. | https://registry-edge.dingalinged.workers.dev/c/strikebox-fitness-san-antonio/
 
 ## More gym listings (3608 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/gym.jsonl
 - Chicago, IL: 165 listings: https://registry-edge.dingalinged.workers.dev/k/gym-chicago-il/
 - Austin, TX: 90 listings: https://registry-edge.dingalinged.workers.dev/k/gym-austin-tx/
 - Houston, TX: 85 listings: https://registry-edge.dingalinged.workers.dev/k/gym-houston-tx/

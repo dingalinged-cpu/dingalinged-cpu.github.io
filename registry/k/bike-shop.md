@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Nearly New Bikes | Organic #50 | Pulse Score 62.2/100 (Good, #5 in city) | Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/. | https://registry-edge.dingalinged.workers.dev/c/nearly-new-bikes-chicago/
 
 ## More bike shop listings (785 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/bike-shop.jsonl
 - Chicago, IL: 68 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-chicago-il/
 - Madison, WI: 24 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-madison-wi/
 - Austin, TX: 23 listings: https://registry-edge.dingalinged.workers.dev/k/bike-shop-austin-tx/

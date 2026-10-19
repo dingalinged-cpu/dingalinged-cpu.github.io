@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Soul Logic | Organic #50 | Pulse Score 61.4/100 (Good, #4 in city) | Soul Logic is an architect in Saint Paul, MN at 856 Raymond Avenue #G, Saint Paul, MN 55114. Website: https://soullogicmn.com/. | https://registry-edge.dingalinged.workers.dev/c/soul-logic-saint-paul/
 
 ## More architect listings (289 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/architect.jsonl
 - Chicago, IL: 18 listings: https://registry-edge.dingalinged.workers.dev/k/architect-chicago-il/
 - Kansas City, MO: 18 listings: https://registry-edge.dingalinged.workers.dev/k/architect-kansas-city-mo/
 - Milwaukee, WI: 15 listings: https://registry-edge.dingalinged.workers.dev/k/architect-milwaukee-wi/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Kolssak Funeral Home Ltd. | Organic #50 | Pulse Score 62.7/100 (Unrated, #1 in city) | Kolssak Funeral Home Ltd. is a funeral home in Wheeling, IL at 189 South Milwaukee Avenue, Wheeling, IL 60090. Phone: +18475376600. Website: https://www.funerals.pro/. | https://registry-edge.dingalinged.workers.dev/c/kolssak-funeral-home-ltd-wheeling/
 
 ## More funeral home listings (807 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/funeral-home.jsonl
 - Detroit, MI: 26 listings: https://registry-edge.dingalinged.workers.dev/k/funeral-home-detroit-mi/
 - Chicago, IL: 26 listings: https://registry-edge.dingalinged.workers.dev/k/funeral-home-chicago-il/
 - Pittsburgh, PA: 25 listings: https://registry-edge.dingalinged.workers.dev/k/funeral-home-pittsburgh-pa/

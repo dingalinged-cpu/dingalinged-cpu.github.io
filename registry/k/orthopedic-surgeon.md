@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Barrington Orthopedic Specialists | Organic #50 | Pulse Score 58/100 (Unrated, #1 in city) | Barrington Orthopedic Specialists is an orthopedic surgeon in Buffalo Grove, IL at 404 McHenry Road, Buffalo Grove, IL 60089. | https://registry-edge.dingalinged.workers.dev/c/barrington-orthopedic-specialists-buffalo-grove/
 
 ## More orthopedic surgeon listings (97 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/orthopedic-surgeon.jsonl
 - Cobb County, GA: 4 listings: https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-cobb-county-ga/
 - Cincinnati, OH: 4 listings: https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-cincinnati-oh/
 - Houston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-houston-tx/

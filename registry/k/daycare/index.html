@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Fisher Early Learning Center - University of Denver | Organic #50 | Pulse Score 62.7/100 (Unrated, #3 in city) | Fisher Early Learning Center - University of Denver is a daycare in Denver, CO at 1899 East Evans Avenue, Denver, CO 80208. Phone: +13038712723. Website: https://www.du.edu/fisher. | https://registry-edge.dingalinged.workers.dev/c/fisher-early-learning-center-university-of-denver-denver/
 
 ## More daycare listings (1230 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/daycare.jsonl
 - Chicago, IL: 73 listings: https://registry-edge.dingalinged.workers.dev/k/daycare-chicago-il/
 - Milwaukee, WI: 72 listings: https://registry-edge.dingalinged.workers.dev/k/daycare-milwaukee-wi/
 - Columbus, OH: 29 listings: https://registry-edge.dingalinged.workers.dev/k/daycare-columbus-oh/

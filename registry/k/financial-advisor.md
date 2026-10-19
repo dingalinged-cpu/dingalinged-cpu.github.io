@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Destiney Mobile Consulting & Notary LLC | Organic #50 | Pulse Score 61.2/100 (Unrated, #1 in city) | Destiney Mobile Consulting & Notary LLC is a financial advisor in Roseville, MI at 16667 Waterman Drive, Roseville, MI 48066. Phone: +15862616147. Website: https://mobileconsultingandnotary.com/. | https://registry-edge.dingalinged.workers.dev/c/destiney-mobile-consulting-and-notary-llc-roseville/
 
 ## More financial advisor listings (642 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/financial-advisor.jsonl
 - Austin, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-austin-tx/
 - Houston, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-houston-tx/
 - Amarillo, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/financial-advisor-amarillo-tx/

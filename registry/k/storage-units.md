@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Park-N-Go Storage | Organic #50 | Pulse Score 62.8/100 (Unrated, #1 in city) | Park-N-Go Storage is a self-storage facility in Leander, TX at 3601 County Road 279, Leander, TX 78641. Phone: +15125280900. Website: https://parkngostorage.com/. | https://registry-edge.dingalinged.workers.dev/c/park-n-go-storage-leander/
 
 ## More storage units listings (2432 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/storage-units.jsonl
 - Chicago, IL: 108 listings: https://registry-edge.dingalinged.workers.dev/k/storage-units-chicago-il/
 - San Antonio, TX: 102 listings: https://registry-edge.dingalinged.workers.dev/k/storage-units-san-antonio-tx/
 - Houston, TX: 84 listings: https://registry-edge.dingalinged.workers.dev/k/storage-units-houston-tx/

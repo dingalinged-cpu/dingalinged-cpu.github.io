@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Law Office of James D. Owen, LLC | Organic #50 | Pulse Score 63.3/100 (Unrated, #2 in city) | Law Office of James D. Owen, LLC is a lawyer in Columbus, OH at 5354 North High Street, Columbus, OH 43214. Phone: +16145475757. Website: https://www.columbuscriminaldefenseattorney.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-james-d-owen-llc-columbus/
 
 ## More lawyer listings (1996 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/lawyer.jsonl
 - Houston, TX: 86 listings: https://registry-edge.dingalinged.workers.dev/k/lawyer-houston-tx/
 - Chicago, IL: 69 listings: https://registry-edge.dingalinged.workers.dev/k/lawyer-chicago-il/
 - Kansas City, MO: 53 listings: https://registry-edge.dingalinged.workers.dev/k/lawyer-kansas-city-mo/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. The Fish Factory | Organic #50 | Pulse Score 60.3/100 (Unrated, #2 in city) | The Fish Factory is a pet store in West Allis, WI at 9218 West Oklahoma Avenue, West Allis, WI 53227. Phone: +14145462201. Website: https://thefishfactoryonline.com/. | https://registry-edge.dingalinged.workers.dev/c/the-fish-factory-west-allis/
 
 ## More pet store listings (1451 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/pet-store.jsonl
 - Chicago, IL: 55 listings: https://registry-edge.dingalinged.workers.dev/k/pet-store-chicago-il/
 - Houston, TX: 44 listings: https://registry-edge.dingalinged.workers.dev/k/pet-store-houston-tx/
 - Austin, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/pet-store-austin-tx/

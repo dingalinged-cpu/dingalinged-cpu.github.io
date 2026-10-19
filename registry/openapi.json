@@ -10,16 +10,6 @@
   }
  ],
  "paths": {
-  "/api/companies.json": {
-   "get": {
-    "summary": "List all companies",
-    "responses": {
-     "200": {
-      "description": "OK"
-     }
-    }
-   }
-  },
   "/api/keywords/{keyword}.json": {
    "get": {
     "operationId": "searchCompanies",
@@ -35,17 +25,6 @@
       "example": "roofing-minneapolis"
      }
     ],
-    "responses": {
-     "200": {
-      "description": "OK"
-     }
-    }
-   }
-  },
-  "/api/keyword-prices.json": {
-   "get": {
-    "operationId": "keywordPrices",
-    "summary": "Auction minimums per keyword",
     "responses": {
      "200": {
       "description": "OK"
@@ -101,16 +80,6 @@
       "example": "minneapolis-mn"
      }
     ],
-    "responses": {
-     "200": {
-      "description": "OK"
-     }
-    }
-   }
-  },
-  "/api/terms.json": {
-   "get": {
-    "summary": "Keyword to company slugs",
     "responses": {
      "200": {
       "description": "OK"

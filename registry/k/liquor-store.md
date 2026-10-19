@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Bliss Party Hut | Organic #50 | Pulse Score 63.4/100 (Unrated, #1 in city) | Bliss Party Hut is a liquor store in Redford Township, MI at 26968 Plymouth Road, Redford Township, MI 48239. Phone: +13132863671. | https://registry-edge.dingalinged.workers.dev/c/bliss-party-hut-redford-township/
 
 ## More liquor store listings (2903 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/liquor-store.jsonl
 - Detroit, MI: 134 listings: https://registry-edge.dingalinged.workers.dev/k/liquor-store-detroit-mi/
 - Chicago, IL: 124 listings: https://registry-edge.dingalinged.workers.dev/k/liquor-store-chicago-il/
 - Houston, TX: 87 listings: https://registry-edge.dingalinged.workers.dev/k/liquor-store-houston-tx/

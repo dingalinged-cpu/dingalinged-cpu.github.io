@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Auto Splish Splash | Organic #50 | Pulse Score 63/100 (Unrated, #1 in city) | Auto Splish Splash is a car wash in Frisco, TX at 8300 Farm-to-Market Road 423, Frisco, TX 75034. Phone: +12146185858. Website: https://autosplishsplash.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-splish-splash-frisco/
 
 ## More car wash listings (2928 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/car-wash.jsonl
 - Chicago, IL: 75 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-il/
 - San Antonio, TX: 72 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-san-antonio-tx/
 - Houston, TX: 70 listings: https://registry-edge.dingalinged.workers.dev/k/car-wash-houston-tx/

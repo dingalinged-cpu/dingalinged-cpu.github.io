@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Owen House | Organic #50 | Pulse Score 63.3/100 (Good, #1 in city) | Owen House is an event venue in Round Rock, TX at 8 Chisholm Trail, Round Rock, TX 78681. Website: https://www.owenhouse1853.com/. | https://registry-edge.dingalinged.workers.dev/c/owen-house-round-rock/
 
 ## More event venues listings (1258 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/event-venues.jsonl
 - Chicago, IL: 67 listings: https://registry-edge.dingalinged.workers.dev/k/event-venues-chicago-il/
 - Milwaukee, WI: 50 listings: https://registry-edge.dingalinged.workers.dev/k/event-venues-milwaukee-wi/
 - Houston, TX: 43 listings: https://registry-edge.dingalinged.workers.dev/k/event-venues-houston-tx/

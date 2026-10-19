@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Beasley's Fine Jewelry | Organic #50 | Pulse Score 62.9/100 (Good, #1 in city) | Beasley's Fine Jewelry is a jewelry store in Lewisville, TX at 177 West Main Street, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/beasleys-fine-jewelry-lewisville/
 
 ## More jewelry store listings (1568 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/jewelry-store.jsonl
 - Houston, TX: 69 listings: https://registry-edge.dingalinged.workers.dev/k/jewelry-store-houston-tx/
 - Chicago, IL: 66 listings: https://registry-edge.dingalinged.workers.dev/k/jewelry-store-chicago-il/
 - Austin, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/jewelry-store-austin-tx/

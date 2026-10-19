@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Jason P Theriot Consulting, LLC | Organic #50 | Pulse Score 60.6/100 (Unrated, #2 in city) | Jason P Theriot Consulting, LLC is a business consultant in Houston, TX at 931 West 41st Street #77018, Houston, TX. Phone: +17134173380. Website: https://jasontheriot.com/. | https://registry-edge.dingalinged.workers.dev/c/jason-p-theriot-consulting-llc-houston/
 
 ## More business consultant listings (197 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/business-consultant.jsonl
 - Chicago, IL: 13 listings: https://registry-edge.dingalinged.workers.dev/k/business-consultant-chicago-il/
 - Saint Paul, MN: 9 listings: https://registry-edge.dingalinged.workers.dev/k/business-consultant-saint-paul-mn/
 - Austin, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/business-consultant-austin-tx/

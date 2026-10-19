@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Rodriguez Landscape Company | Organic #50 | Pulse Score 60.5/100 (Unrated, #2 in city) | Rodriguez Landscape Company is a landscaping company in Milwaukee, WI at 534 West Madison Street, Milwaukee, WI 53204. Phone: +14143833300. Website: https://rodriguezlandscapecompany.com/. | https://registry-edge.dingalinged.workers.dev/c/rodriguez-landscape-company-milwaukee/
 
 ## More landscaping listings (188 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/landscaping.jsonl
 - Centennial, CO: 8 listings: https://registry-edge.dingalinged.workers.dev/k/landscaping-centennial-co/
 - Indianapolis, IN: 6 listings: https://registry-edge.dingalinged.workers.dev/k/landscaping-indianapolis-in/
 - Cobb County, GA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/landscaping-cobb-county-ga/

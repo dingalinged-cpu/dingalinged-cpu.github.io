@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. The PREP School of Journey Parkway | Organic #50 | Pulse Score 61.8/100 (Good, #4 in city) | The PREP School of Journey Parkway is a preschool in Leander, TX at 3421 Journey Parkway, Leander, TX 78641. Phone: +15125467737. Website: https://www.theprepschools.com/. | https://registry-edge.dingalinged.workers.dev/c/the-prep-school-of-journey-parkway-leander/
 
 ## More preschool listings (1282 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/preschool.jsonl
 - San Antonio, TX: 69 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-san-antonio-tx/
 - Chicago, IL: 58 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-chicago-il/
 - Pittsburgh, PA: 25 listings: https://registry-edge.dingalinged.workers.dev/k/preschool-pittsburgh-pa/

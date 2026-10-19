@@ -10,16 +10,12 @@ table{width:100%;border-collapse:collapse;font-size:14px}td,th{text-align:left;p
 <h1>Company Registry</h1><a id="kwlookup" href="search.html" style="display:block;text-decoration:none;background:#0b57d0;color:#fff;border-radius:10px;padding:12px 14px;margin:8px 0 12px"><b style="font-size:17px">Keyword lookup &rarr;</b><br><span style="font-size:14px;opacity:.9">Monthly searches, cost per click and Google Ads cost for any keyword, plus our starting bid</span></a><p class="tagline" style="font-style:italic;color:#555;margin:.2em 0 1em">Bridging agentic and business marketing</p><p class="muted"><a href="market.html">Advertiser rate card (search volume, CPC, starting bids)</a></p><p class="muted">Human-readable view. The public registry is built for AI agents; this page reads the same data. <a href="../llms.txt">Agent entry (llms.txt)</a></p>
 <div class="card"><b>Next auction:</b> <span id="auc"></span><br><span class="muted">Days 1-5: bids for the Featured #1 spot. Days 6-7: bids for spots 2-4. Winners show all next month.</span></div>
 <h2>Search a keyword</h2><input id="q" list="kws" placeholder="e.g. dentist minneapolis mn"><datalist id="kws"></datalist><div id="res"></div>
-<h2>Companies (<span id="n"></span>)</h2><div id="cos"></div>
-<h2>Keyword prices</h2><input id="pq" placeholder="Filter keywords"><table><thead><tr><th>Keyword</th><th>#1 min</th><th>2-4 min</th></tr></thead><tbody id="pr"></tbody></table>
+
+
 <script>
 const J=u=>fetch(u).then(r=>r.json()),slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 (function(){const d=new Date(),y=d.getFullYear(),m=d.getMonth(),last=new Date(y,m+1,0).getDate(),s=new Date(y,m,last-6),f=o=>o.toLocaleDateString(undefined,{month:'short',day:'numeric'});
 document.getElementById('auc').textContent=f(s)+' to '+f(new Date(y,m,last-2))+' (#1 spot), '+f(new Date(y,m,last-1))+' to '+f(new Date(y,m,last))+' (spots 2-4)';})();
-J('../api/companies.json').then(d=>{n.textContent=d.count;cos.innerHTML=d.companies.map(c=>`<div class=card><b>${c.name}</b> ${c.pulseScore?`<span class=tag title="Pulse Score #${c.pulseScore.rank} in city">Pulse Score ${c.pulseScore.score} · ${c.pulseScore.tier}</span>`:''}${c.verified?'<span class=tag>Verified</span>':''}<br><span class=muted>${c.summary||''}</span><br><a href="${c.url}">profile</a></div>`).join('')});
 J('../api/keywords/index.json').then(d=>{kws.innerHTML=d.keywords.map(k=>`<option value="${k.replace(/-/g,' ')}">`).join('')});
 q.onchange=()=>J('../api/keywords/'+slug(q.value)+'.json').then(d=>{res.innerHTML=d.results.map(r=>`<div class="card ${r.highlighted?'feat':''}">${r.sponsored?`<span class=tag>${r.label}</span>`:''}<b>${r.position}. ${r.name}</b> ${(!r.sponsored&&r.pulseScore)?`<span class=tag>Pulse Score ${r.pulseScore.score} · ${r.pulseScore.tier}</span>`:''}<br><span class=muted>${r.summary||''}</span></div>`).join('')}).catch(()=>{res.innerHTML='<p class=muted>No listings or sponsors for that keyword yet.</p>'});
-let P=[];J('../api/keyword-prices.json').then(d=>{P=d.keywords;draw('')});
-function draw(f){pr.innerHTML=P.filter(k=>k.keyword.includes(f)).slice(0,50).map(k=>`<tr><td>${k.keyword}</td><td>$${k.featured_spot_min}</td><td>$${k.spots_2_to_4_min}</td></tr>`).join('')}
-pq.oninput=()=>draw(pq.value.toLowerCase());
 </script></body></html>

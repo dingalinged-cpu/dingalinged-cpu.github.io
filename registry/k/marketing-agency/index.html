@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Marketing for Real | Organic #50 | Pulse Score 61.4/100 (Unrated, #1 in city) | Marketing for Real is a marketing agency in Frisco, TX at 9355 John W. Elliott Dr ##25484, Frisco, TX 75033. Phone: +14698553084. Website: https://marketingforreal.com/. | https://registry-edge.dingalinged.workers.dev/c/marketing-for-real-frisco/
 
 ## More marketing agency listings (289 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/marketing-agency.jsonl
 - Milwaukee, WI: 13 listings: https://registry-edge.dingalinged.workers.dev/k/marketing-agency-milwaukee-wi/
 - Minneapolis, MN: 12 listings: https://registry-edge.dingalinged.workers.dev/k/marketing-agency-minneapolis-mn/
 - Kansas City, MO: 10 listings: https://registry-edge.dingalinged.workers.dev/k/marketing-agency-kansas-city-mo/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. HEB Driving School | Organic #50 | Pulse Score 58.8/100 (Unrated, #1 in city) | HEB Driving School is a driving school in Bedford, TX at 505 North Industrial Boulevard #400, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/heb-driving-school-bedford/
 
 ## More driving school listings (139 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/driving-school.jsonl
 - Chicago, IL: 12 listings: https://registry-edge.dingalinged.workers.dev/k/driving-school-chicago-il/
 - Houston, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/driving-school-houston-tx/
 - Marietta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/driving-school-marietta-ga/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Eden Esthetics | Organic #50 | Pulse Score 61.5/100 (Unrated, #1 in city) | Eden Esthetics is a skin care studio in Detroit, MI at 89 E Edsel Ford Freeway #300, Detroit, MI 48202. Phone: +13132882597. Website: https://edendetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/eden-esthetics-detroit/
 
 ## More spa listings (207 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/spa.jsonl
 - Sterling Heights, MI: 10 listings: https://registry-edge.dingalinged.workers.dev/k/spa-sterling-heights-mi/
 - Plano, TX: 9 listings: https://registry-edge.dingalinged.workers.dev/k/spa-plano-tx/
 - Chicago, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/spa-chicago-il/

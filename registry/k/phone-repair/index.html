@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. uBreakiFix | Organic #50 | Pulse Score 49.4/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Houston, TX at 19859 Katy Freeway #C, Houston, TX 77094. Phone: +12812067750. Website: https://www.ubreakifix.com/locations/katy. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-houston-n14081738284/
 
 ## More phone repair listings (156 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/phone-repair.jsonl
 - Houston, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/phone-repair-houston-tx/
 - Austin, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/phone-repair-austin-tx/
 - Chicago, IL: 6 listings: https://registry-edge.dingalinged.workers.dev/k/phone-repair-chicago-il/

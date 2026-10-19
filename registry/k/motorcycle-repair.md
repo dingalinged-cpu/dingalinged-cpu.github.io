@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. David Brown's Sport Center - Service Department | Organic #50 | Pulse Score 54.9/100 (Unrated, #2 in city) | David Brown's Sport Center - Service Department is a motorcycle repair shop in Amarillo, TX. | https://registry-edge.dingalinged.workers.dev/c/david-browns-sport-center-service-department-amarillo/
 
 ## More motorcycle repair listings (70 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/motorcycle-repair.jsonl
 - Austin, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-austin-tx/
 - Brownsville, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-brownsville-tx/
 - Houston, TX: 2 listings: https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-houston-tx/

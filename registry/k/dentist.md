@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Pinnacle Dental | Organic #50 | Pulse Score 64.1/100 (Good, #1 in city) | Pinnacle Dental is a dentist in Frisco, TX at 2552 Stonebrook Parkway #650, Frisco, TX 75034. Phone: +14694218161. Website: https://pinnacledds.com/best-dentist-in-frisco/. | https://registry-edge.dingalinged.workers.dev/c/pinnacle-dental-frisco/
 
 ## More dentist listings (5098 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dentist.jsonl
 - Houston, TX: 181 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-houston-tx/
 - Chicago, IL: 150 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-il/
 - Austin, TX: 129 listings: https://registry-edge.dingalinged.workers.dev/k/dentist-austin-tx/

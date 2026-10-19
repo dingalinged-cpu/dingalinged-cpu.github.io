@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Lux Dog Grooming | Organic #50 | Pulse Score 62.1/100 (Good, #1 in city) | Lux Dog Grooming is a dog groomer in Peachtree Corners, GA at 6365 Spalding Drive, Peachtree Corners, GA. Phone: +14707701843. Website: https://www.lux-dogroomer.com/. | https://registry-edge.dingalinged.workers.dev/c/lux-dog-grooming-peachtree-corners/
 
 ## More dog groomer listings (497 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dog-groomer.jsonl
 - Chicago, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-chicago-il/
 - Columbus, OH: 13 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-columbus-oh/
 - Dallas, TX: 11 listings: https://registry-edge.dingalinged.workers.dev/k/dog-groomer-dallas-tx/

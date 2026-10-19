@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. New You Massage | Organic #50 | Pulse Score 62.8/100 (Unrated, #2 in city) | New You Massage is a massage studio in Denver, CO at 2727 Bryant Street #B7, Denver, CO 80211. Phone: +15129038882. Website: https://www.newyoumassage.co/booknow45649839. | https://registry-edge.dingalinged.workers.dev/c/new-you-massage-denver/
 
 ## More massage listings (1132 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/massage.jsonl
 - Houston, TX: 53 listings: https://registry-edge.dingalinged.workers.dev/k/massage-houston-tx/
 - Austin, TX: 39 listings: https://registry-edge.dingalinged.workers.dev/k/massage-austin-tx/
 - Dallas, TX: 33 listings: https://registry-edge.dingalinged.workers.dev/k/massage-dallas-tx/

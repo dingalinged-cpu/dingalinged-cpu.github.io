@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. uBreakiFix | Organic #50 | Pulse Score 43.5/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Oak Creek, WI at 8880 South Howell Avenue #300, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-oak-creek/
 
 ## More computer repair listings (72 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/computer-repair.jsonl
 - Chicago, IL: 5 listings: https://registry-edge.dingalinged.workers.dev/k/computer-repair-chicago-il/
 - San Antonio, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/computer-repair-san-antonio-tx/
 - Pittsburgh, PA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/computer-repair-pittsburgh-pa/

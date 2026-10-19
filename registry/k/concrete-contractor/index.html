@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Red River Brick | Organic #50 | Pulse Score 55.7/100 (Unrated, #1 in city) | Red River Brick is a concrete contractor in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/red-river-brick-harris-county/
 
 ## More concrete contractor listings (61 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/concrete-contractor.jsonl
 - Indianapolis, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-indianapolis-in/
 - Chicago, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-chicago-il/
 - Amarillo, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-amarillo-tx/

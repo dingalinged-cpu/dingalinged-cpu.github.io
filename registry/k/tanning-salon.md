@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Salon 360 & Med Spa | Organic #50 | Pulse Score 60.6/100 (Unrated, #1 in city) | Salon 360 & Med Spa is a tanning salon in Dearborn, MI at 23437 Michigan Avenue, Dearborn, MI 48124. Phone: +13137306600. | https://registry-edge.dingalinged.workers.dev/c/salon-360-and-med-spa-dearborn/
 
 ## More tanning salon listings (334 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tanning-salon.jsonl
 - Chicago, IL: 8 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-chicago-il/
 - Austin, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-austin-tx/
 - Houston, TX: 7 listings: https://registry-edge.dingalinged.workers.dev/k/tanning-salon-houston-tx/

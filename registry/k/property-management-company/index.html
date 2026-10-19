@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. One Place Apartment Locators | Organic #50 | Pulse Score 62.1/100 (Unrated, #4 in city) | One Place Apartment Locators is a property management company in Austin, TX at 811 West Saint Johns Avenue, Austin, TX 78752. Phone: +15125034355. Website: https://oneplacelocators.com/. | https://registry-edge.dingalinged.workers.dev/c/one-place-apartment-locators-austin/
 
 ## More property management company listings (547 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/property-management-company.jsonl
 - Austin, TX: 66 listings: https://registry-edge.dingalinged.workers.dev/k/property-management-company-austin-tx/
 - Dallas, TX: 38 listings: https://registry-edge.dingalinged.workers.dev/k/property-management-company-dallas-tx/
 - Sterling Heights, MI: 26 listings: https://registry-edge.dingalinged.workers.dev/k/property-management-company-sterling-heights-mi/

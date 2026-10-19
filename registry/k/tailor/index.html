@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Lace Alterations | Organic #50 | Pulse Score 61.8/100 (Unrated, #2 in city) | Lace Alterations is a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/. | https://registry-edge.dingalinged.workers.dev/c/lace-alterations-roswell/
 
 ## More tailor listings (374 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tailor.jsonl
 - Chicago, IL: 18 listings: https://registry-edge.dingalinged.workers.dev/k/tailor-chicago-il/
 - Houston, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/tailor-houston-tx/
 - Dallas, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/tailor-dallas-tx/

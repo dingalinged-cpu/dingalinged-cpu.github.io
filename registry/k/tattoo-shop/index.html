@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Body Ritual | Organic #50 | Pulse Score 63.1/100 (Good, #4 in city) | Body Ritual is a tattoo shop in Milwaukee, WI at 1459 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142733777. | https://registry-edge.dingalinged.workers.dev/c/body-ritual-milwaukee/
 
 ## More tattoo shop listings (739 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/tattoo-shop.jsonl
 - Minneapolis, MN: 26 listings: https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-minneapolis-mn/
 - Chicago, IL: 25 listings: https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-chicago-il/
 - Kansas City, MO: 24 listings: https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-kansas-city-mo/

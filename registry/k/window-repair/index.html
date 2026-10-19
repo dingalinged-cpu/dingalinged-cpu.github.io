@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. A-1 Glass Service | Organic #50 | Pulse Score 58.2/100 (Unrated, #1 in city) | A-1 Glass Service is a window repair service in Lancaster, OH at 821 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/a-1-glass-service-lancaster/
 
 ## More window repair listings (108 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/window-repair.jsonl
 - Indianapolis, IN: 4 listings: https://registry-edge.dingalinged.workers.dev/k/window-repair-indianapolis-in/
 - Amarillo, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/window-repair-amarillo-tx/
 - Milwaukee, WI: 3 listings: https://registry-edge.dingalinged.workers.dev/k/window-repair-milwaukee-wi/

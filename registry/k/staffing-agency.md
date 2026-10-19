@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. CareerForce | Organic #50 | Pulse Score 61.4/100 (Unrated, #1 in city) | CareerForce is a staffing agency in Saint Paul, MN at 540 Fairview Avenue North ##103, Saint Paul, MN 55104. Phone: +16515394100. Website: https://www.careerforcemn.com/saintpaul. | https://registry-edge.dingalinged.workers.dev/c/careerforce-saint-paul/
 
 ## More staffing agency listings (377 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/staffing-agency.jsonl
 - Milwaukee, WI: 14 listings: https://registry-edge.dingalinged.workers.dev/k/staffing-agency-milwaukee-wi/
 - Houston, TX: 12 listings: https://registry-edge.dingalinged.workers.dev/k/staffing-agency-houston-tx/
 - Indianapolis, IN: 11 listings: https://registry-edge.dingalinged.workers.dev/k/staffing-agency-indianapolis-in/

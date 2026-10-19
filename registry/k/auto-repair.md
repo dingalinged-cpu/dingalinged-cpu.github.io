@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Kennesaw Tire Company | Organic #50 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-tire-company-kennesaw/
 
 ## More auto repair listings (8288 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/auto-repair.jsonl
 - Houston, TX: 223 listings: https://registry-edge.dingalinged.workers.dev/k/auto-repair-houston-tx/
 - Indianapolis, IN: 175 listings: https://registry-edge.dingalinged.workers.dev/k/auto-repair-indianapolis-in/
 - Chicago, IL: 169 listings: https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-il/

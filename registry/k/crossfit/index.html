@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. BlueWave Weightlifting | Organic #50 | Pulse Score 55.9/100 (Unrated, #1 in city) | BlueWave Weightlifting is a CrossFit gym in Fort Worth, TX. | https://registry-edge.dingalinged.workers.dev/c/bluewave-weightlifting-fort-worth/
 
 ## More crossfit listings (85 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/crossfit.jsonl
 - San Antonio, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/crossfit-san-antonio-tx/
 - Atlanta, GA: 3 listings: https://registry-edge.dingalinged.workers.dev/k/crossfit-atlanta-ga/
 - Austin, TX: 3 listings: https://registry-edge.dingalinged.workers.dev/k/crossfit-austin-tx/

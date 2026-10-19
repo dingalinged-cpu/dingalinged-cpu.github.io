@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Novi Road Dry Cleaners | Organic #50 | Pulse Score 62.8/100 (Unrated, #1 in city) | Novi Road Dry Cleaners is a dry cleaner in Northville, MI at 43209 7 Mile Road, Northville, MI 48167. Phone: +12483498120. Website: https://novi-road-cleaners.business.site/. | https://registry-edge.dingalinged.workers.dev/c/novi-road-dry-cleaners-northville/
 
 ## More dry cleaners listings (1362 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dry-cleaners.jsonl
 - Chicago, IL: 97 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-chicago-il/
 - Houston, TX: 69 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-houston-tx/
 - Dallas, TX: 43 listings: https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-dallas-tx/

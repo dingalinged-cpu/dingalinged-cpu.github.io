@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Blue Line Electric | Organic #50 | Pulse Score 60.5/100 (Unrated, #1 in city) | Blue Line Electric is an electrician in McKinney, TX at 3342 FM 1827 #1A, McKinney, TX 75071. Phone: +14698718114. Website: https://callblueline.com/. | https://registry-edge.dingalinged.workers.dev/c/blue-line-electric-mckinney/
 
 ## More electrician listings (209 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/electrician.jsonl
 - Centennial, CO: 9 listings: https://registry-edge.dingalinged.workers.dev/k/electrician-centennial-co/
 - Houston, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/electrician-houston-tx/
 - Amarillo, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/electrician-amarillo-tx/

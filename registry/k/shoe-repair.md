@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Sam's Shoe Service | Organic #50 | Pulse Score 58.4/100 (Unrated, #1 in city) | Sam's Shoe Service is a shoe repair in Southfield, MI at 28678 Telegraph Road, Southfield, MI 48034. | https://registry-edge.dingalinged.workers.dev/c/sams-shoe-service-southfield/
 
 ## More shoe repair listings (145 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/shoe-repair.jsonl
 - Chicago, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/shoe-repair-chicago-il/
 - Dallas, TX: 6 listings: https://registry-edge.dingalinged.workers.dev/k/shoe-repair-dallas-tx/
 - Pittsburgh, PA: 5 listings: https://registry-edge.dingalinged.workers.dev/k/shoe-repair-pittsburgh-pa/

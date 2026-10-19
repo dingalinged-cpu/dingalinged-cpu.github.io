@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. SS Graphics Inc. | Organic #50 | Pulse Score 55.8/100 (Unrated, #3 in city) | SS Graphics Inc. is a graphic designer in Wyandotte, MI at 4176 6th Street, Wyandotte, MI 48192. | https://registry-edge.dingalinged.workers.dev/c/ss-graphics-inc-wyandotte/
 
 ## More graphic designer listings (70 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/graphic-designer.jsonl
 - Wyandotte, MI: 4 listings: https://registry-edge.dingalinged.workers.dev/k/graphic-designer-wyandotte-mi/
 - Chicago, IL: 4 listings: https://registry-edge.dingalinged.workers.dev/k/graphic-designer-chicago-il/
 - Cincinnati, OH: 3 listings: https://registry-edge.dingalinged.workers.dev/k/graphic-designer-cincinnati-oh/

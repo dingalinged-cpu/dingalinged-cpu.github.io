@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Merak Health Primary Care | Organic #50 | Pulse Score 60.9/100 (Unrated, #1 in city) | Merak Health Primary Care is a family medicine practice in Rockwall, TX at 2504 Ridge Road #203, Rockwall, TX 75087. Phone: +19725884833. Website: https://merakhealth.com/. | https://registry-edge.dingalinged.workers.dev/c/merak-health-primary-care-rockwall/
 
 ## More family doctor listings (364 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/family-doctor.jsonl
 - San Antonio, TX: 18 listings: https://registry-edge.dingalinged.workers.dev/k/family-doctor-san-antonio-tx/
 - Chicago, IL: 17 listings: https://registry-edge.dingalinged.workers.dev/k/family-doctor-chicago-il/
 - Lewisville, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/family-doctor-lewisville-tx/

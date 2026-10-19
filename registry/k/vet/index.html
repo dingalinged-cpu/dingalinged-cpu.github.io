@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Veterinary Surgery Specialists | Organic #50 | Pulse Score 63.4/100 (Unrated, #1 in city) | Veterinary Surgery Specialists is a veterinarian in Wauwatosa, WI at 9700 West Bluemound Road, Wauwatosa, WI 53226. Phone: +14142199990. Website: https://mypetsurgery.com/. | https://registry-edge.dingalinged.workers.dev/c/veterinary-surgery-specialists-wauwatosa/
 
 ## More vet listings (1894 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/vet.jsonl
 - Chicago, IL: 51 listings: https://registry-edge.dingalinged.workers.dev/k/vet-chicago-il/
 - Dallas, TX: 50 listings: https://registry-edge.dingalinged.workers.dev/k/vet-dallas-tx/
 - Houston, TX: 47 listings: https://registry-edge.dingalinged.workers.dev/k/vet-houston-tx/

@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. HealthPartners Specialty Center 401 Building | Organic #50 | Pulse Score 58.8/100 (Fair, #2 in city) | HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/. | https://registry-edge.dingalinged.workers.dev/c/healthpartners-specialty-center-401-building-saint-paul/
 
 ## More plastic surgeon listings (116 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/plastic-surgeon.jsonl
 - Houston, TX: 13 listings: https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-houston-tx/
 - Atlanta, GA: 8 listings: https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-atlanta-ga/
 - Fort Worth, TX: 5 listings: https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-fort-worth-tx/

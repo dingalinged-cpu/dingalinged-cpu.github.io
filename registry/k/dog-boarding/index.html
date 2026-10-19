@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Canine Club at Falcon Valley | Organic #50 | Pulse Score 61.3/100 (Unrated, #1 in city) | Canine Club at Falcon Valley is a dog boarding facility in Lenexa, KS at 10101 Stevenson Street, Lenexa, KS 66220. Phone: +19137647386. Website: https://falconvalleyanimalhospital.com/canine-club/. | https://registry-edge.dingalinged.workers.dev/c/canine-club-at-falcon-valley-lenexa/
 
 ## More dog boarding listings (330 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/dog-boarding.jsonl
 - Houston, TX: 10 listings: https://registry-edge.dingalinged.workers.dev/k/dog-boarding-houston-tx/
 - Chicago, IL: 9 listings: https://registry-edge.dingalinged.workers.dev/k/dog-boarding-chicago-il/
 - Austin, TX: 8 listings: https://registry-edge.dingalinged.workers.dev/k/dog-boarding-austin-tx/

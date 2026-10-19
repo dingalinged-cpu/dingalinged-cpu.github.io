@@ -58,7 +58,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 50. Foot Specialist Anthony LaMarra DPM | Organic #50 | Pulse Score 58.7/100 (Unrated, #1 in city) | Foot Specialist Anthony LaMarra DPM is a podiatrist in Houston, TX at 2621 South Shepherd Drive, Houston, TX 77098. Phone: +17139427700. | https://registry-edge.dingalinged.workers.dev/c/foot-specialist-anthony-lamarra-dpm-houston/
 
 ## More podiatrist listings (127 total; top 50 unpaid shown)
-- Complete list (JSONL): https://registry-edge.dingalinged.workers.dev/dataset/category/podiatrist.jsonl
 - Chicago, IL: 7 listings: https://registry-edge.dingalinged.workers.dev/k/podiatrist-chicago-il/
 - Sterling Heights, MI: 5 listings: https://registry-edge.dingalinged.workers.dev/k/podiatrist-sterling-heights-mi/
 - Rockwall, TX: 4 listings: https://registry-edge.dingalinged.workers.dev/k/podiatrist-rockwall-tx/
