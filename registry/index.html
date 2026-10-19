@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Company Registry</title><meta name="description" content="Machine-readable registry of 85295 US businesses for AI agents and LLMs."><meta name="robots" content="index,follow"><link rel="canonical" href="https://registry-edge.dingalinged.workers.dev/"><link rel="alternate" type="application/json" href="https://registry-edge.dingalinged.workers.dev/api/companies.json"><link rel="alternate" type="text/plain" href="https://registry-edge.dingalinged.workers.dev/llms.txt"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Company Registry","description":"85295 US business records structured for AI agents: category, address, geo, phone, website, hours, source.","url":"https://registry-edge.dingalinged.workers.dev/","dateModified":"2026-10-18","license":"https://opendatacommons.org/licenses/odbl/1-0/","creditText":"Data © OpenStreetMap contributors, ODbL","isBasedOn":"https://www.openstreetmap.org/","distribution":[{"@type":"DataDownload","encodingFormat":"application/json","contentUrl":"https://registry-edge.dingalinged.workers.dev/api/companies.json"},{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://registry-edge.dingalinged.workers.dev/dataset/companies.csv"}]}</script></head><body><header><p class="tagline"><em>Bridging agentic and business marketing</em></p></header><pre style="white-space:pre-wrap"># Company Registry
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Company Registry</title><meta name="description" content="Machine-readable registry of 85295 US businesses for AI agents and LLMs."><meta name="robots" content="index,follow"><link rel="canonical" href="https://registry-edge.dingalinged.workers.dev/"><link rel="alternate" type="application/json" href="https://registry-edge.dingalinged.workers.dev/api/companies.json"><link rel="alternate" type="text/plain" href="https://registry-edge.dingalinged.workers.dev/llms.txt"><link rel="related" href="https://registry-edge.dingalinged.workers.dev/learn/"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Company Registry","description":"85295 US business records structured for AI agents: category, address, geo, phone, website, hours, source.","url":"https://registry-edge.dingalinged.workers.dev/","dateModified":"2026-10-18","license":"https://opendatacommons.org/licenses/odbl/1-0/","creditText":"Data © OpenStreetMap contributors, ODbL","isBasedOn":"https://www.openstreetmap.org/","distribution":[{"@type":"DataDownload","encodingFormat":"application/json","contentUrl":"https://registry-edge.dingalinged.workers.dev/api/companies.json"}]}</script></head><body><header><p class="tagline"><em>Bridging agentic and business marketing</em></p></header><p class="what"><b>What is Company Registry?</b> A machine-readable registry of US businesses that AI assistants and agents can read, plus plain guides on how businesses reach customers through AI: paid AI ads versus earned recommendations. <a href="https://registry-edge.dingalinged.workers.dev/learn/">Guides: how to advertise to AI</a> · <a href="https://registry-edge.dingalinged.workers.dev/learn/how-to-advertise-to-ai/">start here</a></p><pre style="white-space:pre-wrap"># Company Registry
 
 &gt; Machine-readable registry of US businesses for AI agents and LLMs: 85295 listings, 1839 cities, 114 categories, as of 2026-10-18. Each business and keyword answer is published as HTML with schema.org JSON-LD, a markdown twin (.md) and JSON (/api). Paid placements are labeled sponsored:true.
 
@@ -12,10 +12,6 @@
 - All companies (JSON): https://registry-edge.dingalinged.workers.dev/api/companies.json - summary of every business
 - City (JSON): https://registry-edge.dingalinged.workers.dev/api/cities/{city-st}.json - businesses in one city; HTML hub: https://registry-edge.dingalinged.workers.dev/city/{city-st}/
 - Category (HTML): https://registry-edge.dingalinged.workers.dev/category/{category}/ - businesses in one category
-- Dataset, all records (CSV, ODbL-1.0): https://registry-edge.dingalinged.workers.dev/dataset/companies.csv - one row per business
-- Dataset by city (JSONL, ODbL-1.0): https://registry-edge.dingalinged.workers.dev/dataset/city/{city-st}.jsonl - one JSON object per line
-- Dataset by category (JSONL, ODbL-1.0): https://registry-edge.dingalinged.workers.dev/dataset/category/{category}.jsonl - one JSON object per line
-- Dataset package: https://registry-edge.dingalinged.workers.dev/dataset/datapackage.json - Frictionless Data descriptor listing every dataset file
 - Sponsored-spot prices (JSON): https://registry-edge.dingalinged.workers.dev/api/keyword-prices.json - minimum monthly bids in USD per keyword
 - Keyword market index (JSON): https://registry-edge.dingalinged.workers.dev/api/market/index.json - per service: US monthly searches, CPC benchmark (USD), competition, sources, methods, auction rules
 - Keyword market per service (JSON): https://registry-edge.dingalinged.workers.dev/api/market/{service-slug}.json - service-level market block and keyword page URLs
@@ -30,6 +26,24 @@
 - Sitemap: https://registry-edge.dingalinged.workers.dev/sitemap.xml - every page URL with lastmod (ISO 8601 date)
 - Full text: https://registry-edge.dingalinged.workers.dev/llms-full.txt - index of the per-metro full-text files (llms/{metro}.txt: every company record as markdown)
 
+
+## Guides for businesses (how AI assistants and agents find and recommend businesses)
+- [Guides index](https://registry-edge.dingalinged.workers.dev/learn/): A machine-readable registry of US businesses that AI assistants and agents can read, plus plain guides on how businesses reach customers through AI: paid AI ads versus earned recommendations.
+- [How to advertise to AI](https://registry-edge.dingalinged.workers.dev/learn/how-to-advertise-to-ai/): overview of paid AI ads (ChatGPT, Copilot, Google AI) vs earned AI recommendations, and what a local business can do for free (markdown: https://registry-edge.dingalinged.workers.dev/learn/how-to-advertise-to-ai.md)
+- [Can you pay AI to recommend your business?](https://registry-edge.dingalinged.workers.dev/learn/can-you-pay-ai-to-recommend-your-business/): no: answer recommendations are not for sale; ads are separate and labeled; red flags for &#x27;guaranteed AI ranking&#x27; offers (markdown: https://registry-edge.dingalinged.workers.dev/learn/can-you-pay-ai-to-recommend-your-business.md)
+- [ChatGPT ads for a local business](https://registry-edge.dingalinged.workers.dev/learn/chatgpt-ads-for-local-business/): what ChatGPT ads are, who sees them, how they differ from organic recommendations, and a local-business decision checklist (markdown: https://registry-edge.dingalinged.workers.dev/learn/chatgpt-ads-for-local-business.md)
+- [Get recommended by ChatGPT](https://registry-edge.dingalinged.workers.dev/learn/get-recommended-by-chatgpt/): free checklist: listings, reviews, website facts, crawler access, structured data, consistent registries (markdown: https://registry-edge.dingalinged.workers.dev/learn/get-recommended-by-chatgpt.md)
+- [How AI agents find businesses](https://registry-edge.dingalinged.workers.dev/learn/how-ai-agents-find-businesses/): the retrieval path agents follow (search query, listings, directories, website, cross-check) and what makes a business easy to select (markdown: https://registry-edge.dingalinged.workers.dev/learn/how-ai-agents-find-businesses.md)
+- [Business directories for AI agents](https://registry-edge.dingalinged.workers.dev/learn/business-directory-for-ai-agents/): comparison table of listing sources (GBP, Bing Places, Apple Business Connect, directories, agent registries) and which assistants read each (markdown: https://registry-edge.dingalinged.workers.dev/learn/business-directory-for-ai-agents.md)
+- [Where each AI assistant gets business information](https://registry-edge.dingalinged.workers.dev/learn/ai-assistant-business-sources/): per-assistant table: search backbone, business data sources, and the single most important action for each (markdown: https://registry-edge.dingalinged.workers.dev/learn/ai-assistant-business-sources.md)
+- [Google AI Overviews for local businesses](https://registry-edge.dingalinged.workers.dev/learn/google-ai-overviews-local-business/): Google&#x27;s stated requirements for AI Overviews/AI Mode and the local-business checklist built on them (markdown: https://registry-edge.dingalinged.workers.dev/learn/google-ai-overviews-local-business.md)
+- [Microsoft Copilot and Bing Places](https://registry-edge.dingalinged.workers.dev/learn/microsoft-copilot-bing-places/): Copilot grounds in Bing; claim Bing Places, verify in Bing Webmaster Tools, use IndexNow; Copilot ads are separate (markdown: https://registry-edge.dingalinged.workers.dev/learn/microsoft-copilot-bing-places.md)
+- [Get cited by Perplexity](https://registry-edge.dingalinged.workers.dev/learn/get-cited-by-perplexity/): Perplexity has no listing form; be crawlable by PerplexityBot, answer questions in the first sentence, be discussed in community sources (markdown: https://registry-edge.dingalinged.workers.dev/learn/get-cited-by-perplexity.md)
+- [GEO, AEO, LLMO and AI SEO explained](https://registry-edge.dingalinged.workers.dev/learn/geo-aeo-llmo-explained/): glossary: GEO, AEO, LLMO, AI SEO, AI visibility; differences from SEO; local-business priorities (markdown: https://registry-edge.dingalinged.workers.dev/learn/geo-aeo-llmo-explained.md)
+- [Check if AI recommends your business](https://registry-edge.dingalinged.workers.dev/learn/check-if-ai-recommends-your-business/): free manual method: 10 customer-style prompts x 4 assistants, repeated weekly; what to log; why single runs mislead (markdown: https://registry-edge.dingalinged.workers.dev/learn/check-if-ai-recommends-your-business.md)
+- [Does llms.txt help a small business?](https://registry-edge.dingalinged.workers.dev/learn/llms-txt-for-small-business/): evidence summary: llms.txt rarely fetched (Ahrefs 137k domains, Optimizely), not used by Google AI features; robots.txt, sitemaps and listings matter more (markdown: https://registry-edge.dingalinged.workers.dev/learn/llms-txt-for-small-business.md)
+- [Agentic commerce for small businesses](https://registry-edge.dingalinged.workers.dev/learn/agentic-commerce-small-business/): agentic commerce explained for local/service businesses; ACP (OpenAI+Stripe), UCP (Shopify+Google), MCP; agent-ready checklist (markdown: https://registry-edge.dingalinged.workers.dev/learn/agentic-commerce-small-business.md)
+- Guides index (JSON): https://registry-edge.dingalinged.workers.dev/learn/index.json
 ## Field conventions
 - Dates: ISO 8601 (YYYY-MM-DD); last_checked = date the record was last read from its source; source_snapshot = date of the source data
 - phone: E.164 (+1XXXXXXXXXX); website and URLs: https; geo: WGS84 decimal degrees (lat, lon)
@@ -1894,118 +1908,118 @@
 - [Wrightsville, AR](https://registry-edge.dingalinged.workers.dev/city/wrightsville-ar/): 1 businesses (https://registry-edge.dingalinged.workers.dev/api/cities/wrightsville-ar.json)
 
 ## Categories
-- [auto repair](https://registry-edge.dingalinged.workers.dev/category/auto-repair/): 8273 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/auto-repair.jsonl)
-- [hair salon](https://registry-edge.dingalinged.workers.dev/category/hair-salon/): 6650 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/hair-salon.jsonl)
-- [dentist](https://registry-edge.dingalinged.workers.dev/category/dentist/): 5096 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dentist.jsonl)
-- [gym](https://registry-edge.dingalinged.workers.dev/category/gym/): 3608 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/gym.jsonl)
-- [insurance agent](https://registry-edge.dingalinged.workers.dev/category/insurance-agent/): 3016 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/insurance-agent.jsonl)
-- [car wash](https://registry-edge.dingalinged.workers.dev/category/car-wash/): 2928 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/car-wash.jsonl)
-- [liquor store](https://registry-edge.dingalinged.workers.dev/category/liquor-store/): 2903 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/liquor-store.jsonl)
-- [nail salon](https://registry-edge.dingalinged.workers.dev/category/nail-salon/): 2675 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/nail-salon.jsonl)
-- [storage units](https://registry-edge.dingalinged.workers.dev/category/storage-units/): 2432 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/storage-units.jsonl)
-- [furniture store](https://registry-edge.dingalinged.workers.dev/category/furniture-store/): 2123 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/furniture-store.jsonl)
-- [lawyer](https://registry-edge.dingalinged.workers.dev/category/lawyer/): 1996 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/lawyer.jsonl)
-- [vet](https://registry-edge.dingalinged.workers.dev/category/vet/): 1894 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/vet.jsonl)
-- [bakery](https://registry-edge.dingalinged.workers.dev/category/bakery/): 1863 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/bakery.jsonl)
-- [jewelry store](https://registry-edge.dingalinged.workers.dev/category/jewelry-store/): 1568 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/jewelry-store.jsonl)
-- [real estate agent](https://registry-edge.dingalinged.workers.dev/category/real-estate-agent/): 1505 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/real-estate-agent.jsonl)
-- [pet store](https://registry-edge.dingalinged.workers.dev/category/pet-store/): 1447 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/pet-store.jsonl)
-- [tire shop](https://registry-edge.dingalinged.workers.dev/category/tire-shop/): 1439 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tire-shop.jsonl)
-- [thrift store](https://registry-edge.dingalinged.workers.dev/category/thrift-store/): 1428 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/thrift-store.jsonl)
-- [gift shop](https://registry-edge.dingalinged.workers.dev/category/gift-shop/): 1380 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/gift-shop.jsonl)
-- [dry cleaners](https://registry-edge.dingalinged.workers.dev/category/dry-cleaners/): 1362 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dry-cleaners.jsonl)
-- [preschool](https://registry-edge.dingalinged.workers.dev/category/preschool/): 1282 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/preschool.jsonl)
-- [used cars for sale](https://registry-edge.dingalinged.workers.dev/category/used-cars-for-sale/): 1265 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/used-cars-for-sale.jsonl)
-- [event venues](https://registry-edge.dingalinged.workers.dev/category/event-venues/): 1258 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/event-venues.jsonl)
-- [daycare](https://registry-edge.dingalinged.workers.dev/category/daycare/): 1230 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/daycare.jsonl)
-- [tax preparation](https://registry-edge.dingalinged.workers.dev/category/tax-preparation/): 1206 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tax-preparation.jsonl)
-- [printing services](https://registry-edge.dingalinged.workers.dev/category/printing-services/): 1188 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/printing-services.jsonl)
-- [massage](https://registry-edge.dingalinged.workers.dev/category/massage/): 1132 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/massage.jsonl)
-- [chiropractor](https://registry-edge.dingalinged.workers.dev/category/chiropractor/): 1115 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/chiropractor.jsonl)
-- [mattress store](https://registry-edge.dingalinged.workers.dev/category/mattress-store/): 829 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/mattress-store.jsonl)
-- [funeral home](https://registry-edge.dingalinged.workers.dev/category/funeral-home/): 807 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/funeral-home.jsonl)
-- [bike shop](https://registry-edge.dingalinged.workers.dev/category/bike-shop/): 785 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/bike-shop.jsonl)
-- [florist](https://registry-edge.dingalinged.workers.dev/category/florist/): 755 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/florist.jsonl)
-- [tattoo shop](https://registry-edge.dingalinged.workers.dev/category/tattoo-shop/): 739 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tattoo-shop.jsonl)
-- [physical therapy](https://registry-edge.dingalinged.workers.dev/category/physical-therapy/): 719 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/physical-therapy.jsonl)
-- [eye doctor](https://registry-edge.dingalinged.workers.dev/category/eye-doctor/): 706 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/eye-doctor.jsonl)
-- [martial arts](https://registry-edge.dingalinged.workers.dev/category/martial-arts/): 642 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/martial-arts.jsonl)
-- [financial advisor](https://registry-edge.dingalinged.workers.dev/category/financial-advisor/): 642 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/financial-advisor.jsonl)
-- [therapist](https://registry-edge.dingalinged.workers.dev/category/therapist/): 633 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/therapist.jsonl)
-- [assisted living](https://registry-edge.dingalinged.workers.dev/category/assisted-living/): 572 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/assisted-living.jsonl)
-- [property management company](https://registry-edge.dingalinged.workers.dev/category/property-management-company/): 547 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/property-management-company.jsonl)
-- [dance studio](https://registry-edge.dingalinged.workers.dev/category/dance-studio/): 544 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dance-studio.jsonl)
-- [barber shop](https://registry-edge.dingalinged.workers.dev/category/barber-shop/): 539 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/barber-shop.jsonl)
-- [dog groomer](https://registry-edge.dingalinged.workers.dev/category/dog-groomer/): 491 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dog-groomer.jsonl)
-- [hvac repair](https://registry-edge.dingalinged.workers.dev/category/hvac-repair/): 475 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/hvac-repair.jsonl)
-- [it support](https://registry-edge.dingalinged.workers.dev/category/it-support/): 412 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/it-support.jsonl)
-- [yoga classes](https://registry-edge.dingalinged.workers.dev/category/yoga-classes/): 410 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/yoga-classes.jsonl)
-- [accountant](https://registry-edge.dingalinged.workers.dev/category/accountant/): 379 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/accountant.jsonl)
-- [staffing agency](https://registry-edge.dingalinged.workers.dev/category/staffing-agency/): 377 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/staffing-agency.jsonl)
-- [flooring companies](https://registry-edge.dingalinged.workers.dev/category/flooring-companies/): 369 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/flooring-companies.jsonl)
-- [roofer](https://registry-edge.dingalinged.workers.dev/category/roofer/): 368 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/roofer.jsonl)
-- [tailor](https://registry-edge.dingalinged.workers.dev/category/tailor/): 368 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tailor.jsonl)
-- [family doctor](https://registry-edge.dingalinged.workers.dev/category/family-doctor/): 352 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/family-doctor.jsonl)
-- [plumber](https://registry-edge.dingalinged.workers.dev/category/plumber/): 340 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/plumber.jsonl)
-- [dog boarding](https://registry-edge.dingalinged.workers.dev/category/dog-boarding/): 330 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dog-boarding.jsonl)
-- [tanning salon](https://registry-edge.dingalinged.workers.dev/category/tanning-salon/): 323 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tanning-salon.jsonl)
-- [marketing agency](https://registry-edge.dingalinged.workers.dev/category/marketing-agency/): 288 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/marketing-agency.jsonl)
-- [architect](https://registry-edge.dingalinged.workers.dev/category/architect/): 288 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/architect.jsonl)
-- [photographer](https://registry-edge.dingalinged.workers.dev/category/photographer/): 249 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/photographer.jsonl)
-- [facial](https://registry-edge.dingalinged.workers.dev/category/facial/): 236 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/facial.jsonl)
-- [coworking space](https://registry-edge.dingalinged.workers.dev/category/coworking-space/): 223 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/coworking-space.jsonl)
-- [pediatrician](https://registry-edge.dingalinged.workers.dev/category/pediatrician/): 211 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/pediatrician.jsonl)
-- [electrician](https://registry-edge.dingalinged.workers.dev/category/electrician/): 209 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/electrician.jsonl)
-- [music lessons](https://registry-edge.dingalinged.workers.dev/category/music-lessons/): 207 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/music-lessons.jsonl)
-- [waxing](https://registry-edge.dingalinged.workers.dev/category/waxing/): 204 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/waxing.jsonl)
-- [business consultant](https://registry-edge.dingalinged.workers.dev/category/business-consultant/): 197 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/business-consultant.jsonl)
-- [landscaping](https://registry-edge.dingalinged.workers.dev/category/landscaping/): 188 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/landscaping.jsonl)
-- [caterers](https://registry-edge.dingalinged.workers.dev/category/caterers/): 188 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/caterers.jsonl)
-- [phone repair](https://registry-edge.dingalinged.workers.dev/category/phone-repair/): 156 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/phone-repair.jsonl)
-- [spa](https://registry-edge.dingalinged.workers.dev/category/spa/): 152 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/spa.jsonl)
-- [locksmith](https://registry-edge.dingalinged.workers.dev/category/locksmith/): 147 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/locksmith.jsonl)
-- [dermatologist](https://registry-edge.dingalinged.workers.dev/category/dermatologist/): 144 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dermatologist.jsonl)
-- [shoe repair](https://registry-edge.dingalinged.workers.dev/category/shoe-repair/): 144 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/shoe-repair.jsonl)
-- [driving school](https://registry-edge.dingalinged.workers.dev/category/driving-school/): 139 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/driving-school.jsonl)
-- [window replacement](https://registry-edge.dingalinged.workers.dev/category/window-replacement/): 131 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/window-replacement.jsonl)
-- [pilates](https://registry-edge.dingalinged.workers.dev/category/pilates/): 127 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/pilates.jsonl)
-- [podiatrist](https://registry-edge.dingalinged.workers.dev/category/podiatrist/): 123 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/podiatrist.jsonl)
-- [movers](https://registry-edge.dingalinged.workers.dev/category/movers/): 122 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/movers.jsonl)
-- [plastic surgeon](https://registry-edge.dingalinged.workers.dev/category/plastic-surgeon/): 112 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/plastic-surgeon.jsonl)
-- [window repair](https://registry-edge.dingalinged.workers.dev/category/window-repair/): 108 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/window-repair.jsonl)
-- [painters](https://registry-edge.dingalinged.workers.dev/category/painters/): 101 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/painters.jsonl)
-- [urgent care](https://registry-edge.dingalinged.workers.dev/category/urgent-care/): 95 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/urgent-care.jsonl)
-- [orthopedic surgeon](https://registry-edge.dingalinged.workers.dev/category/orthopedic-surgeon/): 93 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/orthopedic-surgeon.jsonl)
-- [general contractor](https://registry-edge.dingalinged.workers.dev/category/general-contractor/): 85 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/general-contractor.jsonl)
-- [crossfit](https://registry-edge.dingalinged.workers.dev/category/crossfit/): 85 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/crossfit.jsonl)
-- [car inspection](https://registry-edge.dingalinged.workers.dev/category/car-inspection/): 80 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/car-inspection.jsonl)
-- [acupuncture](https://registry-edge.dingalinged.workers.dev/category/acupuncture/): 78 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/acupuncture.jsonl)
-- [ob gyn](https://registry-edge.dingalinged.workers.dev/category/ob-gyn/): 76 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/ob-gyn.jsonl)
-- [motorcycle repair](https://registry-edge.dingalinged.workers.dev/category/motorcycle-repair/): 70 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/motorcycle-repair.jsonl)
-- [graphic designer](https://registry-edge.dingalinged.workers.dev/category/graphic-designer/): 68 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/graphic-designer.jsonl)
-- [concrete contractor](https://registry-edge.dingalinged.workers.dev/category/concrete-contractor/): 61 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/concrete-contractor.jsonl)
-- [boutique](https://registry-edge.dingalinged.workers.dev/category/boutique/): 59 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/boutique.jsonl)
-- [allergist](https://registry-edge.dingalinged.workers.dev/category/allergist/): 41 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/allergist.jsonl)
-- [audiologist](https://registry-edge.dingalinged.workers.dev/category/audiologist/): 41 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/audiologist.jsonl)
-- [pest control](https://registry-edge.dingalinged.workers.dev/category/pest-control/): 37 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/pest-control.jsonl)
-- [occupational therapist](https://registry-edge.dingalinged.workers.dev/category/occupational-therapist/): 34 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/occupational-therapist.jsonl)
-- [piercing](https://registry-edge.dingalinged.workers.dev/category/piercing/): 24 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/piercing.jsonl)
-- [notary](https://registry-edge.dingalinged.workers.dev/category/notary/): 23 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/notary.jsonl)
-- [insulation contractor](https://registry-edge.dingalinged.workers.dev/category/insulation-contractor/): 18 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/insulation-contractor.jsonl)
-- [interior designer](https://registry-edge.dingalinged.workers.dev/category/interior-designer/): 16 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/interior-designer.jsonl)
-- [chimney sweep](https://registry-edge.dingalinged.workers.dev/category/chimney-sweep/): 13 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/chimney-sweep.jsonl)
-- [carpet installation](https://registry-edge.dingalinged.workers.dev/category/carpet-installation/): 12 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/carpet-installation.jsonl)
-- [tile installation](https://registry-edge.dingalinged.workers.dev/category/tile-installation/): 12 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/tile-installation.jsonl)
-- [drug rehab](https://registry-edge.dingalinged.workers.dev/category/drug-rehab/): 12 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/drug-rehab.jsonl)
-- [bridal shop](https://registry-edge.dingalinged.workers.dev/category/bridal-shop/): 11 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/bridal-shop.jsonl)
-- [computer repair](https://registry-edge.dingalinged.workers.dev/category/computer-repair/): 10 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/computer-repair.jsonl)
-- [driveway paving](https://registry-edge.dingalinged.workers.dev/category/driveway-paving/): 7 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/driveway-paving.jsonl)
-- [cabinet installation](https://registry-edge.dingalinged.workers.dev/category/cabinet-installation/): 6 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/cabinet-installation.jsonl)
-- [orthodontist](https://registry-edge.dingalinged.workers.dev/category/orthodontist/): 5 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/orthodontist.jsonl)
-- [appliance repair](https://registry-edge.dingalinged.workers.dev/category/appliance-repair/): 4 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/appliance-repair.jsonl)
-- [dietitian](https://registry-edge.dingalinged.workers.dev/category/dietitian/): 3 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/dietitian.jsonl)
-- [drywall repair](https://registry-edge.dingalinged.workers.dev/category/drywall-repair/): 3 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/drywall-repair.jsonl)
-- [lash extensions](https://registry-edge.dingalinged.workers.dev/category/lash-extensions/): 2 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/lash-extensions.jsonl)
-- [padel courts](https://registry-edge.dingalinged.workers.dev/category/padel-courts/): 1 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/padel-courts.jsonl)
-- [office supplies](https://registry-edge.dingalinged.workers.dev/category/office-supplies/): 1 businesses (https://registry-edge.dingalinged.workers.dev/dataset/category/office-supplies.jsonl)
+- [auto repair](https://registry-edge.dingalinged.workers.dev/category/auto-repair/): 8273 businesses
+- [hair salon](https://registry-edge.dingalinged.workers.dev/category/hair-salon/): 6650 businesses
+- [dentist](https://registry-edge.dingalinged.workers.dev/category/dentist/): 5096 businesses
+- [gym](https://registry-edge.dingalinged.workers.dev/category/gym/): 3608 businesses
+- [insurance agent](https://registry-edge.dingalinged.workers.dev/category/insurance-agent/): 3016 businesses
+- [car wash](https://registry-edge.dingalinged.workers.dev/category/car-wash/): 2928 businesses
+- [liquor store](https://registry-edge.dingalinged.workers.dev/category/liquor-store/): 2903 businesses
+- [nail salon](https://registry-edge.dingalinged.workers.dev/category/nail-salon/): 2675 businesses
+- [storage units](https://registry-edge.dingalinged.workers.dev/category/storage-units/): 2432 businesses
+- [furniture store](https://registry-edge.dingalinged.workers.dev/category/furniture-store/): 2123 businesses
+- [lawyer](https://registry-edge.dingalinged.workers.dev/category/lawyer/): 1996 businesses
+- [vet](https://registry-edge.dingalinged.workers.dev/category/vet/): 1894 businesses
+- [bakery](https://registry-edge.dingalinged.workers.dev/category/bakery/): 1863 businesses
+- [jewelry store](https://registry-edge.dingalinged.workers.dev/category/jewelry-store/): 1568 businesses
+- [real estate agent](https://registry-edge.dingalinged.workers.dev/category/real-estate-agent/): 1505 businesses
+- [pet store](https://registry-edge.dingalinged.workers.dev/category/pet-store/): 1447 businesses
+- [tire shop](https://registry-edge.dingalinged.workers.dev/category/tire-shop/): 1439 businesses
+- [thrift store](https://registry-edge.dingalinged.workers.dev/category/thrift-store/): 1428 businesses
+- [gift shop](https://registry-edge.dingalinged.workers.dev/category/gift-shop/): 1380 businesses
+- [dry cleaners](https://registry-edge.dingalinged.workers.dev/category/dry-cleaners/): 1362 businesses
+- [preschool](https://registry-edge.dingalinged.workers.dev/category/preschool/): 1282 businesses
+- [used cars for sale](https://registry-edge.dingalinged.workers.dev/category/used-cars-for-sale/): 1265 businesses
+- [event venues](https://registry-edge.dingalinged.workers.dev/category/event-venues/): 1258 businesses
+- [daycare](https://registry-edge.dingalinged.workers.dev/category/daycare/): 1230 businesses
+- [tax preparation](https://registry-edge.dingalinged.workers.dev/category/tax-preparation/): 1206 businesses
+- [printing services](https://registry-edge.dingalinged.workers.dev/category/printing-services/): 1188 businesses
+- [massage](https://registry-edge.dingalinged.workers.dev/category/massage/): 1132 businesses
+- [chiropractor](https://registry-edge.dingalinged.workers.dev/category/chiropractor/): 1115 businesses
+- [mattress store](https://registry-edge.dingalinged.workers.dev/category/mattress-store/): 829 businesses
+- [funeral home](https://registry-edge.dingalinged.workers.dev/category/funeral-home/): 807 businesses
+- [bike shop](https://registry-edge.dingalinged.workers.dev/category/bike-shop/): 785 businesses
+- [florist](https://registry-edge.dingalinged.workers.dev/category/florist/): 755 businesses
+- [tattoo shop](https://registry-edge.dingalinged.workers.dev/category/tattoo-shop/): 739 businesses
+- [physical therapy](https://registry-edge.dingalinged.workers.dev/category/physical-therapy/): 719 businesses
+- [eye doctor](https://registry-edge.dingalinged.workers.dev/category/eye-doctor/): 706 businesses
+- [martial arts](https://registry-edge.dingalinged.workers.dev/category/martial-arts/): 642 businesses
+- [financial advisor](https://registry-edge.dingalinged.workers.dev/category/financial-advisor/): 642 businesses
+- [therapist](https://registry-edge.dingalinged.workers.dev/category/therapist/): 633 businesses
+- [assisted living](https://registry-edge.dingalinged.workers.dev/category/assisted-living/): 572 businesses
+- [property management company](https://registry-edge.dingalinged.workers.dev/category/property-management-company/): 547 businesses
+- [dance studio](https://registry-edge.dingalinged.workers.dev/category/dance-studio/): 544 businesses
+- [barber shop](https://registry-edge.dingalinged.workers.dev/category/barber-shop/): 539 businesses
+- [dog groomer](https://registry-edge.dingalinged.workers.dev/category/dog-groomer/): 491 businesses
+- [hvac repair](https://registry-edge.dingalinged.workers.dev/category/hvac-repair/): 475 businesses
+- [it support](https://registry-edge.dingalinged.workers.dev/category/it-support/): 412 businesses
+- [yoga classes](https://registry-edge.dingalinged.workers.dev/category/yoga-classes/): 410 businesses
+- [accountant](https://registry-edge.dingalinged.workers.dev/category/accountant/): 379 businesses
+- [staffing agency](https://registry-edge.dingalinged.workers.dev/category/staffing-agency/): 377 businesses
+- [flooring companies](https://registry-edge.dingalinged.workers.dev/category/flooring-companies/): 369 businesses
+- [roofer](https://registry-edge.dingalinged.workers.dev/category/roofer/): 368 businesses
+- [tailor](https://registry-edge.dingalinged.workers.dev/category/tailor/): 368 businesses
+- [family doctor](https://registry-edge.dingalinged.workers.dev/category/family-doctor/): 352 businesses
+- [plumber](https://registry-edge.dingalinged.workers.dev/category/plumber/): 340 businesses
+- [dog boarding](https://registry-edge.dingalinged.workers.dev/category/dog-boarding/): 330 businesses
+- [tanning salon](https://registry-edge.dingalinged.workers.dev/category/tanning-salon/): 323 businesses
+- [marketing agency](https://registry-edge.dingalinged.workers.dev/category/marketing-agency/): 288 businesses
+- [architect](https://registry-edge.dingalinged.workers.dev/category/architect/): 288 businesses
+- [photographer](https://registry-edge.dingalinged.workers.dev/category/photographer/): 249 businesses
+- [facial](https://registry-edge.dingalinged.workers.dev/category/facial/): 236 businesses
+- [coworking space](https://registry-edge.dingalinged.workers.dev/category/coworking-space/): 223 businesses
+- [pediatrician](https://registry-edge.dingalinged.workers.dev/category/pediatrician/): 211 businesses
+- [electrician](https://registry-edge.dingalinged.workers.dev/category/electrician/): 209 businesses
+- [music lessons](https://registry-edge.dingalinged.workers.dev/category/music-lessons/): 207 businesses
+- [waxing](https://registry-edge.dingalinged.workers.dev/category/waxing/): 204 businesses
+- [business consultant](https://registry-edge.dingalinged.workers.dev/category/business-consultant/): 197 businesses
+- [landscaping](https://registry-edge.dingalinged.workers.dev/category/landscaping/): 188 businesses
+- [caterers](https://registry-edge.dingalinged.workers.dev/category/caterers/): 188 businesses
+- [phone repair](https://registry-edge.dingalinged.workers.dev/category/phone-repair/): 156 businesses
+- [spa](https://registry-edge.dingalinged.workers.dev/category/spa/): 152 businesses
+- [locksmith](https://registry-edge.dingalinged.workers.dev/category/locksmith/): 147 businesses
+- [dermatologist](https://registry-edge.dingalinged.workers.dev/category/dermatologist/): 144 businesses
+- [shoe repair](https://registry-edge.dingalinged.workers.dev/category/shoe-repair/): 144 businesses
+- [driving school](https://registry-edge.dingalinged.workers.dev/category/driving-school/): 139 businesses
+- [window replacement](https://registry-edge.dingalinged.workers.dev/category/window-replacement/): 131 businesses
+- [pilates](https://registry-edge.dingalinged.workers.dev/category/pilates/): 127 businesses
+- [podiatrist](https://registry-edge.dingalinged.workers.dev/category/podiatrist/): 123 businesses
+- [movers](https://registry-edge.dingalinged.workers.dev/category/movers/): 122 businesses
+- [plastic surgeon](https://registry-edge.dingalinged.workers.dev/category/plastic-surgeon/): 112 businesses
+- [window repair](https://registry-edge.dingalinged.workers.dev/category/window-repair/): 108 businesses
+- [painters](https://registry-edge.dingalinged.workers.dev/category/painters/): 101 businesses
+- [urgent care](https://registry-edge.dingalinged.workers.dev/category/urgent-care/): 95 businesses
+- [orthopedic surgeon](https://registry-edge.dingalinged.workers.dev/category/orthopedic-surgeon/): 93 businesses
+- [general contractor](https://registry-edge.dingalinged.workers.dev/category/general-contractor/): 85 businesses
+- [crossfit](https://registry-edge.dingalinged.workers.dev/category/crossfit/): 85 businesses
+- [car inspection](https://registry-edge.dingalinged.workers.dev/category/car-inspection/): 80 businesses
+- [acupuncture](https://registry-edge.dingalinged.workers.dev/category/acupuncture/): 78 businesses
+- [ob gyn](https://registry-edge.dingalinged.workers.dev/category/ob-gyn/): 76 businesses
+- [motorcycle repair](https://registry-edge.dingalinged.workers.dev/category/motorcycle-repair/): 70 businesses
+- [graphic designer](https://registry-edge.dingalinged.workers.dev/category/graphic-designer/): 68 businesses
+- [concrete contractor](https://registry-edge.dingalinged.workers.dev/category/concrete-contractor/): 61 businesses
+- [boutique](https://registry-edge.dingalinged.workers.dev/category/boutique/): 59 businesses
+- [allergist](https://registry-edge.dingalinged.workers.dev/category/allergist/): 41 businesses
+- [audiologist](https://registry-edge.dingalinged.workers.dev/category/audiologist/): 41 businesses
+- [pest control](https://registry-edge.dingalinged.workers.dev/category/pest-control/): 37 businesses
+- [occupational therapist](https://registry-edge.dingalinged.workers.dev/category/occupational-therapist/): 34 businesses
+- [piercing](https://registry-edge.dingalinged.workers.dev/category/piercing/): 24 businesses
+- [notary](https://registry-edge.dingalinged.workers.dev/category/notary/): 23 businesses
+- [insulation contractor](https://registry-edge.dingalinged.workers.dev/category/insulation-contractor/): 18 businesses
+- [interior designer](https://registry-edge.dingalinged.workers.dev/category/interior-designer/): 16 businesses
+- [chimney sweep](https://registry-edge.dingalinged.workers.dev/category/chimney-sweep/): 13 businesses
+- [carpet installation](https://registry-edge.dingalinged.workers.dev/category/carpet-installation/): 12 businesses
+- [tile installation](https://registry-edge.dingalinged.workers.dev/category/tile-installation/): 12 businesses
+- [drug rehab](https://registry-edge.dingalinged.workers.dev/category/drug-rehab/): 12 businesses
+- [bridal shop](https://registry-edge.dingalinged.workers.dev/category/bridal-shop/): 11 businesses
+- [computer repair](https://registry-edge.dingalinged.workers.dev/category/computer-repair/): 10 businesses
+- [driveway paving](https://registry-edge.dingalinged.workers.dev/category/driveway-paving/): 7 businesses
+- [cabinet installation](https://registry-edge.dingalinged.workers.dev/category/cabinet-installation/): 6 businesses
+- [orthodontist](https://registry-edge.dingalinged.workers.dev/category/orthodontist/): 5 businesses
+- [appliance repair](https://registry-edge.dingalinged.workers.dev/category/appliance-repair/): 4 businesses
+- [dietitian](https://registry-edge.dingalinged.workers.dev/category/dietitian/): 3 businesses
+- [drywall repair](https://registry-edge.dingalinged.workers.dev/category/drywall-repair/): 3 businesses
+- [lash extensions](https://registry-edge.dingalinged.workers.dev/category/lash-extensions/): 2 businesses
+- [padel courts](https://registry-edge.dingalinged.workers.dev/category/padel-courts/): 1 businesses
+- [office supplies](https://registry-edge.dingalinged.workers.dev/category/office-supplies/): 1 businesses
 </pre><footer><p>Data © OpenStreetMap contributors, ODbL - <a href="https://www.openstreetmap.org/copyright">openstreetmap.org/copyright</a>. Listings are not verified unless marked; businesses can claim and correct their record.</p></footer></body></html>
