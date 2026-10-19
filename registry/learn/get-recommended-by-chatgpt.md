@@ -9,11 +9,13 @@ cluster: C03
 direct_answer_words: 53
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How to get your business recommended by ChatGPT: a free, honest checklist
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Make your business easy for ChatGPT to find, read and trust. Allow OpenAI's crawlers, keep your name, address, phone and hours identical on every listing, collect reviews on several sites, and state your services, area and prices plainly on your website. There is no submit button and no paid shortcut to the answer.
 

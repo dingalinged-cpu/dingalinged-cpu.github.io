@@ -9,11 +9,13 @@ cluster: C22
 direct_answer_words: 51
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # Where to list your business so AI can find it: Google, Bing, Apple, directories and agent registries compared
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Start with the listings assistants already read: Google Business Profile for Google's AI, Bing Places for Microsoft Copilot, and Apple Business Connect for Apple Maps. Then cover the major directories in your category, and add agent-readable registries that publish structured data. All are free to claim; consistency across them matters most.
 

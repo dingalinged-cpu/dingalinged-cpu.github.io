@@ -9,11 +9,13 @@ cluster: C16
 direct_answer_words: 52
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How AI agents find businesses (and what they read when they do)
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Most AI assistants turn a request into a short web search, read the top listings, directories and business websites, then cross-check the facts before naming two to four businesses. Agents favor sources that are crawlable, current, consistent and structured, so a business with matching facts across many sources is easier to pick.
 

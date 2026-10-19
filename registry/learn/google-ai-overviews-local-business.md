@@ -9,11 +9,13 @@ cluster: C11
 direct_answer_words: 49
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How a local business gets into Google AI Overviews and AI Mode
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Google says there is no special setup for AI Overviews or AI Mode. Your page must be indexed and eligible to show a snippet, and normal SEO applies. For local businesses, a complete Google Business Profile, steady reviews and pages that directly answer customer questions are the strongest levers.
 

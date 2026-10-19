@@ -9,11 +9,13 @@ cluster: C08/C09
 direct_answer_words: 49
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How to check whether AI recommends your business (free method)
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Write down ten questions customers actually ask, such as "plumber in Omaha" or "best dentist near 64111". Ask each one in ChatGPT, Gemini, Copilot and Perplexity, logged out where possible, and note whether you are named and which sources are cited. Repeat weekly, because AI answers change between runs.
 

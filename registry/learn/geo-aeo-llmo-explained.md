@@ -9,11 +9,13 @@ cluster: C05/C06/C07/C10
 direct_answer_words: 49
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # GEO, AEO, LLMO and AI SEO: what the terms mean for a local business
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** GEO (generative engine optimization), AEO (answer engine optimization), LLMO (LLM optimization) and AI SEO are overlapping names for one goal: getting your business named and cited in AI answers from ChatGPT, Gemini, Copilot, Perplexity and Google's AI results. The groundwork is ordinary SEO plus consistent facts across many sources.
 

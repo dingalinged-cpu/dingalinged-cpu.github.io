@@ -9,11 +9,13 @@ cluster: C13/C15/C16
 direct_answer_words: 51
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # Where ChatGPT, Gemini, Copilot, Perplexity and Claude get business information
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Each assistant leans on a different search backbone. Google's Gemini, AI Overviews and AI Mode use Google's index and Business Profiles. Microsoft Copilot uses Bing and Bing Places. ChatGPT and Perplexity run their own web searches. Claude also searches the web. Accurate listings and a crawlable website cover all of them.
 

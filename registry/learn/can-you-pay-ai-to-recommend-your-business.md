@@ -9,11 +9,13 @@ cluster: C19
 direct_answer_words: 51
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # Can you pay ChatGPT (or any AI) to recommend your business?
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** No. You can buy ads in ChatGPT and Microsoft Copilot, but they are labeled as sponsored and shown apart from the answer. OpenAI says ads do not influence what ChatGPT recommends. The businesses an assistant names come from public information it trusts, so anyone selling a guaranteed AI recommendation is overpromising.
 

@@ -9,11 +9,13 @@ cluster: C12
 direct_answer_words: 53
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How to get your business cited by Perplexity
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Perplexity has no form for adding a business. It searches the web live and cites pages it can fetch and trust. Allow PerplexityBot in robots.txt, answer common customer questions in the first sentence of a page, keep listings consistent, and earn genuine mentions in community discussions and local press that Perplexity often cites.
 

@@ -9,11 +9,13 @@ cluster: C01
 direct_answer_words: 52
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How to advertise to AI: every way a business can reach ChatGPT, Gemini, Copilot, Perplexity and AI agents (2026)
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** You can reach customers through AI in two ways. Pay for labeled ads where an assistant sells them (ChatGPT, Microsoft Copilot, and Google's AI results). Or earn recommendations, which no one can buy: keep your listings accurate everywhere, collect reviews, publish clear facts on your website, and put them in agent-readable sources.
 

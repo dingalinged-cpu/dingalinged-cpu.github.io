@@ -1,5 +1,7 @@
 # Company Registry guides for businesses
 
+*By Bryce Hoemann · Published October 18, 2026*
+
 > A machine-readable registry of US businesses that AI assistants and agents can read, plus plain guides on how businesses reach customers through AI: paid AI ads versus earned recommendations.
 
 - [How to advertise to AI: every way a business can reach ChatGPT, Gemini, Copilot, Perplexity and AI agents (2026)](https://registry-edge.dingalinged.workers.dev/learn/how-to-advertise-to-ai/): overview of paid AI ads (ChatGPT, Copilot, Google AI) vs earned AI recommendations, and what a local business can do for free (markdown: https://registry-edge.dingalinged.workers.dev/learn/how-to-advertise-to-ai.md)

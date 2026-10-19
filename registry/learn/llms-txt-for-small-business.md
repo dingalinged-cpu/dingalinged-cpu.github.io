@@ -9,11 +9,13 @@ cluster: C20
 direct_answer_words: 54
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # Does llms.txt help a small business show up in AI? What the evidence says
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Probably not much. llms.txt is a proposed file that points AI models to your key pages, but studies of hundreds of thousands of sites found AI crawlers rarely fetch it, and Google says its AI features don't use it. A small business gets more from allowing AI crawlers, a current sitemap, and accurate listings.
 

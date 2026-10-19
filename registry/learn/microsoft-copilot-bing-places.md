@@ -9,11 +9,13 @@ cluster: C14
 direct_answer_words: 49
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # How to get your business into Microsoft Copilot answers (Bing Places, Bing Webmaster Tools, IndexNow)
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Microsoft Copilot answers from Bing search results, so start with Bing. Claim your free Bing Places for Business listing, verify your website in Bing Webmaster Tools, and use IndexNow so Bing hears about new or changed pages quickly. Ads in Copilot are sold separately through Microsoft Advertising and labeled.
 

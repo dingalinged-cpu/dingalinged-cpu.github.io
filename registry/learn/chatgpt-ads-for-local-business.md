@@ -9,11 +9,13 @@ cluster: C02
 direct_answer_words: 52
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # ChatGPT ads for a local business: how they work and when they are worth it (2026)
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** ChatGPT ads are labeled sponsored placements shown to logged-in adults on ChatGPT's Free and Go plans. Businesses buy them at ads.openai.com, now self-serve. They appear beside the answer and, per OpenAI, never change it. A local business should fix its listings and reviews first, since most AI recommendations are earned, not bought.
 

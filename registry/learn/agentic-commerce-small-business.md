@@ -9,11 +9,13 @@ cluster: C18
 direct_answer_words: 55
 date_modified: 2026-10-18
 status: published
+author: Bryce Hoemann
+date_published: 2026-10-18
 ---
 
 # Agentic commerce for small and local businesses: what it is and how to get ready
 
-*Updated October 18, 2026*
+*By Bryce Hoemann · Published October 18, 2026*
 
 **Short answer:** Agentic commerce is AI agents finding, comparing and sometimes buying on a customer's behalf. For a local or service business, the first step is not a checkout integration. It is being legible to agents: accurate, structured facts about services, prices, hours and area, published where agents read, plus a clear way to book or call.
 
